@@ -1,49 +1,94 @@
 require 'open-uri'
 require 'nokogiri'
+require 'pry'
 
-URL = ENV['XML'] || "https://github.com/holderdeord/hdo-folketingparser/raw/master/rawdata/forslag-vedtak-2009-2011/forslag-ikke-verifiserte-2010-2011.xml"
+PROPOSITION_URL = ENV['PROPOSITION_XML'] || "https://raw.github.com/holderdeord/hdo-folketingparser/master/rawdata/forslag-vedtak-2009-2011/forslag-ikke-verifiserte-2010-2011.xml"
+DECISION_URL    = ENV['DECISION_XML']    || "https://raw.github.com/holderdeord/hdo-folketingparser/master/rawdata/forslag-vedtak-2009-2011/vedtak-2009-2010.xml"
 
 task :env do
   require File.expand_path("../db", __FILE__)
 end
 
-task :import => :env do
-  puts "downloading.."
-  data = Nokogiri.XML(open(URL))
+namespace :import do
+  task :propositions => :env do
+    puts "downloading propositions.."
+    data = Nokogiri.XML(open(PROPOSITION_URL))
 
-  puts "importing..."
-  data.css("IkkeKvalSikreteForslag").each do |node|
-    puts node
+    puts "importing propositions..."
+    data.css("IkkeKvalSikreteForslag").each do |node|
+      fbt = node.css("Forslagsbetegnelse").first
+      fst = node.css("ForslagTekst").first
 
-    fbt = node.css("Forslagsbetegnelse").first
-    fst = node.css("ForslagTekst").first
+      Proposition.create!(
+        :mote_kartnr        => Integer(node.css("MoteKartNr").first.inner_text),
+        :dagsorden_saksnr   => Integer(node.css("DagsordenSaksNr").first.inner_text),
+        :voteringstidspunkt => Time.parse(node.css("VoteringsTidspunkt").first.inner_text),
+        :forslagsbetegnelse => fbt && fbt.inner_text,
+        :forslagstekst      => fst && fst.inner_text
+      )
+    end
+  end
 
-    Proposition.create!(
-      :mote_kart_nr        => Integer(node.css("MoteKartNr").first.inner_text),
-      :dagsorden_saks_nr   => Integer(node.css("DagsordenSaksNr").first.inner_text),
-      :voterings_tidspunkt => Time.parse(node.css("VoteringsTidspunkt").first.inner_text),
-      :forslags_betegnelse => fbt && fbt.inner_text,
-      :forslags_tekst      => fst && fst.inner_text
-    )
+  task :decisions => :env do
+    puts "downloading decisions.."
+    data = Nokogiri.XML(open(DECISION_URL))
+
+    puts "importing decisions..."
+    data.css("Vedtak").each do |node|
+      fbt = node.css("Forslagsbetegnelse").first
+      fst = node.css("Vedtakstekst").first
+      pva = node.css("PaaVegneAv").first
+
+      Decision.create!(
+        :kartnr             => Integer(node.css("KartNr").first.inner_text),
+        :saksnr             => Integer(node.css("SaksNr").first.inner_text),
+        :forslagsbetegnelse => fbt && fbt.inner_text,
+        :vedtakstekst       => fst && fst.inner_text,
+        :on_behalf_of       => pva && pva.inner_text
+      )
+    end
   end
 end
 
+task :import => %w(import:propositions import:decisions)
+
 namespace :db do
   task :create => :env do
-    Proposition.connection.execute <<-SQL
+    ActiveRecord::Base.connection.execute <<-SQL
       CREATE TABLE propositions (
-          id                  serial PRIMARY KEY,
-          mote_kart_nr        integer NOT NULL,
-          dagsorden_saks_nr   integer NOT NULL,
-          voterings_tidspunkt timestamp NOT NULL,
-          forslags_betegnelse text,
-          forslags_tekst      text
+          id                 serial PRIMARY KEY,
+          mote_kartnr        integer NOT NULL,
+          dagsorden_saksnr   integer NOT NULL,
+          voteringstidspunkt timestamp NOT NULL,
+          forslagsbetegnelse text,
+          forslagstekst      text
+      );
+
+      CREATE TABLE decisions (
+          id                 serial PRIMARY KEY,
+          kartnr             integer NOT NULL,
+          saksnr             integer NOT NULL,
+          forslagsbetegnelse text,
+          vedtakstekst       text,
+          on_behalf_of       character varying(255)
       );
     SQL
   end
 
   task :drop => :env do
-    Proposition.connection.drop_table Proposition.table_name
+    connection = ActiveRecord::Base.connection
+
+    begin
+      connection.drop_table Proposition.table_name
+    rescue => ex
+      p [ex.class, ex.message]
+    end
+
+    begin
+      connection.drop_table Decision.table_name
+    rescue => ex
+      p [ex.class, ex.message]
+    end
   end
 
   task :reset => %w[drop create]

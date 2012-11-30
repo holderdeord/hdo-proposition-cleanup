@@ -1,0 +1,23 @@
+<table class="table table-condensed">
+  <thead>
+    <tr>
+      <th>Voteringstidspunkt</th>
+      <th>Møtekartnummer</th>
+      <th>Dagsordensaknummer</th>
+      <th>Forslagsbetegnelse</th>
+      <th>Forslagstekst</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @propositions.each do |prop| %>
+      <tr class="proposition">
+        <td><%= prop.voteringstidspunkt.strftime("%Y-%m-%d %H:%M:%S") %></td>
+        <td><%= prop.mote_kartnr %></td>
+        <td><%= prop.dagsorden_saksnr %></td>
+        <td><%= prop.forslagsbetegnelse %></td>
+        <td><%= prop.teaser %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
