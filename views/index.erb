@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all" charset="utf-8">
+    <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" type="text/css" media="all" charset="utf-8">
+    <link rel="stylesheet" href="/css/app.css" type="text/css" media="all" charset="utf-8">
+  </head>
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/">Forslag / Vedtak</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active">
+                <a href="/">Forslag 2010-2011</a>
+              </li>
+              <li class="">
+                <a href="/">Vedtak 2009-2010</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <table class="table table-condensed">
+        <thead>
+          <tr>
+            <th>Voteringstidspunkt</th>
+            <th>Møtekartnummer</th>
+            <th>Dagsordersaknummer</th>
+            <th>Forslagsbetegnelse</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <% @propositions.each do |prop| %>
+            <tr>
+              <td><%= prop.voterings_tidspunkt.strftime("%Y-%m-%d %H:%M:%S") %></td>
+              <td><%= prop.mote_kart_nr %></td>
+              <td><%= prop.dagsorden_saks_nr %></td>
+              <td><%= prop.forslags_betegnelse %></td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+
+    <script src="/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+  </body>
+</html>
