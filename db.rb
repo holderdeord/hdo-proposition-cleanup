@@ -2,7 +2,7 @@ require 'uri'
 require 'active_record'
 require 'logger'
 
-ActiveRecord::Base.establish_connection ENV['DATABASE_URL'] || "postgres://hdo:@localhost/hdo_proposition_cleaner"
+ActiveRecord::Base.establish_connection ENV['DATABASE_URL'] || "postgres://hdo:@localhost/hdo_proposition_cleanup"
 ActiveRecord::Base.logger = Logger.new(STDOUT)
 
 class Proposition < ActiveRecord::Base
