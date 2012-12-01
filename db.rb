@@ -6,6 +6,8 @@ ActiveRecord::Base.establish_connection ENV['DATABASE_URL'] || "postgres://hdo:@
 ActiveRecord::Base.logger = Logger.new(STDOUT)
 
 class Proposition < ActiveRecord::Base
+  MINUTES = "http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/%s/%s"
+
   attr_accessible :mote_kartnr,
                   :dagsorden_saksnr,
                   :voteringstidspunkt,
@@ -14,6 +16,10 @@ class Proposition < ActiveRecord::Base
 
   def teaser
     Nokogiri.HTML(forslagstekst).inner_text.truncate(50)
+  end
+
+  def minutes_url
+    MINUTES % ['2010-2011', voteringstidspunkt.strftime("%y%m%d")]
   end
 end
 
