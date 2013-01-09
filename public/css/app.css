@@ -13,3 +13,6 @@ body {
   background-color: #F2DEDE;
   border-color: #EED3D7;
 }
+
+.proposition-status-approved { color: green; }
+.proposition-status-rejected { color: red; }

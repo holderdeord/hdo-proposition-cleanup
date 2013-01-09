@@ -1,37 +1,45 @@
-<div ng-controller="SidebarController" class="row-fluid">
-  <div class="span3">
-    <div class="well sidebar-nav">
-      <ul class="nav nav-list">
-        <li ng-repeat='link in links' ng-controller="DateController">
-          <a ng-click="openDate()">{{link}}</a>
-        </li>
-      </ul>
-    </div>
-  </div>
+<!doctype html>
+<html ng-app>
+  <head>
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap-responsive.min.css" type="text/css">
+    <link rel="stylesheet" href="css/app.css" type="text/css">
 
-  <div class="span6">
-    <div ng-repeat='vote in votes'>
-      <div class="row-fluid">
-        <h3>{{vote.subject}}</h3>
-        <h4 class="muted">Votering {{$index + 1}}/{{votes.length}}</h4>
-        <div class="">Vedtatt: <span class="enacted-{{vote.enacted}}"><i class="icon-thumbs-{{directionFor(vote.enacted)}}"></i></span></div>
-      </div>
+    <script src="js/lib/lodash.min.js"></script>
+    <script src="js/lib/angular.min.js"></script>
+    <script src="js/app.js"></script>
+  </head>
 
-      <hr>
+  <body>
 
-      <div class="row-fluid">
-        <div ng-repeat="prop in vote.propositions">
-          <h5 class="muted">Forslag {{$index + 1}}/{{vote.propositions.length}}</h5>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="brand" href="/">Forslagsvask</a>
+            <p class="navbar-text pull-right"><%= session[:username] %></p>
 
-          <form class="pull-right">
-            <input type="button" class="btn btn-success" value="Godkjenn" disabled>
-            <input type="button" class="btn btn-danger" value="Avvis" disabled>
-          </form>
-
-          <div class="well" ng-bind-html-unsafe="prop.body"></div>
-          <hr>
+            <ul class="nav">
+              <!-- <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li> -->
+            </ul>
         </div>
       </div>
     </div>
-  </div>
-</div>
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="progress" ng-controller="ProgressController">
+          <div class="bar bar-success" style="width: {{stats.good}}%"></div>
+          <div class="bar bar-danger" style="width: {{stats.bad}}%"></div>
+
+          <span class="pull-right">{{stats.processed}} / {{stats.total}}</span>
+        </div>
+      </div>
+
+      <%= erb :content %>
+    </div>
+
+  </body>
+</html>
+
