@@ -3,29 +3,24 @@ require 'pry'
 require 'json'
 require 'pp'
 require 'time'
+require 'mongo'
 
 class Database
-  attr_reader :votes, :representatives
-
   def initialize
-    @representatives, @votes = [], []
+    database = 'proposition-cleanup'
 
-    JSON.parse(File.read(File.expand_path('../votes-2010-2011.min.json', __FILE__))).each do |data|
-      case data['kind']
-      when 'hdo#representative'
-        @representatives << data
-      when 'hdo#vote'
-        @votes << data
-      else
-        puts "unknown kind: #{data['kind']}"
-      end
+    if ENV['VCAP_SERVICES']
+      config   = JSON.parse(ENV['VCAP_SERVICES']).first.fetch('credentials')
+      database = config['db']
+      ENV['MONGODB_URI'] = "mongodb://#{config['username']}:#{config['password']}@#{config['hostname']}:#{config['port']}"
     end
 
-    @votes = @votes.sort_by { |e| Time.parse(e['time']) }
+    @conn  = Mongo::MongoClient.new
+    @votes = @conn.db(database).collection('votes')
   end
 
   def timestamps
-    @timestamps ||= @votes.map { |e| Time.parse(e['time']) }.uniq
+    @timestamps ||= @votes.distinct('time').to_a.sort.uniq.map { |e| e.localtime }
   end
 
   def dates
@@ -33,38 +28,43 @@ class Database
   end
 
   def timestamps_for(date)
-    (@votes_by_date ||= @votes.group_by { |t| Time.parse(t['time']).strftime("%Y-%m-%d") })
-    @votes_by_date[date].map do |e|
-      {:time => e['time'], :subject => e['subject']}
-    end
+    date = Date.parse(date)
+    @votes.find(:time => {:$gte => date.to_time, :$lte => (date + 1).to_time}).map do |e|
+      {
+        :time => e['time'],
+        :subject => e['subject']
+      }
+    end.sort_by { |e| e[:time] }
   end
 
   def votes_at(timestamp)
-    t = Time.parse(timestamp)
-    @votes.select { |e| Time.parse(e['time']) == t }
+    @votes.find(:time => Time.parse(timestamp)).to_a
+  end
+
+  def save_votes(votes)
+    votes.each do |vote|
+      existing = @votes.find_one(:externalId => vote['externalId']) or halt 404
+      existing.merge!(vote.merge('time' => Time.parse(vote['time'])))
+
+      @votes.save(existing)
+    end
+
+    votes
   end
 
   def stats
-    all = propositions
-
-    processed = all.select { |prop| prop['metadata'] && prop['metadata']['status'] }
-    good      = processed.select { |prop| prop['metadata']['status'] == 'approved' }
-    bad       = processed.select { |prop| prop['metadata']['status'] == 'rejected' }
+    good = @votes.find("propositions.metadata.status" => 'approved').count
+    bad  = @votes.find("propositions.metadata.status" => 'rejected').count
 
     stats = {
-      :good      => good.size * 100 / all.size,
-      :bad       => bad.size * 100 / all.size,
-      :processed => processed.size * 100 / all.size,
-      :total     => all.size
+      :good      => good,
+      :bad       => bad,
+      :processed => good + bad,
+      :total     => @votes.count
     }
 
     stats
   end
-
-  def propositions
-    @votes.flat_map { |e| e['propositions'] }
-  end
-
 end
 
 DB = Database.new
@@ -105,4 +105,13 @@ end
 
 get '/votes/:timestamp' do |ts|
   DB.votes_at(ts).to_json
+end
+
+post '/votes/' do
+  votes = JSON.parse(request.body.read)
+  DB.save_votes(votes).to_json
+end
+
+get '/env' do
+  ENV.to_hash.to_json
 end

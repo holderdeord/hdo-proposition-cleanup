@@ -7,12 +7,20 @@
         </select>
       </label>
 
-      <p>Referat: <a href="{{minutesUrl}}">{{selectedDate}}</a></p>
-      
       <ul class="nav nav-list">
-        <li ng-repeat='vote in voteList' ng-controller="DateController">
-          {{parseDate(vote.time) | date:'HH:mm:ss'}}
-          <a ng-click="openVote()">{{vote.subject}}</a>
+        <li class="nav-header">Lenker</li>
+        <li ng-repeat="link in links">
+          <a href="{{link.href}}" target="_blank">{{link.title}}</a>
+        </li>
+      </ul>
+
+      <ul class="nav nav-list">
+        <li class="nav-header">Voteringer</li>
+        <li class="active" ng-repeat='vote in voteList' ng-controller="DateController">
+          <p>
+            <small>{{parseDate(vote.time) | date:'HH:mm:ss'}}</small>
+            <a ng-click="openVote()">{{vote.subject}}</a>
+          </p>
         </li>
       </ul>
     </div>
@@ -45,13 +53,13 @@
                 <strong>Status:</strong> <span class="proposition-status-{{prop.metadata.status}}">{{statusText(prop.metadata.status)}}</span>
                 <pre style="border: 0">{{prop.metadata.reason}}</pre>
               </p>
-              
+
               <input type="button" class="btn btn-small btn-success" ng-click="approve()" value="Godkjenn">
               <input type="button" class="btn btn-small btn-danger" ng-click="reject()" value="Avvis">
               <input type="button" class="btn btn-small btn-info" ng-click="clear()" value="Nullstill">
             </form>
           </div>
-          
+
           <div class="row-fluid" ng-bind-html-unsafe="prop.body"></div>
         </div>
       </div>

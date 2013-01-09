@@ -30,8 +30,8 @@
     <div class="container-fluid">
       <div class="row-fluid">
         <div class="progress" ng-controller="ProgressController">
-          <div class="bar bar-success" style="width: {{stats.good}}%"></div>
-          <div class="bar bar-danger" style="width: {{stats.bad}}%"></div>
+          <div class="bar bar-success" style="width: {{percentage(stats.good, stats.total)}}%"></div>
+          <div class="bar bar-danger" style="width: {{percentage(stats.bad, stats.total)}}%"></div>
 
           <span class="pull-right">{{stats.processed}} / {{stats.total}}</span>
         </div>

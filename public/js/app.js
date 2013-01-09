@@ -12,7 +12,9 @@ function SidebarController ($scope, $http, $filter) {
 
     if ($scope.selectedDate) {
       var dateString = $filter('date')(Date.parse($scope.selectedDate), 'yyMMdd');
-      $scope.minutesUrl = 'http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/' + dateString;
+      $scope.links = [
+        {href: 'http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/' + dateString, title: 'Referat'}
+      ]
       $scope.fetchTimestamps($scope.selectedDate);
     }
   });
@@ -47,6 +49,16 @@ function SidebarController ($scope, $http, $filter) {
       });
   };
 
+  $scope.saveVotes = function() {
+    $http({method: 'POST', url: '/votes/', data: $scope.votes}).
+      success(function(data, status, headers, config) {
+        $scope.votes = data;
+      }).
+      error(function(data, status, headers, config) {
+        alert(data);
+      });
+  };
+
   $scope.textFor = function(bool) {
     return {true: 'Ja', false: 'Nei'}[bool];
   };
@@ -55,11 +67,15 @@ function SidebarController ($scope, $http, $filter) {
     return new Date(str);
   };
 
+  $scope.activeVote = null;
+  $scope.activeState = function() {};
+
   $scope.fetchDates();
 };
 
 function DateController ($scope) {
   $scope.openVote = function() {
+    debugger
     $scope.fetchVotes($scope.vote.time);
   }
 }
@@ -70,7 +86,7 @@ function PropositionController ($scope) {
     $scope.prop.metadata = $scope.prop.metadata || {};
     $scope.prop.metadata.status = 'approved';
 
-    // $scope.$emit('incrementProgress', true);
+    $scope.saveVotes();
   };
 
   $scope.reject = function() {
@@ -79,13 +95,14 @@ function PropositionController ($scope) {
     $scope.prop.metadata.reason = window.prompt('Hva er galt?')
     $scope.prop.metadata.status = 'rejected';
 
-    // $scope.$emit('incrementProgress', false);
+    $scope.saveVotes();
   };
 
   $scope.clear = function() {
     console.log("clear: ", $scope.prop);
-    // $scope.$emit('decrementProgress', $scope.prop.metadata.approved);
     $scope.prop.metadata = {};
+
+    $scope.saveVotes();
   };
 
   $scope.statusText = function(status) {
@@ -100,32 +117,16 @@ function ProgressController ($scope, $http) {
   this.scope = $scope;
   this.http  = $http;
 
+  $scope.percentage = function(a, b) {
+    return a * 100 / b;
+  };
+
   this.update();
 
   var controller = this;
   setInterval(function() {
     $scope.$apply(controller.update.bind(controller));
   }, 5000)
-
-  // $scope.$on('incrementProgress', function(approved) {
-  //   console.log('fired incrementProgress')
-  //   $scope.stats.processed++;
-  //   if (approved) {
-  //     $scope.stats.good++;
-  //   } else {
-  //     $scope.stats.bad++;
-  //   }
-  // })
-  //
-  // $scope.$on('decrementProgress', function(approved) {
-  //   console.log('fired decrementProgress')
-  //   $scope.stats.processed--;
-  //   if (approved) {
-  //     $scope.stats.good--;
-  //   } else {
-  //     $scope.stats.bad--;
-  //   }
-  // })
 }
 
 ProgressController.prototype.update = function() {
@@ -133,6 +134,7 @@ ProgressController.prototype.update = function() {
 
   this.http({method: 'GET', url: '/stats'}).
     success(function(data, status, headers, config) {
+      console.log(scope);
       scope.stats = data;
     }).
     error(function(data, status, headers, config) {

@@ -1,0 +1,17 @@
+---
+applications:
+  .:
+    name: hdo-vask
+    framework:
+      name: rack
+      info:
+        mem: 128M
+        description: Rack Application
+        exec:
+    infra: eu-aws
+    url: ${name}.${target-base}
+    mem: 128M
+    instances: 6
+    services:
+      mongodb:
+        type: mongodb
