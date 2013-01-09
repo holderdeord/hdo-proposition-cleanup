@@ -1,0 +1,37 @@
+<div ng-controller="SidebarController" class="row-fluid">
+  <div class="span3">
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li ng-repeat='link in links' ng-controller="DateController">
+          <a ng-click="openDate()">{{link}}</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="span6">
+    <div ng-repeat='vote in votes'>
+      <div class="row-fluid">
+        <h3>{{vote.subject}}</h3>
+        <h4 class="muted">Votering {{$index + 1}}/{{votes.length}}</h4>
+        <div class="">Vedtatt: <span class="enacted-{{vote.enacted}}"><i class="icon-thumbs-{{directionFor(vote.enacted)}}"></i></span></div>
+      </div>
+
+      <hr>
+
+      <div class="row-fluid">
+        <div ng-repeat="prop in vote.propositions">
+          <h5 class="muted">Forslag {{$index + 1}}/{{vote.propositions.length}}</h5>
+
+          <form class="pull-right">
+            <input type="button" class="btn btn-success" value="Godkjenn" disabled>
+            <input type="button" class="btn btn-danger" value="Avvis" disabled>
+          </form>
+
+          <div class="well" ng-bind-html-unsafe="prop.body"></div>
+          <hr>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

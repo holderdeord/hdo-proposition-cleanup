@@ -1,39 +1,85 @@
 require 'sinatra'
-require 'nokogiri'
-require File.expand_path("../db", __FILE__)
+require 'pry'
+require 'json'
+require 'pp'
+require 'time'
 
-PROPOSITION_PATH = '/forslag-2010-2011'
-DECISION_PATH    = '/vedtak-2009-2010'
+class Database
+  attr_reader :votes, :representatives
 
-set :public_folder, File.expand_path("../public", __FILE__)
+  def initialize
+    @representatives, @votes = [], []
+
+    JSON.parse(File.read(File.expand_path('../votes-2010-2011.min.json', __FILE__))).each do |data|
+      case data['kind']
+      when 'hdo#representative'
+        @representatives << data
+      when 'hdo#vote'
+        @votes << data
+      else
+        puts "unknown kind: #{data['kind']}"
+      end
+    end
+
+    @votes = @votes.sort_by { |e| Time.parse(e['time']) }
+  end
+
+  def timestamps
+    @timestamps ||= @votes.map { |e| Time.parse(e['time']) }.uniq
+  end
+
+  def dates
+    @dates ||= timestamps.map { |time| time.strftime("%Y-%m-%d") }.uniq
+  end
+
+  def timestamps_for(date)
+    (@timestamps_by_date ||= timestamps.group_by { |t| t.strftime("%Y-%m-%d") })[date]
+  end
+
+  def votes_at(timestamp)
+    t = Time.parse(timestamp)
+    @votes.select { |e| Time.parse(e['time']) == t }
+  end
+
+  def percentage_good
+    40.0
+  end
+
+  def percentage_bad
+    10.0
+  end
+
+end
+
+DB = Database.new
+
+set :public_folder, File.expand_path('../public', __FILE__)
+enable :sessions
 
 get '/' do
-  redirect PROPOSITION_PATH
-end
-
-get PROPOSITION_PATH do
-  @propositions = Proposition.order(:voteringstidspunkt).all
-  erb :propositions
-end
-
-get DECISION_PATH do
-  @decisions = Decision.order(:kartnr).all
-  erb :decisions
-end
-
-get '/propositions/:id' do |id|
-  @text = Proposition.select(:forslagstekst).find(id).forslagstekst.gsub(/<p\/?>/, '')
-  erb :modal
-end
-
-get '/decisions/:id' do |id|
-  @text = Decision.select(:forslagstekst).find(id).forslagstekst.gsub(/<p\/?>/, '')
-  erb :modal
-end
-
-class String
-  def truncate(length = 30, truncate_string = "...")
-    l = length - truncate_string.size
-    self.size > length ? self[/\A.{#{l}}\w*\;?/m][/.*[\w\;]/m] + truncate_string : self
+  if session[:username]
+    erb :index
+  else
+    erb :new_session
   end
+end
+
+post '/new_session' do
+  session[:username] = params[:username]
+  redirect '/'
+end
+
+get '/dates' do
+  content_type :json
+  DB.dates.to_json
+end
+
+get '/dates/:date/timestamps' do |date|
+  content_type :json
+  DB.timestamps_for(date).to_json
+end
+
+get '/votes/:timestamp' do |ts|
+  content_type :json
+  DB.votes_at(ts).to_json
 end

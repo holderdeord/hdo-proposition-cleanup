@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+
+.enacted-true {
+  color: #468847;
+  background-color: #DFF0D8;
+  border-color: #D6E9C6;
+}
+
+.enacted-false {
+  color: #B94A48;
+  background-color: #F2DEDE;
+  border-color: #EED3D7;
+}
