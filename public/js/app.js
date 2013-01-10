@@ -2,7 +2,10 @@ angular.module('SidebarController', ['ngHttp', 'ngFilter']);
 angular.module('ProgressController', ['ngHttp']);
 
 function SidebarController ($scope, $http, $filter) {
-  var issueCache = {};
+  var issueCache, spinner;
+
+  issueCache = {};
+  spinner    = document.getElementById('spinner');
 
   $scope.votes = [];
   $scope.dates = [];
@@ -45,9 +48,12 @@ function SidebarController ($scope, $http, $filter) {
   $scope.fetchVotes = function(timestamp) {
     var str = $filter('date')($scope.parseDate(timestamp), 'yyyy-MM-dd H:mm:ss');
 
+    spinner.style.display = 'block';
+
     $http({method: 'GET', url: '/votes/' + str}).
       success(function(votes, status, headers, config) {
         $scope.votes = votes;
+        spinner.style.display = 'none';
         _.each(votes, function(vote) {
           $scope.fetchIssuesFor(vote);
         });
