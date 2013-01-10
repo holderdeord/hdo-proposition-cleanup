@@ -7,13 +7,8 @@ require 'mongo'
 
 class Database
   def initialize
-    if ENV['VCAP_SERVICES']
-      config   = JSON.parse(ENV['VCAP_SERVICES']).first.fetch('credentials')
-      ENV['MONGODB_URI'] = "mongodb://#{config['username']}:#{config['password']}@#{config['hostname']}:#{config['port']}"
-    end
-
     @conn  = Mongo::MongoClient.new
-    @votes = @conn.db.collection('votes')
+    @votes = @conn.db('proposition-cleanup').collection('votes')
   end
 
   def timestamps

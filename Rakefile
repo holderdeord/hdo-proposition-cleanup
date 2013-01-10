@@ -5,7 +5,7 @@ require 'time'
 require 'logger'
 
 task :import do
-  coll = Mongo::MongoClient.new.db.collection('votes')
+  coll = Mongo::MongoClient.new.db('proposition-cleanup').collection('votes')
   coll.remove
 
   JSON.parse(File.read(File.expand_path('../votes-2010-2011.min.json', __FILE__))).each do |data|
