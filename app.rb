@@ -11,6 +11,18 @@ class Time
   end
 end
 
+module Enumerable
+  def uniq_by(&blk)
+    h = {}
+    
+    each do |e|
+      h[yield(e)] ||= e
+    end
+    
+    h.values
+  end
+end
+
 
 class Database
   def initialize
@@ -43,8 +55,9 @@ class Database
     end
 
     groups = votes.group_by { |e| e[:externalIssueId] || e }.values
-    groups.each { |group| group.sort_by! { |e| e[:time] } }
-    groups.sort_by { |e| e.first[:time] }
+    groups.map { |group|
+      group.uniq_by { |e| e[:time] }.sort_by { |e| e[:time] }
+    }.sort_by { |e| e.first[:time]}
   end
 
   def votes_at(timestamp)
