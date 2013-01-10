@@ -15,7 +15,7 @@ function SidebarController ($scope, $http, $filter) {
       $scope.links = [
         {href: 'http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/' + dateString, title: 'Referat'}
       ]
-      $scope.fetchTimestamps($scope.selectedDate);
+      $scope.fetchVoteList($scope.selectedDate);
     }
   });
 
@@ -25,17 +25,17 @@ function SidebarController ($scope, $http, $filter) {
         $scope.dates = data;
       }).
       error(function(data, status, headers, config) {
-        alert(data);
+        alert('' + status + data);
       });
   };
 
-  $scope.fetchTimestamps = function(date) {
-    $http({method: 'GET', url: '/dates/' + date + '/timestamps'}).
+  $scope.fetchVoteList = function(date) {
+    $http({method: 'GET', url: '/votelist/' + date}).
       success(function(data, status, headers, config) {
         $scope.voteList = data;
       }).
       error(function(data, status, headers, config) {
-        alert(data);
+        alert('' + status + data);
       });
   };
 
@@ -45,7 +45,7 @@ function SidebarController ($scope, $http, $filter) {
         $scope.votes = data;
       }).
       error(function(data, status, headers, config) {
-        alert(data);
+        alert('' + status + data);
       });
   };
 
@@ -55,7 +55,7 @@ function SidebarController ($scope, $http, $filter) {
         $scope.votes = data;
       }).
       error(function(data, status, headers, config) {
-        alert(data);
+        alert('' + status + data);
       });
   };
 
@@ -68,21 +68,18 @@ function SidebarController ($scope, $http, $filter) {
   };
 
   $scope.activeVote = null;
-  $scope.activeState = function() {};
+
+  $scope.openVote = function(vote) {
+    $scope.activeVote = vote;
+    $scope.votes = [];
+    $scope.fetchVotes(vote.time);
+  }
 
   $scope.fetchDates();
 };
 
-function DateController ($scope) {
-  $scope.openVote = function() {
-    debugger
-    $scope.fetchVotes($scope.vote.time);
-  }
-}
-
 function PropositionController ($scope) {
   $scope.approve = function() {
-    console.log("approve: ", $scope.prop)
     $scope.prop.metadata = $scope.prop.metadata || {};
     $scope.prop.metadata.status = 'approved';
 
@@ -90,7 +87,6 @@ function PropositionController ($scope) {
   };
 
   $scope.reject = function() {
-    console.log("reject: ", $scope.prop)
     $scope.prop.metadata = $scope.prop.metadata || {};
     $scope.prop.metadata.reason = window.prompt('Hva er galt?')
     $scope.prop.metadata.status = 'rejected';
@@ -99,7 +95,6 @@ function PropositionController ($scope) {
   };
 
   $scope.clear = function() {
-    console.log("clear: ", $scope.prop);
     $scope.prop.metadata = {};
 
     $scope.saveVotes();
@@ -134,7 +129,6 @@ ProgressController.prototype.update = function() {
 
   this.http({method: 'GET', url: '/stats'}).
     success(function(data, status, headers, config) {
-      console.log(scope);
       scope.stats = data;
     }).
     error(function(data, status, headers, config) {

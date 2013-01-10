@@ -8,19 +8,18 @@
       </label>
 
       <ul class="nav nav-list">
-        <li class="nav-header">Lenker</li>
         <li ng-repeat="link in links">
           <a href="{{link.href}}" target="_blank">{{link.title}}</a>
         </li>
-      </ul>
 
-      <ul class="nav nav-list">
-        <li class="nav-header">Voteringer</li>
-        <li class="active" ng-repeat='vote in voteList' ng-controller="DateController">
-          <p>
-            <small>{{parseDate(vote.time) | date:'HH:mm:ss'}}</small>
-            <a ng-click="openVote()">{{vote.subject}}</a>
-          </p>
+        <li ng-repeat='voteGroup in voteList'>
+          <p align=center>{{$index + 1}}</p>
+          <ul class="nav nav-list">
+            <li ng-class="{active: activeVote == vote}" ng-repeat='vote in voteGroup'>
+              <small>{{parseDate(vote.time) | date:'HH:mm:ss'}}</small>
+              <a ng-click="openVote(vote)">{{vote.subject}}</a>
+            </li>
+          </ul>
         </li>
       </ul>
     </div>
@@ -32,8 +31,9 @@
         <p class="muted">Votering {{$index + 1}}/{{votes.length}}</p>
         <h3>
           <small class="pull-right">{{vote.externalId}}</small>
-          {{vote.subject}}
+          {{vote.subject}} (externalIssueId={{vote.externalIssueId}})
         </h3>
+
         <dl>
           <dt>Vedtatt:</dt>
           <dd><span class="enacted-{{vote.enacted}}">{{textFor(vote.enacted)}}</span></dd>
@@ -49,9 +49,12 @@
           <div class="row-fluid">
             <h4><small>Forslag {{$index + 1}}/{{vote.propositions.length}}</small> {{prop.description}}</h4>
             <form class="pull-right">
-              <p>
-                <strong>Status:</strong> <span class="proposition-status-{{prop.metadata.status}}">{{statusText(prop.metadata.status)}}</span>
-                <pre style="border: 0">{{prop.metadata.reason}}</pre>
+              <dl>
+                <dt>Status:</dt>
+                <dd class="proposition-status-{{prop.metadata.status}}">{{statusText(prop.metadata.status)}}</dd>
+
+                <dt>{{prop.metadata.username}}</dt>
+                <dd>{{prop.metadata.reason}}</dd>
               </p>
 
               <input type="button" class="btn btn-small btn-success" ng-click="approve()" value="Godkjenn">

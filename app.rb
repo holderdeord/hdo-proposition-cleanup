@@ -7,16 +7,13 @@ require 'mongo'
 
 class Database
   def initialize
-    database = 'proposition-cleanup'
-
     if ENV['VCAP_SERVICES']
       config   = JSON.parse(ENV['VCAP_SERVICES']).first.fetch('credentials')
-      database = config['db']
       ENV['MONGODB_URI'] = "mongodb://#{config['username']}:#{config['password']}@#{config['hostname']}:#{config['port']}"
     end
 
     @conn  = Mongo::MongoClient.new
-    @votes = @conn.db(database).collection('votes')
+    @votes = @conn.db.collection('votes')
   end
 
   def timestamps
@@ -27,26 +24,51 @@ class Database
     @dates ||= timestamps.map { |time| time.strftime("%Y-%m-%d") }.uniq
   end
 
-  def timestamps_for(date)
+  def votelist_for(date)
     date = Date.parse(date)
-    @votes.find(:time => {:$gte => date.to_time, :$lte => (date + 1).to_time}).map do |e|
+
+    votes = @votes.find(:time => {
+      :$gte => date.to_time,
+      :$lte => (date + 1).to_time
+    })
+
+    votes = votes.map do |e|
       {
-        :time => e['time'],
-        :subject => e['subject']
+        :time            => e['time'],
+        :subject         => e['subject'],
+        :externalIssueId => e['externalIssueId']
       }
-    end.sort_by { |e| e[:time] }
+    end
+
+    groups = votes.group_by { |e| e[:externalIssueId] }.values
+    groups.each { |group| group.sort_by! { |e| e[:time] } }
+    groups.sort_by { |e| e.first[:time] }
   end
 
   def votes_at(timestamp)
     @votes.find(:time => Time.parse(timestamp)).to_a
   end
 
-  def save_votes(votes)
-    votes.each do |vote|
-      existing = @votes.find_one(:externalId => vote['externalId']) or halt 404
-      existing.merge!(vote.merge('time' => Time.parse(vote['time'])))
+  def insert_vote(vote)
+    @votes.insert vote.merge('time' => Time.parse(vote['time']))
+  end
 
-      @votes.save(existing)
+  def save_votes(votes, username)
+    votes.each do |vote|
+      xvote = @votes.find_one(:externalId => vote['externalId'])
+
+      Array(vote['propositions']).each do |prop|
+        next unless prop['metadata']
+
+        if prop['metadata']['status']
+          prop['metadata']['username'] = username
+        else
+          prop['metadata'].delete('username')
+        end
+      end
+
+      xvote['propositions'] = vote['propositions']
+      @votes.save(xvote)
     end
 
     votes
@@ -99,8 +121,8 @@ get '/stats' do
   DB.stats.to_json
 end
 
-get '/dates/:date/timestamps' do |date|
-  DB.timestamps_for(date).to_json
+get '/votelist/:date' do |date|
+  DB.votelist_for(date).to_json
 end
 
 get '/votes/:timestamp' do |ts|
@@ -109,7 +131,11 @@ end
 
 post '/votes/' do
   votes = JSON.parse(request.body.read)
-  DB.save_votes(votes).to_json
+  DB.save_votes(votes, session[:username]).to_json
+end
+
+post '/import' do
+  DB.insert_vote(JSON.parse(request.body.read))
 end
 
 get '/env' do

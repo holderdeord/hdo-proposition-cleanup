@@ -1,7 +1,8 @@
-Setup
------
 
-    $ createdb hdo_proposition_cleanup
-    $ bundle install
-    $ bundle exec rake db:reset import PROPOSITION_XML=/hdo/hdo-folketingparser/rawdata/forslag-vedtak-2009-2011/forslag-ikke-verifiserte-2010-2011.xml DECISION_XML=/hdo/hdo-folketingparser/rawdata/forslag-vedtak-2009-2011/vedtak-2009-2010.xml
-    $ bundle exec foreman start
+* alternative voteringer har ikke forslagene knyttet riktig
+  * vet ikke ut fra dataene hvilket av forslagene som ble vedtatt
+  * marker den som er riktig som Godkjent, den andre med Avvist
+  * eksempel:
+* Referat-lenken er feil for møter som går over midnatt - lenker til neste dags referat
+  * eksempel: 2010-11-26
+
