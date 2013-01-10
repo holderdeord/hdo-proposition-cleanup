@@ -30,7 +30,7 @@
       <div class="row-fluid">
         <p class="muted">Votering {{$index + 1}}/{{votes.length}}</p>
         <h3>
-          <small class="pull-right">{{vote.externalId}}</small>
+          <small class="pull-right">{{vote.externalId}} | {{vote.externalIssueIds}}</small>
           {{vote.subject}}
         </h3>
 
@@ -41,8 +41,8 @@
           <dd>{{vote.counts.for}} for, {{vote.counts.against}} mot, {{vote.counts.absent}} ikke tilstede</dd>
           <dt>Saker:</dt>
           <dd><ul>
-            <li ng-repeat="issue in issues[vote]">
-              <a href="http://stortinget.no/{{issue.externalId}}">{{issue.subject}}</a>
+            <li ng-repeat="issue in vote.issues">
+              <a target="_blank" href="http://stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p={{issue.external_id}}">{{issue.description}}</a>
             </li>
           </ul></dd>
         </dl>

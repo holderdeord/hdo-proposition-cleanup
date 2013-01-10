@@ -23,7 +23,7 @@ class Database
   end
 
   def dates
-    @dates ||= timestamps.map { |time| time.strftime("%Y-%m-%d") }.uniq
+    @dates ||= timestamps.map { |time| time.strftime("%Y/%m/%d") }.uniq
   end
 
   def votelist_for(date)
@@ -36,13 +36,13 @@ class Database
 
     votes = votes.map do |e|
       {
-        :time            => e['time'],
+        :time            => e['time'].localtime,
         :subject         => e['subject'],
         :externalIssueId => e['externalIssueId']
       }
     end
 
-    groups = votes.group_by { |e| e[:externalIssueId] }.values
+    groups = votes.group_by { |e| e[:externalIssueId] || e }.values
     groups.each { |group| group.sort_by! { |e| e[:time] } }
     groups.sort_by { |e| e.first[:time] }
   end

@@ -1,9 +1,9 @@
 angular.module('SidebarController', ['ngHttp', 'ngFilter']);
 angular.module('ProgressController', ['ngHttp']);
 
-var SELECT_DATE = 'Velg dato';
-
 function SidebarController ($scope, $http, $filter) {
+  var issueCache = {};
+
   $scope.votes = [];
   $scope.dates = [];
 
@@ -30,7 +30,10 @@ function SidebarController ($scope, $http, $filter) {
   };
 
   $scope.fetchVoteList = function(date) {
-    $http({method: 'GET', url: '/votelist/' + date}).
+    $scope.voteList = [];
+
+    var str = $filter('date')($scope.parseDate(date), 'yyyy-MM-dd H:mm:ss');
+    $http({method: 'GET', url: '/votelist/' + str}).
       success(function(data, status, headers, config) {
         $scope.voteList = data;
       }).
@@ -40,7 +43,7 @@ function SidebarController ($scope, $http, $filter) {
   };
 
   $scope.fetchVotes = function(timestamp) {
-    var str = $filter('date')($scope.parseDate(timestamp), 'yyyy-MM-dd H:mm:ss UTC');
+    var str = $filter('date')($scope.parseDate(timestamp), 'yyyy-MM-dd H:mm:ss');
 
     $http({method: 'GET', url: '/votes/' + str}).
       success(function(votes, status, headers, config) {
@@ -53,18 +56,26 @@ function SidebarController ($scope, $http, $filter) {
         alert('' + status + data);
       });
   };
-  
-  $scope.issues = {};
+
   $scope.fetchIssuesFor = function(vote) {
+    function addIssue(issue) {
+      vote.issues = vote.issues || [];
+      vote.issues.push(issue);
+    }
+
     _.each(vote.externalIssueId.split(','), function(id) {
-      $http({method: 'GET', url: 'http://next.holderdeord.no/parliament-issues/' + id + '.json'}).
-        success(function(data, status, headers, config) {
-          $scope.issues[vote] = $scope.issues[vote] || [];
-          $scope.issues[vote].push(data);
-        }).
-        error(function(data, status, headers, config) {
-          console && console.log(status + ': ' + data);
-        });
+     if (issueCache[id]) {
+         addIssue(issueCache[id])
+         return;
+     }
+
+     $http({method: 'GET', url: 'http://next.holderdeord.no/parliament-issues/' + id + '.json'}).
+       success(function(data, status, headers, config) {
+         addIssue(data)
+       }).
+       error(function(data, status, headers, config) {
+         console && console.log(status + ': ' + data);
+       });
     });
   };
 
