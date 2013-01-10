@@ -67,6 +67,7 @@ function SidebarController ($scope, $http, $filter) {
     function addIssue(issue) {
       vote.issues = vote.issues || [];
       vote.issues.push(issue);
+      vote.issues = _.sortBy(vote.issues, 'description');
     }
 
     _.each(vote.externalIssueId.split(','), function(id) {
@@ -77,6 +78,7 @@ function SidebarController ($scope, $http, $filter) {
 
      $http({method: 'GET', url: 'http://next.holderdeord.no/parliament-issues/' + id + '.json'}).
        success(function(data, status, headers, config) {
+         issueCache[id] = data;
          addIssue(data)
        }).
        error(function(data, status, headers, config) {
