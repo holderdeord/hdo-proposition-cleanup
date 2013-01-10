@@ -11,7 +11,7 @@ function SidebarController ($scope, $http, $filter) {
     $scope.votes = [];
 
     if ($scope.selectedDate) {
-      var dateString = $filter('date')(Date.parse($scope.selectedDate), 'yyMMdd');
+      var dateString = $filter('date')($scope.parseDate($scope.selectedDate), 'yyMMdd');
       $scope.links = [
         {href: 'http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/' + dateString, title: 'Referat'}
       ]
@@ -40,13 +40,32 @@ function SidebarController ($scope, $http, $filter) {
   };
 
   $scope.fetchVotes = function(timestamp) {
-    $http({method: 'GET', url: '/votes/' + timestamp}).
-      success(function(data, status, headers, config) {
-        $scope.votes = data;
+    var str = $filter('date')($scope.parseDate(timestamp), 'yyyy-MM-dd H:mm:ss UTC');
+
+    $http({method: 'GET', url: '/votes/' + str}).
+      success(function(votes, status, headers, config) {
+        $scope.votes = votes;
+        _.each(votes, function(vote) {
+          $scope.fetchIssuesFor(vote);
+        });
       }).
       error(function(data, status, headers, config) {
         alert('' + status + data);
       });
+  };
+  
+  $scope.issues = {};
+  $scope.fetchIssuesFor = function(vote) {
+    _.each(vote.externalIssueId.split(','), function(id) {
+      $http({method: 'GET', url: 'http://next.holderdeord.no/parliament-issues/' + id + '.json'}).
+        success(function(data, status, headers, config) {
+          $scope.issues[vote] = $scope.issues[vote] || [];
+          $scope.issues[vote].push(data);
+        }).
+        error(function(data, status, headers, config) {
+          console && console.log(status + ': ' + data);
+        });
+    });
   };
 
   $scope.saveVotes = function() {

@@ -31,7 +31,7 @@
         <p class="muted">Votering {{$index + 1}}/{{votes.length}}</p>
         <h3>
           <small class="pull-right">{{vote.externalId}}</small>
-          {{vote.subject}} (externalIssueId={{vote.externalIssueId}})
+          {{vote.subject}}
         </h3>
 
         <dl>
@@ -39,6 +39,12 @@
           <dd><span class="enacted-{{vote.enacted}}">{{textFor(vote.enacted)}}</span></dd>
           <dt>Stemmer:</dt>
           <dd>{{vote.counts.for}} for, {{vote.counts.against}} mot, {{vote.counts.absent}} ikke tilstede</dd>
+          <dt>Saker:</dt>
+          <dd><ul>
+            <li ng-repeat="issue in issues[vote]">
+              <a href="http://stortinget.no/{{issue.externalId}}">{{issue.subject}}</a>
+            </li>
+          </ul></dd>
         </dl>
       </div>
 

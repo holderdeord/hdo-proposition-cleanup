@@ -5,6 +5,13 @@ require 'pp'
 require 'time'
 require 'mongo'
 
+class Time
+  def to_json(opts = nil)
+    strftime("%Y/%m/%d %H:%M:%S").to_json(opts)
+  end
+end
+
+
 class Database
   def initialize
     @conn  = Mongo::MongoClient.new
