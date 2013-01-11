@@ -27,7 +27,7 @@
 
   <div class="span9">
     <p align="center"><img id="spinner" style="display: none;" src="img/spinner.gif"></p>
-    <div ng-repeat='vote in votes'>
+    <div ng-repeat='vote in votes' ng-controller="VoteController">
       <div class="row-fluid">
         <p class="muted">Votering {{$index + 1}}/{{votes.length}}</p>
         <h3>
@@ -47,6 +47,11 @@
             </li>
           </ul></dd>
         </dl>
+
+        <label>
+          Mangler forslagstekster:
+          <input type="checkbox" name="missing-propositions" ng-model="vote.propositionsMissing" ng-change="saveVotes()">
+        </label>
       </div>
 
       <hr>

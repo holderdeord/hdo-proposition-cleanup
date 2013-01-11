@@ -14,11 +14,11 @@ end
 module Enumerable
   def uniq_by(&blk)
     h = {}
-    
+
     each do |e|
       h[yield(e)] ||= e
     end
-    
+
     h.values
   end
 end
@@ -71,6 +71,7 @@ class Database
   def save_votes(votes, username)
     votes.each do |vote|
       xvote = @votes.find_one(:externalId => vote['externalId'])
+      xvote['propositionsMissing'] = vote['propositionsMissing']
 
       Array(vote['propositions']).each do |prop|
         next unless prop['metadata']

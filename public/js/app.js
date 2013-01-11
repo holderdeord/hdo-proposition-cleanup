@@ -173,3 +173,8 @@ ProgressController.prototype.update = function() {
       console && console.log("could not update stats");
   });
 };
+
+
+function VoteController ($scope) {
+}
+
