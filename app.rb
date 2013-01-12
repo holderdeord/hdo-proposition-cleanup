@@ -78,8 +78,8 @@ class Database
 
         if prop['metadata']['status']
           prop['metadata']['username'] = username
-        else
-          prop['metadata'].delete('username')
+        elsif prop['metadata'].empty?
+          prop.delete('metadata')
         end
       end
 
@@ -91,17 +91,29 @@ class Database
   end
 
   def stats
-    good = @votes.find("propositions.metadata.status" => 'approved').count
-    bad  = @votes.find("propositions.metadata.status" => 'rejected').count
+    votes = @votes.find({"propositions.metadata" => {:$exists => true}}, fields: ["propositions"]).to_a
+    status_counts = Hash.new(0)
+
+    votes.each do |e|
+      e['propositions'].each do |prop|
+        status = prop['metadata']['status']
+        status_counts[status] += 1
+      end
+    end
 
     stats = {
-      :good      => good,
-      :bad       => bad,
-      :processed => good + bad,
-      :total     => @votes.count
+      :good      => status_counts['approved'],
+      :bad       => status_counts['rejected'],
+      :processed => status_counts['approved'] + status_counts['rejected'],
+      :total     => proposition_count
     }
 
     stats
+  end
+
+  def proposition_count
+    # cached since it won't change after boot
+    @proposition_count ||= @votes.find({}, fields: ["propositions"]).flat_map { |e| e['propositions'] }.size
   end
 end
 
