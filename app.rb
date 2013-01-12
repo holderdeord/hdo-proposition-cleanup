@@ -95,7 +95,7 @@ class Database
 
     votes.each do |e|
       e['propositions'].each do |prop|
-        status = prop['metadata']['status']
+        status = prop['metadata'] && prop['metadata']['status']
         status_counts[status] += 1
       end
     end
