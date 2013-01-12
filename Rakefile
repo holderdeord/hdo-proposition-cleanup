@@ -30,14 +30,20 @@ task :load do
 end
 
 task :stat do
+  require 'pp'
+
   votes = coll.find('propositions.metadata.username' => {:$exists => true})
-  counts = Hash.new(0)
+  counts = Hash.new { |h, k| h[k] = Hash.new(0) }
 
   votes.each do |vote|
     vote['propositions'].each do |prop|
-      counts[prop['metadata']['username']] += 1
+      username = prop['metadata'] && prop['metadata']['username']
+      status = prop['metadata'] && prop['metadata']['status']
+
+      counts[username.to_s.downcase][status] += 1
+      counts[username.to_s.downcase]['total'] += 1
     end
   end
 
-  p counts
+  pp counts.sort_by { |n, d| d['total'] }
 end
