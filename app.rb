@@ -23,7 +23,6 @@ module Enumerable
   end
 end
 
-
 class Database
   def initialize
     @conn  = Mongo::MongoClient.new
@@ -159,7 +158,7 @@ end
 
 post '/votes/' do
   votes = JSON.parse(request.body.read)
-  DB.save_votes(votes, session[:username]).to_json
+  DB.save_votes(votes, session[:username] || params[:username]).to_json
 end
 
 post '/import' do

@@ -88,7 +88,7 @@ function SidebarController ($scope, $http, $filter) {
   };
 
   $scope.saveVotes = function() {
-    $http({method: 'POST', url: '/votes/', data: $scope.votes}).
+    $http({method: 'POST', url: '/votes/?username=' + window.cleanerUsername, data: $scope.votes}).
       success(function(data, status, headers, config) {
         $scope.votes = data;
       }).

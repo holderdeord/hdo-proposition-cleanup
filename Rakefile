@@ -21,3 +21,7 @@ task :import do
     print "."
   end
 end
+
+task :load do
+  sh "ssh jaribakken.com 'mongoexport -d proposition-cleanup -c votes' | mongoimport --drop -d proposition-cleanup -c votes"
+end
