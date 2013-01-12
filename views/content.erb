@@ -13,11 +13,10 @@
         </li>
 
         <li ng-repeat='voteGroup in voteList'>
-          <p align=center>{{$index + 1}}</p>
+          <strong>{{$index + 1}}</strong>
           <ul class="nav nav-list">
             <li ng-class="{active: activeVote == vote}" ng-repeat='vote in voteGroup'>
-              <small>{{parseDate(vote.time) | date:'HH:mm:ss'}}</small>
-              <a ng-click="openVote(vote)">{{vote.subject}}</a>
+              <a ng-click="openVote(vote)"><small>{{parseDate(vote.time) | date:'HH:mm:ss'}}</small> {{vote.subject}}</a>
             </li>
           </ul>
         </li>
@@ -49,7 +48,7 @@
         </dl>
 
         <label>
-          Mangler forslagstekster:
+          Mangler forslag:
           <input type="checkbox" name="missing-propositions" ng-model="vote.propositionsMissing" ng-change="saveVotes()">
         </label>
       </div>
