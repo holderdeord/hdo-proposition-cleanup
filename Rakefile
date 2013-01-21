@@ -42,8 +42,29 @@ task :stat do
 
       counts[username.to_s.downcase][status] += 1
       counts[username.to_s.downcase]['total'] += 1
+      counts['total'][status] += 1 
+      counts['total']['total'] += 1
     end
   end
 
-  pp counts.sort_by { |n, d| d['total'] }
+  counts.sort_by { |n, d| d['total'] }.reverse.each do |n, d| 
+    next if n.empty?
+    puts "#{n}\n\ttotalt   = #{d['total']}\n\tgodkjent = #{d['approved']} (#{d['approved'] * 100/ d['total']}%)\n\tavvist   = #{d['rejected']} (#{d['rejected'] * 100 / d['total']}%)\n\n"
+  end
+end
+
+task :missing do 
+  votes = coll.find.to_a
+  counts = Hash.new(0)
+
+  votes.each do |vote|
+    vote['propositions'].each do |prop|
+      if prop['metadata'].nil? || prop['metadata']['status'].nil?
+        puts vote['time'].localtime
+#        counts[vote['time'].strftime("%Y-%m-%d %H:%M:%S")] += 1
+      end
+    end 
+  end	     
+
+  counts.sort_by { |date, count| count }.reverse.each { |date, count| puts "#{date}: #{count}" }
 end
