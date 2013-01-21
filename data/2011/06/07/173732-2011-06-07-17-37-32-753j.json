@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-07 17:37:32.753j",
+  "externalIssueId": "49975",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-07 17:37:32 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-07 17:37:32 +0200:1771",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\nI statsbudsjettet for 2011 blir det gjort følgjande endringar:<BR>\r\n</FONT><TABLE class=MsoNormalTable BORDER=1 cellpadding=0 style='mso-cellspacing:1.5pt;\r\n mso-yfti-tbllook:1184'>\r\n <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  Kap.<BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  Post <BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  Formål<BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  Kroner<BR>\r\n  </td>\r\n </tr>\r\n <tr style='mso-yfti-irow:1'>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  Utgifter<BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n </tr>\r\n <tr style='mso-yfti-irow:2'>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  1062<BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  Kystverket<BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n </tr>\r\n <tr style='mso-yfti-irow:3'>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  21<BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  Spesielle driftsutgifter, blir auka med <BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  110&nbsp;000&nbsp;000 <BR>\r\n  </td>\r\n </tr>\r\n <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'>\r\n  frå kroner 194&nbsp;350&nbsp;000 til kroner 304&nbsp;350&nbsp;000<BR>\r\n  </td>\r\n  <td style='padding:.75pt .75pt .75pt .75pt'></td>\r\n </tr>\r\n</TABLE><FONT SIZE=2>\r\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

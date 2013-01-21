@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-24 15:08:52.423j",
+  "externalIssueId": "50117",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 9",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-24 15:08:52 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-24 15:08:52 +0200:1668",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 19 S (20102011)  årsrapport\nfra Stortingets delegasjon til EFTA-parlamentarikerkomiteene og\nDen felles EØS-parlamentarikerkomiteen for 2010  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

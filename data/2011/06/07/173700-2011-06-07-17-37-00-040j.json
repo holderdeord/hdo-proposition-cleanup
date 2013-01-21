@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-07 17:37:00.040j",
+  "externalIssueId": "50260",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-07 17:37:00 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-07 17:37:00 +0200:1769",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 2 (20102011)  om Riksrevisjonens melding\nom verksemda i 2010  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

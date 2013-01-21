@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-24 17:54:12.303j",
+  "externalIssueId": "49536",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-24 17:54:12 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-24 17:54:12 +0100:1227",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Som personlig varamedlem for Truls Wickholm til\nStortingets delegasjon til Den Interparlamentariske Union velges\nAksel Hagen i stedet for Geir-Ketil Hansen for den resterende del\nav stortingsperioden 20092013. </p>",
+      "metadata": {
+        "reason": "Skrivefeil: Mangler bindestrek i årstall",
+        "status": "rejected",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

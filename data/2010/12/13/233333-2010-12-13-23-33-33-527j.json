@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-13 23:33:33.527j",
+  "externalIssueId": "48671",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-13 23:33:33 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-13 23:33:33 +0100:849",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om opphevelse av lov 30. mai 1986 nr. 23 om statens\npetroleumsforsikringsfond mv.<p><b>I</b></p>Lov 30. mai 1986 nr. 23 om statens petroleumsforsikringsfond\noppheves.<p><b>II</b></p>I lov 21. desember 2005 nr. 123 om Statens pensjonsfond\ngjøres følgende endringer:<p><b>§ 3 tredje ledd nr. 7 oppheves.</b></p><p><b>Nåværende § 3 tredje ledd nr. 8 og nr. 9 blir nr.\n7 og 8.</b></p><p><b>§ 3 fjerde ledd nr. 3 oppheves.</b></p><p><b>Nåværende § 3 fjerde ledd nr. 4 og 5 blir nr. 3 og\n4.</b></p><p><b>III</b></p><p>Loven gjelder fra og med 31. desember 2010.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

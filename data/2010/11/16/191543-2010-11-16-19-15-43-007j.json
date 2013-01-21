@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-16 19:15:43.007j",
+  "externalIssueId": "47149",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I, II og III",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-16 19:15:43 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-16 19:15:43 +0100:64",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i forvaltningsloven og straffegjennomføringsloven\n(behandling av personopplysninger i \nkriminalomsorgen, innsyn i benådningssaker m.m.)<p><b>I</b></p>I lov 10. februar 1967 om behandlingsmåten i forvaltningssaker\n(forvaltningsloven) skal § 13 a nytt punkt 4 lyde:<p>4.\tat opplysninger om en\nnavngitt domfelt eller botlagt er benådet eller ikke og hvilke reaksjoner vedkommende\neventuelt blir benådet til, gjøres kjent.</p><p><b>II</b></p>I lov 18. mai 2001 nr. 21 om gjennomføring av straff\nmv. gjøres følgende endringer:<p><b>Nytt kapittel 1a skal lyde:</b></p><p><b><em>Kapittel 1a.\tBehandling av personopplysninger i kriminalomsorgen</em></b></p><p><b>§ 4a Forholdet til andre lover</b></p><p>Personopplysningsloven gjelder med utfyllende regler fastsatt\ni dette kapitlet.</p><p><b>§ 4b Behandlingsansvarlig</b></p><p>Med behandlingsansvarlig menes den som etter lov eller\nforskrift, alene eller sammen med andre, bestemmer formålet med\nbehandlingen og hvilke hjelpemidler som skal brukes.</p><p><b>§ 4c Formål med behandlingen av personopplysninger</b></p><p>Kriminalomsorgen kan behandle personopplysninger som er\nnødvendige for å</p><p>a)\tplanlegge, administrere og gjennomføre reaksjoner\nog tvangsmidler etter straffegjennomføringsloven § 1,</p><p>b)\topprettholde ro og orden og ivareta sikkerheten for ansatte,\ninnsatte, domfelte og samfunnet for øvrig,</p><p>c)\tsikre innsatte og domfelte tilfredsstillende forhold\nunder gjennomføringen og tilby dem et innhold som skal bidra til\nå motvirke ny kriminalitet, herunder legge forholdene til rette\nfor tjenester fra andre etater med sikte på å fremme innsattes og\ndomfeltes tilpasning til samfunnet,</p><p>d)\tsikre barns rett til samvær med foreldrene under sikre\nog trygge forhold,</p><p>e)\tvarsle fornærmede eller dennes etterlatte, jf. § 7b.</p><p><b>§ 4d\tHvem kriminalomsorgen kan behandle \npersonopplysninger om</b></p><p>Til formål nevnt i § 4c kan kriminalomsorgen behandle personopplysninger\nom</p><p>a)\tdomfelte og innsatte,</p><p>b)\tpårørende og andre som har kontakt med eller prøver å\noppnå kontakt med den domfelte eller innsatte,</p><p>c)\tpersoner som har eller søker å få tilgang til fengselsområder,</p><p>d)\tdomfeltes eller innsattes barn og barnets pårørende eller\nandre omsorgspersoner.</p><p><b>§ 4e Krav om forskriftsregulering av en behandling</b></p><p>Kongen gir forskrift om blant annet</p><p>a)\thvilket rettslig grunnlag som hjemler behandlingen,</p><p>b)\tformålet med behandlingen,</p><p>c)\thvem som er behandlingsansvarlig,</p><p>d)\thvilke opplysningskategorier som kan registreres,</p><p>e)\thvem i kriminalomsorgen som har tilgang til opplysningene,</p><p>f)\tadgangen til å utlevere opplysningene,</p><p>g)\tinformasjonsplikt, innsyn, retting, sperring og sletting\nav opplysninger,</p><p>h)\tinformasjonssikkerhet og internkontroll.</p><p><b>§ 7 bokstav f første punktum skal lyde:</b></p><p>Beslutning om å fremme sak for retten etter § 44 annet\nledd, § 58 annet ledd <em>eller straffeloven § 54 nr. 1 og\n2</em> kan ikke påklages.</p><p><b>§ 7 bokstav h skal lyde:</b></p><p>h)\tEnhver som <em>er tilsatt i eller utfører</em> tjeneste <em>eller arbeid\nfor</em> kriminalomsorgen, har taushetsplikt om det vedkommende\ni forbindelse med tjenesten får vite <em>om forhold av betydning\nfor sikkerheten</em> i fengslene og <em>i forbindelse\nmed gjennomføringen av straff utenfor fengslene.</em></p><p><b>§ 7a ny overskrift skal lyde:</b></p><p><em>Offentlige etaters opplysningsplikt overfor kriminalomsorgen</em></p><p><b>§ 44 fjerde ledd skal lyde:</b></p><p>Hvis retten ved <em>dom</em> beslutter at den\nprøveløslatte skal gjeninnsettes for hel fullbyrding av reststraffen, kan\nkriminalomsorgen beslutte ny løslatelse på prøve selv om minstetidene\ni § 42 første ledd ikke er oppfylt for reststraffens del.</p><p><b>III</b></p><p>Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette\ni kraft de enkelte bestemmelsene til forskjellig tid.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

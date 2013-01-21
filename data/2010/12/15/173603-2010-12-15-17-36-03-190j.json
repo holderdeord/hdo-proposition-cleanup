@@ -1,0 +1,55 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-15 17:36:03.190j",
+  "externalIssueId": "47812",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "romertallene II, III og IV.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-15 17:36:03 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-15 17:36:03 +0100:1023",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p><b>Utviding av garantifullmakt</b></p><br/><p>Stortinget samtykker i at Nærings- og handelsdepartementet\ni 2010 kan utgiftsføre utbetalingar knytt til utførte pålagte miløtiltak\netter verksemda i Raufoss ASA utan løyving under kap. 960 Raufoss\nASA, post 71 Refusjon for miljøtiltak, innanfor gitt garantiramme\npå 124 mill. kroner.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-15 17:36:03 +0100:1024",
+      "description": "Komiteens tilråding romertall III.",
+      "onBehalfOf": "",
+      "body": "<p><b>Garantifullmakt</b></p><br/><p>Stortinget samtykker i at Nærings- og handelsdepartementet\ni 2010 kan gi Innovasjon Norge fullmakt til å gi tilsegn om nye\ngarantiar for inntil 70 mill. kroner, men slik at totalramma for nytt\nog gammalt ansvar ikkje overstig 370 mill. kroner.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-15 17:36:03 +0100:1025",
+      "description": "Komiteens tilråding romertall IV.",
+      "onBehalfOf": "",
+      "body": "<p><b>Lånefullmakt</b></p><br/><p>Stortinget samtykker i at Nærings- og handelsdepartementet\ni 2010 kan gi Innovasjon Norge fullmakt til å gi tilsegn om nye\nlandsdekkjande innovasjonslån innanfor ei ramme på 620 mill. kroner.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

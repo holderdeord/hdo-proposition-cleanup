@@ -29,6 +29,41 @@ task :load do
   sh "ssh jaribakken.com 'mongoexport -d proposition-cleanup -c votes' | mongoimport --drop -d proposition-cleanup -c votes"
 end
 
+task :write do
+  mkdir_p 'data'
+  chdir 'data'
+
+  coll.find.each do |vote|
+    vote.delete('_id')
+    time = vote['time']
+
+    path = time.localtime.strftime("%Y/%m/%d/%H%M%S-#{vote['externalId'].gsub /\W/, '-'}.json")
+
+    mkdir_p File.dirname(path)
+    p path
+    File.open(path, "w") do |file|
+      file << JSON.pretty_generate(vote)
+    end
+  end
+end
+
+task :bad do
+  count = 0
+  
+  coll.find('propositions.metadata' => {:$exists => true}).each do |vote|
+    next unless vote['propositions'].any? { |e| e['metadata']['status'] == 'rejected' }
+    count += 1
+    
+    puts '%s -> %s' % [vote['time'].localtime, vote['subject']]
+    puts "   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/#{vote['time'].strftime("%y%m%d")} "
+    vote['propositions'].each do |prop|
+      puts "\t#{prop.values_at('description', 'metadata').inspect}"
+    end
+  end
+  
+  puts "count: #{count}"
+end
+
 task :stat do
   require 'pp'
 

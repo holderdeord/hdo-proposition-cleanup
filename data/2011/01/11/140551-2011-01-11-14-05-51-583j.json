@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-01-11 14:05:51.583j",
+  "externalIssueId": "41057",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 4",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-01-11 14:05:51 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-01-11 14:05:51 +0100:1138",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument nr. 12:23 (20072008)\n grunnlovsforslag fra Carl I. Hagen om å endre § 59 (Valgordningen)\ni Grunnloven slik at tallet 4 i femte ledd erstattes av tallet 5,\nbegge alternativer  bifalles ikke.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

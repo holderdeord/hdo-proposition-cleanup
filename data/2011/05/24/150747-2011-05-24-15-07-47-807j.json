@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-24 15:07:47.807j",
+  "externalIssueId": "49344",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 5",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-24 15:07:47 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-24 15:07:47 +0200:1664",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Meld. St. 19 (20102011)  om samarbeidet\ni Organisasjonen for tryggleik og samarbeid i Europa (OSSE) i 2010\n vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

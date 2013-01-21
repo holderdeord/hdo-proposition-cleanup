@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-18 20:12:40.220j",
+  "externalIssueId": "46950",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak nr. 2",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-18 20:12:40 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-18 20:12:40 +0100:108",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i ratifikasjon av\nkonvensjonen av 23. november 2007 om internasjonal innkreving av\nunderholdsbidrag til barn og andre former for underhold til familie.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

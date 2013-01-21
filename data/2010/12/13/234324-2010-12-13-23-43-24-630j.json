@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-13 23:43:24.630j",
+  "externalIssueId": "48535",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I og II",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-13 23:43:24 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-13 23:43:24 +0100:897",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i dekningsloven (rettsvern for avtaler\nom inntredelsesrett i langsiktige kraftavtaler) <p><b>I</b></p>I lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett\nskal ny § 7-14 lyde: <p><b>§ 7-14\tAvtaler om rett til å tre\ninn i langsiktige kraftavtaler m.m.</b></p><p>Bestemmelsene i paragrafen her gjelder avtaler om kjøp\nav kraft der kjøperen driver kraftintensiv, industriell virksomhet\nsom nærmere fastsatt i forskrift gitt av Kongen, og avtalen har\nen løpetid på syv år eller mer.</p><p>Avtale om at den som ved kraftavtalens inngåelse har garantert\noverfor selgeren for kjøperens oppfyllelse av en kraftavtale som\nnevnt i første ledd, ved mislighold skal kunne tre inn i kraftavtalen,\noverdra kjøperens kontraktsposisjon til en ny kjøper eller innløse\navtalen hos selgeren, kan uten særskilt rettsvernsakt gjøres gjeldende\noverfor kjøperens bo, enkeltforfølgende kreditorer og senere rettsstiftelser\ni kjøperens kontraktsposisjon. Slik avtale må inngås senest samtidig\nmed inngåelsen av kraftavtalen. Overskudd etter at garantistens\nregresskrav med renter og omkostninger er dekket, tilfaller kraftkjøperen, dennes\nbo eller innehavere av andre rettigheter i kjøpers kontraktsposisjon.</p><p>Annet ledd gjelder tilsvarende der en garantistiller ved\ninngåelsen av en kraftavtale som nevnt i første ledd har garantert\noverfor en långiver for en låneavtale inngått av kjøperen for å\nforskuddsbetale hele eller deler av vederlaget etter kraftavtalen.</p><p><b>II</b></p><p>Loven trer i kraft fra den tid Kongen bestemmer.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

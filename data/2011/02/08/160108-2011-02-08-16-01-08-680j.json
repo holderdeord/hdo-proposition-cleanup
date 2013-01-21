@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-08 16:01:08.680j",
+  "externalIssueId": "47820",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-08 16:01:08 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-08 16:01:08 +0100:1152",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i\nratifikasjon av overenskomst av 15. september 2010 mellom Norge\nog Russland om maritim avgrensning og samarbeid i Barentshavet og\nPolhavet.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-17 00:44:36.463j",
+  "externalIssueId": "49333",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-17 00:44:36 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 00:44:36 +0200:2040",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Meld. St. 3 (20102011)  om statsrekneskapen 2010\n vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

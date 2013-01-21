@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-18 20:12:48.957j",
+  "externalIssueId": "48225",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak nr. 1",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-18 20:12:48 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-18 20:12:48 +0100:109",
+      "description": "",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\n<p class=MsoNormal>Utenriksministerens redegjørelse om viktige EU- og EØS-saker\r\ni Stortingets møte 16. november 2010 - vedlegges protokollen.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

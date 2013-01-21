@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-07 17:36:36.110j",
+  "externalIssueId": "49903",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-07 17:36:36 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-07 17:36:36 +0200:1767",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 4 (20102011)  melding for året 2010\nfra Sivilombudsmannen  vedlegges protokollen. </p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

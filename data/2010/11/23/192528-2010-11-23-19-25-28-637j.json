@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-23 19:25:28.637j",
+  "externalIssueId": "47097",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering over innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-23 19:25:28 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-23 19:25:28 +0100:130",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:155 S (20092010)  forslag\nfra stortingsrepresentantene André Oktay Dahl, Anders B. Werp, Ingjerd\nSchou, Linda C. Hofstad Helleland, Elisabeth Aspaker og Michael\nTetzschner om nasjonal strategi for økt og bedre bruk av sivil kompetanse\ni politiet  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

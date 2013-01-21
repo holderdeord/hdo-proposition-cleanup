@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-15 17:42:19.197j",
+  "externalIssueId": "48303",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 10",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-15 17:42:19 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-15 17:42:19 +0100:1066",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>stortinget samtykker til å sette i kraft\nen protokoll til skatteavtalen av 7. september 1987 med tilhørende\nprotokoll av 12. april 2005 mellom norge og sveits, undertegnet\ni oslo 31. august 2009.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,776 @@
+2010-11-26 01:38:42 +0100 -> Forslag nr. 15, 16 og 18 på vegne av H, KrF og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"reason"=>"tekst mangler. Skal være: Stortinget ber regjeringen – etablere en ordning som indeksregulerer beløpene for hhv. egenutført og innkjøpt FoU i Skattefunn-ordningen hvert år, – styrke Skattefunn-ordningen ved at regelen om maksimal timesats på 500 kroner fjernes, – styrke Skattefunn-ordningen ved å fjerne regelen om at ved personal- og indirekte kostnader, begrenses antall timer for egne ansatte til maksimalt 1 850 timer pr. år, og – evaluere hvordan Skattefunn-ordningen kan innrettes for å bidra bedre til forskning og utvikling også for større virksomheter.»", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"reason"=>"10-15 år", "status"=>"rejected", "username"=>"Hanna"}]
+2010-10-05 01:21:43 +0200 -> Forslag nr. 6 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101005 
+	["Forslag fra Siv Jensen på vegne av Fremskrittspartiet", {"reason"=>"\"Teksten er foreløpig ikke tilgjengelig\"", "status"=>"rejected", "username"=>"jari"}]
+2010-11-26 01:49:07 +0100 -> Stor bokstav A, D, E, F, G, I, K og M.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Komiteens tilråding bokstav A.", {"status"=>"approved", "username"=>"Hanna"}]
+	["Komiteens tilråding bokstav D.", {"status"=>"approved", "username"=>"Hanna"}]
+	["Komiteens tilråding bokstav E.", {"reason"=>"mangelfull tekst etter \"4-9 skal lyde:\", hvertfall", "status"=>"rejected", "username"=>"Hanna"}]
+	["Komiteens tilråding bokstav F.", {"status"=>"approved", "username"=>"Hanna"}]
+	["Komiteens tilråding bokstav G.", {"status"=>"approved", "username"=>"Hanna"}]
+	["Komiteens tilråding bokstav I.", {"status"=>"approved", "username"=>"Hanna"}]
+	["Komiteens tilråding bokstav K.", {"status"=>"approved", "username"=>"Hanna"}]
+	["Komiteens tilråding bokstav M.", {"status"=>"approved", "username"=>"Hanna"}]
+2010-11-18 19:52:14 +0100 -> Lovens overskrift og loven i sin helhet
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101118 
+	["", {"reason"=>"ingen forslagstekst", "status"=>"rejected", "username"=>"Hanna"}]
+2010-10-05 01:18:43 +0200 -> Forslag nr. 1 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101005 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"\"tekst foreløpig ikke tilgjengelig\"", "status"=>"rejected", "username"=>"hanna"}]
+2010-10-28 16:03:47 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101028 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"bindestreker mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2010-10-05 01:20:18 +0200 -> Forslag nr. 3 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101005 
+	["Forslag fra Siv Jensen på vegne av Fremskrittspartiet", {"reason"=>"\"Teksten er foreløpig ikke tilgjengelig\"", "status"=>"rejected", "username"=>"jari"}]
+2010-10-05 01:20:43 +0200 -> Forslag nr. 4 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101005 
+	["Forslag fra Siv Jensen på vegne av Fremskrittspartiet", {"reason"=>"\"Teksten er foreløpig ikke tilgjengelig\"", "status"=>"rejected", "username"=>"jari"}]
+2010-10-05 01:21:15 +0200 -> Forslag nr. 5 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101005 
+	["Forslag fra Siv Jensen på vegne av Fremskrittspartiet", {"reason"=>"\"Teksten er foreløpig ikke tilgjengelig\"", "status"=>"rejected", "username"=>"jari"}]
+2010-12-08 19:49:19 +0100 -> Forslag nr. 14 - 43, 45 - 48, 50 - 59, 61, 63 og 64 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101208 
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
+2010-10-05 01:19:44 +0200 -> Forslag nr. 2 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101005 
+	["Forslag fra Siv Jensen på vegne av Fremskrittspartiet", {"reason"=>"\"Teksten er foreløpig ikke tilgjengelig\"", "status"=>"rejected", "username"=>"jari"}]
+2010-10-28 16:04:49 +0200 -> Forslag nr. 2 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101028 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler noe tekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2010-11-18 19:53:29 +0100 -> Lovens overskrift og loven i sin helhet
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101118 
+	["", {"reason"=>"ingen forslagstekst. Bør ikke den her være identisk med forslagsteksten over?", "status"=>"rejected", "username"=>"Hanna"}]
+2010-11-26 01:52:18 +0100 -> Romertall I, Ny § 6-13 B Romertall I, § 5-14 annet ledd nytt annet punktum Romertall I, Ny § 16-7  Stor bokstav C, J og L.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Komiteens tilråding bokstav C.", {"status"=>"approved", "username"=>"hanna"}]
+	["Komiteens tilråding bokstav J.", {"status"=>"approved", "username"=>"hanna"}]
+	["Komiteens tilråding bokstav L.", {"reason"=>"mangelfull tekst", "status"=>"rejected", "username"=>"hanna"}]
+2010-10-28 16:01:30 +0200 -> Votering i sak nr. 2
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101028 
+	["Komiteens tilråding", {"reason"=>"mangler noen bindestreker her og der.", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2010-12-07 18:14:30 +0100 -> Forslag nr. 29 og 30 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101207 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-11-26 01:31:53 +0100 -> Forslag nr. 4 - 71 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Afghanistan", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"forenklet, terskelverdien", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+2010-11-26 01:45:54 +0100 -> Forslag nr. 31 - 38, 39a, 40 og 41 på vegne av KrF.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"reason"=>"mangler tekst etter frukt og grønnsaker", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Hanna"}]
+2010-11-26 01:46:34 +0100 -> Forslag nr. 19 - 27, 28a og 29a på vegne av H.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Hanna"}]
+2010-12-03 13:15:51 +0100 -> Forslag nr. 17 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101203 
+	["Forslag fra Jan Arild Ellingsen på vegne av Fremskrittspartiet", {"reason"=>"Teksten foreløpig ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-10-05 01:22:09 +0200 -> Forslag nr. 7 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101005 
+	["Forslag fra Siv Jensen på vegne av Fremskrittspartiet", {"reason"=>"\"Teksten er foreløpig ikke tilgjengelig\"", "status"=>"rejected", "username"=>"jari"}]
+2010-12-13 23:34:56 +0100 -> Det voteres alternativt mellom innstillingens romertall I, § 11-13 tredje ledd og forslag nr.2 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101213 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"ufullstendig tekst", "status"=>"rejected", "username"=>"hanna"}]
+2010-11-26 01:46:53 +0100 -> Forslag nr. 17 og 18 på vegne av H og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Høyre og Venstre", {"status"=>"rejected", "username"=>"Hanna", "reason"=>"mangler tekst på §18-3"}]
+	["Forslag fra Høyre og Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+2010-12-07 18:14:57 +0100 -> Forslag nr. 31 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101207 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-07 18:15:23 +0100 -> Forslag nr. 32 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101207 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-11-26 01:45:31 +0100 -> Forslag nr. 42 - 61 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+2010-11-26 01:36:27 +0100 -> Forslag nr. 70, 71, 76, 77, 81, 94 og 95 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"hanna"}]
+	["Forslag fra Venstre", {"reason"=>"etablere", "status"=>"rejected", "username"=>"hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"hanna"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"hanna"}]
+2010-12-14 16:40:54 +0100 -> Bokstav A Rammeområde 2 romertallene I til og med VI (6)
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101214 
+	["Komiteens tilråding bokstav A. rammeområde 2, romertall I.", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Komiteens tilråding bokstav A. rammeområde 2, romertall II.", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Komiteens tilråding bokstav A. rammeområde 2, romertall III.", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Komiteens tilråding bokstav A. rammeområde 2, romertall IV.", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Komiteens tilråding bokstav A. rammeområde 2, romertall V.", {"reason"=>"mangler bindestreker mellom antall timer i tabellen", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Komiteens tilråding bokstav A. rammeområde 2, romertall VI.", {"status"=>"approved", "username"=>"Eli Foss"}]
+2010-11-26 01:47:31 +0100 -> Forslag nr. 12 - 14 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Hanna"}]
+2010-12-13 23:40:47 +0100 -> Forslag nr. 6 på vegne av FrP og H.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101213 
+	["Forslag fra Fremskrittspartiet og Høyre", {"reason"=>"mangler bindestrek mellom 2010 og 2011", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-11-26 01:47:52 +0100 -> Forslag nr. 8 - 11 på vegne av H, KrF og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Hanna"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Hanna"}]
+2010-11-26 01:51:33 +0100 -> Romertall I, § 1-3, § 3-30 og § 6-22  Stor bokstav L.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Komiteens tilråding bokstav L.", {"reason"=>"mangelfull tekst", "status"=>"rejected", "username"=>"Hanna"}]
+2010-12-13 16:05:38 +0100 -> Forslag nr. 1 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101213 
+	["Forslag fra Øyvind Korsberg på vegne av Fremskrittspartiet", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-08 19:59:44 +0100 -> Det voteres alternativt mellom innstillingens  og forslag nr.1 fra A
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101208 
+	["Komiteens tilråding", {"reason"=>"Være med i forlagsteksten til Forslag nr. 2 på vegne av Frp, som ligger ovenfor?", "status"=>"rejected", "username"=>"hanna"}]
+2010-12-09 19:52:21 +0100 -> Forslag nr. 2 og 3 på vegne av FrP, H og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101209 
+	["Forslag fra Fremskrittspartiet, Høyre og Venstre", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Forslag fra Fremskrittspartiet, Høyre og Venstre", {"reason"=>"Ufullstendig. Skal mest sannsynligvis være med i Romertall II under. ", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-16 17:02:07 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP, H og KrF
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Komiteens tilråding", {"reason"=>"mangler bindestrek mellom årstall i parantesen", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-13 23:34:26 +0100 -> Det voteres alternativt mellom innstillingens romertall I, § 8-51  og forslag nr.1 fra FrP, H og KrF
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101213 
+	["Forslag fra Fremskrittspartiet, Høyre og Kristelig olkeparti", {"status"=>"rejected", "username"=>"Eli Foss", "reason"=>"Mangler en f i overskifta "}]
+2010-11-26 01:48:49 +0100 -> Forslag nr. 1 - 3 på vegne av FrP, H, KrF og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Forslag fra Fremskrittspartiet, Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"hanna"}]
+	["Forslag fra Fremskrittspartiet, Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"hanna"}]
+	["Forslag fra Fremskrittspartiet, Høyre, Kristelig Folkeparti og Venstre", {"reason"=>"mangelfull tekst", "status"=>"rejected", "username"=>"hanna"}]
+2010-12-16 17:03:20 +0100 -> Sak nr. 7  Det voteres alternativt mellom innstillingen  og forslag nr.1, 2 og 3 fra KrF.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Komiteens tilråding", {"reason"=>"mangler bindestrek mellom årstallene i paranteseen", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-16 17:07:34 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.3 fra V
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Forslag fra Venstre", {"reason"=>"bindestrek-mangel!", "status"=>"rejected", "username"=>"hanna"}]
+2010-12-16 17:10:26 +0100 -> Forslag nr. 2 på vegne av FrP, H og KrF.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Forslag fra Bent Høie på vegne av Fremskrittspartiet, Høyre og Kristelig Folkeparti", {"reason"=>"tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-14 16:35:17 +0100 -> Forslag nr. 35, 37 og 39 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101214 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-14 16:36:03 +0100 -> Forslag nr. 36 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101214 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-16 17:04:07 +0100 -> Forslag nr. 2 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-14 16:36:34 +0100 -> Forslag nr. 38 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101214 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-13 23:35:47 +0100 -> Resten av innstillingen under romertall I, samt romertall II, III og IV
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101213 
+	["Komiteens tilråding", {"status"=>"rejected", "username"=>"Eli Foss", "reason"=>"bindestrekfeil: nove-rande"}]
+2010-12-03 13:19:04 +0100 -> romertallene I, II, III, IV, V og VI.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101203 
+	["Komiteens tilråding romertall I.", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Komiteens tilråding romertall II.", {"reason"=>"Manglende forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Komiteens tilråding romertall III.", {"reason"=>"Manglende forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Komiteens tilråding romertall IV.", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Komiteens tilråding romertall V.", {"status"=>"approved", "username"=>"Eli Foss"}]
+	["Komiteens tilråding romertall VI.", {"status"=>"approved", "username"=>"Eli Foss"}]
+2010-12-13 23:35:57 +0100 -> Lovens overskrift og loven i sin helhet
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101213 
+	["", {"reason"=>"manglende forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-16 17:01:08 +0100 -> Innstillingens forslag til vedtak.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Komiteens tilråding", {"reason"=>"mangler bindestrek mellom årstallene i parantesen", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-16 17:05:36 +0100 -> Innstillingens forslag til vedtak
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Komiteens tilråding", {"reason"=>"mangler bindestreeeeek", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-12-16 17:04:58 +0100 -> Innstillingens forslag til vedtak.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101216 
+	["Komiteens tilråding", {"reason"=>"mangler bindestrek mellom tallene i parentesen", "status"=>"rejected", "username"=>"Eli Foss"}]
+2010-11-26 01:53:19 +0100 -> Lovenes overskrifter og lovene i sin helhet
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126 
+	["Komiteens tilråding bokstav L.", {"reason"=>"Feil tekst - bokstav L er allerede koblet til forrige avstemning", "status"=>"rejected", "username"=>nil}]
+2010-12-13 23:45:28 +0100 -> 
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101213 
+	["Komiteens tilråding", {"reason"=>"mangler overskrift, heter bare klokkeslettet", "status"=>"rejected", "username"=>"hanna"}]
+2011-02-10 18:27:30 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Komiteens tilråding", {"status"=>"rejected", "username"=>"Daniel", "reason"=>"Skrivefeil: trenger bindestrek mellom stedsnavn"}]
+2011-02-10 18:27:30 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Skrivefeil: Trenger bindestrek mellom stedsnavn", "status"=>"rejected", "username"=>"Daniel"}]
+2011-02-10 18:26:50 +0100 -> Det voteres alternativt mellom innstillingen  og forslagene 1 og 2 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Trenger bindestrek mellom navn på steder", "status"=>"rejected", "username"=>"Daniel"}]
+	["Forslag fra Bård Hoksrud på vegne av Fremskrittspartiet", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Daniel"}]
+2011-02-10 18:26:50 +0100 -> Det voteres alternativt mellom innstillingen  og forslagene 1 og 2 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Komiteens tilråding", {"reason"=>"Skrivefeil: Trenger bindestrek mellom stedsnavnene", "status"=>"rejected", "username"=>"Daniel"}]
+2011-02-22 20:17:39 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110222 
+	["Komiteens tilråding", {"reason"=>"Forslagsteksten er ufullstendig (mangler en setning i midten)", "status"=>"rejected", "username"=>"hanna"}]
+2011-02-10 18:28:31 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 og 2 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+	["Forslag fra Bård Hoksrud på vegne av Fremskrittspartiet", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Daniel"}]
+2011-03-15 22:43:34 +0100 -> Forslag nr. 2 på vegne av KrF.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110315 
+	["Forslag fra Kjell Ingolf Ropstad på vegne av Kristelig Folkeparti", {"reason"=>"Mangler forslagstekst. «Stortinget ber regjeringen fremme et lovforslag som sikrer at fagdommere har en nøytral bekledning i retten.»", "status"=>"rejected", "username"=>"Vegard"}]
+2011-03-10 20:13:15 +0100 -> Forslag nr. 2 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110310 
+	["Forslag fra Ola Elvestuen på vegne av Venstre", {"reason"=>"«Stortinget ber regjeringen snarest og senest i forbindelse med behandlingen av revidert nasjonalbudsjett for 2011 fremme forslag om tiltak som bedrer tilgangen på risikovillig kapital i startfasen for oppstartsselskaper med stort vekstpotensial, bl.a. ved å erstatte dagens landsdekkende etablererstipend med en PS-ordning.»", "status"=>"rejected", "username"=>"Vegard"}]
+2011-04-05 23:45:12 +0200 -> Forslag nr. 2 og 3 på vegne av H.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Forslag fra Høyre", {"reason"=>"mangler bindestreeeek", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Eli Foss"}]
+2011-02-17 13:27:07 +0100 -> Forslag nr. 4 - 6 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110217 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Skrivefeil: etab-lering", "status"=>"rejected", "username"=>"Daniel"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Etabl-eringen", "status"=>"rejected", "username"=>"Daniel"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+2011-02-01 14:21:21 +0100 -> Forslag nr. 3 og 4 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110201 
+	["Forslag fra Fremskrittspartiet", {"status"=>"rejected", "username"=>"Daniel", "reason"=>"Ordfeil: kulturut-øvere"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+2011-02-10 18:26:20 +0100 -> Forslag nr. 3 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Forslag fra Bård Hoksrud på vegne av Fremskrittspartiet", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Daniel"}]
+2011-04-05 23:46:47 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra Venstre
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Vegard"}]
+2011-04-14 21:25:15 +0200 -> Innstillingens tilråding, resten av romertall I, samt romertall II og III
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Komiteens tilråding", {"reason"=>"mangler romertall III", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-05 23:56:50 +0200 -> Forslag nr. 5, romertall II, § 5-14 annet ledd nr. 2, samt ny § 7-7, ny § 7-8 og ny § 7-9
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-03-15 22:35:36 +0100 -> Forslag nr. 5 - 9 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110315 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Vegard"}]
+2011-04-05 23:53:04 +0200 -> Forslag nr. 1 på vegne av KrF og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Forslag fra Geir Jørgen Bekkevold på vegne av Kristelig Folkeparti og Venstre", {"reason"=>"tekst mangler", "status"=>"rejected", "username"=>"Eli Foss"}]
+2011-04-05 23:52:40 +0200 -> Forslag nr. 5 fra Venstre.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+2011-02-10 18:22:03 +0100 -> Forslag nr. 4 - 9 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Skrivefeil: videreut-vikle", "status"=>"rejected", "username"=>"Daniel"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
+2011-04-04 21:47:20 +0200 -> Forslag nr. 2 fra FrP, SV, Sp og KrF
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110404 
+	["", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"hanna"}]
+2011-04-05 23:37:32 +0200 -> Alternativ votering mellom innstillingens romertall II, § 2-3 første ledd, nytt nr.6 og forslag nr. 4 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Forslag fra Framstegspartiet", {"reason"=>"mangler noe tekst: 6. hvem som skal være selskapets revisor dersom selskapets årsregnskap skal revideres.»", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-05 23:52:13 +0200 -> Forslag nr. 2 - 4 og 6 - 8 fraVenstre
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst mangler", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst mangler", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst mangler", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst mangler", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst mangler", "status"=>"rejected", "username"=>"Eli Foss"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"tekst mangler", "status"=>"rejected", "username"=>"Eli Foss"}]
+2011-04-14 21:24:55 +0200 -> Det voteres alternativt mellom innstillingens romertall I, § 4-4 fjerde ledd og forslag nr.4 fra KrF
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Komiteens tilråding", {"reason"=>"mangler romertall III", "status"=>"rejected", "username"=>"Vegard"}]
+2011-04-14 21:18:38 +0200 -> Forslag nr. 2 - 5 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler noe tekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+2011-04-14 21:17:03 +0200 -> Det voteres alternativt mellom innstillingen Romertall I og II og forslag nr.1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Komiteens tilråding romertall II.", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler bindestrek", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-14 21:17:03 +0200 -> Det voteres alternativt mellom innstillingen Romertall I og II og forslag nr.1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Komiteens tilråding romertall I.", {"reason"=>"mangler bindestrek", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-12 22:14:20 +0200 -> Forslag nr. 8 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110412 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-12 22:13:57 +0200 -> Forslag nr. 7 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110412 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-03-28 18:09:39 +0200 -> Forslag nr. 3 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110328 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler.", "status"=>"rejected", "username"=>"Vegard"}]
+2011-04-12 22:13:39 +0200 -> Forslag nr. 6 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110412 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-26 18:43:26 +0200 -> Forslag nr. 2 og 3 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110426 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-14 21:28:28 +0200 -> Forslag nr. 5 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-05 23:42:59 +0200 -> Forslag nr. 1 på vegne av FrP, H, KrF og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Forslag fra Fremskrittspartiet, Høyre, Kristelig Folkeparti og Venstre", {"reason"=>"en bindestrek for mye", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-14 21:22:58 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr..1 fra V
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"forslagstekst mangler", "status"=>"rejected", "username"=>"Vegard"}]
+2011-04-12 22:18:01 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr..1 fra V
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110412 
+	["Forslag fra Venstre", {"reason"=>"", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-02-24 17:54:12 +0100 -> Innstillingens tilråding
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110224 
+	["Komiteens tilråding", {"reason"=>"Skrivefeil: Mangler bindestrek i årstall", "status"=>"rejected", "username"=>"Daniel"}]
+2011-02-10 18:20:59 +0100 -> romertallene I og II.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Komiteens tilråding romertall I.", {"reason"=>"Votert felles romertall I og II (slås sammen med neste avstemning)", "status"=>"rejected", "username"=>"Daniel"}]
+	["Komiteens tilråding romertall II.", {"reason"=>"Votert felles romertall I og II (slås sammen med neste avstemning)", "status"=>"rejected", "username"=>"Daniel"}]
+2011-02-03 13:58:45 +0100 -> Romertall I og II
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110203 
+	["Komiteens tilråding", {"reason"=>"Mangler et par linjer tekst på tampen", "status"=>"rejected", "username"=>"Daniel"}]
+2011-04-05 23:46:03 +0200 -> Innstillingens tilråding
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["Komiteens tilråding", {"reason"=>"mangler bindestrek inne i parentesen", "status"=>"rejected", "username"=>"Eli Foss"}]
+2011-04-14 21:09:30 +0200 -> Sak nr. 1
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Komiteens tilråding", {"reason"=>"mangler bindestrek", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-05 23:57:23 +0200 -> Forslag nr. 5, romertall V,  § 1-1 tredje ledd annet punktum
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-04-14 21:25:22 +0200 -> Lovens overskrift og loven i sin helhet.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110414 
+	["Komiteens tilråding", {"reason"=>"mangler romertall III", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-02-03 13:58:57 +0100 -> Lovens overskrift og loven i sin helhet
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110203 
+	["Komiteens tilråding", {"reason"=>"Denne teksten skal flyttes under avstemningen før (romertall I og II)", "status"=>"rejected", "username"=>"Daniel"}]
+2011-02-10 18:25:44 +0100 -> 
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Komiteens tilråding", {"reason"=>"Mangler tittel på avstemning", "status"=>"rejected", "username"=>"Daniel"}]
+2011-02-10 18:20:50 +0100 -> romertallene I og II.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210 
+	["Komiteens tilråding romertall I.", {"reason"=>"Denne og neste forslag (tilrådning romertall II) er en og samme votering (ikke 2 voteringer som det ser ut her)", "status"=>"rejected", "username"=>"Daniel"}]
+	["Komiteens tilråding romertall II.", {"reason"=>"Slås sammen med komiteens tilrådning romertall I", "status"=>"rejected", "username"=>"Daniel"}]
+2011-04-05 23:40:06 +0200 -> Forslag nr. 5, lov 29. juni 2007 nr. 75 § 5-6 femte ledd om verdipapirhandel (verdipapirhandelloven)
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110405 
+	["", {"reason"=>"Mangler tekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-05-02 17:22:08 +0200 -> Forslag nr. 4 og 5 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110502 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Forslagsteksten mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Forslagsteksten mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-05-02 17:30:31 +0200 -> Forslag nr. 6 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110502 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-05-19 15:54:22 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110519 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler noe tekst.", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-05-26 13:55:59 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr..2 - 8 og 10 fra FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110526 
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Åse Michaelsen på vegne av Fremskrittspartiet", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-05-26 13:56:33 +0200 -> Forslag nr. 1 på vegne av FrP og H.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110526 
+	["Forslag fra Fremskrittspartiet og Høyre", {"reason"=>"noe tekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-06-07 17:31:01 +0200 -> Romertall II
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607 
+	["Komiteens tilråding", {"reason"=>"Mangler dette øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
+2011-05-03 17:42:31 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP og H
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110503 
+	["Forslag fra Fremskrittspartiet og Høyre", {"reason"=>"mangler flere punkter i forslaget", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-06-06 15:01:40 +0200 -> Det voteres alternativt mellom innstillingen Romertall I  og forslag nr..1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110606 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler mellomrom mellom stedsnavnene", "status"=>"rejected", "username"=>"hanna"}]
+2011-06-06 14:59:57 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr..1 fra FrP, H og KrF
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110606 
+	["Komiteens tilråding", {"status"=>"rejected", "username"=>"hanna", "reason"=>nil}]
+2011-06-14 22:48:10 +0200 -> Stor bokstav A, B, C, D, E, F og G.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding bokstav A.", {"reason"=>"Mangelfull forslagstekst: A.\nVedtak til lov\nom endringar i lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver\nI\nLovens tittel skal lyde:\nI lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver (arveavgiftsloven)\nI lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver gjer ein følgjande endringar:\n§ 9 andre ledd skal lyde:\nBestemmelsen under første ledd bokstav a til d medfører ikke at rådigheten anses ervervet så lenge gjenlevende ektefelle eller samboer beholder midlene i uskiftet bo i henhold til lov, testament eller samtykke fra førstavdødes arvinger.\n§ 47 A nytt andre ledd skal lyde:\nDen som var samboer i samsvar med arveloven § 28 c med rett til å sitte i uskifte anses også å være samboer i arveavgiftsloven i forbindelse med samboeruskifte.\nII\nI lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver gjer ein følgjande endringar:\nOverskrifta til § 7 skal lyde:\n§ 7 Hvilken ektefelle eller samboer midlene skal regnes å komme fra\n§ 7 første ledd skal lyde:\nNår en gjenlevende ektefelle eller samboer som sitter i uskiftet bo foretar utdelinger av boets midler, utgjør avgiftsgrunnlaget det hver enkelt mottaker får tildelt. Slik utdeling anses som gave fra lengstlevende ektefelle eller samboer med mindre annet følger av de øvrige regler i denne lov.\n§ 7 andre ledd første punktum skal lyde:\nUtdeling fra gjenlevende ektefelles uskiftebo til noen som er livsarving eller testamentsarving etter begge ektefellene, ansees ved arveavgiftsberegningen å komme med en halvpart fra hver av ektefellene.\n§ 7 andre ledd nytt andre punktum skal lyde:\nUtdeling fra gjenlevende samboers uskiftebo til noen som er livsarving eller testamentsarving etter begge samboerne, anses ved arveavgiftsberegningen å komme fra hver av samboerne forholdsmessig etter nettoverdien av deres eiendeler i uskifteboet på den tiden da uskiftet tok til.\nGjeldande andre punktum blir til nytt tredje punktum.\n§ 7 tredje ledd første punktum skal lyde:\nUtdeling fra gjenlevende ektefelles eller samboers uskiftebo til noen som bare er arving etter førstavdøde, regnes i sin helhet som arv etter denne, med mindre mottakeren godtgjør at utdelingen overstiger avdødes andel i boet.\n§ 7 fjerde ledd første punktum skal lyde:\nVed oppgjør av boet etter lengstlevendes død skal det som hver arving mottar på skiftet, med tillegg av det vedkommende har mottatt under uskiftet, anses å komme fra ektefellene eller samboerne, i samme forhold som om samtlige midler var fordelt på skiftet, jf. § 6 første ledd.\n§ 8 tredje ledd andre punktum skal lyde:\nUtdeling fra gjenlevende ektefelles eller samboers uskiftebo til noen som gjennom arvefrafall blir førstavdødes arving, anses som arv etter førstavdøde så langt arvefrafallet rekker.\nIII\nEndringane under I tek til å gjelde straks.\nEndringane under II tek til å gjelde for arv og gåve der rådvelde blir oppnådd 1. juli 2011 eller seinare, jf. arveavgiftsloven §§ 9 og 10.", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav B.", {"reason"=>"Mangelfull forslagstekst: B.\nVedtak til lov\nom endringar i lov 12. desember 1975 nr. 59\nom dokumentavgift\nI\nLovens tittel skal lyde:\nI lov 12. desember 1975 nr. 59 om dokumentavgift (dokumentavgiftsloven)\nI lov 12. desember 1975 nr. 59 om dokumentavgift gjer ein følgjande endringar:\n§ 2 bokstav e og f skal lyde:\ne) betaling av renter av avgift som blir erlagt for sent og rentegodtgjørelse ved tilbakebetaling av avgift,\nf) innbetalingsordningen og om bankers plikt til å avvise betalingsoppdrag med mangelfulle opplysninger.\nII\nEndringslova tek til å gjelde straks.", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav C.", {"reason"=>"Mangelfull forslagstekst: C.\nVedtak til lov\nom endringar i lov 13. juni 1980 nr. 24 om\nligningsforvaltning\nI\nI lov 13. juni 1980 nr. 24 om ligningsforvaltning gjer ein følgjande endringar:\n§ 3-13 nr. 4 første punktum skal lyde:\nHvis opplysninger gis med hjemmel i nr. 2 eller nr. 3 til noen som ikke selv har taushetsplikt etter annen lov, gjelder taushetsplikten etter nr. 1 tilsvarende for den som får opplysningene.\n§ 8-8 skal lyde:\n§ 8-8 Skatteliste\n1. Når ligningen er ferdig, utarbeides det en liste over alle som det er foretatt ligningsfastsettelser for. Det kan gis innsyn i og utskrift av opplysninger i listen så langt det følger av bestemmelsen her. Offentleglova får ikke anvendelse ved krav om innsyn i slike lister.\n2. Skattelisten skal inneholde den enkelte skattyters navn, postnummer, poststed, kommune, fødselsår for personlig skattyter, organisasjonsnummer for upersonlig skattyter, den fastsatte nettoformue og nettoinntekt, skatter og avgifter. Skattelisten skal ikke inneholde opplysninger om avdøde personer, opplysninger om personer som er 17 år eller yngre ved inntektsårets utgang, opplysninger om personer med adresse som er sperret i henhold til bestemmelse gitt i eller i medhold av lov om folkeregistrering av 16. januar 1970 nr. 1, opplysninger om personer uten fast bopel og opplysninger om personer der opplysningene som inngår i skattelisten kan røpe et klientforhold.\nPersonlig skattyter skal bare tas med for den kommune hvor vedkommende er skattepliktig etter skatteloven § 3-1 eller § 3-4.\nListe over personlige og upersonlige skattytere kan legges ut til forskjellig tidspunkt.\nDepartementet kan bestemme at det skal legges ut skattelister for bestemte grupper skattytere, og hvor slike lister skal legges ut.\n3. Skattedirektoratet gjør skattelisten tilgjengelig på Internett til alminnelig ettersyn. Utlegging av skatteliste kunngjøres.\nPå anmodning skal opplysninger fra skattelisten om den enkelte skattyter gis skriftlig til ham selv, ektefelle, dødsbo, konkursbo eller domstol. Slike opplysninger kan også i rimelig utstrekning gis skriftlig til andre.\n4. Fullstendige skattelister kan utleveres i elektronisk form til pressen. Listen over personlige skattytere kan likevel bare utleveres dersom det inngås avtale mellom den enkelte redaksjon og Skattedirektoratet om at hele eller deler av den mottatte skattelisten ikke kan legges ut på Internett eller gis videre til andre. Det kan kreves betaling ved utlevering av skattelister.\n5. Departementet kan gi forskrifter til utfylling av bestemmelsene her.\nII\nEndringslova tek til å gjelde straks.", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav D.", {"reason"=>"Mangelfull forslagstekst: D.\nVedtak til lov\nom endringar i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt\nI\nI lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:\n§ 6-81 tredje ledd skal lyde:\n(3) Særfradrag etter første og annet ledd gis til og med den måned skattyter fyller 67 år.\n§ 6-81 tredje ledd blir nytt fjerde ledd.\n§ 14-48 andre ledd nytt andre punktum skal lyde:\nFørste ledd gjelder ikke for negativ saldo i gruppe a, c, d og j eller gevinstsaldo på gevinst- og tapskonto, ved likvidasjon etter norsk selskapsrett av selskap mv. som tidligere er utflyttet, jf. skatteloven § 10-71 første ledd.\n§ 14-48 nye fjerde og femte ledd skal lyde:\nTredje ledd gjelder ikke for negativ saldo i gruppe a, c, d og j, og heller ikke for gevinstsaldo på gevinst- og tapskonto, når skattyter er eller blir hjemmehørende i annen stat i EØS, unntatt for selskap mv. som er eller blir hjemmehørende i lavskatteland innenfor EØS og som etter flyttingen ikke er reelt etablert og driver reell økonomisk aktivitet der, på tilsvarende vilkår som fastsatt i § 10-64 bokstav b. Bestemmelsene i §§ 14-45 til 14-47 gjelder for inntektsføring av negativ saldo i gruppe a, c, d og j og gevinstsaldo på gevinst- og tapskonto etter utflyttingen. Det må stilles sikkerhet svarende til skatteforpliktelsen, i form av bankgaranti, pant i verdipapirer eller annen betryggende sikkerhet. Kravet til sikkerhetsstillelse fastsettes av skattekontoret. Kravet til sikkerhetsstillelse gjelder ikke dersom Norge i medhold av folkerettslig overenskomst med skattyterens hjemstat kan få bistand til innfordring av skattekrav. Dersom kravet om betryggende sikkerhet i et senere inntektsår ikke lenger er oppfylt, skal negativ saldo i gruppe a, c, d og j og gevinstsaldo på gevinst- og tapskonto inntektsføres i sin helhet dette året. Tredje ledd gjelder tilsvarende for skattyter som tidligere er utflyttet, og som blir hjemmehørende utenfor EØS, samt for selskap mv. som er eller blir hjemmehørende i lavskatteland innenfor EØS og ikke er reelt etablert og driver reell økonomisk aktivitet der, på tilsvarende vilkår som fastsatt i § 10-64 bokstav b.\nTredje ledd gjelder ikke ved fusjon og fisjon som nevnt i § 11-11 første ledd, unntatt når ett eller flere av selskapene som deltar i fusjonen eller fisjonen er hjemmehørende utenfor EØS, eller hjemmehørende i et lavskatteland innenfor EØS og ikke er reelt etablert og driver reell økonomisk aktivitet der, på tilsvarende vilkår som fastsatt i § 10-64 bokstav b. Bestemmelsene i fjerde ledd annet til sjuende punktum gjelder tilsvarende.\n§ 16-1 med ny kapitteldeloverskrift skal lyde:\nFradrag i skatt for pensjonsinntekt\n§ 16-1. Skattefradrag for pensjonsinntekt\n(1) Det gis fradrag i inntektsskatt og trygdeavgift med et beløp som fastsettes av Stortinget, for skattyter som\na. mottar alderspensjon etter folketrygdloven,\nb. mottar avtalefestet pensjon (AFP) etter lov 25. juni 2010 nr. 28 om avtalefestet pensjon for medlemmer av Statens pensjonskasse eller andre tilsvarende avtaler eller lovfestede ordninger eller omfattes av § 12 i AFP-tilskottsloven, eller\nc. er skattepliktig hit for tilsvarende pensjonsinntekt som angitt i bokstav a og b, fra annen EØS-stat.\n(2) Fradraget reduseres\na. tilsvarende pensjonsgraden ved uttak av gradert alderspensjon etter folketrygdloven,\nb. tilsvarende prosentvis reduksjon i avtalefestet pensjon når slik pensjon er redusert mot arbeidsinntekt, og\nc. tilsvarende antall måneder i løpet av inntektsåret som skattyter har mottatt pensjon som nevnt i første ledd. Det samme gjelder for skattyter som har vært bosatt i riket bare en del av inntektsåret.\n(3) Fradraget nedtrappes når skattyters samlede pensjonsinntekt etter § 12-2 bokstav b overstiger fastsatte beløpsgrenser. Beløpsgrensene fastsettes årlig av Stortinget i to trinn. Fradraget nedtrappes med 15,3 prosent av pensjonsinntekt som overstiger beløpsgrensen i trinn 1, og med 6 prosent av pensjonsinntekt som overstiger beløpsgrensen i trinn 2. Beløpsgrensene reduseres tilsvarende som etter annet ledd. Pensjonsinntekt fra utlandet som ikke er skattepliktig hit, inngår i samlet pensjonsinntekt etter dette ledd. I samlet pensjonsinntekt etter dette ledd inngår ikke uførepensjon og andre ytelser som nevnt i skatteloven § 17-1 første ledd forut for overgang fra slike ytelser til alderspensjon i løpet av inntektsåret.\n(4) Skattyter som oppfyller vilkårene for skattefradrag etter denne paragrafen og for skattebegrensning etter §§ 17-1 eller 17-4 i samme inntektsår, får skatten fastsatt etter den bestemmelsen som gir lavest skatt.\n(5) Skattyter med begrenset skatteplikt etter § 2-3 fjerde ledd kan kreve skattefradrag etter denne paragraf dersom\na. skattyteren er bosatt i annen EØS-stat,\nb. Norge i medhold av folkerettslig overenskomst kan kreve utlevert opplysninger fra denne staten om skattyterens inntekts- og formuesforhold, og\nc. hele eller tilnærmet hele skattyterens alminnelige inntekt i inntektsåret skattlegges i Norge.\n(6) Skattefradraget fastsettes ikke med høyere beløp enn summen av utlignede inntektsskatter og trygdeavgift.\n(7) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.\n§ 16-10 andre ledd andre punktum vert oppheva.\n§ 16-22 første ledd skal lyde:\nUtenlandsk skatt som ikke kommer til fradrag ved dette årets skatteoppgjør, kan fremføres til fradrag i skatt i de inntil fem påfølgende årene innenfor hver av inntektskategoriene i § 16-21 første ledd a til c. Skatt betalt i utlandet i et tidligere år fradras i sin helhet før det gis fradrag for skatt betalt i utlandet i et senere år. Fremført fradrag gis etter at det er gitt fradrag for utenlandsk skatt som knytter seg til vedkommende inntektsår. Samlet fradrag for det enkelte år, innenfor hver av inntektskategoriene i § 16-21 første ledd a til c, kan ikke overstige det maksimale kreditfradraget for dette året.\n§ 16-60 skal lyde:\n§ 16-60. Anvendelsesområde for bestemmelsene om skattefradrag for underskudd for inntektsårene 2008 og 2009\n(1) Bestemmelsene i §§ 16-61 til 16-64 gjelder for selskap mv. som nevnt i § 2-2 første ledd.\n(2) Bestemmelsene gjelder også for selskap mv. som tilsvarer selskap mv. som nevnt i § 2-2 første ledd, og som er skattepliktig etter § 2-3 første ledd bokstav b eller etter petroleumsskatteloven § 2, jf. § 1.\n(3) Bestemmelsene gjelder ikke for selskap som er stiftet i inntektsåret etter bestemmelsene om skattefri omdanning av virksomhet, jf. § 11-20.\n(4) Bestemmelsene gjelder ikke for selskap mv. som er oppløst i inntektsåret.\n§ 17-1 første ledd bokstav a skal lyde:\na) mottar foreløpig uførepensjon etter folketrygdloven § 12-16 eller uførepensjon fordi ervervsevnen er satt ned med minst ⅔. Dette gjelder ikke skattyter som samtidig mottar arbeidsavklaringspenger fra folketrygden.\nII\nI lov 26. mars 1999 nr. 14 om skatt av formue og inntekt skal § 10-36 første ledd lyde:\n(1) Dersom skattyter eier flere aksjer fra samme aksjeklasse i et aksjeselskap eller allmennaksjeselskap, anses den aksjen som var først anskaffet, for å være realisert først. Dette gjelder tilsvarende når aksjer overføres som gave.\nIII\nI lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjer ein følgjande endringar:\n§ 2-38 tredje ledd bokstav e skal lyde:\ne. gevinst ved realisasjon eller uttak av eierandel i selskap som nevnt i § 10-40 første ledd eller tilsvarende utenlandsk selskap, dersom selskapets samlede verdi av aksjer mv. som faller inn under a-d i dette ledd, på noe tidspunkt de to siste årene frem til innvinningstidspunktet har oversteget 10 prosent av selskapets totale verdier av aksjer mv.\n§ 2-38 tredje ledd ny bokstav f skal lyde:\nf. tap ved realisasjon eller uttak av eierandel i selskap som nevnt i § 10-40 første ledd eller tilsvarende utenlandsk selskap, dersom selskapets samlede verdi av aksjer mv. som faller inn under a-d i dette ledd, i en periode på to år forut for oppofrelsestidspunktet sammenhengende har oversteget 10 prosent av selskapets totale verdier av aksjer mv.\nGjeldande tredje ledd bokstav f blir tredje ledd ny bokstav g.\nIV\nI lov 26. mars 1999 nr. 14 om skatt av formue og inntekt skal § 16-40 sjuande ledd nytt siste punktum lyde:\nDepartementet kan gi forskrift om utveksling av opplysninger tilknyttet et forsknings- og utviklingsprosjekt mellom Norges forskningsråd og ligningsmyndighetene uavhengig av taushetsplikt, og gi forskrift om sanksjoner ved brudd på vilkårene for godkjenning av prosjekt.\nV\nEndringane under I tek til å gjelde straks med verknad frå og med inntektsåret 2011.\nEndringa under II tek til å gjelde straks med verknad frå og med 13. mai 2011.\nEndringane under III tek til å gjelde straks med verknad for gevinstar og tap som blir realiserte frå og med 13. mai 2011.\nEndringa under IV tek til å gjelde 1. juli 2011.", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav E.", {"reason"=>"Mangelfull forslagstekst: E.\nVedtak til lov\nom endring i lov 12. desember 2003 nr. 108 om\nkompensasjon av merverdiavgift for kommuner,\nfylkeskommuner mv.\nI\nI lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. skal § 15 andre ledd lyde:\nKompensasjon tillegges renter fra den dag fristen for behandling av kravet etter § 9 er utløpt og til og med den dag kompensasjonsbeløpet utbetales.\nII\nEndringslova tek til å gjelde straks.", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav F.", {"reason"=>"Mangelfull forslagstekst: Vedtak til lov\nom endring i lov 21. desember 2007 nr. 119 om toll og vareførsel\nI\nI lov 21. desember 2007 nr. 119 om toll og vareførsel skal § 12-1 fjerde ledd første punktum lyde:\nHvis opplysninger gis med hjemmel i annet ledd eller tredje ledd, til noen som ikke selv har like streng eller tilsvarende taushetsplikt etter annen lov, gjelder taushetsplikten etter første ledd tilsvarende for den som får opplysningene.\nII\nEndringslova tek til å gjelde straks.", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav G.", {"reason"=>"Mangelfull forslagstekst: G.\nVedtak til lov\nom endringar i lov 19. juni 2009 nr. 58 om\nmerverdiavgift\nI\nI lov 19. juni 2009 nr. 58 om merverdiavgift gjer ein følgjande endringar:\n§ 13-2 fjerde ledd første punktum skal lyde:\nHvis opplysninger gis med hjemmel i annet ledd, tredje ledd eller forvaltningsloven § 18 til noen som ikke selv har taushetsplikt etter annen lov, gjelder taushetsplikten etter første ledd tilsvarende for den som får opplysningene.\n§ 21-3 første ledd første punktum skal lyde:\nDen som forsettlig eller uaktsomt overtrer denne loven eller forskrifter gitt i medhold av loven, og ved det har eller kunne ha påført staten tap, kan ilegges inntil 100 prosent avgift i tillegg til merverdiavgift fastsatt etter § 18-1 og § 18-4 første og annet ledd.\nII\nEndringslova tek til å gjelde straks.", "status"=>"rejected", "username"=>"Vegard"}]
+2011-05-23 18:26:26 +0200 -> Forslag nr. 5 - 7 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110523 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-05-02 17:33:09 +0200 -> Forslag nr. 2 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110502 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-06-07 17:34:35 +0200 -> Det voteres alternativt mellom innstillingen og forslag nr.2 og 3 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Mangler forslagstekst fra nr. 3", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-10 12:39:38 +0200 -> Det voteres alternativt mellom de øvrige paragrafer under romertall I og forslag 1 og 3 fra FrP og H
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110610 
+	["Forslag fra Fremskrittspartiet og Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Nikolai Astrup på vegne av Fremskrittspartiet og Høyre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-14 22:45:53 +0200 -> Forslag nr. 22 - 37 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"rejected", "username"=>"Vegard", "reason"=>"mangler fullstendig forslagstekst:«I\nI lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjøres følgende endringer:\n§ 16-40 annet ledd ny bokstav c skal lyde:\nc. Skattyters kostnader til egenutført forsknings- og utviklingsprosjekt vedrørende klima, miljø eller energieffektivisering begrenset til 10 mill. kroner, eller 14 mill. kroner for tilsvarende prosjekt utført av forskningsinstitusjon godkjent av Norges forskningsråd. Prosjektet må være godkjent av Norges forskningsråd. Samlet fradragsgrunnlag etter denne bestemmelse skal ikke overstige 14 mill. kroner i inntektsåret.\nII\nEndringene under I trer i kraft straks og med virkning fra og med inntektsåret 2011.»"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"reason"=>"Mangler fullstendig forslagstekst: «I\nI lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjøres følgende endring:\n§ 5-14 første ledd bokstav a skal lyde:\na) Fordelen settes til differansen mellom den verdien som kan oppnås ved reelt salg av aksjen, redusert med 20 prosent, og det den ansatte betaler for aksjen. Den skattefrie fordelen kan likevel ikke overstige 10 000 kroner pr. inntektsår.\nII\nEndringen under I trer i kraft straks og med virkning fra og med inntektsåret 2011.»", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+2011-06-09 16:56:43 +0200 -> Forslag nr. 40 og 41 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110609 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslag", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Mangler forslag", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-09 16:54:34 +0200 -> Forslag nr. 1 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110609 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-14 22:35:19 +0200 -> Forslag nr. 6 - 8 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Vegard"}]
+2011-05-23 18:29:19 +0200 -> Forslag nr. 4 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110523 
+	["Forslag fra Abid Q. Raja på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-06-14 22:46:43 +0200 -> Forslag nr. 7 - 9 på vegne av H og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Forslag fra Høyre og Venstre", {"reason"=>"Mangelfull forslagstekst: «I\nLov 19. juni 1964 nr. 14 om avgift på arv og visse gaver oppheves.\nII\nDenne loven trer i kraft straks og med virkning for arv og gave hvor rådigheten, jf. andre til sjette ledd, anses ervervet av arve- og gavemottaker 1. juli 2011 eller senere.\nHvis ikke annet følger av arvelaters eller givers bestemmelse eller av reglene i femte og sjette ledd, ansees rådigheten ervervet slik:\na. Over arvemidler som ikke har vært under offentlig skifte: ved arvelaters død.\nb. Over midler som har vært behandlet av tingretten: når de utloddes eller utleveres uten utlodning eller boet tilbakeleveres, med mindre et høyere avgiftsgrunnlag har vært lagt til grunn ved tidligere avgiftsfastsettelse, jf. bokstav a, og fristen for å påklage den tidligere verdsettelse er utløpet ved åpningen av offentlig skifte, jf. §§ 35 og 37.\nc. Over forsvunnet persons midler som ikke undergis offentlig skifte: når dødsformodningsdagen er endelig fastsatt i henhold til lov om forsvunne personer mv. av 23. mars 1961 § 8, jf. samme lovs §§ 1 og 12.\nd. Over gavemidler: når gaven i henhold til § 2 tredje ledd ansees ytet.\nBestemmelsene under a–d foran medfører ikke at rådigheten ansees ervervet så lenge gjenlevende ektefelle beholder midlene i uskiftet bo i henhold til lov, testament eller samtykke fra førstavdødes arvinger.\nVed fastsettelsen av tiden for rådighetservervet sees det bort fra arvelaters eller givers bestemmelse om at midlene skal behandles som umyndiges midler eller være undergitt lignende rådighetsinnskrenkning.\nRådigheten over midler som består i inntektsnytelse (livrente, løpende kapitalavkastning, bruksrett, grunnavgift mv.) ansees i sin helhet å være ervervet ved første termins forfall eller ved bruksrettens inntreden. Når det er forbundet med særlige vansker å fastsette kapitalverdien av inntektsnytelsen, og når avgiftsmyndigheten finner det hensiktsmessig av andre grunner, kan rådigheten ansees ervervet etterskuddsvis for hvert enkelt års verdi av inntektsnytelsen.\nVed erverv av livsforsikringspoliser som ikke kan kreves gjenkjøpt, og av andre midler hvis vesentlige verdi er avhengig av en betingelse, ansees rådigheten over midlene ikke ervervet før betingelsen er inntrådt. Rådigheten over livsforsikringspoliser som ikke kan kreves gjenkjøpt, ansees heller ikke å være ervervet, så lenge det er uvisst hvilken form eller størrelse selskapets ytelser vil få.»\n", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Høyre og Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Høyre og Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+2011-06-14 22:47:05 +0200 -> Forslag nr. 3 - 6 på vegne av H, KrF og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"reason"=>"Mangelfull forslagstekst: «I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjøres følgende endringer:\nI\n§ 16-40 annet ledd skal lyde:\n(2) Følgende kostnader gir grunnlag for fradrag, dersom de også er fradragsberettiget etter kapittel 6:\na. Skattyters kostnader til egenutført forsknings- og utviklingsprosjekt, begrenset til 8 mill. kroner i inntektsåret. Prosjektet må være godkjent av Norges forskningsråd.\nb. Skattyters kostnader til forsknings- og utviklingsprosjekt utført av forskningsinstitusjoner godkjent av Norges forskningsråd, begrenset til 12 mill. kroner i inntektsåret. Prosjektet må være godkjent av Norges forskningsråd. Samlet fradragsgrunnlag etter bokstav a og b skal ikke overstige 12 mill. kroner i inntektsåret.\nII\n§ 16-40 annet ledd ny bokstav c skal lyde:\nKostnadsrammene i bokstav a og b skal oppreguleres årlig i henhold til konsumprisindeksen.\nIII\nEndringene under I og II trer i kraft straks og med virkning fra og med inntektsåret 2011.\nIV\nStortinget ber regjeringen fastsette en endringsforskrift til forskrift 19. november 1999 nr. 1158 (forskrift til skatteloven), som opphever regelen om maksimal timesats på 500 kroner og maksimal antall timer per år for egne ansatte på 1 850 timer fra og med 1. juli 2011.»", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Høyre, Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Vegard"}]
+2011-06-14 22:46:10 +0200 -> Forslag nr. 14 - 19 på vegne av KrF.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Kristelig Folkeparti", {"reason"=>"Delvis mangelfull forslagstekst: «I lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjøres følgende endring:\nI\n§ 14-43 annet ledd skal lyde:\n(2) Forhøyet avskrivningssats gjelder for saldo for\na. bygg med så enkel konstruksjon at det må anses å ha en brukstid på ikke over 20 år fra oppføringen. Saldo for slikt bygg kan avskrives med inntil 8 pst.\nb. driftsmidler som omfattes av første ledd bokstav h og som eies av næringsdrivende i jordbruk og skogbruk som med hjemmel i lov 19. juni 1969 nr. 66 § 31 skal eller kan levere årsoppgave for beregning av merverdiavgift, og for bortforpaktere som med hjemmel i forskrift 6. juni 2001 nr. 117 kan registreres i merverdiavgiftsmanntallet. Saldo for disse driftsmidlene kan avskrives med inntil 6 pst.\nII\nEndringen under I trer i kraft straks med virkning fra og med inntektsåret 2011.»\n", "status"=>"rejected", "username"=>"Vegard"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Vegard"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Vegard"}]
+2011-06-17 15:13:23 +0200 -> Forslag nr. 55 - 78 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"reason"=>"eva-lue-ring", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+2011-06-14 22:50:06 +0200 -> Det voteres over innstillingen.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst.", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-17 15:13:55 +0200 -> Forslag nr. 39 - 44 på vegne av KrF og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Kristelig Folkeparti og Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti og Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
+2011-06-14 22:49:26 +0200 -> Lovens overskrift og loven i sin helhet.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst. Fyll inn følgende øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-17 01:00:43 +0200 -> Forslag nr. 1 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-14 22:48:41 +0200 -> Det voteres over innstillingen.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst: Fyll inn følgende øverst : \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-17 15:13:40 +0200 -> Forslag nr. 45 - 54 på vegne av KrF.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"rejected", "username"=>"Kristofer", "reason"=>"mangler tekst"}]
+	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-14 22:50:24 +0200 -> Lovens overskrift og loven i sin helhet.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-08 13:46:43 +0200 -> § 6 annet ledd nytt tredje punktum
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110608 
+	["", {"reason"=>"ingen forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-17 00:48:54 +0200 -> Forslag nr. 13 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-17 00:49:10 +0200 -> Forslag nr. 4 - 10 og 12 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"rejected", "username"=>"Kristofer", "reason"=>"*kommunalt barnevern"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
+2011-06-08 13:49:20 +0200 -> "NB! Skriv inn tema her .......
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110608 
+	["Komiteens tilråding", {"reason"=>"nb! nb!", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-14 22:52:01 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr..1 fra FrP
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Forslagsteksten mangler, men finnes i den alternative voteringa.", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-14 22:51:20 +0200 -> Lovens overskrift og loven i sin helhet.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst.", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-14 22:51:01 +0200 -> Det voteres over innstillingen.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst.", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-14 22:53:33 +0200 -> Forslag nr. 1 på vegne av FrP.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Forslag fra Fremskrittspartiet", {"reason"=>"Mangelfull forslagstekst: Stortinget ber regjeringen etablere et eget utvalg med deltagelse fra berørte departement som skal legge frem ny strategi om bruk av salt på norske veier med sikte på kraftig reduksjon i bruk av salt med effekt fra vintersesongen 2012/2013.\nStortinget forutsetter at:\nmiljøskader på vann og natur samt skader på infrastruktur/følgekostnader ved saltbruk vektlegges,\nvirkning av veisalting på trafikksikkerhet gis en spesielt grundig vurdering. Stortinget peker spesielt på at det bør vurderes innført særskilte vintertiltak innenfor veitrafikken som kan sikre trafikksikkerheten ved bruk av mindre veisalt slik det er gjort i andre land som har redusert bruk av salt på vei,\ni arbeidet innhentes innspill fra kompetansemiljøer utenfor Statens vegvesen og Vegdirektoratet og andre berørte departement. Arbeidet bør være avsluttet våren 2012 slik at ny saltstrategi kan få effekt vinteren 2012/2013,\ndet legger til grunn at Stortinget på egnet måte blir informert om saltstrategien og om de konkrete mål for saltbruk og for trafikksikkerheten på vinterveiene.»", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-17 15:14:15 +0200 -> Forslag nr. 32 - 38 på vegne av H.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Høyre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+2011-06-15 16:18:42 +0200 -> Forslag nr. 2 og 3 på vegne av KrF.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110615 
+	["Forslag fra Line Henriette Hjemdal på vegne av Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Line Henriette Hjemdal på vegne av Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-17 15:14:29 +0200 -> Forslag nr. 31 på vegne av H og V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Høyre og Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-17 00:55:58 +0200 -> Forslag nr. 20 - 24 på vegne av V.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-17 00:56:18 +0200 -> Forslag nr. 19 på vegne av V .
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-17 00:57:17 +0200 -> Forslag nr. 15 og 16 på vegne av H.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617 
+	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
+	["Forslag fra Høyre", {"reason"=>"area-ler", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-07 17:32:34 +0200 -> Romertall I til og med III er opptatt.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607 
+	["Komiteens tilråding", {"reason"=>"mangelfull forslagstekst. Fyll inn øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-07 17:30:39 +0200 -> Romertall I, II og III er opptatt.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607 
+	["Komiteens tilråding", {"reason"=>"mangler forslagstekst. samme som over.", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-10 12:37:48 +0200 -> Komiteens tilråding
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110610 
+	["Komiteens tilråding", {"reason"=>"skrivefeil", "status"=>"rejected", "username"=>"Kristofer"}]
+2011-06-07 17:33:02 +0200 -> Innstillingens tilråding
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607 
+	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst. Fyll inn øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
+2011-06-14 22:48:20 +0200 -> Lovens overskrift og loven i sin helhet.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614 
+	["Komiteens tilråding bokstav A.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav B.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav C.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav D.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav E.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav F.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
+	["Komiteens tilråding bokstav G.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
+2011-05-19 15:52:17 +0200 -> Romertall I-IV
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110519 
+	["Komiteens tilråding", {"reason"=>"mangler punkt IV", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
+2011-06-07 17:33:26 +0200 -> Romertall I til og med IV er opptatt.
+   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607 
+	["Komiteens tilråding", {"reason"=>"Jeg har hittil avist alle med lignende mangler i forslagsteksten, men jeg er usikker på om det egentlgi er nødvendig. Likevel, det som mangler er: Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov ", "status"=>"rejected", "username"=>"Vegard"}]
+count: 150

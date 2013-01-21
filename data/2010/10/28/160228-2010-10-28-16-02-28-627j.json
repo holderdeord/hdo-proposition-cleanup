@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-10-28 16:02:28.627j",
+  "externalIssueId": "47568",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak nr. 5",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-10-28 16:02:28 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-10-28 16:02:28 +0200:21",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 21 S (20092010)  årsrapport\nfor virksomheten til Stortingets delegasjon for arktisk parlamentarisk\nsamarbeid for perioden 22. oktober 2009 til 15. september 2010 \nvedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-12 22:17:06.477j",
+  "externalIssueId": "48297",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr.5",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-12 22:17:06 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-12 22:17:06 +0200:1482",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget ber regjeringen informere på\negnet måte om hvilke tiltak den har iverksatt for oppfølging av\njustisministerens redegjørelse 17. november 2010  om spørsmål knyttet\ntil mulig ulovlig overvåking av norske statsborgere.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

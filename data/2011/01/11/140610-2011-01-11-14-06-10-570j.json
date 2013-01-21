@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-01-11 14:06:10.570j",
+  "externalIssueId": "46868",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 5",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-01-11 14:06:10 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-01-11 14:06:10 +0100:1139",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Sak om Forsvarets bruk av midlar under\nNorwegian Battle Lab & Experimentation (NOBLE)  vert lagd ved\nprotokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

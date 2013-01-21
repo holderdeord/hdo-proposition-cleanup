@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-17 12:54:32.090j",
+  "externalIssueId": "47290",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens forslag til vedtak.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-17 12:54:32 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-17 12:54:32 +0100:1102",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 3:11 (20092010)  Riksrevisjonens undersøkelse\nav skatteetatens kontroll av selvangivelser og grunnlagsdata  vedlegges\nprotokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

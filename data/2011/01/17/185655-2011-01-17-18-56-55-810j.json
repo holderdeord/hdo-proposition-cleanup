@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-01-17 18:56:55.810j",
+  "externalIssueId": "48896",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak 3",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-01-17 18:56:55 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-01-17 18:56:55 +0100:1140",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i at Norge slutter\nseg til avtalen om utvidelse av IMFs multilaterale innlånsordning\n«New Arrangements to Borrow» (NAB), innenfor en ramme for lån fra\nNorge på 3 871 mill. SDR.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

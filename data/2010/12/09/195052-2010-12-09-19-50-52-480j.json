@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-09 19:50:52.480j",
+  "externalIssueId": "47915",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak 6",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-09 19:50:52 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-09 19:50:52 +0100:728",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=Section1>\r\n<p class=MsoNormal>Sak om statsråd Liv Signe Navarsetes og statsråd Terje <span\r\nclass=SpellE>Riis-Johansens</span> forhold til inhabilitet i forbindelse med\r\npengegaver til Senterpartiet  vedlegges protokollen<BR>\r\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

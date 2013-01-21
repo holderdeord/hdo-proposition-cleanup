@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-22 20:16:00.833j",
+  "externalIssueId": "48630",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-22 20:16:00 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-22 20:16:00 +0100:1217",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker til å sette i kraft\nen overenskomst mellom Kongeriket Norge og Republikken Liberia om\nopplysninger i skattesaker underskrevet i Paris 10. november 2010.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

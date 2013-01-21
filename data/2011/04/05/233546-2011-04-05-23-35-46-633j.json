@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-05 23:35:46.633j",
+  "externalIssueId": "49272",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding:",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-05 23:35:46 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-05 23:35:46 +0200:1368",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker til å sette i kraft\nen overenskomst mellom Norge og Andorra om opplysninger i skattesaker\nunderskrevet i Paris 24. februar 2010.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,4396 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-05 23:38:10.867j",
+  "externalIssueId": "48811",
+  "counts": {
+    "for": 77,
+    "against": 21,
+    "absent": 71
+  },
+  "personal": true,
+  "enacted": true,
+  "subject": "Innstillingens tilråding, Romertall II, § 7-6, nytt fjerde og femte ledd, samt romertall V § 2-1 sjuende ledd og romertall IX annet punktum",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-05 23:38:10 +0200",
+  "representatives": [
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "AKSH",
+      "firstName": "Aksel",
+      "lastName": "Hagen",
+      "dateOfBirth": "1953-10-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ALJ",
+      "firstName": "Anna",
+      "lastName": "Ljunggren",
+      "dateOfBirth": "1984-06-12T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "UIL",
+      "firstName": "Ulf",
+      "lastName": "Leirstein",
+      "dateOfBirth": "1973-06-29T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "ØYVH",
+      "firstName": "Øyvind",
+      "lastName": "Halleraker",
+      "dateOfBirth": "1951-10-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TR",
+      "firstName": "Torstein",
+      "lastName": "Rudihagen",
+      "dateOfBirth": "1951-08-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "TSG",
+      "firstName": "Trine Skei",
+      "lastName": "Grande",
+      "dateOfBirth": "1969-10-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "V",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "TOT",
+      "firstName": "Torgeir",
+      "lastName": "Trældal",
+      "dateOfBirth": "1965-01-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "TELA",
+      "firstName": "Terje",
+      "lastName": "Aasland",
+      "dateOfBirth": "1965-02-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SUB",
+      "firstName": "Susanne",
+      "lastName": "Bratli",
+      "dateOfBirth": "1966-06-09T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "SHK",
+      "firstName": "Solveig",
+      "lastName": "Horne",
+      "dateOfBirth": "1969-01-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "PTA",
+      "firstName": "Per-Willy",
+      "lastName": "Amundsen",
+      "dateOfBirth": "1971-01-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "ROAH",
+      "firstName": "Roald Aga",
+      "lastName": "Haug",
+      "dateOfBirth": "1972-07-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "OYK",
+      "firstName": "Øyvind",
+      "lastName": "Korsberg",
+      "dateOfBirth": "1960-01-30T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "PES",
+      "firstName": "Per",
+      "lastName": "Sandberg",
+      "dateOfBirth": "1960-02-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "MAAA",
+      "firstName": "Marianne",
+      "lastName": "Aasen",
+      "dateOfBirth": "1967-02-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "MN",
+      "firstName": "Marit",
+      "lastName": "Nybakk",
+      "dateOfBirth": "1947-02-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "KSW",
+      "firstName": "Karin S.",
+      "lastName": "Woldseth",
+      "dateOfBirth": "1954-08-08T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "KARH",
+      "firstName": "Kari",
+      "lastName": "Henriksen",
+      "dateOfBirth": "1955-08-09T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "JF",
+      "firstName": "Jan-Henrik",
+      "lastName": "Fredriksen",
+      "dateOfBirth": "1956-10-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Finnmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "HAFA",
+      "firstName": "Hans Frode Kielland",
+      "lastName": "Asmyhr",
+      "dateOfBirth": "1970-02-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GKG",
+      "firstName": "Gunn Karin",
+      "lastName": "Gjul",
+      "dateOfBirth": "1967-07-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "FBJ",
+      "firstName": "Frank",
+      "lastName": "Bakke-Jensen",
+      "dateOfBirth": "1965-03-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Finnmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GJB",
+      "firstName": "Geir Jørgen",
+      "lastName": "Bekkevold",
+      "dateOfBirth": "1963-11-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "EKS",
+      "firstName": "Eirin",
+      "lastName": "Sund",
+      "dateOfBirth": "1967-04-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "ELN",
+      "firstName": "Elisabeth Røbekk",
+      "lastName": "Nørve",
+      "dateOfBirth": "1951-03-28T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "AGES",
+      "firstName": "Åge",
+      "lastName": "Starheim",
+      "dateOfBirth": "1946-05-22T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ALEH",
+      "firstName": "Alf Egil",
+      "lastName": "Holmelid",
+      "dateOfBirth": "1947-12-12T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "VKG",
+      "firstName": "Vigdis",
+      "lastName": "Giltun",
+      "dateOfBirth": "1952-03-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TROH",
+      "firstName": "Trond",
+      "lastName": "Helleland",
+      "dateOfBirth": "1962-07-09T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "UEK",
+      "firstName": "Ulf Erik",
+      "lastName": "Knudsen",
+      "dateOfBirth": "1964-12-19T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TRUW",
+      "firstName": "Truls",
+      "lastName": "Wickholm",
+      "dateOfBirth": "1978-10-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TEF",
+      "firstName": "Thor Erik",
+      "lastName": "Forsberg",
+      "dateOfBirth": "1980-04-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "SYG",
+      "firstName": "Sylvi",
+      "lastName": "Graham",
+      "dateOfBirth": "1951-12-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "RE",
+      "firstName": "Robert",
+      "lastName": "Eriksson",
+      "dateOfBirth": "1974-04-22T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "PEMY",
+      "firstName": "Peter N.",
+      "lastName": "Myhre",
+      "dateOfBirth": "1954-11-28T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "JKL",
+      "firstName": "Jenny",
+      "lastName": "Klinge",
+      "dateOfBirth": "1975-11-27T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "JSN",
+      "firstName": "Janne Sjelmo",
+      "lastName": "Nordås",
+      "dateOfBirth": "1964-05-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "HEH",
+      "firstName": "Heikki Eidsvoll",
+      "lastName": "Holmås",
+      "dateOfBirth": "1972-06-27T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "HEW",
+      "firstName": "Henning",
+      "lastName": "Warloe",
+      "dateOfBirth": "1961-03-23T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GJK",
+      "firstName": "Gerd Janne",
+      "lastName": "Kristoffersen",
+      "dateOfBirth": "1952-11-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "BT",
+      "firstName": "Borghild",
+      "lastName": "Tenden",
+      "dateOfBirth": "1951-06-22T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "V",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "BEM",
+      "firstName": "Bente Stein",
+      "lastName": "Mathisen",
+      "dateOfBirth": "1956-01-31T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "AESO",
+      "firstName": "Arne",
+      "lastName": "Sortevik",
+      "dateOfBirth": "1947-03-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "WO",
+      "firstName": "Wenche",
+      "lastName": "Olsen",
+      "dateOfBirth": "1965-11-29T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "TOHA",
+      "firstName": "Tore",
+      "lastName": "Hagebakken",
+      "dateOfBirth": "1961-01-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TON",
+      "firstName": "Tore",
+      "lastName": "Nordtun",
+      "dateOfBirth": "1949-09-29T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TOVT",
+      "firstName": "Tove-Lise",
+      "lastName": "Torve",
+      "dateOfBirth": "1964-06-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TBRE",
+      "firstName": "Tor",
+      "lastName": "Bremer",
+      "dateOfBirth": "1955-02-08T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "TKK",
+      "firstName": "Tove Karoline",
+      "lastName": "Knutsen",
+      "dateOfBirth": "1951-01-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SOM",
+      "firstName": "Sonja",
+      "lastName": "Mandt",
+      "dateOfBirth": "1960-03-28T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "SRH",
+      "firstName": "Svein Roald",
+      "lastName": "Hansen",
+      "dateOfBirth": "1949-08-19T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SHAR",
+      "firstName": "Svein",
+      "lastName": "Harberg",
+      "dateOfBirth": "1958-07-29T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "LHH",
+      "firstName": "Line Henriette",
+      "lastName": "Hjemdal",
+      "dateOfBirth": "1971-10-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": "2012-09-30"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2012-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "LILH",
+      "firstName": "Lillian",
+      "lastName": "Hansen",
+      "dateOfBirth": "1957-05-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "KES",
+      "firstName": "Kenneth",
+      "lastName": "Svendsen",
+      "dateOfBirth": "1954-08-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "JGD",
+      "firstName": "Jon Georg",
+      "lastName": "Dale",
+      "dateOfBirth": "1984-06-15T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "IRLN",
+      "firstName": "Irene Lange",
+      "lastName": "Nordahl",
+      "dateOfBirth": "1968-02-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "HSK",
+      "firstName": "Henning",
+      "lastName": "Skumsvoll",
+      "dateOfBirth": "1947-03-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "HTA",
+      "firstName": "Hadia",
+      "lastName": "Tajik",
+      "dateOfBirth": "1983-07-17T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": "2012-10-05"
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "HAKH",
+      "firstName": "Håkon",
+      "lastName": "Haugli",
+      "dateOfBirth": "1969-05-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GP",
+      "firstName": "Geir",
+      "lastName": "Pollestad",
+      "dateOfBirth": "1978-08-12T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GEHN",
+      "firstName": "Geir-Ketil",
+      "lastName": "Hansen",
+      "dateOfBirth": "1956-03-12T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "CT",
+      "firstName": "Christian",
+      "lastName": "Tybring-Gjedde",
+      "dateOfBirth": "1963-08-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "BEHA",
+      "firstName": "Bendiks H.",
+      "lastName": "Arnesen",
+      "dateOfBirth": "1951-06-08T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "AREH",
+      "firstName": "Are",
+      "lastName": "Helseth",
+      "dateOfBirth": "1955-01-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "ARK",
+      "firstName": "Arve",
+      "lastName": "Kambe",
+      "dateOfBirth": "1974-11-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "AC",
+      "firstName": "Akhtar",
+      "lastName": "Chaudhry",
+      "dateOfBirth": "1961-07-22T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "STEG",
+      "firstName": "Steinar",
+      "lastName": "Gullvåg",
+      "dateOfBirth": "1946-10-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "STRH",
+      "firstName": "Stine Renate",
+      "lastName": "Håheim",
+      "dateOfBirth": "1984-05-12T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "TALI",
+      "firstName": "Tord",
+      "lastName": "Lien",
+      "dateOfBirth": "1975-09-09T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "RAE",
+      "firstName": "Rigmor Andersen",
+      "lastName": "Eide",
+      "dateOfBirth": "1954-06-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "OLET",
+      "firstName": "Olemic",
+      "lastName": "Thommessen",
+      "dateOfBirth": "1956-04-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "LVA",
+      "firstName": "Lene",
+      "lastName": "Vågslid",
+      "dateOfBirth": "1986-03-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "JONG",
+      "firstName": "Jon Jæger",
+      "lastName": "Gåsvatn",
+      "dateOfBirth": "1954-06-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ISC",
+      "firstName": "Ingjerd",
+      "lastName": "Schou",
+      "dateOfBirth": "1955-01-19T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "IME",
+      "firstName": "Ine M. Eriksen",
+      "lastName": "Søreide",
+      "dateOfBirth": "1976-05-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GOK",
+      "firstName": "Gorm",
+      "lastName": "Kjernli",
+      "dateOfBirth": "1981-12-30T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "GJH",
+      "firstName": "Gjermund",
+      "lastName": "Hagesæter",
+      "dateOfBirth": "1960-12-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "DTA",
+      "firstName": "Dag Terje",
+      "lastName": "Andersen",
+      "dateOfBirth": "1957-05-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "EAS",
+      "firstName": "Elisabeth",
+      "lastName": "Aspaker",
+      "dateOfBirth": "1962-10-15T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "BTH",
+      "firstName": "Bente",
+      "lastName": "Thorsen",
+      "dateOfBirth": "1958-10-30T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "BÅH",
+      "firstName": "Bård",
+      "lastName": "Hoksrud",
+      "dateOfBirth": "1973-03-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ES",
+      "firstName": "Erna",
+      "lastName": "Solberg",
+      "dateOfBirth": "1961-02-23T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "EVH",
+      "firstName": "Eva Kristin",
+      "lastName": "Hansen",
+      "dateOfBirth": "1973-03-04T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "BENH",
+      "firstName": "Bent",
+      "lastName": "Høie",
+      "dateOfBirth": "1971-05-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ANMB",
+      "firstName": "Anne Marit",
+      "lastName": "Bjørnflaten",
+      "dateOfBirth": "1969-06-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "SOH",
+      "firstName": "Sigvald Oppebøen",
+      "lastName": "Hansen",
+      "dateOfBirth": "1950-09-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SAG",
+      "firstName": "Svein",
+      "lastName": "Gjelseth",
+      "dateOfBirth": "1950-02-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "MAM",
+      "firstName": "Marianne",
+      "lastName": "Marthinsen",
+      "dateOfBirth": "1980-08-24T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": "2012-10-26"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2012-10-27",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "MIT",
+      "firstName": "Michael",
+      "lastName": "Tetzschner",
+      "dateOfBirth": "1954-02-08T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "KAAN",
+      "firstName": "Karin",
+      "lastName": "Andersen",
+      "dateOfBirth": "1952-12-15T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "LAT",
+      "firstName": "Laila",
+      "lastName": "Thorsen",
+      "dateOfBirth": "1967-06-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "KJT",
+      "firstName": "Kjersti",
+      "lastName": "Toppe",
+      "dateOfBirth": "1967-10-19T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "KKK",
+      "firstName": "Kari Kjønaas",
+      "lastName": "Kjos",
+      "dateOfBirth": "1962-01-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "KNO",
+      "firstName": "Knut Magnus",
+      "lastName": "Olsen",
+      "dateOfBirth": "1954-05-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "JFC",
+      "firstName": "Jette F.",
+      "lastName": "Christensen",
+      "dateOfBirth": "1983-05-31T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "IVK",
+      "firstName": "Ivar",
+      "lastName": "Kristiansen",
+      "dateOfBirth": "1956-02-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "EIRS",
+      "firstName": "Eirik",
+      "lastName": "Sivertsen",
+      "dateOfBirth": "1971-03-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "DH",
+      "firstName": "Dagfinn",
+      "lastName": "Høybråten",
+      "dateOfBirth": "1957-12-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "CNR",
+      "firstName": "Christina Nilsson",
+      "lastName": "Ramsøy",
+      "dateOfBirth": "1986-11-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "AAST",
+      "firstName": "Arild",
+      "lastName": "Stokkan-Grande",
+      "dateOfBirth": "1978-04-04T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "THB",
+      "firstName": "Thomas",
+      "lastName": "Breen",
+      "dateOfBirth": "1972-09-12T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TL",
+      "firstName": "Thor",
+      "lastName": "Lillehovde",
+      "dateOfBirth": "1948-04-02T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SMY",
+      "firstName": "Sverre",
+      "lastName": "Myrli",
+      "dateOfBirth": "1971-08-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "SNV",
+      "firstName": "Snorre Serigstad",
+      "lastName": "Valen",
+      "dateOfBirth": "1984-09-15T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SONS",
+      "firstName": "Sonja Irene",
+      "lastName": "Sjøli",
+      "dateOfBirth": "1949-06-05T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SIVJ",
+      "firstName": "Siv",
+      "lastName": "Jensen",
+      "dateOfBirth": "1969-05-31T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "SME",
+      "firstName": "Siri A.",
+      "lastName": "Meling",
+      "dateOfBirth": "1963-02-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "PB",
+      "firstName": "Per Roar",
+      "lastName": "Bredvold",
+      "dateOfBirth": "1957-03-04T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "OVA",
+      "firstName": "Øyvind",
+      "lastName": "Vaksdal",
+      "dateOfBirth": "1955-10-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "MAKO",
+      "firstName": "Martin",
+      "lastName": "Kolberg",
+      "dateOfBirth": "1949-02-23T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "MOJ",
+      "firstName": "Morten Ørsal",
+      "lastName": "Johansen",
+      "dateOfBirth": "1964-09-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "KNAH",
+      "firstName": "Knut Arild",
+      "lastName": "Hareide",
+      "dateOfBirth": "1972-11-22T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "KSTO",
+      "firstName": "Kari",
+      "lastName": "Storstrand",
+      "dateOfBirth": "1969-03-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "KETS",
+      "firstName": "Ketil",
+      "lastName": "Solvik-Olsen",
+      "dateOfBirth": "1972-02-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "JASP",
+      "firstName": "Jorodd",
+      "lastName": "Asphjell",
+      "dateOfBirth": "1960-07-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "JBO",
+      "firstName": "Jan",
+      "lastName": "Bøhler",
+      "dateOfBirth": "1952-02-29T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "IBTH",
+      "firstName": "Ib",
+      "lastName": "Thomsen",
+      "dateOfBirth": "1961-10-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "IHE",
+      "firstName": "Ingrid",
+      "lastName": "Heggø",
+      "dateOfBirth": "1961-08-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "IMT",
+      "firstName": "Inga Marte",
+      "lastName": "Thorkildsen",
+      "dateOfBirth": "1976-07-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "IOL",
+      "firstName": "Ingalill",
+      "lastName": "Olsen",
+      "dateOfBirth": "1955-12-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Finnmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "HML",
+      "firstName": "Hilde",
+      "lastName": "Magnusson",
+      "dateOfBirth": "1970-06-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "HOSY",
+      "firstName": "Hans Olav",
+      "lastName": "Syversen",
+      "dateOfBirth": "1966-11-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GKB",
+      "firstName": "Gina Knutson",
+      "lastName": "Barstad",
+      "dateOfBirth": "1986-04-27T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "GAG",
+      "firstName": "Gunnar",
+      "lastName": "Gundersen",
+      "dateOfBirth": "1956-05-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "DOT",
+      "firstName": "Dag Ole",
+      "lastName": "Teigen",
+      "dateOfBirth": "1982-08-09T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ATW",
+      "firstName": "Anne Tingelstad",
+      "lastName": "Wøien",
+      "dateOfBirth": "1965-06-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "WAP",
+      "firstName": "Willy",
+      "lastName": "Pedersen",
+      "dateOfBirth": "1981-10-31T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Finnmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "ØH",
+      "firstName": "Øyvind",
+      "lastName": "Håbrekke",
+      "dateOfBirth": "1969-12-19T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TRI",
+      "firstName": "Torbjørn Røe",
+      "lastName": "Isaksen",
+      "dateOfBirth": "1978-07-27T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TMS",
+      "firstName": "Tone Merete",
+      "lastName": "Sønsterud",
+      "dateOfBirth": "1959-05-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "TMV",
+      "firstName": "Trygve Slagsvold",
+      "lastName": "Vedum",
+      "dateOfBirth": "1978-11-30T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "TAS",
+      "firstName": "Tor-Arne",
+      "lastName": "Strøm",
+      "dateOfBirth": "1952-05-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "SAF",
+      "firstName": "Svein",
+      "lastName": "Flåtten",
+      "dateOfBirth": "1944-10-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "PO",
+      "firstName": "Per Arne",
+      "lastName": "Olsen",
+      "dateOfBirth": "1961-02-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "POL",
+      "firstName": "Per Olaf",
+      "lastName": "Lundteigen",
+      "dateOfBirth": "1953-04-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": "2012-09-30"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2012-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "PEG",
+      "firstName": "Peter Skovholt",
+      "lastName": "Gitmark",
+      "dateOfBirth": "1977-04-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "MORH",
+      "firstName": "Morten",
+      "lastName": "Høglund",
+      "dateOfBirth": "1965-07-15T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "NA",
+      "firstName": "Nikolai",
+      "lastName": "Astrup",
+      "dateOfBirth": "1978-06-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "MAGR",
+      "firstName": "Magne",
+      "lastName": "Rommetveit",
+      "dateOfBirth": "1956-04-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "LAG",
+      "firstName": "Laila",
+      "lastName": "Gustavsen",
+      "dateOfBirth": "1973-10-23T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "LCH",
+      "firstName": "Linda C. Hofstad",
+      "lastName": "Helleland",
+      "dateOfBirth": "1977-08-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "JTS",
+      "firstName": "Jan Tore",
+      "lastName": "Sanner",
+      "dateOfBirth": "1965-05-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "IJ",
+      "firstName": "Irene",
+      "lastName": "Johansen",
+      "dateOfBirth": "1961-01-06T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": "2012-10-26"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2012-10-27",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "HTN",
+      "firstName": "Harald T.",
+      "lastName": "Nesvik",
+      "dateOfBirth": "1966-05-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "IAG",
+      "firstName": "Ingebjørg",
+      "lastName": "Godskesen",
+      "dateOfBirth": "1957-05-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "HEIG",
+      "firstName": "Heidi",
+      "lastName": "Greni",
+      "dateOfBirth": "1962-07-02T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "HHL",
+      "firstName": "Hallgeir H.",
+      "lastName": "Langeland",
+      "dateOfBirth": "1955-11-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "FR",
+      "firstName": "Freddy",
+      "lastName": "de Ruiter",
+      "dateOfBirth": "1969-04-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "BVS",
+      "firstName": "Bård Vegar",
+      "lastName": "Solhjell",
+      "dateOfBirth": "1971-12-21T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "ARLH",
+      "firstName": "Arne L.",
+      "lastName": "Haugen",
+      "dateOfBirth": "1939-07-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "PKF",
+      "firstName": "Per-Kristian",
+      "lastName": "Foss",
+      "dateOfBirth": "1950-07-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "OG",
+      "firstName": "Oskar J.",
+      "lastName": "Grimstad",
+      "dateOfBirth": "1954-11-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "LIC",
+      "firstName": "Lise",
+      "lastName": "Christoffersen",
+      "dateOfBirth": "1955-08-04T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "LMY",
+      "firstName": "Lars",
+      "lastName": "Myraune",
+      "dateOfBirth": "1944-08-04T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "LRE",
+      "firstName": "Laila Marie",
+      "lastName": "Reiertsen",
+      "dateOfBirth": "1960-10-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "LD",
+      "firstName": "Laila",
+      "lastName": "Dåvøy",
+      "dateOfBirth": "1948-08-10T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": "2012-09-30"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2012-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "KSIM",
+      "firstName": "Kåre",
+      "lastName": "Simensen",
+      "dateOfBirth": "1955-08-29T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Finnmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "KBH",
+      "firstName": "Kjell Børre",
+      "lastName": "Hansen",
+      "dateOfBirth": "1957-05-04T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "KJR",
+      "firstName": "Kjell Ingolf",
+      "lastName": "Ropstad",
+      "dateOfBirth": "1985-05-31T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": "2012-09-30"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2012-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "JHR",
+      "firstName": "Jørund",
+      "lastName": "Rytman",
+      "dateOfBirth": "1977-05-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "GUE",
+      "firstName": "Gunvor",
+      "lastName": "Eldegard",
+      "dateOfBirth": "1963-04-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "EBO",
+      "firstName": "Else-May",
+      "lastName": "Botten",
+      "dateOfBirth": "1973-08-15T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "DE",
+      "firstName": "Dagrun",
+      "lastName": "Eriksen",
+      "dateOfBirth": "1971-06-27T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "BLO",
+      "firstName": "Bjørn",
+      "lastName": "Lødemel",
+      "dateOfBirth": "1958-08-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ATR",
+      "firstName": "Anette",
+      "lastName": "Trettebergstuen",
+      "dateOfBirth": "1981-05-24T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "for",
+      "kind": "hdo#representative",
+      "externalId": "AWE",
+      "firstName": "Anders B.",
+      "lastName": "Werp",
+      "dateOfBirth": "1961-12-15T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "against",
+      "kind": "hdo#representative",
+      "externalId": "ANA",
+      "firstName": "Anders",
+      "lastName": "Anundsen",
+      "dateOfBirth": "1975-11-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "voteResult": "absent",
+      "kind": "hdo#representative",
+      "externalId": "ASC",
+      "firstName": "Åse",
+      "lastName": "Michaelsen",
+      "dateOfBirth": "1960-06-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-05 23:38:10 +0200:1372",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i revisorloven og enkelte andre lover\n(unntak fra revisjonsplikt for små aksjeselskaper) <p><b>I</b></p>I lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven)\ngjøres følgende endringer:<p><b>§ 3-6 første ledd annet punktum skal\nlyde:</b></p><p>Tilsvarende gjelder den som får <em>pålegg om bokføring</em> etter\n§ 4-13.</p><p><b>I § 4-13 skal paragrafoverskriften lyde:</b></p><p><b>§ 4-13. <em>Pålegg om bokføring</em></b></p><p><b>§ 4-13 annet punktum skal lyde:</b></p><p><em>Pålegg om bokføring</em> rettes til styret\ni selskap, samvirkeforetak, forening, innretning eller organisasjon\nog sendes hvert medlem. </p><p><b>Ny § 4-15 skal lyde:</b></p><p><b>§ 4-15. <em>Pålegg om revisjon</em></b></p><p><em>1.\tNår skattyters årsregnskap er fastsatt\ni strid med bestemmelser i eller i medhold av regnskapsloven eller\nbokføringsloven eller god regnskapsskikk eller bokføringsskikk,\nkan ligningsmyndighetene pålegge at ett eller flere årsregnskap\nrevideres av en registrert eller statsautorisert revisor i samsvar\nmed revisorloven § 2-2 for følgende selskap:</em></p><p><em>a)\taksjeselskap der det er truffet beslutning\ni medhold av fullmakt etter aksjeloven § 7-6,</em></p><p><em>b)\tselskap som nevnt i regnskapsloven § 1-2 første ledd\nnr. 13 som er organisert etter en utenlandsk selskapsform som i\ndet vesentligste tilsvarer definisjonen av aksjeselskap i aksjeloven\n§ 1-1 annet ledd, og som ikke har revisjonsplikt etter revisorloven\n§ 2-1. </em></p><p><em>2.\tPålegg om revisjon kan gis på grunnlag\nav forhold som nevnt i første ledd knyttet til årsregnskapet for\nsiste regnskapsår samt de tre foregående årene. </em></p><p><em>3.\tPålegg om revisjon kan ikke gjøres gjeldende\nfor mer enn tre regnskapsår.</em></p><p><em>4.\tPålegg om revisjon rettes til styret i selskapet.</em></p><p><em>5.\tSelskap som får pålegg om revisjon, kan klage over\npålegget dersom det mener at det ikke har plikt eller lovlig adgang\ntil å etterkomme pålegget. Klagen må være skriftlig og skal settes\nfram innen tre uker. Ligningsmyndighetene kan bestemme at pålegget\nikke skal settes i kraft før klagen er avgjort.</em></p><p><em>6.\tDepartementet kan i forskrift fastsette nærmere regler\nom pålegg om revisjon.</em></p><p><b>§ 10-6 annet ledd første punktum skal lyde:</b></p><p>Skattekontoret kan ilegge den som ikke har etterkommet <em>pålegg\nom bokføring</em> etter § 4-13 innen den fastsatte fristen,\nen daglig løpende tvangsmulkt frem til utbedring skjer.</p><p><b>II</b></p>I lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)\ngjøres følgende endringer:<p><b>§ 2-3 første ledd nr. 5 og nytt nr.\n6 skal lyde:</b></p><p>5.\thvem som skal være medlemmer av selskapets <em>styre;</em></p><p><em>6.\thvem som skal være selskapets revisor dersom selskapets\nårsregnskap skal revideres, jf. § 7-6 fjerde ledd.</em></p><p><b>§ 2-6 annet ledd tredje punktum skal lyde:</b></p><p>Redegjørelsen skal være bekreftet <em>av revisor. </em></p><p><b>§ 2-8 annet ledd annet punktum skal lyde:</b></p><p><em>Revisor</em> skal avgi erklæring om at balansen\ner utarbeidet i samsvar med disse reglene. </p><p><b>§ 5-5 tredje ledd skal lyde:</b></p><p>(3) Årsregnskapet, årsberetningen og <em>eventuelt</em> revisjonsberetningen\nskal senest en uke før generalforsamlingen sendes til hver aksjeeier\nmed kjent adresse. </p><p><b>§ 5-6 annet ledd første punktum skal lyde:</b></p><p>Styret skal innkalle til ekstraordinær generalforsamling\nnår revisor <em>som reviderer selskapets årsregnskap,</em> eller\naksjeeiere som representerer minst en tidel av aksjekapitalen, skriftlig\nkrever det for å få behandlet et bestemt angitt emne. </p><p><b>§ 5-8 annet ledd første punktum skal lyde:</b></p><p>Styret skal sende saksdokumentene med forslag til beslutning\nog begrunnelse for forslaget til alle aksjeeiere med kjent adresse,\nsamt til daglig leder og revisor <em>som reviderer selskapets\nårsregnskap. </em></p><p><b>§ 5-9 annet ledd første punktum skal lyde:</b></p><p>Dersom styret ikke innkaller generalforsamling som skal\nholdes etter loven, vedtektene eller tidligere beslutning av generalforsamlingen,\nskal tingretten gjøre dette snarest når det kreves av et styremedlem, daglig\nleder, revisor <em>som reviderer selskapets årsregnskap,</em> eller\nen aksjeeier. </p><p><b>§ 5-14 annet ledd nr. 2 skal lyde:</b></p><p>2.\tden ordinære generalforsamling avgjør forslag om\ngransking etter § 5-25 første ledd <em>eller forslag om begrenset\nrevisjon etter § 7-7;</em></p><p><b>Kapittel 7 nytt avsnitt II skal lyde:</b></p><p><b>II. Unntak fra revisjonsplikten</b></p><p><b><em>§ 7-6. Fullmakt til å unnlate revisjon</em></b></p><p><em>(1) Generalforsamlingen kan med flertall som for vedtektsendring\ngi styret fullmakt til å treffe beslutning om at selskapets årsregnskaper\nikke skal revideres etter revisorloven dersom </em></p><p><em>1.\tdriftsinntektene av den samlede virksomheten\ner mindre enn fem millioner kroner,</em></p><p><em>2.\tselskapets balansesum er mindre enn 20 millioner\nkroner, og</em></p><p><em>3.\tgjennomsnittlig antall ansatte ikke overstiger\nti årsverk.</em></p><p><em>Beslutning om fullmakt som nevnt i første punktum\nkan ikke treffes i selskap som nevnt i revisorloven § 2-1 femte\nledd.</em></p><p><em>(2) Viser et årsregnskap driftsinntekter, balansesum\neller årsverk som overstiger terskelverdiene i første ledd, skal\nselskapets årsregnskap for påfølgende regnskapsår revideres.</em></p><p><em>(3) Fullmakt som nevnt i første ledd kan trekkes tilbake\nav en senere generalforsamling dersom forslaget får tilslutning\nfra mer enn en tredel av den aksjekapitalen eller av de stemmene\nsom er representert på generalforsamlingen, eventuelt av en slik\nandel av aksjekapitalen eller stemmene som etter vedtektsbestemmelse\nsom nevnt i § 5-18 tredje ledd kreves for å hindre vedtektsendring.\nDersom fullmakt som nevnt trekkes tilbake, skal selskapets årsregnskap\nfor påfølgende regnskapsår revideres.</em></p><p><em>(4) Stifterne kan i stiftelsesdokumentet gi styret fullmakt\ntil å unnlate revisjon. Første til tredje ledd gjelder tilsvarende.</em></p><p><em>(5) Selskapet skal straks gi melding til Foretaksregisteret\ndersom styret har truffet beslutning om å benytte fullmakt som nevnt\ni første ledd eller dersom selskapets årsregnskaper igjen skal revideres\nsom følge av at vilkårene for fritak fra revisjon etter revisorloven\n§ 2-1 tredje til sjette ledd ikke lenger er til stede. Beslutning\nom å benytte fullmakt som nevnt i første ledd får ikke virkning\nfør den er registrert i Foretaksregisteret.</em></p><p><em>(6) Dersom vilkårene for fritak fra revisjon etter revisorloven\n§ 2-1 tredje til sjette ledd ikke lenger er til stede, skal styret\nstraks sørge for valg av revisor.</em></p><p><b><em>§ 7-7. Begrenset revisjon</em></b></p><p><em>(1) I selskap hvor det i medhold av § 7-6 er truffet beslutning\nom at selskapets regnskaper ikke skal revideres, kan en aksjeeier\nfremsette forslag om begrenset revisjon av selskapets årsregnskap\nfor forrige regnskapsår. Forslaget kan fremsettes på en ordinær\ngeneralforsamling eller på en generalforsamling der det fremgår\nav innkallingen at slik sak skal behandles.</em></p><p><em>(2) Får forslaget tilslutning av aksjeeiere som har\nminst en tidel av den aksjekapital som er representert på generalforsamlingen,\nskal tingretten på begjæring fra én eller flere aksjeeiere ved kjennelse beslutte\nat det skal foretas begrenset revisjon.</em></p><p><em>(3) Begrenset revisjon skal gjennomføres av en ansvarlig\nrevisor, jf. revisorloven § 3-7, utpekt av ting-retten. § 5-27 gjelder\ntilsvarende for revisorer som utfører begrenset revisjon.</em></p><p><em>(4) Retten fastsetter revisors godtgjørelse ved kjennelse.\nKostnadene ved den begrensede revisjonen bæres av selskapet. Retten\nbestemmer ved kjennelse om revisor kan kreve at selskapet på forhånd skal\ndeponere et passende beløp. Retten bestemmer i tilfelle også beløpets\nstørrelse.</em></p><p><b><em>§ 7-8. Den begrensede revisjonens innhold</em></b></p><p><em>(1) Revisor skal vurdere om det er forhold som gir\ngrunn til å tro at regnskapet ikke er utarbeidet og fastsatt i samsvar\nmed lov og forskrifter. Gjennom den begrensede revisjonen skal revisor\nbidra til å avdekke misligheter og feil.</em></p><p><em>(2) Revisor skal utføre den begrensede revisjonen\netter beste skjønn, herunder vurdere risikoen for at det kan foreligge\nfeilinformasjon i årsregnskapet som følge av misligheter og feil.\nRevisor skal utføre den begrensede revisjonen i samsvar med revisorloven\n§ 1-1 tredje ledd og god revisjonsskikk for slike oppdrag.</em></p><p><b><em>§ 7-9 Uttalelse om begrenset revisjon</em></b></p><p><em>(1) Revisor skal avgi skriftlig uttalelse om det som\ner avdekket gjennom den begrensede revisjonen til tingretten. Uttalelsen\nskal settes opp i samsvar med god revisjonsskikk for slike uttalelser.</em></p><p><em>(2) Retten innkaller generalforsamlingen til behandling\nav uttalelsen. Uttalelsen skal senest en uke før møtet sendes til\nhver aksjeeier med kjent adresse. § 7-5 gjelder tilsvarende.</em></p><p><b>§ 13-6 første ledd nr. 7 tredje punktum skal lyde:</b></p><p><em>Revisor</em> skal avgi en erklæring om at\nbalansen er gjort opp i samsvar med disse reglene.</p><p><b>§ 16-15 første ledd nr. 4 skal lyde:</b></p><p>4.\t<em>når selskapet etter loven eller etter\nvedtak fra skatte- og avgiftsmyndighetene i medhold av lov skal\nha revisor,</em> og selskapet ikke har meldt til Foretaksregisteret\nen revisor som fyller de vilkår som er fastsatt i lov;</p><p><b>III</b></p>I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper\n(allmennaksjeloven) gjøres følgende endringer:<p><b>§ 2-6 annet ledd annet punktum skal\nlyde:</b></p><p>Som uavhengig sakkyndig skal benyttes <em>revisor.</em></p><p><b>§ 2-8 annet ledd annet punktum skal lyde:</b></p><p><em>Revisor</em> skal avgi erklæring om at balansen\ner utarbeidet i samsvar med disse reglene. </p><p><b>§ 5-7 annet ledd første punktum skal lyde:</b></p><p>Styret skal innkalle til ekstraordinær generalforsamling\nnår revisor <em>som reviderer selskapets årsregnskap</em> eller\naksjeeiere som representerer minst en tjuedel av aksjekapitalen,\nskriftlig krever det for å få behandlet et bestemt angitt emne.\n</p><p><b>§ 5-9 annet ledd første punktum skal lyde:</b></p><p>Dersom styret eller bedriftsforsamlingens leder ikke innkaller\ngeneralforsamling som skal holdes etter loven, vedtektene eller\ntidligere beslutning av generalforsamlingen, skal tingretten gjøre\ndette snarest når det kreves av et styremedlem, et medlem av bedriftsforsamlingen,\ndaglig leder, revisor <em>som reviderer selskapets årsregnskap</em> eller\nen aksjeeier. </p><p><b>§ 13-6 første ledd nr. 7 tredje punktum skal lyde:</b></p><p><em>Revisor</em> skal avgi en erklæring om at\nbalansen er gjort opp i samsvar med disse reglene.</p><p><b>§ 13-28 annet ledd første punktum skal lyde:</b></p><p>Som uavhengig sakkyndig etter første ledd annet punktum\nskal benyttes <em>en revisor.</em></p><p><b>IV</b></p>I lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven)\ngjøres følgende endringer:<p><b>§ 8-2 skal lyde:</b></p><p><b>§ 8-2. Innsending til Regnskapsregisteret</b></p><p>Senest én måned etter fastsetting av årsregnskapet skal\nregnskapspliktige sende et eksemplar av årsregnskapet, årsberetningen\nog revisjonsberetningen til Regnskapsregisteret, <em>vedlagt\net oversendelsesbrev.</em> Det skal opplyses når årsregnskapet\ner fastsatt.</p><p>Regnskapspliktig som nevnt i § 1-2 første ledd nr. 13 skal\nsende inn et eksemplar av årsregnskapet, årsberetningen og revisjonsberetningen\nfor det foretaket filialen er en del av slik disse regnskapsdokumentene\ner utarbeidet, revidert og offentliggjort i henhold til lovgivningen\ni hjemstaten senest samtidig med at dette årsregnskapet skal offentliggjøres\netter lovgivningen i hjemstaten, <em>vedlagt et oversendelsesbrev.</em> Det\nskal opplyses når årsregnskapet er fastsatt, og når det skal offentliggjøres\netter lovgivningen i hjemstaten. Regnskapsdokumentene skal være\nutarbeidet på eller oversatt til norsk, dansk, svensk eller engelsk.</p><p>Regnskapsregisteret føres av den Kongen bestemmer. Innholdet\nav de innsendte dokumentene skal holdes tilgjengelig ved Regnskapsregisteret\ni 10 år.</p><p>Departementet kan gi forskrifter om at visse regnskapspliktige\nskal være fritatt fra plikten etter første ledd. Departementet kan\nfastsette nærmere reg-ler om innsending til Regnskapsregisteret <em>og\nkrav til innholdet i oversendelsesbrevet som nevnt i første ledd</em> og <em>kan</em> gi\nregler som pålegger de regnskapspliktige elektronisk innsending. <em>Departementet\nkan videre gi regler om at bestemmelser fastsatt i eller i medhold\nav § 8-1, skal gjelde tilsvarende for opplysninger den regnskapspliktige\nhar sendt til Regnskapsregisteret i oversendelsesbrevet eller på\nannen måte.</em></p><p>Lov 2. juni 1985 nr. 78 om registrering av foretak § 6-3\nom registrering og kunngjøring av selskapsopplysninger og dokumenter\npå Fellesskapets offisielle språk gjelder tilsvarende for innsending\nav oversettelser av årsregnskapet, årsberetningen og revisjonsberetningen.</p><p><b>§ 8-3 første ledd skal lyde:</b></p><p>Dersom årsregnskap, årsberetning, <em>revisjonsberetning\neller oversendelsesbrev</em> som skal sendes til Regnskapsregisteret,\nikke er avsendt før 1. august i året etter regnskapsåret, <em>eller\ndersom det etter denne fristen hefter mangler ved innsendte dokumenter\nsom nevnt etter nærmere regler fastsatt av departementet,</em> skal\nden regnskapspliktige betale forsinkelsesgebyr inntil innsendingsplikten\ner oppfylt <em>eller mangler er rettet,</em> men ikke\nfor mer enn 26 uker. Er regnskaps-året avsluttet på en dato fra\n1. januar til 30. juni, er fristen etter første punktum 1. februar.\nForsinkelsesgebyr ved innsendingsplikt etter § 8-2 annet ledd påløper\nikke før tidligst en måned etter at det utenlandske foretaket skal\noffentliggjøre årsregnskapet i henhold til reglene for dette i hjemstaten.\nDepartementet kan i forskrift utsette fristene etter første og annet punktum\nmed inntil en måned, og gi andre regler om forsinkelsesgebyr.</p><p><b>V</b></p>I lov 15. januar 1999 nr. 2 om revisjon og revisorer\n(revisorloven) gjøres følgende endringer:<p><b>§ 1-1 tredje ledd annet punktum skal\nlyde:</b></p><p>For en revisor som bekrefter opplysninger overfor offentlige\nmyndigheter <em>eller som utfører begrenset revisjon etter\naksjeloven §§ 7-7 til 7-9,</em> gjelder i tillegg § 3-7, §§\n4-1 til <em>4-7</em> og § 5-4.</p><p><b>§ 2-1 skal lyde:</b></p><p><b>§ 2-1. Revisjonsplikt og adgangen til å si opp revisor</b></p><p>Regnskapspliktige etter regnskapsloven § 1-2 første ledd\nskal påse at årsregnskapet revideres av en registrert revisor eller\nstatsautorisert revisor i samsvar med § 2-2 (revisjonsplikt) når\nikke annet er bestemt i eller i medhold av lov.</p><p>Revisjonsplikt etter første ledd gjelder ikke dersom driftsinntektene\nav den samlede virksomhet er mindre enn fem millioner kroner. Viser\nårsregnskapet driftsinntekter som overstiger beløpsgrensen, inntrer\nrevisjonsplikten for det etterfølgende regnskapsåret. Dersom driftsinntektene\ni to påfølgende regnskapsår synker under beløpsgrensen, faller revisjonsplikten\nbort med virkning fra og med det tredje regnskapsåret. Unntaket\ni første til tredje punktum gjelder ikke:</p><p>1.\taksjeselskaper og allmennaksjeselskaper, </p><p>2.\tregnskapspliktige som nevnt i regnskapsloven § 1-2 første\nledd nr. 4 der antallet deltakere overstiger fem,</p><p>3.\tkommandittselskap hvor komplementaren er en juridisk\nperson hvor ikke noen av deltakerne har personlig ansvar for forpliktelsene,\nudelt eller for deler som til sammen utgjør den juridiske personens\nsamlede forpliktelser,<em> dersom kommandittselskapet har balansesum\nhøyere enn 20 millioner kroner eller gjennomsnittlig antall ansatte høyere\nenn ti årsverk. Bestemmelsene i annet ledd annet og tredje punktum\ngjelder tilsvarende for terskelverdien for balansesum og årsverk,</em></p><p>4.\tansvarlige selskaper hvor samtlige deltakere er juridiske\npersoner hvor ikke noen av deltakerne har personlig ansvar for forpliktelsene,\nudelt eller for deler som til sammen utgjør den juridiske personens\nsamlede forpliktelser, <em>dersom det ansvarlige selskapet\nhar balansesum høyere enn 20 millioner kroner eller gjennomsnittlig\nantall ansatte høyere enn ti årsverk. Bestemmelsene i annet ledd\nannet og tredje punktum gjelder tilsvarende for terskelverdien for\nbalansesum og årsverk,</em></p><p>5.\tstiftelser.</p><p><em>For aksjeselskaper gjelder ikke revisjonsplikten etter\nførste ledd dersom det er truffet beslutning om dette i medhold\nav fullmakt som nevnt i aksjeloven § 7-6.</em></p><p><em>Unntakene</em> etter annet <em>og tredje</em> ledd\ngjelder ikke når revisjonsplikt følger av annen lov eller forskrift gitt\nmed hjemmel i lov.</p><p><em>Unntakene</em> etter annet <em>og tredje</em> ledd\ngjelder ikke for foretak som er pliktig til å utarbeide konsernregnskap, <em>eller\naksjeselskap som er morselskap etter aksjeloven § 1-3.</em></p><p><em>Unntakene etter annet og tredje ledd gjelder ikke aksjeselskap\nog selskap som nevnt i regnskapsloven § 1-2 første ledd nr. 13 som\ner organisert etter en utenlandsk selskapsform som i det vesentligste\ntilsvarer definisjonen av aksjeselskap i aksjeloven § 1-1 annet\nledd, som er under tilsyn av Finanstilsynet etter finanstilsynsloven\n§ 1. Finanstilsynet kan ved forskrift pålegge andre foretak som\ner under tilsyn av Finanstilsynet etter finanstilsynsloven § 1 revisjonsplikt,\ndersom det er nødvendig av hensyn til tilsynet med virksomheten.</em></p><p>Den revisjonspliktige kan ikke avsette revisor uten saklig\ngrunn. Uenighet vedrørende regnskapsmessig behandling eller revisjonshandlinger\nanses ikke som saklig grunn for avsettelse. Den revisjonspliktige\nskal uten ugrunnet opphold gi melding til Foretaksregisteret om\nat revisors oppdrag er avsluttet. Dersom et revisjonsoppdrag avsluttes\nfør utløpet av tjenestetiden, skal den revisjonspliktige dessuten sende\nbegrunnelse for dette til Finanstilsynet.</p><p><b>VI</b></p>I lov 17. juni 2005 nr. 67 om betaling og innkreving\nav skatte- og avgiftskrav (skattebetalingsloven) gjøres følgende\nendringer:<p><b>I § 5-13a skal paragrafoverskriften\nlyde:</b></p><p><b>§ 5-13a. <em>Pålegg om bokføring</em></b></p><p><b>§ 5-13a annet punktum skal lyde:</b></p><p><em>Pålegg om bokføring</em> rettes til styret\ni selskap, samvirkeforetak, forening, innretning eller organisasjon\nog sendes hvert medlem. </p><p><b>Ny § 5-13b skal lyde:</b></p><p><b><em>§ 5-13b. Pålegg om revisjon</em></b></p><p><em>(1) Når årsregnskapet til en arbeidsgiver som har\nplikt til å foreta forskuddstrekk eller utleggstrekk, er fastsatt\ni strid med bestemmelser i eller i medhold av regnskapsloven eller\nbokføringsloven eller god regnskapskikk eller bokføringsskikk, kan skattekontoret\npålegge at ett eller flere årsregnskap revideres av en registrert\neller statsautorisert revisor i samsvar med revisorloven § 2-2 for\nfølgende selskap:</em></p><p><em>a)\taksjeselskap der det er truffet beslutning\ni medhold av fullmakt etter aksjeloven § 7-6,</em></p><p><em>b)\tselskap som nevnt i regnskapsloven § 1-2 første ledd\nnr. 13 som er organisert etter en utenlandsk selskapsform som i\ndet vesentligste tilsvarer definisjonen av aksjeselskap i aksjeloven\n§ 1-1 annet ledd, og som ikke har revisjonsplikt etter revisorloven\n§ 2-1.</em></p><p><em>(2) Pålegg om revisjon kan gis på grunnlag av forhold\nsom nevnt i første ledd knyttet til årsregnskapet for siste regnskapsår\nsamt de tre foregående årene.</em></p><p><em>(3) Pålegg om revisjon kan ikke gjøres gjeldende for\nmer enn tre regnskapsår.</em></p><p><em>(4) Pålegg om revisjon rettes til styret i selskapet.</em></p><p><em>(5) Selskapet som får pålegg om revisjon, kan klage\nover pålegget dersom det mener at det ikke har plikt eller lovlig\nadgang til å etterkomme pålegget. Klagen må være skriftlig og skal\nsettes fram innen tre uker. Skattekontoret kan bestemme at pålegget\nikke skal settes i kraft før klagen er avgjort.</em></p><p><em>(6) Departementet kan i forskrift fastsette nærmere\nregler om pålegg om revisjon.</em></p><p><b>§ 5-15 første ledd skal lyde:</b></p><p>(1) Den som får <em>pålegg om bokføring</em> etter\n§ 5-13a eller pålegg om å gi opplysninger etter § 5-14, kan klage\nover pålegget dersom vedkommende mener at han ikke har plikt eller\nlovlig adgang til å etterkomme pålegget.</p><p><b>§ 5-16 annet ledd første punktum skal lyde:</b></p><p>Skattekontoret kan ilegge den som ikke har etterkommet <em>pålegg\nom bokføring</em> etter § 5-13a innen den fastsatte fristen,\nen daglig løpende tvangsmulkt frem til utbedring skjer.</p><p><b>VII</b></p>I lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven)\ngjøres følgende endringer:<p><b>I § 15-12 skal paragrafoverskriften\nlyde:</b></p><p><b>§ 15-12. <em>Pålegg om bokføring</em></b></p><p><b>§ 15-12 annet ledd første punktum skal lyde:</b></p><p>Pålegg <em>om bokføring</em> som nevnt i første <em>ledd\nrettes</em> til styret i selskap, samvirkeforetak, forening,\ninnretning eller organisasjon og sendes hvert styremedlem. </p><p><b>Ny § 15-12a skal lyde: </b></p><p><b><em>§ 15-12a. Pålegg om revisjon</em></b></p><p><em>(1) Når den avgiftspliktiges årsregnskap er fastsatt\ni strid med bestemmelser i eller i medhold av regnskapsloven eller\nbokføringsloven eller god regnskapsskikk eller bokføringsskikk,\nkan avgiftsmyndighetene pålegge at ett eller flere årsregnskap revideres\nav en registrert eller statsautorisert revisor i samsvar med revisorloven\n§ 2-2 for følgende selskap:</em></p><p><em>a)\taksjeselskap der det er truffet beslutning\ni medhold av fullmakt etter aksjeloven § 7-6,</em></p><p><em>b)\tselskap som nevnt i regnskapsloven § 1-2 første ledd\nnr. 13 som er organisert etter en utenlandsk selskapsform som i\ndet vesentligste tilsvarer definisjonen av aksjeselskap i aksjeloven\n§ 1-1 annet ledd, og som ikke har revisjonsplikt etter revisorloven\n§ 2-1.</em></p><p><em>(2) Pålegg om revisjon kan gis på grunnlag av forhold\nsom nevnt i første ledd knyttet til årsregnskapet for siste regnskapsår\nsamt de tre foregående årene.</em></p><p><em>(3) Pålegg om revisjon kan ikke gjøres gjeldende for\nmer enn tre regnskapsår.</em></p><p><em>(4) Pålegg om revisjon rettes til styret i selskapet.</em></p><p><em>(5) Selskapet som får pålegg om revisjon, kan klage\nover pålegget dersom det mener at det ikke har plikt eller lovlig\nadgang til å etterkomme pålegget. Klagen må være skriftlig og skal\nsettes fram innen tre uker. Avgiftsmyndighetene kan bestemme at\npålegget ikke skal settes i kraft før klagen er avgjort.</em></p><p><em>(6) Departementet kan i forskrift fastsette nærmere\nregler om pålegg om revisjon. </em></p><p><b>§ 21-1 annet ledd første punktum skal lyde:</b></p><p>Avgiftsmyndighetene kan ilegge den som ikke har etterkommet <em>pålegg\nom bokføring</em> etter § 15-12 innen den fastsatte fristen,\nen daglig løpende tvangsmulkt fram til utbedring skjer. </p><p><b>VIII</b></p><p>I lov 21. juni 1985 nr. 78 om registrering av\nforetak (foretaksregisterloven) skal § 3-1 første ledd nytt nr.\n8 lyde:</p><p><em>8.\tHvorvidt selskapet\ner unntatt revisjonsplikt etter revisorloven § 2-1 tredje ledd,\njf. aksjeloven § 7-6, og eventuelle andre opplysninger som skal\nregistreres i eller i medhold av aksjeloven § 7-6. Kongen kan i\nforskrift gi nærmere regler om innsending til og registrering i\nForetaksregisteret av meldinger som nevnt i aksjeloven § 7-6 femte ledd,\nsamt nærmere regler om melding om selskapets eventuelle eksterne\nautoriserte regnskapsfører.</em></p><p><b>IX</b></p><p>Loven gjelder fra den tid Kongen bestemmer. Kongen\nkan fastsette nærmere overgangsregler.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

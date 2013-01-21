@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-31 16:16:52.760j",
+  "externalIssueId": "49336",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-31 16:16:52 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-31 16:16:52 +0200:1722",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Meld. St. 11 (20102011)  evaluering av\nskattereformen 2006  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

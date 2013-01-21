@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-15 16:21:18.370j",
+  "externalIssueId": "49933",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-15 16:21:18 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-15 16:21:18 +0200:2013",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:122 S (20102011)  representantforslag\nfra stortingsrepresentantene Tord Lien, Elisabeth Aspaker, Dagrun\nEriksen og Trine Skei Grande om å fryse prosessen med nedleggelse\nav statlige grunnskoler for hørselshemmede  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

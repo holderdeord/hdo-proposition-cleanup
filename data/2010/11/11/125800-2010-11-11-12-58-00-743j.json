@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-11 12:58:00.743j",
+  "externalIssueId": "47328",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak nr. 12",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-11 12:58:00 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-11 12:58:00 +0100:54",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\nStortinget samtykker til å sette i kraft en overenskomst mellom Norge og\r\nMonaco om opplysninger i skattesaker, underskrevet i Paris 23. juni 2010.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

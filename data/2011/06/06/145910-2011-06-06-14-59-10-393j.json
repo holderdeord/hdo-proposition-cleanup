@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-06 14:59:10.393j",
+  "externalIssueId": "50220",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-06 14:59:10 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-06 14:59:10 +0200:1737",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Nr.</p></td><td class=\"innst-cell\"><p>Namn</p></td><td class=\"innst-cell\"><p>Alder </p></td><td class=\"innst-cell\"><p>Vedteke</p></td><td class=\"innst-cell\"><p>Pensjon i \nmånaden </p></td><td class=\"innst-cell\"><p>Gjeven frå</p></td><td class=\"innst-cell\"><p>Merknad</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Utanriksdepartementet</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Oleksii Soloviov (Ukraina)</p></td><td class=\"innst-cell\"><p>62</p></td><td class=\"innst-cell\"><p>12.4.2010</p></td><td class=\"innst-cell\"><p>340,-</p></td><td class=\"innst-cell\"><p>1.4.2010</p></td><td class=\"innst-cell\"><p>Alderspensjon</p></td></tr><tr><td class=\"innst-cell\"><p>2</p></td><td class=\"innst-cell\"><p>Nina Margaretha Hammar (Brasil)</p></td><td class=\"innst-cell\"><p>61</p></td><td class=\"innst-cell\"><p>12.5.2010</p></td><td class=\"innst-cell\"><p>3&#160;275,-</p></td><td class=\"innst-cell\"><p>1.8.2010</p></td><td class=\"innst-cell\"><p>Alderspensjon</p></td></tr><tr><td class=\"innst-cell\"><p>3</p></td><td class=\"innst-cell\"><p>Grace Bibi (Pakistan)</p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>30.10.2009</p></td><td class=\"innst-cell\"><p>200,-</p></td><td class=\"innst-cell\"><p>1.1.2010</p></td><td class=\"innst-cell\"><p>Alderspensjon</p></td></tr><tr><td class=\"innst-cell\"><p>4</p></td><td class=\"innst-cell\"><p>Nadezjda Pusjkina (Russland)</p></td><td class=\"innst-cell\"><p>59</p></td><td class=\"innst-cell\"><p>18.11.2009</p></td><td class=\"innst-cell\"><p>1&#160;003,- </p></td><td class=\"innst-cell\"><p>1.1.2010</p></td><td class=\"innst-cell\"><p>Alderspensjon</p></td></tr><tr><td class=\"innst-cell\"><p>5</p></td><td class=\"innst-cell\"><p>Chainarong Hocharoen (Thailand)</p></td><td class=\"innst-cell\"><p>60</p></td><td class=\"innst-cell\"><p>12.5.2010</p></td><td class=\"innst-cell\"><p>1&#160;910,-</p></td><td class=\"innst-cell\"><p>1.10.2010</p></td><td class=\"innst-cell\"><p>Alderspensjon</p></td></tr><tr><td class=\"innst-cell\"><p>6</p></td><td class=\"innst-cell\"><p>Manuel Antonio Lopez (Nicaragua)</p></td><td class=\"innst-cell\"><p>65</p></td><td class=\"innst-cell\"><p>12.5.2010</p></td><td class=\"innst-cell\"><p>585,-</p></td><td class=\"innst-cell\"><p>1.5.2010</p></td><td class=\"innst-cell\"><p>Alderspensjon</p></td></tr><tr><td class=\"innst-cell\"><p>7</p></td><td class=\"innst-cell\"><p>Gürcan Savci (Tyrkia)</p></td><td class=\"innst-cell\"><p>74</p></td><td class=\"innst-cell\"><p>14.10.2010</p></td><td class=\"innst-cell\"><p>242,-</p></td><td class=\"innst-cell\"><p>1.12.2009</p></td><td class=\"innst-cell\"><p>Enkjepensjon</p></td></tr><tr><td class=\"innst-cell\"><p>8</p></td><td class=\"innst-cell\"><p>Anandavalli Balakrishnan (India)</p></td><td class=\"innst-cell\"><p>73</p></td><td class=\"innst-cell\"><p>20.10.2010</p></td><td class=\"innst-cell\"><p>2&#160;156,-</p></td><td class=\"innst-cell\"><p>1.9.2010</p></td><td class=\"innst-cell\"><p>Enkjepensjon</p></td></tr><tr><td class=\"innst-cell\"><p>9</p></td><td class=\"innst-cell\"><p>Mona Mohamed (Egypt)</p></td><td class=\"innst-cell\"><p>57</p></td><td class=\"innst-cell\"><p>6.1.2011</p></td><td class=\"innst-cell\"><p>1&#160;645,-</p></td><td class=\"innst-cell\"><p>1.11.2010</p></td><td class=\"innst-cell\"><p>Enkjepensjon</p></td></tr></tbody></table>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

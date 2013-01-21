@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-12 22:17:25.413j",
+  "externalIssueId": "49424",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 6",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-12 22:17:25 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-12 22:17:25 +0200:1483",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 7:1 (20102011)  om særskilt\nmelding fra Stortingets kontrollutvalg for etterretnings-, overvåkings-\nog sikkerhetstjeneste (EOS-utvalget) om overvåking av norske borgere\ni Norge foretatt av gruppen Surveillance Detection Unit (SDU) \nvedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

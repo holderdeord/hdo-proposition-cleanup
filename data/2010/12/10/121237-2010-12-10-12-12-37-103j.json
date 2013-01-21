@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-10 12:12:37.103j",
+  "externalIssueId": "47152",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-10 12:12:37 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-10 12:12:37 +0100:800",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringar kommuneloven (møteoffentlegheit)<p><b>I</b></p>I lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner\nskal desse endringane gjerast:<p><b>§ 30 nr. 1 skal lyde:</b></p><p>Folkevalgte organer <em>behandler sine saker og</em> treffer\nsine vedtak i <em>møter.</em></p><p><b>§ 31 skal lyde:</b></p><p><b>§ 31 <em>Møteoffentlighet</em></b></p><p><em>1.\tEnhver har rett til å overvære møtene\ni folkevalgte organer.</em></p><p><em>2.\tEt folkevalgt organ skal vedta å lukke et møte\nnår det foreligger lovbestemt taushetsplikt.</em></p><p><em>3.\tEt folkevalgt organ skal vedta å lukke et møte\nnår det skal behandle en sak som angår en arbeids-takers tjenstlige\nforhold.</em></p><p><em>4.\tEt folkevalgt organ kan vedta å lukke et møte\nnår hensynet til personvern krever det.</em></p><p><em>5.\tEt folkevalgt organ kan vedta å lukke et møte\nnår hensynet til tungtveiende offentlige interesser tilsier det,\nog det vil komme fram opplysninger i møtet som kunne ha vært unntatt\noffentlig innsyn etter lov 19. mai 2006 nr. 16 (offentleglova) dersom\nde hadde stått i et dokument.</em></p><p><b>Ny § 31 a skal lyde:</b></p><p><b><em>§ 31 a Prosedyreregler mv.</em></b></p><p><em>1.\tHvis møtelederen eller vedkommende organ\nkrever det, skal debatten om lukking av et møte holdes i lukket\nmøte. Avstemningen skal skje i åpent møte.</em></p><p><em>2.\tMøtelederen skal etter anmodning gi tillatelse\ntil å gjøre opptak av eller overføre lyd eller bilde fra åpne møter,\nsåfremt dette ikke virker forstyrrende på gjennomføringen av møtet.</em></p><p><em>3.\tKommunerådet eller fylkesrådet bestemmer selv om\nderes møter skal være åpne, såfremt § 31 ikke er til hinder for\nåpenhet.</em></p><p><b>§ 68 nr. 5 siste punktum skal lyde:</b></p><p>§ 31 <em>gjelder</em> tilsvarende.</p><p><b>§ 77 nr. 8 tredje punktum skal lyde:</b></p><p>§ 31 nr. <em>3 gjelder</em> tilsvarende.</p><p><b>II</b></p><p>Lova gjeld frå den tida Kongen bestemmer.</p><p></p><p></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-10 12:37:48.987j",
+  "externalIssueId": "49306",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-10 12:37:48 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-10 12:37:48 +0200:1881",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykkjer\ni at:</p><ul class=\"innst-list-lower-decimal\"><li><p>1.\tbompengeselskapet\nHaugalandspakken AS får løyve til å ta opp lån på inntil 210 mill.\nkroner i tråd med vilkåra i Prop. 119 S (20102011) og Innst. 403 S\n(20102011)</p></li><li><p>2.\tprosjektet E6 ØyerTretten blir gjennomført inna-for\nei kostnadsramme på 1 329 mill. kroner</p></li><li><p>3.\ttakstane for bompengeprosjektet fv. 519\nFastlandssamband til Finnøy i Rogaland blir reduserte med 25 pst.</p></li><li><p>4.\tSamferdselsdepartementet får fullmakt\ntil å gjennomføre desse investeringsprosjekta som er omtalte i Prop.\n119 S (20102011):</p></li><li><ul class=\"innst-list-lower-alpha\"><li><p>a)\tbanestraumforsyninga\npå Austlandet, innafor ei kostnadsramme på 219 mill. kroner</p></li><li><p>b)\tEidsvoll stasjon, parkeringsspor, innafor\nei kostnadsramme på 203 mill. kroner</p></li><li><p>c)\tFrogner stasjon, kryssingsspor, innafor\nei kostnadsramme på 329 mill. kroner</p></li><li><p>d)\tLillestrøm stasjon, parkeringsspor,\ninnafor ei kostnadsramme på 362 mill. kroner</p></li><li><p>e)\tforlenging av spor 13 på Lillestrøm\nstasjon, innafor ei kostnadsramme på 156 mill. kroner</p></li><li><p>f)\tTrondheim stasjon, innafor ei kostnadsramme på\n160 mill. kroner.</p></li></ul></li></ul>",
+      "metadata": {
+        "reason": "skrivefeil",
+        "status": "rejected",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

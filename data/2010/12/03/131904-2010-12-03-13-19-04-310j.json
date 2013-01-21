@@ -1,0 +1,90 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-03 13:19:04.310j",
+  "externalIssueId": "47824",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "romertallene I, II, III, IV, V og VI.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-03 13:19:04 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-03 13:19:04 +0100:445",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>På Svalbardbudsjettet for 2011 bevilges under:</p><table class=\"innst-table\"><thead><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr></thead><tbody><tr><td class=\"innst-cell\"><p>Utgifter</p></td></tr><tr><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Svalbard kyrkje</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>4 011 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>2</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Tilskot til kulturelle formål m.m.</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Tilskot til velferdsarbeid på Svalbard \t</p></td><td class=\"innst-cell\"><p>960 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>3</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Tilskot til Longyearbyen lokalstyre</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Tilskot til Longyearbyen lokalstyre \t</p></td><td class=\"innst-cell\"><p>108 176 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>4</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Tilskot til Svalbard museum</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Tilskot til Svalbard museum \t</p></td><td class=\"innst-cell\"><p>5 825 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>5</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Sysselmannen (jf. kap. 3005)</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>31 900 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>6</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Sysselmannens transportteneste (jf. kap. 3006)</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>76 775 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>7</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Tilfeldige utgifter</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>4 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>9</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Kulturminnetiltak</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>2 175 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>11</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Direktoratet for mineralforvaltning med Bergmeisteren\nfor \nSvalbard</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>1 429 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>17</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Refusjon til Norsk Polarinstitutt</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>50</p></td><td class=\"innst-cell\"><p>Refusjon \t</p></td><td class=\"innst-cell\"><p>2 950 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>18</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Fyr og radiofyr</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>3 675 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>19</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Statens bygningar på Bjørnøya og Hopen</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>6 300 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>20</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Statens bygningar i Longyearbyen (jf. kap. 3020)</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>11 750 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>45</p></td><td class=\"innst-cell\"><p>Større utstyrsinnkjøp og vedlikehald, kan overførast \t</p></td><td class=\"innst-cell\"><p>4 100 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>22</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Likningsforvaltninga for Svalbard</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter \t</p></td><td class=\"innst-cell\"><p>2 860 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Totale utgifter</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>266 886 000</p></td></tr><tr><td class=\"innst-cell\"><p>Inntekter</p></td></tr><tr><td class=\"innst-cell\"><p>3005</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Sysselmannen (jf. kap. 5)</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Diverse inntekter \t</p></td><td class=\"innst-cell\"><p>200 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>3006</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Sysselmannens transportteneste (jf. kap. 6)</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Leigeinntekter \t</p></td><td class=\"innst-cell\"><p>900 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>3020</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Statens bygningar i Longyearbyen (jf. kap. 20)</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Inntekter \t</p></td><td class=\"innst-cell\"><p>3 600 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>3030</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Skattar og avgifter</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Skattar m.m. \t</p></td><td class=\"innst-cell\"><p>162 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>71</p></td><td class=\"innst-cell\"><p>Utførselsavgift \t</p></td><td class=\"innst-cell\"><p>8 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>72</p></td><td class=\"innst-cell\"><p>Utmålsgebyr, årsavgift \t</p></td><td class=\"innst-cell\"><p>1 100 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>3035</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Tilskot frå statsbudsjettet</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Tilskot \t</p></td><td class=\"innst-cell\"><p>91 086 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Totale inntekter</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>266 886 000</p></td></tr></tbody></table>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-03 13:19:04 +0100:446",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p><b>Formues- og inntektsskatt mv. til Svalbard for inntektsåret\n2011</b></p><br/><p>For inntekt som blir skattlagt etter svalbardskattelova\n§ 6-3, skal satsen vere 2 pst.</p>",
+      "metadata": {
+        "reason": "Manglende forslagstekst",
+        "status": "rejected",
+        "username": "Eli Foss"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-03 13:19:04 +0100:447",
+      "description": "Komiteens tilråding romertall III.",
+      "onBehalfOf": "",
+      "body": "<p><b>Bestillingsfullmakt</b></p><br/><p>Stortinget samtykkjer i at Justisdepartementet\ni 2011 kan bestille varer for inntil 3 mill. kroner ut over den\ntotale løyvinga som er gitt under kap. 5 post 1 på svalbardbudsjettet.</p>",
+      "metadata": {
+        "reason": "Manglende forslagstekst",
+        "status": "rejected",
+        "username": "Eli Foss"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-03 13:19:04 +0100:448",
+      "description": "Komiteens tilråding romertall IV.",
+      "onBehalfOf": "",
+      "body": "<p><b>Meirinntektsfullmakter</b></p><br/><p>Stortinget samtykkjer i at Justisdepartementet\ni 2011 kan overskride løyvinga under</p><p>1.\tkap. 5 post 1, tilsvarande det inntektsførte beløpet under\nkap. 3005 post 2</p><p>2.\tkap. 6, post 1, tilsvarande det inntektsførte beløpet under\nkap. 3006 post 2.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-03 13:19:04 +0100:449",
+      "description": "Komiteens tilråding romertall V.",
+      "onBehalfOf": "",
+      "body": "<p><b>Meirinntektsfullmakt</b></p><br/><p>Stortinget samtykkjer i at Fornyings-, administrasjons-\nog kyrkjedepartementet i 2011 kan overskride løyvinga under kap.\n20 post 1, tilsvarande inntekter utover vedteke budsjett på kap.\n3020 post 1.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-03 13:19:04 +0100:450",
+      "description": "Komiteens tilråding romertall VI.",
+      "onBehalfOf": "",
+      "body": "<p><b>Avgift av kol som blir utført frå Svalbard for budsjetterminen\n2011</b></p><br/><p>For budsjetterminen 2011 skal det svarast avgift til\nstatskassen av kol som blir utført frå Svalbard, etter følgjande\nsatsar:</p><p>1,0 pst. av verdien for dei første 100 000 tonna,</p><p>0,9 pst. av verdien for dei neste 200 000 tonna,</p><p>0,8 pst. av verdien for dei neste 300 000 tonna,</p><p>0,7 pst. av verdien for dei neste 400 000 tonna,</p><p>0,6 pst. av verdien for dei neste 500 000 tonna,</p><p>0,5 pst. av verdien for dei neste 600 000 tonna,</p><p>0,4 pst. av verdien for dei neste 700 000 tonna,</p><p>0,3 pst. av verdien for dei neste 800 000 tonna,</p><p>0,2 pst. av verdien for dei neste 900 000 tonna.</p><p>0,1 pst. av verdien for dei neste 1 000 000 tonna.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-30 19:17:49.700j",
+  "externalIssueId": "47715",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering over innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-30 19:17:49 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-30 19:17:49 +0100:381",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\nDokument 8:180 S (20092010)  representantforslag fra\r\nstortingsrepresentantene Henning Warloe, Svein Flåtten, Elisabeth Røbekk Nørve\r\nog Gunnar Gundersen om mer innovasjon i Norge  vert å leggje ved møteboka.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

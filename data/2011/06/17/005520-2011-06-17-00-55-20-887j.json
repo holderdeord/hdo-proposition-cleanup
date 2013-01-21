@@ -1,0 +1,66 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-17 00:55:20.887j",
+  "externalIssueId": "49345",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "romertallene I, II, III og IV.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-17 00:55:20 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 00:55:20 +0200:2095",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>«I statsbudsjettet for 2011 gjøres følgende endringer:<table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p>Utgifter</p></td></tr><tr><td class=\"innst-cell\"><p>2315</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Lønnsregulering for arbeidstakere i det statlige tariffområdet</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>(NY) Driftsutgifter, bevilges med\n\t</p></td><td class=\"innst-cell\"><p>935 000 000</p></td></tr><tr><td class=\"innst-cell\"><p>1530</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Midler til opplæring og utvikling av tillitsvalgte</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Tilskudd, økes med \t</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 136 462 000 til kr 144 693 000</p></td><td class=\"innst-cell\"><p>8 231 000</p></td></tr></tbody></table></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 00:55:20 +0200:2096",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i at det med virkning fra 1. mai\n2011 foretas regulering av lønningene mv. for arbeidstakere i det\nstatlige tariffområdet som er medlemmer av LO Stat, YS Stat, Unio\nog Akademikerne i samsvar med protokoll av 29. april 2011.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 00:55:20 +0200:2097",
+      "description": "Komiteens tilråding romertall III.",
+      "onBehalfOf": "",
+      "body": "<p>For embets- og tjenestemenn som ikke er medlemmer\nav organisasjoner som nevnt i II og derfor ikke får sine lønns-\nog arbeidsvilkår fastsatt i hovedtariffavtale, skal det gjelde de\nsamme lønns- og arbeidsvilkår som etter II. Embets- og tjenestemenn\nsom er tatt ut av hovedtariffavtalen, får sine lønns- og arbeidsvilkår\nfastsatt administrativt i egen kontrakt.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 00:55:20 +0200:2098",
+      "description": "Komiteens tilråding romertall IV.",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i at Finansdepartementet får\nfullmakt til å fordele bevilgningen under kap. 2315 Lønnsregulering\nfor arbeidstakere i det statlige tariffområdet, post 1 Driftsutgifter,\npå de av postene i statsbudsjettet som har lønnsbevilgning.»</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

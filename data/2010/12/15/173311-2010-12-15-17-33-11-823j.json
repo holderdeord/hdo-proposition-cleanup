@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-15 17:33:11.823j",
+  "externalIssueId": "48420",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 3",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-15 17:33:11 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-15 17:33:11 +0100:1017",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2010 blir det gjort\nfølgjande endringar:</p><table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p>Inntekter</p></td></tr><tr><td class=\"innst-cell\"><p>4030</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Fiskeridirektoratet</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>13</p></td><td class=\"innst-cell\"><p>Inntekter vederlag, blir redusert med\n\t</p></td><td class=\"innst-cell\"><p>328 000 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kroner 360 000 000 til kroner 32 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

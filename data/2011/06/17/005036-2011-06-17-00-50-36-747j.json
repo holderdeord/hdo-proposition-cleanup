@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-17 00:50:36.747j",
+  "externalIssueId": "49366",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-17 00:50:36 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 00:50:36 +0200:2073",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget gir Kommunal- og regionaldepartementet\nfullmakt til å fordele etter skjønn 2 442 mill. kroner for 2012.\nBeløpet foreslås bevilget over kap. 571 Rammetilskudd til kommuner\nog kap. 572 Rammetilskudd til fylkeskommuner.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

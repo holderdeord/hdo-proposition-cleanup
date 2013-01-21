@@ -1,0 +1,44 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-17 15:12:26.613j",
+  "externalIssueId": "50832",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "romertallene I og II.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-17 15:12:26 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 15:12:26 +0200:2132",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>I Stortingets forretningsorden gjøres følgende endring:</p><p>§ 52 annet ledd annet punktum skal lyde: </p><p>Spørsmål til skriftlig besvarelse kan ikke stilles i <i>juli måned</i>.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 15:12:26 +0200:2133",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p>Endringen trer i kraft straks.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

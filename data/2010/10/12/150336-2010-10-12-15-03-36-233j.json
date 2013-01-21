@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-10-12 15:03:36.233j",
+  "externalIssueId": "47151",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Tilrådning §§1, 2 og 3",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-10-12 15:03:36 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-10-12 15:03:36 +0200:9",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om internasjonale sikkerhetsretter i mobilt løsøre<p><b>§ 1</b></p><p>Cape Town-konvensjonen 16. november 2001 om internasjonale\nsikkerhetsretter i mobilt løsøre og protokoll 16. november 2001\ntil konvensjonen om særlige forhold for luftfartøysløsøre gjelder\nsom lov.</p><p><b>§ 2</b></p><p>Loven gjelder fra den tid Kongen bestemmer.</p><p><b>§ 3</b></p><p>Fra den tid loven trer i kraft gjøres følgende endringer\ni andre lover:</p>1.\tI lov 26. juni 1992 nr. 62 om tvangsfullbyrdelse gjøres\nfølgende endringer:<p><b>§ 11-1 nytt tredje ledd skal lyde:</b></p><p>Den som har registrert en sikkerhetsrett i mobilt løsøre\netter Cape Town-konvensjon 16. november 2001 om internasjonale sikkerhetsretter\ni mobilt løsøre og protokoll 16. november 2001 om særlige forhold\nfor luftfartøysløsøre, kan begjære dekning etter konvensjonens og\nprotokollens regler eller etter reg-lene i dette kapitlet.</p><p><b>Nåværende tredje, fjerde og femte ledd blir nye fjerde,\nfemte og sjette ledd. </b></p><p><b>§ 11-2 første ledd bokstav c, d, og ny bokstav e\nskal lyde:</b></p><p>(c)\tlovbestemt panterett for skatt eller avgifter\ntil stat eller kommune, for sameiets krav etter sameieforholdet\ni seksjonssameier, lovbestemt pant etter akvakulturloven § 20, \nog for borettslagets krav etter andelslagsforholdet i borettslag,</p><p>(d)\tregistrert lovbestemt panterett,</p><p>(e)\tregistrert internasjonal sikkerhetsrett i mobilt løsøre,\njf. lov om internasjonale sikkerhetsretter.</p>2.\tI lov 11. juni 1993 nr. 101 om luftfart (luft-farts-loven)\ntilføyes det et nytt avsnitt G i lovens kapittel III som skal lyde: <p>G. Internasjonale sikkerhetsretter\ni luftfartøysløsøre</p><p><b>§ 3-53. Internasjonale sikkerhetsretter</b></p><p>For panterett eller tilsvarende sikkerhetsretter som faller\ninn under Cape Town-konvensjonen 16. november 2001 om internasjonale\nsikkerhetsrettigheter i mobilt løsøre og protokoll 16. november\n2001 om særlige forhold for luftfartøysløsøre, har konvensjonens\nog protokollens regler forrang så langt de gjelder foran bestemmelsene\ni denne lovens kapittel III.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

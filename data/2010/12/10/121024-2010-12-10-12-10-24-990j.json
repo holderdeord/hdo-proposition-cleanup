@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-10 12:10:24.990j",
+  "externalIssueId": "48439",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak 3",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-10 12:10:24 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-10 12:10:24 +0100:795",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2010 blir det gjort\nfølgjande endringar:</p><table class=\"innst-table\"><thead><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr></thead><tbody><tr><td class=\"innst-cell\"><p>Utgifter</p></td></tr><tr><td class=\"innst-cell\"><p>820</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Integrerings- og mangfaldsdirektoratet</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter, blir auka med\n\t</p></td><td class=\"innst-cell\"><p>400 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 173 592 000 til kr 173 992 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>821</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Busetjing av flyktningar og tiltak for innvandrarar</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>60</p></td><td class=\"innst-cell\"><p>Integreringstilskot, kan overførast, blir\nauka med \t</p></td><td class=\"innst-cell\"><p>5 600 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 3 945 355 000 til kr 3 950 955 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>62</p></td><td class=\"innst-cell\"><p>Kommunale innvandrartiltak, blir\nauka med \t</p></td><td class=\"innst-cell\"><p>500 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 86 193 000 til kr 86 693 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>71</p></td><td class=\"innst-cell\"><p>Tilskot til innvandrarorganisasjonar og anna frivillig\nverksemd, \nblir redusert med \t</p></td><td class=\"innst-cell\"><p>900 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 47 488 000 til kr 46 588 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>822</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Opplæring i norsk og samfunnskunnskap for vaksne innvandrarar</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>22</p></td><td class=\"innst-cell\"><p>Norskprøver for vaksne innvandrarar, blir\nredusert med \t</p></td><td class=\"innst-cell\"><p>1 350 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 14 450 000 til kr 13 100 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>60</p></td><td class=\"innst-cell\"><p>Tilskot til opplæring i norsk og samfunnskunnskap for\nvaksne innvandrarar, blir redusert med\n\t</p></td><td class=\"innst-cell\"><p>150 800 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 1 607 663 000 til kr 1 456 863 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>Inntekter</p></td></tr><tr><td class=\"innst-cell\"><p>3821</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Busetjing av flyktningar og tiltak for innvandrarar</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Integreringstilskot for overføringsflyktningar, ODA-godkjende\nutgifter, blir redusert med \t</p></td><td class=\"innst-cell\"><p>450 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 78 120 000 til kr 77 670 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>3822</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Opplæring i norsk og samfunnskunnskap for vaksne innvandrarar</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Norskopplæring i mottak, ODA-godkjende utgifter, blir redusert med \t</p></td><td class=\"innst-cell\"><p>29 700 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 112 572 000 til kr 82 872 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

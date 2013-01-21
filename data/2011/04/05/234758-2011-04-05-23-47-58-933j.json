@@ -1,0 +1,44 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-05 23:47:58.933j",
+  "externalIssueId": "49142",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding, romertall I og II.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-05 23:47:58 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-05 23:47:58 +0200:1425",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i valgloven (ombudsplikten, forsegling\nav valgurner mv.) <p><b>I</b></p>I lov 28. juni 2002 nr. 57 om valg til Stortinget, fylkesting\nog kommunestyrer (valgloven) gjøres følgende endringer: <p><b>§ 2-5 skal lyde:</b></p><p><em>Folkeregistermyndigheten plikter selv av eget\ntiltak, uten hinder av lovbestemt taushetsplikt, på hensiktsmessig\nmåte å stille til disposisjon for valgmyndighetene </em></p><p><em>a)\tet uttrekk av folkeregisteret per 1.\napril i valgåret basert på stemmerettsvilkårene, for kontroll av lovens\nkrav til listekandidater og underskrifter på listeforslag og </em></p><p><em>b)\topplysninger om hvem som skal innføres i manntallet\ni kommunen per 30. juni. </em></p><p><b>§ 2-7 (2) skal lyde:</b></p><p>(2) Kravet skal være <em>skriftlig</em> og begrunnet.</p><p><b>§ 3-4 første ledd skal lyde:</b></p><p><em>(1) Rett til å kreve seg fritatt fra valg til\nfylkesting og kommunestyre har den som avgir skriftlig erklæring\nom at vedkommende ikke ønsker å stille til valg på den aktuelle\nvalglisten.</em></p><p><b>§ 8-4 nytt femte ledd skal lyde:</b></p><p><em>(5) Valgurner som brukes ved forhåndsstemmegivningen\ninnenriks skal være forseglet.</em></p><p><b>§ 9-5 nytt sjette ledd skal lyde:</b></p><p><em>(6) Valgurner som brukes ved stemmegivningen på\nvalgdagen skal være forseglet.</em></p><p><b>§ 15-5 første, andre og tredje ledd skal lyde: </b></p><p>(1) Hvis en dato som er utgangspunktet for en frist faller\npå <em>en lørdag eller </em>en helligdag, begynner fristen\nå løpe nærmest påfølgende hverdag.</p><p>(2) Hvis en dato for avslutningen av en frist faller på <em>en\nlørdag eller </em>en helligdag, løper fristen ut den nærmest\npåfølgende hverdag.</p><p>(3) Bestemmelsene i første og annet ledd gjelder tilsvarende\ni de tilfeller hvor en dato som er det tidligste eller seneste tidspunktet\nfor noen handling etter denne lov, faller på <em>en lørdag\neller </em>en helligdag.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-05 23:47:58 +0200:1426",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p><i>Ikrafttreden</i></p><p>Endringene trer i kraft fra den tid Kongen bestemmer.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

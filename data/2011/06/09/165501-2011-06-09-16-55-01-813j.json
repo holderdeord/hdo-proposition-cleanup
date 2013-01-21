@@ -1,0 +1,44 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-09 16:55:01.813j",
+  "externalIssueId": "49303",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "romertallene I og II.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-09 16:55:01 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-09 16:55:01 +0200:1816",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i at Olje- og energidepartementet\ngodkjenner plan for utbygging og drift av Valemon.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-09 16:55:01 +0200:1817",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i at Olje- og energidepartementet\ngir tillatelse til plan for anlegg og drift av rørledningene fra\nValemon.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-23 19:34:32.267j",
+  "externalIssueId": "48226",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Redegjørelse av barne-, likestillings- og inkluderingsministeren",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-23 19:34:32 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-23 19:34:32 +0100:150",
+      "description": "",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\n<p class=MsoNormal>Barne-, likestillings- og inkluderingsministerens\r\nredegjørelse om situasjonen i barnevernet<BR>\r\n<p class=MsoNormal>i Stortingets møte 19. november 2010 - vedlegges\r\nprotokollen.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

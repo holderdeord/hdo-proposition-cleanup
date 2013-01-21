@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-03-10 20:10:03.933j",
+  "externalIssueId": "48419",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding, romertall I og II",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-03-10 20:10:03 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-03-10 20:10:03 +0100:1259",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringar i mineralloven (inndriving av \ntvangsmulkt og lovbrotsgebyr) <p><b>I</b></p>I lov 19. juni 2009 nr. 101 om erverv og utvinning\nav mineralressurser blir det gjort følgjande endringar:<p><b>§ 66 nytt femte ledd skal lyde:</b></p><p><em>Når Statens innkrevingssentral er pålagt å inndrive\ntvangsmulkt som nevnt i første ledd, kan den inndrive tvangsmulkt\nved trekk i lønn og andre lignende ytelser etter reglene i dekningsloven\n§ 2-7. Innkrevingssentralen kan også inndrive tvangsmulkt ved å\nstifte utleggspant for kravet dersom panteretten får rettsvern ved\nregistrering i et register eller ved underretning til en tredjeperson,\njf. panteloven kapittel 5, og utleggsforretningen kan holdes på\nInnkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9\nførste ledd.</em></p><p><b>Noverande § 66 femte ledd blir nytt sjette ledd.</b></p><p><b>§ 67 nytt fjerde ledd skal lyde:</b></p><p><em>Ved inndrivelse av overtredelsesgebyr gjelder bestemmelsen\ni § 66 femte ledd tilsvarende.</em></p><p><b>Noverande § 67 fjerde ledd blir nytt femte ledd.</b></p><p><b>II</b></p><p>Lova tek til å gjelde straks.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

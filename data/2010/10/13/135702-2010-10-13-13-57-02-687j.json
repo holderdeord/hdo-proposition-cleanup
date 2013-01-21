@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-10-13 13:57:02.687j",
+  "externalIssueId": "47747",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Helse- og omsorgsministerens redegjørelse",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-10-13 13:57:02 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-10-13 13:57:02 +0200:12",
+      "description": "",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\n<p class=MsoNormal>Redegjørelse av helse- og omsorgsministeren om hendelser i\r\nenkelte helseforetak og ved Statens autorisasjonskontor for helsepersonell -\r\nvedlegges protokollen.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    }
+  ],
+  "propositionsMissing": false
+}

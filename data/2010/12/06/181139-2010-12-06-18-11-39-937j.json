@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-06 18:11:39.937j",
+  "externalIssueId": "47544",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I, II, III og IV",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-06 18:11:39 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-06 18:11:39 +0100:492",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringar i politilova m.m. <p><b>I</b></p>I lov 4. august 1995 nr. 53 om politiet (politiloven)\nvert det gjort følgjande endringar:<p><b>§ 14 nytt tredje ledd skal lyde:</b></p><p><em>Kommunale vedtekter som nevnt i første ledd nr. 1\nog 2 kan i tillegg håndheves av kommunen, eller personer utpekt\nav kommunen. Dette gjelder likevel ikke opprettholdelse av ro og\norden. Ved overtredelse av de kommunale vedtektene som nevnt overfor kan\nkommunen, eller dets utpekte, ilegge overtredelsesgebyr. Departementet\nkan i forskrift gi nærmere regler om gjennomføring av bestemmelsene\ni dette ledd, herunder hvilke deler av ferdselen kommunene kan sikre.</em></p><p><b>§ 14b nytt fjerde ledd skal lyde:</b></p><p><em>Politidirektoratet kan delegere myndighet etter annet\nledd samt etter §§ 14d, 14e, 14g og 14h femte ledd til Den nasjonale\nenhet for bekjempelse av organisert og annen alvorlig kriminalitet\n(Kripos)</em>.</p><p><b>II</b></p><p>I lov 19. juni 1997 nr. 82 om pass (passloven) vert\ndet gjort følgjande endring:</p><p><b>§ 1 tredje ledd skal lyde: </b></p><p>Kongen kan bestemme at § 6 annet ledd (innhenting og lagring\nav biometrisk personinformasjon i passet) og § 6 a (innsyn i og\nsletting av biometrisk personinformasjon innhentet for personalisering\nav passet og etterfølgende identitetskontroll) også skal omfatte\ndiplomatpass, spesialpass og tjenestepass utstedt etter regler gitt\ni medhold av lov 3. mai 2002 nr. 13 om utenrikstjenesten, samt utlendingspass <em>og\nreisebevis for flyktninger </em>i medhold av <em>lov 15.\nmai 2008 nr. 35 om utlendingers adgang til riket og deres opphold\nher § 64</em>. </p><p><b>III</b></p><p>I lov 15. mai 2008 nr. 35 om utlendingers adgang til\nriket og deres opphold her (utlendingsloven) vert det gjort følgjande\nendring:</p><p><b>§ 92 første ledd skal lyde:</b></p><p>I saker om bortvisning, utvisning, tilbakekall av tillatelse\neller tilbakekall av oppholdsdokument, jf. § 120 har utlendingen\nrett til fritt rettsråd uten behovsprøving. Det gjelder likevel\nikke i utvisningssaker i henhold til §§ 66 bokstav b og c, 67 første\nledd bokstav a, b og c, 68 første ledd bokstav a og b <em>og 122</em>.\n</p><p><b>IV</b></p><p>Lova trer i kraft frå det tidspunktet Kongen fastset.\nKongen kan setje i kraft dei einskilde føresetnadene til forskjellig\ntid. </p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

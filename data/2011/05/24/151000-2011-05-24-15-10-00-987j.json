@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-24 15:10:00.987j",
+  "externalIssueId": "49573",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-24 15:10:00 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-24 15:10:00 +0200:1671",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:101 S (20102011)  representantforslag\nfra stortingsrepresentantene Peter Skovholt Gitmark, Ivar Kristiansen,\nGunnar Gundersen og Ine M. Eriksen Søreide om årlig, offentlig korrupsjonsrapport\nfra landets største bistandsorganisasjoner  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

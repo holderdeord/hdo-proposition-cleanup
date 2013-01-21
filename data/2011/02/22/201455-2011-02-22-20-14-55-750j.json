@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-22 20:14:55.750j",
+  "externalIssueId": "48139",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-22 20:14:55 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-22 20:14:55 +0100:1214",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i godkjenning av avgjerd\ni EØS-komiteen nr. 160/2006 av 8. desember 2006 om innlemming i\nEØS-avtala av direktiv 2009/44/EF av 6. mai 2009 om endeleg oppgjer i\nbetalingssystem og i oppgjerssystem for verdipapir og om avtaler\nom finansiell trygdgjeving, med omsyn til samankopla system (linked\nsystems) og gjeldsfordringar (credit claims).</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

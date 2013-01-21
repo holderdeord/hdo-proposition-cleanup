@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-06 18:12:39.870j",
+  "externalIssueId": "48219",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-06 18:12:39 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-06 18:12:39 +0100:496",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i straffeloven 1902 (skimmingsutstyr og\nidentitetskrenkelse) <p><b>I</b></p>I straffeloven 22. mai 1902 nr. 10 gjøres følgende endringer:<p><b>§ 186 skal lyde:</b></p><p>Den, som til forberedelse av dokumentfalsk <em>tilvirker,\nerverver, innfører, utfører, overdrar, besitter eller oppbevarer</em> falsk\nsegl, stempel eller merke eller andre gjenstander, som tilkjennegir\nseg som bestemte til å benyttes til ettergjørelse eller forfalskning,\neller i slik hensikt tilvender seg et ekte segl, stempel eller merke,\neller som medvirker til det, straffes med bøter eller med fengsel\ninntil 3 år. </p><p><b>Ny § 190a skal lyde:</b></p><p>Med bot eller fengsel inntil 2 år straffes den som uberettiget\nsetter seg i besittelse av en annens identitetsbevis, eller opptrer\nmed en annens identitet eller en identitet som er lett å forveksle\nmed en annens identitet, med forsett om å</p><p>a)\toppnå en uberettiget vinning for seg selv eller\nen annen, eller</p><p>b)\tpåføre en annen tap eller ulempe.</p><p>Medvirkning straffes på samme måte.</p><p><b>II</b></p><p>Loven trer i kraft straks.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

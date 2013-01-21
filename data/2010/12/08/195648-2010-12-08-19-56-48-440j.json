@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-08 19:56:48.440j",
+  "externalIssueId": "48442",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering over innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-08 19:56:48 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-08 19:56:48 +0100:695",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2010 gjøres følgende\nendringer:</p><table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p>Utgifter</p></td></tr><tr><td class=\"innst-cell\"><p>1560</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Direktoratet for forvaltning og IKT</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter, nedsettes med\n\t</p></td><td class=\"innst-cell\"><p>9 000 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 159 874 000 til kr 150 874 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>21</p></td><td class=\"innst-cell\"><p>Spesielle driftsutgifter, <i>kan overføres</i>, nedsettes med \t</p></td><td class=\"innst-cell\"><p>2 400 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 44 978 000 til kr 42 578 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>1561</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>IKT-politikk</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>22</p></td><td class=\"innst-cell\"><p>Samordning av IKT-politikken, <i>kan\noverføres,</i>nedsettes med \t</p></td><td class=\"innst-cell\"><p>3 800 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 16 022 000 til kr 12 222 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>Inntekter</p></td></tr><tr><td class=\"innst-cell\"><p>4560</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Direktoratet for forvaltning og IKT</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>3</p></td><td class=\"innst-cell\"><p>Diverse inntekter, nedsettes med\n\t</p></td><td class=\"innst-cell\"><p>2 700 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 9 268 000 til kr 6 568 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

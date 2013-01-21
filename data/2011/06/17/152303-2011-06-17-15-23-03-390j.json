@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-17 15:23:03.390j",
+  "externalIssueId": "50789",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 28 forslag fra Ap, SV og Sp",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-17 15:23:03 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-17 15:23:03 +0200:2243",
+      "description": "",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget ber regjeringen utrede videre de økonomiske og administrative konsekvensene og raskt komme tilbake til Stortinget med et forslag om rettighetsfesting av brukerstyrt personlig assistanse for brukere med stort behov innenfor den samme økonomiske rammen som gjelder i dag.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

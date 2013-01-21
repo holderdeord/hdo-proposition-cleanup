@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-13 23:42:48.500j",
+  "externalIssueId": "47813",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I, II og III",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-13 23:42:48 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-13 23:42:48 +0100:895",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringar i einingsregisterlova og \nføretaksregisterlova<p><b>I</b></p>I lov 3. juni 1994 nr. 15 om Enhetsregisteret blir det\ngjort følgjande endringar:<p><b>§ 8 første ledd skal lyde:</b></p><p>Det kreves skriftlig erklæring fra <em>styret, signaturberettiget, </em>daglig\nleder, forretningsfører, innehaver eller tilsvarende kontaktperson\nom at de opplysninger som meldes, er riktige.</p><p><b>§ 8 sjuande ledd skal lyde:</b></p><p>Departementet kan i forskrift gjøre unntak fra <em>signeringskravene\ni første ledd for elektroniske meldinger.</em></p><p><b>§ 14 første ledd bokstav b skal lyde: </b></p><p>b)\tFor alle andre registreringsenheter, <em>hvert\nenkelt styremedlem, </em>daglig leder, forretningsfører eller tilsvarende\nkontaktperson.</p><p><b>II</b></p>I lov 21. juni 1985 nr. 78 om registrering av foretak\nskal § 4-3 lyde:<p><b>§ 4-3 <em>(signering)</em></b></p><p>Melding til registeret etter § 4-1 skal være <em>signert</em> av\nsamtlige meldepliktige eller av signaturberettiget. </p><p>Departementet kan i forskrift gjøre unntak fra <em>signeringskravene</em> i\nførste ledd for <em>elektroniske meldinger.</em></p><p><b>III</b></p><p>Lova gjeld frå den tid Kongen fastset.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

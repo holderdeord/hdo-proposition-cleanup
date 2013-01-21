@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-03 13:58:45.783j",
+  "externalIssueId": "47791",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I og II",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-03 13:58:45 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-03 13:58:45 +0100:1146",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringar i lov 17. februar 1989 nr. 2 om bidragsforskott\n(heving av inntektsgrensa for rett til fullt bidragsforskott mv.)\n<p><b>I</b></p>I lov 17. februar 1989 nr. 2 om bidragsforskott vert\ngjort følgjande endringar:<p><b>§ 5 skal lyde:</b></p><p><b>§ 5 Forskottets størrelse</b></p><p>Departementet fastsetter det beløp som kan utbetales <em>som\nbidragsforskott </em>per barn. <em>Beløpet kan forhøyes\neller reduseres med en tredjedel</em>, avhengig av forskottsmottakers\ninntekt. <em>Forhøyet forskott ytes dersom mottakeren ikke\nville ha hatt bidragsevne etter barnelova § 71 første ledd andre\npunktum vurdert som enslig uten barn. Redusert forskott ytes dersom mottakerens\ninntekt overstiger en grense fastsatt av departementet.</em></p><p>Den som setter fram krav om forskott eller som er tilstått\nforskott, skal selv dokumentere sine inntektsforhold i den utstrekning\nog på den måte som bidragsfogden bestemmer. Dersom det ikke legges fram\nslik dokumentasjon, kan krav om forskott avslås eller tilstått forskott\nstanses.</p><p>Departementet kan gi forskrift om hva som skal regnes for\ninntekt etter paragrafen her og om inntektsgrensen <em>for\nå kunne motta forskott med ordinær sats. Inntektsgrensen </em>fastsettes\nunder hensyn til antall egne barn som forskottsmottakeren bor sammen med\nog forsørger og under hensyn til om vedkommende bor alene sammen\nmed barna eller også har ektefelle eller samboer. </p><p><b>§ 7 sjette leddet vert oppheva.</b></p><p><b>§ 7 sjuande og åttande leddet vert sjette og sjuande leddet.</b></p>",
+      "metadata": {
+        "reason": "Mangler et par linjer tekst på tampen",
+        "status": "rejected",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

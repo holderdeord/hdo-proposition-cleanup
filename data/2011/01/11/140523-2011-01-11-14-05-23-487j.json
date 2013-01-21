@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-01-11 14:05:23.487j",
+  "externalIssueId": "40972",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 3",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-01-11 14:05:23 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-01-11 14:05:23 +0100:1137",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument nr. 12:9 (20072008)  grunnlovsforslag\nfra Anders Anundsen, Bård Hoksrud, Carl I. Hagen og Lodve Solholm\nom oppheving av Grunnloven § 12 første ledd, § 12 tredje ledd, § 18,\n§ 19, § 20 første ledd, § 21, § 22, § 25 første ledd og § 26 første\nledd  bifalles ikke.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel",
+        "reason": ""
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

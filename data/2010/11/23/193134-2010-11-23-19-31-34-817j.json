@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-23 19:31:34.817j",
+  "externalIssueId": "47106",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering over innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-23 19:31:34 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-23 19:31:34 +0100:143",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:158 S (20092010)  representantforslag\nfra stortingsrepresentantene André Oktay Dahl, Anders B. Werp og\nElisabeth Aspaker om bekjempelse av aggressiv tigging via skjerpede\npolitivedtekter mv.  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

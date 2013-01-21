@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-11 12:51:11.557j",
+  "externalIssueId": "47076",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering over innstillingens forslag til vedtak.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-11 12:51:11 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-11 12:51:11 +0100:39",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\nDokument 8:154 S (20092010)  representantforslag fra\r\nstortingsrepresentantene Mette Hanekamhaug, Tord Lien og Bente Thorsen om\r\nhospiteringsordning for programfagslærere  vedlegges protokollen.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

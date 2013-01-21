@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-06 18:13:48.790j",
+  "externalIssueId": "47810",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I og II",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-06 18:13:48 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-06 18:13:48 +0100:501",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i studentsamskipnadsloven<p><b>I</b></p>I lov 14. desember 2007 nr. 116 om studentsamskipnader\ngjøres følgende endringer:<p><b>§ 2 tredje ledd skal lyde:</b></p><p>Departementet beslutter om studentsamskipnader skal <em>opprettes</em>,\nlegges ned eller slås sammen. <em>Sammenslåing av studentsamskipnader\nkan gjennomføres ved at en eller flere studentsamskipnader overdrar\nsine eiendeler, rettigheter og forpliktelser som helhet til en annen\nstudentsamskipnad med kontinuitet i rettighets- og forpliktelsesposisjoner\nnår det gjelder eierskifte av fast eiendom, herunder bygninger og\nfaste anlegg. Aksjeloven §§ 13-13 til 13-16 gjelder tilsvarende\nså langt de passer for slik sammenslåing.</em></p><p><b>II</b></p><p>Loven gjelder fra den tid Kongen bestemmer.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

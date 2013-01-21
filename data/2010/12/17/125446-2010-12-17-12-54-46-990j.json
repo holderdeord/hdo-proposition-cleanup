@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-17 12:54:46.990j",
+  "externalIssueId": "47786",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens forslag til vedtak.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-17 12:54:46 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-17 12:54:46 +0100:1103",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Meld. St. 4 (20102011)  om anmodnings-\nog utredningsvedtak i stortingssesjonen 20092010  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

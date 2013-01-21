@@ -1,0 +1,106 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-14 22:48:20.283j",
+  "externalIssueId": "50428",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-14 22:48:20 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:48:20 +0200:1975",
+      "description": "Komiteens tilråding bokstav A.",
+      "onBehalfOf": "",
+      "body": "<p><b>A.</b></p><p><b>Vedtak til lov</b></p><p><b>om endringar i lov 19. juni 1964 nr. 14 om avgift på arv og\nvisse gaver</b></p>",
+      "metadata": {
+        "reason": "Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:48:20 +0200:1976",
+      "description": "Komiteens tilråding bokstav B.",
+      "onBehalfOf": "",
+      "body": "<p><b>B.</b></p><p><b>Vedtak til lov</b></p><p><b>om endringar i lov 12. desember 1975 nr. 59 \nom dokumentavgift </b></p>",
+      "metadata": {
+        "reason": "Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:48:20 +0200:1977",
+      "description": "Komiteens tilråding bokstav C.",
+      "onBehalfOf": "",
+      "body": "<p><b>C.</b></p><p><b>Vedtak til lov</b></p><p><b>om endringar i lov 13. juni 1980 nr. 24 om \nligningsforvaltning</b></p>",
+      "metadata": {
+        "reason": "Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:48:20 +0200:1978",
+      "description": "Komiteens tilråding bokstav D.",
+      "onBehalfOf": "",
+      "body": "<p><b>D.</b></p><p><b>Vedtak til lov</b></p><p><b>om endringar i lov 26. mars 1999 nr. 14 om skatt av formue\nog inntekt</b></p>",
+      "metadata": {
+        "reason": "Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:48:20 +0200:1979",
+      "description": "Komiteens tilråding bokstav E.",
+      "onBehalfOf": "",
+      "body": "<p><b>E.</b></p><p><b>Vedtak til lov</b></p><p><b>om endring i lov 12. desember 2003 nr. 108 om \nkompensasjon av merverdiavgift for kommuner, \nfylkeskommuner mv. </b></p>",
+      "metadata": {
+        "reason": "Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:48:20 +0200:1980",
+      "description": "Komiteens tilråding bokstav F.",
+      "onBehalfOf": "",
+      "body": "<p><b>F.</b></p><p><b>Vedtak til lov</b></p><p><b>om endring i lov 21. desember 2007 nr. 119 om toll og vareførsel</b></p>",
+      "metadata": {
+        "reason": "Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:48:20 +0200:1981",
+      "description": "Komiteens tilråding bokstav G.",
+      "onBehalfOf": "",
+      "body": "<p><b>G.</b></p><p><b>Vedtak til lov</b></p><p><b>om endringar i lov 19. juni 2009 nr. 58 om \nmerverdiavgift</b></p>",
+      "metadata": {
+        "reason": "Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

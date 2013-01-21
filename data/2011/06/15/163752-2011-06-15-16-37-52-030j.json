@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-15 16:37:52.030j",
+  "externalIssueId": "50705",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Forslag fra stortingsrepresentant Nikolai Astrup på vegne av Fremskrittspartiet, Høyre og Kristelig Folkeparti fremsatt i Stortingets møte 10. juni 2011 (jf. Innst. 400 L):",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-15 16:37:52 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-15 16:37:52 +0200:2039",
+      "description": "",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget ber regjeringen i forbindelse med statsbudsjettet for 2013 foreta en gjennomgang av friluftsloven og andre tilstøtende lover og regelverk med formål å fjerne restriksjoner mot nye friluftsformer i norsk natur og åpne naturen for nye brukergrupper innenfor økologisk bærekraftige rammer.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-03 13:17:21.880j",
+  "externalIssueId": "47774,48277",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Rammeområde 4 med romertall XVI.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-03 13:17:21 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-03 13:17:21 +0100:431",
+      "description": "Komiteens tilråding rammeområde 4, romertall XVI.",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget ber regjeringen vurdere å ta initiativ\ntil en gjennomgang av organiseringen av Nordisk Ministerråd med\nsikte på en forenkling, effektivisering og fokusering av arbeidet.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

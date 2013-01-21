@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-09 19:56:22.563j",
+  "externalIssueId": "46951",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 11",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-09 19:56:22 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-09 19:56:22 +0100:739",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Meld. St. 18 (20092010)  om fiskeriavtalane Noreg\nhar inngått med andre land for 2010 og fisket etter avtalane i 2008\nog 2009  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

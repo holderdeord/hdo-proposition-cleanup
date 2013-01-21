@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-15 17:37:41.393j",
+  "externalIssueId": "48546",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 7",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-15 17:37:41 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-15 17:37:41 +0100:1028",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2010 blir det gjort\nfølgjande endringar</p><table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p>Utgifter</p></td></tr><tr><td class=\"innst-cell\"><p>2426</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>SIVA SF</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>90</p></td><td class=\"innst-cell\"><p>Lån, <i>overslagsløyving,</i>blir redusert med \t</p></td><td class=\"innst-cell\"><p>60 000 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 100 000 000 til kr 40 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>Inntekter</p></td></tr><tr><td class=\"innst-cell\"><p>5326</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>SIVA SF</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>90</p></td><td class=\"innst-cell\"><p>Avdrag på uteståande fordringar, blir\nauka med \t</p></td><td class=\"innst-cell\"><p>40 000 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 40 000 000 til kr 80 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>5613</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Renter frå SIVA SF</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>80</p></td><td class=\"innst-cell\"><p>Renter, blir auka med \t</p></td><td class=\"innst-cell\"><p>6 800 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 30 300 000 til kr 37 100 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

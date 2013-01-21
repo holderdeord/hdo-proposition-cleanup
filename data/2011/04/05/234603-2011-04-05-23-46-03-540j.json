@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-05 23:46:03.540j",
+  "externalIssueId": "49024",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-05 23:46:03 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-05 23:46:03 +0200:1421",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:68 S (20102011)  representantforslag\nfra stortingsrepresentantene Svein Harberg, Frank Bakke-Jensen,\nLinda C. Hofstad Helleland, Lars Myraune og Gunnar Gundersen om\nmotorferdsel i utmark  vedlegges protokollen.</p>",
+      "metadata": {
+        "reason": "mangler bindestrek inne i parentesen",
+        "status": "rejected",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

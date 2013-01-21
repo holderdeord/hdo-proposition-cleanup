@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-07 17:32:34.887j",
+  "externalIssueId": "49364",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I til og med III er opptatt.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-07 17:32:34 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-07 17:32:34 +0200:1757",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i straffegjennomføringsloven mv. (bøtetjeneste\nsom alternativ til fengsel hvis boten ikke betales) <p><b>I</b></p><p><b>I Almindelig borgerlig straffelov 20. mai\n1902 nr. 10 skal § 26 lyde:</b></p><p>De nærmere reglene om gjennomføring av fengselsstraff, <em>subsidiær\nfengselsstraff som bøtetjeneste</em>, samfunnsstraff, strafferettslige\nsærreaksjoner og forvaring gis ved særskilt lov.</p><p><b>II</b></p><p>I lov 18. mai 2001 nr. 21 om gjennomføring\nav straff mv. gjøres følgende endringer:</p><p><b>§ 10 nytt fjerde ledd skal lyde:</b></p><p><em>Subsidiær fengselsstraff fastsatt etter straffeloven\n§ 28, kan gjennomføres som bøtetjeneste etter § 16 a.</em></p><p><b>Ny § 16 a skal lyde:</b></p><p><b>§ 16 a<em> \tGjennomføring av subsidiær fengselsstraff\nved bøtetjeneste</em></b></p><p><em>Dersom den som skal gjennomføre subsidiær fengselsstraff\nfastsatt i dom, forelegg eller forenklet forelegg, samtykker til\ndet, kan kriminalomsorgen beslutte at den subsidiære fengselsstraffen\nskal gjennomføres ved bøtetjeneste. Gjennomføring ved bøtetjeneste\nforutsetter at den botlagte har bosted og opphold i Norge i gjennomføringstiden.\nKriminalomsorgen skal forespørre botlagte om samtykke ved innkalling\ntil soning av den subsidiære fengselsstraffen.</em></p><p><em>Dersom vilkårene for bøtetjeneste er til stede, fastsetter\nkriminalomsorgen et timetall for bøtetjenesten fra 2 til 180 timer\nog en gjennomføringstid fra 20 dager til 6 måneder. Dersom straffeloven\n§ 63 er brukt, kan kriminalomsorgen fastsette et timetall for bøtetjenesten\npå inntil 270 timer og en gjennomføringstid på inntil 9 måneder.</em></p><p><em>Kriminalomsorgen fastsetter det nærmere innholdet\ni bøtetjenesten innenfor de rammene som er fastsatt i dom på bot\neller i forelegg. § 53 første og tredje ledd, § 54 første ledd bokstav\na til c og e, annet og tredje ledd, og § 57 gjelder tilsvarende.\nKriminalomsorgen skal kontrollere at botlagte overholder forutsetninger\nog vilkår.</em></p><p><em>Dersom den botlagte forsettlig eller uaktsomt bryter\nbestemmelser gitt i eller i medhold av tredje ledd, skal kriminalomsorgen\npåpeke bruddet overfor botlagte, klargjøre kravene på egnet måte\nog gjøre botlagte kjent med følgene av gjentatte brudd. </em></p><p><em>Ved gjentatte brudd på vilkår eller forutsetninger,\neller dersom det er sannsynlig at botlagte har begått eller vil\nbegå straffbar handling eller unndra seg gjennomføringen, gjelder\nbestemmelsene om tilbakeføring til fengsel i § 14 sjette og sjuende\nledd. Kriminalomsorgen kan avbryte gjennomføringen. </em></p><p><em>Departementet gir forskrift med nærmere regler om\nbøtetjenesten, herunder blant annet fastsetting av timetall, innhold\nog gjennomføring, og avbrudd. </em></p><p><b>§ 27 tredje ledd første punktum skal lyde:</b></p><p>Undersøkelse etter første ledd ved bruk av teknisk utstyr\neller hund overfor <em>advokat</em> og offentlig myndighetsrepresentant,\nherunder diplomatisk eller konsulær representant, kan bare finne\nsted i avdeling med særlig høyt sikkerhetsnivå.</p><p><b>III</b></p><p>Loven del I og endringene i straffegjennomføringsloven\n§ 10 nytt fjerde ledd og ny § 16 a gjelder fra den tid Kongen bestemmer.\nEndringen i straffegjennomføringsloven § 27 tredje ledd første punktum\ntrer i kraft straks.</p>",
+      "metadata": {
+        "reason": "mangelfull forslagstekst. Fyll inn øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"",
+        "status": "rejected",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

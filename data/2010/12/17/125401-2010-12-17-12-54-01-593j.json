@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-17 12:54:01.593j",
+  "externalIssueId": "48750",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens forslag til vedtak.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-17 12:54:01 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-17 12:54:01 +0100:1100",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Med virkning fra 1. januar 2011 og fram\ntil nytt valg av medlemmer og varamedlemmer til Nordisk Råd foretas,\nvelges:</p><p>Rigmor Andersen Eide som medlem</p><p>Dagfinn Høybråten som varamedlem</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

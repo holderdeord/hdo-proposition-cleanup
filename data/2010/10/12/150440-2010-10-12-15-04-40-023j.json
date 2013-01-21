@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-10-12 15:04:40.023j",
+  "externalIssueId": "47150",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-10-12 15:04:40 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-10-12 15:04:40 +0200:11",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i tiltredelse av Cape Town-konvensjonen\n                16. november 2001 om internasjonale sikkerhetsretter i mobilt løsøre\n                og protokoll 16. november 2001 til konvensjonen om særlige forhold\n                for luftfartøysløsøre.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

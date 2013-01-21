@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-06 18:13:27.183j",
+  "externalIssueId": "47420",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I og II",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-06 18:13:27 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-06 18:13:27 +0100:499",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i fagskoleloven <p><b>I</b></p>I lov 20. juni 2003 nr. 56 om fagskoleutdanning skal\n§ 5 tredje ledd lyde: <p><em>Departementet kan gi\nforskrift om</em></p><p><em>a.\tet nasjonalt kvalifikasjonsrammeverk\n</em></p><p><em>b.\tfritak for, eller innpassing av, annen likeverdig utdanning\nog kompetanse</em></p><p><em>c.\tfagskolepoeng som beskrivelse for normert studietid</em></p><p><em>d.\tfelles vurderingsuttrykk ved eksamen, prøve,\nbedømmelse av oppgave eller annen vurdering.</em></p><p><b>II</b></p><p>Loven trer i kraft straks.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-06 18:10:26.383j",
+  "externalIssueId": "48140",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering over innstillingen tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-06 18:10:26 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-06 18:10:26 +0100:489",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2010 gjøres følgende\nendring:<table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Utgifter</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>440</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Politidirektoratet  politi og lensmannsetaten</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter, k<i>an nyttes under</i> kap.\n441 post 1, nedsettes med \t</p></td><td class=\"innst-cell\"><p>21 150 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 9 123 438 000 til kr 9 102 288 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

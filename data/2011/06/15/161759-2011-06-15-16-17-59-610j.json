@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-15 16:17:59.610j",
+  "externalIssueId": "50733",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-15 16:17:59 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-15 16:17:59 +0200:2004",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i\nat følgende godtgjørelser fastsettes med virkning fra 1. mai 2011:</p><table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Stortingsrepresentanter </p></td><td class=\"innst-cell\"><p>kr</p></td><td class=\"innst-cell\"><p>750&#160;900</p></td><td class=\"innst-cell\"><p>pr. år</p></td></tr><tr><td class=\"innst-cell\"><p>Regjeringsmedlemmer</p></td><td class=\"innst-cell\"><p>kr</p></td><td class=\"innst-cell\"><p>1&#160;111&#160;200</p></td><td class=\"innst-cell\"><p>pr. år</p></td></tr><tr><td class=\"innst-cell\"><p>Statsminister</p></td><td class=\"innst-cell\"><p>kr</p></td><td class=\"innst-cell\"><p>1&#160;366&#160;700</p></td><td class=\"innst-cell\"><p>pr. år</p></td></tr></tbody></table>",
+      "metadata": {
+        "status": "approved",
+        "username": "Kristofer"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-04 21:48:50.433j",
+  "externalIssueId": "49666",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-04 21:48:50 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-04 21:48:50 +0200:1362",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:103 LS (20102011)  representantforslag\nfra stortingsrepresentantene Trine Skei Grande og Borghild Tenden\nom gjennomføring av domstolskontroll ved uthenting av trafikkdata,\nsamt styrking av politiets ressurser til å bekjempe alvorlig kriminalitet\nmed digitale verktøy. Endringer i ekomloven  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

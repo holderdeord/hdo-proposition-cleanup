@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-18 19:52:14.123j",
+  "externalIssueId": "46872",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-18 19:52:14 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-18 19:52:14 +0100:100",
+      "description": "",
+      "onBehalfOf": "",
+      "body": "",
+      "metadata": {
+        "reason": "ingen forslagstekst",
+        "status": "rejected",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": true
+}

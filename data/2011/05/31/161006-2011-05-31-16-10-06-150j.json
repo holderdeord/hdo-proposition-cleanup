@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-31 16:10:06.150j",
+  "externalIssueId": "50576",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-31 16:10:06 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-31 16:10:06 +0200:1705",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Det settes opp en minneplate over dem som\nhar tapt sitt liv under militære oppdrag i utlandet i tjeneste for\nNorge etter 1945, i tilknytning til minnestedet i Stortinget over\nfalne i første og annen verdenskrig. Stortingets presidentskap fastsetter\nutformingen av minneplaten. </p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

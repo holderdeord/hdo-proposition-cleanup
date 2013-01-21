@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-11 13:55:23.157j",
+  "externalIssueId": "49521",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 3",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-11 13:55:23 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-11 13:55:23 +0200:1457",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Med virkning fra 1. januar 2011 gjør en\nfølgende endring i Stortingets vedtak 3. desember 2010 nr. 1641\nom formues- og inntektsskatt til Svalbard for inntektsåret 2011:</p><p>§ 6 skal lyde:</p><p>Aksjonær i utlandet</p><p>Skatt på utbytte mv. etter skattelova § 10-13, jf. svalbardskattelova\n§ 3-1, vert ilagd med 25 pst.</p><p>Nåværende § 6 blir ny § 7.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

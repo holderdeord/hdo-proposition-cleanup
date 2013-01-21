@@ -1,0 +1,44 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-26 13:53:11.657j",
+  "externalIssueId": "50461",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-26 13:53:11 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-26 13:53:11 +0200:1672",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>Som medlem av Stortingets kontrollutvalg for etterretnings-,\novervåkings- og sikkerhetstjeneste for tidsrommet 1. juli 201130. juni\n2014 velges Eldbjørg Løwer.</p><p>Som medlemmer av utvalget for tidsrommet 1. juli\n201130. juni 2016 velges Svein Grønnern, Trygve Harvold og Gunhild\nØyangen. Som medlem av utvalget for tidsrommet 1. juli 201130. november\n2011 velges Knut Hanselmann. Hans J. Røsjorde velges som medlem\nav utvalget for tidsrommet 1. desember 201130. juni 2016.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-26 13:53:11 +0200:1673",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p>Som leder av Stortingets kontrollutvalg for etterretnings-,\novervåkings- og sikkerhetstjeneste for tidsrommet 1. juli 201130. juni\n2014 velges Eldbjørg Løwer. Svein Grønnern velges som nestleder.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

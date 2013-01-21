@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-24 15:07:13.083j",
+  "externalIssueId": "50089",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 3",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-24 15:07:13 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-24 15:07:13 +0200:1662",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Forelegg for Stortinget av overenskomster inngått\nmed fremmede makter eller internasjonale organisasjoner i 2009 \nvedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

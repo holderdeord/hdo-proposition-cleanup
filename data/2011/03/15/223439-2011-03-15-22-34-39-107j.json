@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-03-15 22:34:39.107j",
+  "externalIssueId": "48534",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-03-15 22:34:39 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-03-15 22:34:39 +0100:1283",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i barnevernloven \n(krav til politiattester mv.) <p><b>I</b></p>I lov 17. juli 1992 nr. 100 om barneverntjenester gjøres\nfølgende endringer:<p><b>§ 2-3 fjerde ledd skal lyde:</b></p><p>Fylkesmannen er statlig barnevernmyndighet på fylkesnivå.\nFylkesmannen plikter å føre tilsyn med barnevernvirksomheten i de\nenkelte kommuner, <em>jf. § 2-3b. Fylkesmannen skal også sørge\nfor at kommunene får råd og veiledning. </em></p><p><b>§ 2-3b skal lyde:</b></p><p><b><em>§ 2-3b. Statlig tilsyn på barnevernområdet</em></b></p><p>Statens helsetilsyn har det overordnede faglige tilsyn\nmed barnevernvirksomheten i de enkelte kommuner, og med institusjoner,\nsentre for foreldre og barn og omsorgssentre for mindreårige etter\ndenne loven. Statens helsetilsyn skal utøve myndighet i samsvar\nmed det som er bestemt i barnevernloven og forskrifter til denne.</p><p><em>Fylkesmannen skal føre tilsyn med lovligheten\nav kommunens oppfyllelse av plikter etter barnevernloven kap. 1\ntil 9. Reglene i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner\nkapittel 10A gjelder for denne tilsynsvirksomheten.</em></p><p><em>Fylkesmannen skal også føre tilsyn med institusjoner\nog sentre for foreldre og barn etter kapittel 5 og omsorgssentre\nfor mindreårige etter kapittel 5A.</em></p><p><b>§ 6-10 skal lyde:</b></p><p><b>§ 6-10. Politiattest</b></p><p>Den som skal ansettes i barneverntjenesten, jf. § 2-1,\nskal legge fram <em>politiattest som nevnt i politiregisterloven\n§ 39 første ledd. Tilsvarende gjelder for støttekontakter, tilsynsførere\nog andre som utfører oppgaver for barneverntjenesten som ledd i\nhjelpetiltak etter § 4-4. </em></p><p>Den som skal ansettes i en institusjon som er omfattet\nav § 5-1, eller i et statlig senter for foreldre og barn, i en privat\neller kommunal institusjon eller senter for foreldre og barn som\ner godkjent etter § 5-8, eller et omsorgssenter for mindreårige\netter kapittel 5A, skal legge fram <em>politiattest som nevnt\ni politiregisterloven § 39 første ledd. Tilsvarende gjelder andre</em> som\nutfører oppgaver for institusjonen, senteret for foreldre og barn\neller omsorgssenteret for mindreårige, og som har direkte kontakt\nmed barn og unge eller foreldre som oppholder seg der.</p><p>Den eller de som skal godkjennes som fosterforeldre, jf.\n§ 4-22, skal legge fram <em>uttømmende og utvidet politiattest\ni samsvar med politiregisterloven § 41. Tilsvarende gjelder private\nsom tar imot barn som avlastningstiltak.</em> Det kan kreves <em>avgrenset</em> politiattest <em>etter\npolitiregisterloven § 39 første ledd</em> også fra andre som\nbor i fosterhjemmet <em>eller avlastningshjemmet.</em></p><p><em>Person med anmerkning knyttet til straffeloven §§\n162, 192, 193, 194, 195, 196, 197, 199, § 200 annet ledd, § 201\nførste ledd bokstav c, §§ 201 a, 203, 204 a, 219, 224, § 229 annet\nog tredje straffalternativ, §§ 231, 233 og 268 jf. 267 skal ikke\nfå adgang til å ha oppgaver overfor mindreårige. Person med anmerkning\nknyttet til øvrige straffebud skal ikke få adgang til å ha oppgaver\nsom nevnt etter tredje ledd, dersom anmerkning kan skape tvil om\nvedkommende er egnet for oppgaven.</em></p><p><em>Fornyet vandelskontroll kan foretas i samsvar med\npolitiregisterloven § 43.</em></p><p><em>Departementet kan gi utfyllende forskrifter til\nbestemmelsen.</em></p><p><b>§ 9-2 første ledd første punktum skal lyde:</b></p><p>Når et barn er plassert utenfor hjemmet som følge av et\nvedtak etter loven, kan kommunen kreve at foreldrene skal betale\noppfostringsbidrag fra måneden etter at plasseringen ble iverksatt\nog <em>til den</em> måneden plasseringen opphører.</p><p><b>II</b></p><p>Loven gjelder fra den tid Kongen bestemmer. Kongen\nkan sette i kraft de enkelte bestemmelsene til forskjellig tid.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

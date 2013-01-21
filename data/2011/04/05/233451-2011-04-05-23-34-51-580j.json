@@ -1,0 +1,44 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-04-05 23:34:51.580j",
+  "externalIssueId": "49010",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertallene I og II.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-04-05 23:34:51 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-05 23:34:51 +0200:1364",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2011 blir det gjort følgende endringer:<table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p>Inntekter</p></td></tr><tr><td class=\"innst-cell\"><p>5511</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Tollinntekter</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Toll, blir redusert med \t</p></td><td class=\"innst-cell\"><p>50 000 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 2 400 000 000 til kr 2 350 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>71</p></td><td class=\"innst-cell\"><p>Auksjonsinntekter fra tollkvoter, blir økt med\n\t</p></td><td class=\"innst-cell\"><p>15 000 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>fra kr 130 000 000 til 145 000 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-05 23:34:51 +0200:1365",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i inngåelse av avtale med Den\neuropeiske union (EU) om utvidet handel med landbruksvarer etter\nEØS-avtalens artikkel 19. </p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

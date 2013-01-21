@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-03 13:58:57.233j",
+  "externalIssueId": "47791",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-03 13:58:57 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-03 13:58:57 +0100:1147",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p><b>II</b></p><p>Lova her tek til å gjelde 1. mai 2011 og får òg verknad\nfor saker der forskott er gitt eller vert gitt med verknad for tidsrom\nfør denne datoen.</p>",
+      "metadata": {
+        "reason": "Denne teksten skal flyttes under avstemningen før (romertall I og II)",
+        "status": "rejected",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

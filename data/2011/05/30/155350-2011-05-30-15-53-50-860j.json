@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-30 15:53:50.860j",
+  "externalIssueId": "49323",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-30 15:53:50 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-30 15:53:50 +0200:1702",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i folketrygdloven \n(utvidelse av fedrekvoten mv.) <p><b>I</b></p>I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende\nendringer:<p><b>§ 14-9 første og andre ledd skal\nlyde:</b></p><p>Ved fødsel er stønadsperioden <em>235</em> stønadsdager (<em>47</em> uker)\nmed full sats eller <em>285</em> stønadsdager (<em>57</em> uker)\nmed redusert sats. Stønadsperioden etter fødselen er <em>220</em> stønadsdager\n(<em>44</em> uker) med full sats eller <em>270</em> stønadsdager\n(<em>54</em> uker) med redusert sats.</p><p>Ved adopsjon er stønadsperioden <em>220</em> stønadsdager\n(<em>44</em> uker) med full sats eller <em>270</em> stønadsdager\n(<em>54</em> uker) med redusert sats.</p><p><b>§ 14-9 femte ledd tredje punktum skal lyde:</b></p><p>Unntatt fra deling er også <em>12</em> uker som\ner forbeholdt faren (fedrekvoten), se § 14-12.</p><p><b>§ 14-12 første ledd skal lyde:</b></p><p>Dersom begge foreldre fyller vilkårene for rett til foreldrepenger,\ner <em>60</em> stønadsdager (<em>12</em> uker)\nav stønadsperioden forbeholdt faren (fedrekvote).</p><p><b>§ 14-14 nytt tredje ledd skal lyde:</b></p><p><em>Faren kan uten hinder av vilkårene i § 14-13 ta ut\nforeldrepenger i samme antall stønadsdager som fedrekvoten, se §\n14-12 første ledd, hvis moren mottar uførepensjon fra folketrygden.</em></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-16 16:59:54.927j",
+  "externalIssueId": "46941",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Forslag nr. 2 på vegne av A, SV og Sp.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-16 16:59:54 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-16 16:59:54 +0100:1075",
+      "description": "Forslag fra Torstein Rudihagen på vegne av Arbeiderpartiet, Sosialistisk Venstreparti og Senterpartiet",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=Section1>\r\n<p class=MsoNormal>Dokument 8:147 S (2009-2010)  representantforslag 147 S fra\r\nstortingsrepresentantene Ketil Solvik-Olsen, Henning <span class=SpellE>Skumsvoll</span>\r\nog Oskar Jarle Grimstad  vedlegges protokollen.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

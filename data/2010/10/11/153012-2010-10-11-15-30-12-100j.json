@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-10-11 15:30:12.100j",
+  "externalIssueId": "47737",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Tilrådning",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-10-11 15:30:12 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-10-11 15:30:12 +0200:8",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\r\n100%'>Som medlemmer av Stortingets ansvarskommisjon for tidsrommet 1.&nbsp;juni\r\n2010 til 1.&nbsp;juni 2016 velges Ellen Holager Andenæs, Oslo og Gunnar Larsen,\r\nOslo.<o:p></o:p></span><BR>\r\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

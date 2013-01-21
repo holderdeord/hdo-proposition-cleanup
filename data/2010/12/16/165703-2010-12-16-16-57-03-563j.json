@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-16 16:57:03.563j",
+  "externalIssueId": "48725",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Sak nr. 1",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-16 16:57:03 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-16 16:57:03 +0100:1068",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Med virkning fra 1. oktober 2010 fastsettes\nlønnen for Høyesteretts dommere slik:</p><p>Høyesterettsjustitiarius\tkr 1 650 000 pr. år</p><p>Høyesterettsdommere\tkr 1 423 000 pr. år</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

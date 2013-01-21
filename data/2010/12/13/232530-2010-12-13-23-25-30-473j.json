@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-13 23:25:30.473j",
+  "externalIssueId": "47776,48307",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Forslag nr. 7 på vegne av energi- og miljøkomiteen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-13 23:25:30 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-13 23:25:30 +0100:826",
+      "description": "Forslag fra Erling Sande på vegne av energi- og miljøkomiteen",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\n<p class=MsoNormal>Forslag om å endre innstillingens forslag til vedtak under\r\nramme 13, punkt IV og VI: <BR>\r\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\r\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\r\n<p class=MsoNormal>IV<BR>\r\n<p class=MsoNormal>Omdisponeringsfullmakt<BR>\r\n<p class=MsoNormal>Stortinget samtykker i at Miljøverndepartementet i 2011 kan\r\nomdisponere inntil 10 mill. kroner mellom <span class=SpellE>kap</span>. 1465\r\nStatens kartverk, arbeid med tinglysning og nasjonal geografisk infrastruktur,\r\npost 1 Driftsutgifter og post 21 Spesielle driftsutgifter, og <span\r\nclass=SpellE>kap</span>. 2465 Statens kartverk post 45 Større\r\nutstyrsanskaffelser og vedlikehold.<BR>\r\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\r\n<p class=MsoNormal>VI<BR>\r\n<p class=MsoNormal>Bestillingsfullmakter<BR>\r\n<p class=MsoNormal>Stortinget samtykker i at Miljøverndepartementet i 2011 kan\r\ngjøre bestillinger:<BR>\r\n<p class=MsoNormal>1.<span style='mso-tab-count:1'>         </span>av materiell\r\no.l. utover gitte bevilgninger, men slik at samlet ramme for nye bestillinger\r\nog gammelt ansvar ikke overstiger følgende beløp:<BR>\r\n<p class=MsoNormal>Kap.<span style='mso-tab-count:1'>    </span>Post<span\r\nstyle='mso-tab-count:1'>     </span>Betegnelse<span style='mso-tab-count:1'>      </span>Samlet\r\nramme <BR>\r\n<p class=MsoNormal>1426<span style='mso-tab-count:2'>                </span>Statens\r\nnaturoppsyn <span style='mso-tab-count:1'>  </span><BR>\r\n<p class=MsoNormal><span style='mso-tab-count:1'>            </span>32<span\r\nstyle='mso-tab-count:1'>        </span>Skjærgårdsparker mv.<span\r\nstyle='mso-tab-count:1'>            </span>7 mill. kroner<BR>\r\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\r\n<p class=MsoNormal>2.<span style='mso-tab-count:1'>         </span>av\r\nkartgrunnlag ut over gitt bevilgning under <span class=SpellE>kap</span>. 1465\r\nStatens kartverk, arbeid med tinglysning og nasjonal geografisk infrastruktur,\r\npost 21 Spesielle driftsutgifter, men slik at rammen for nye bestillinger og\r\ngammelt ansvar ikke overstiger 90 mill. kroner.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

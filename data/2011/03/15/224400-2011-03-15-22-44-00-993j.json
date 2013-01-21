@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-03-15 22:44:00.993j",
+  "externalIssueId": "48480",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-03-15 22:44:00 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-03-15 22:44:00 +0100:1311",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:42 S (20102011)  representantforslag\nfra stortingsrepresentantene Per-Willy Amundsen, Hans Frode Kielland\nAsmyhr og Per Sandberg om å forby hijab, niqab, burka og andre religiøse\neller politiske symboler som del av arbeidsantrekk for norske dommere\n vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

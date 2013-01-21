@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-11 12:55:14.743j",
+  "externalIssueId": "47044",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak nr. 5",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-11 12:55:14 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-11 12:55:14 +0100:47",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<FONT SIZE=2>\r\n<div class=WordSection1>\r\nStortinget samtykker til å sette i kraft en protokoll til endring av\r\noverenskomst om gjensidig administrativ bistand i skattesaker, utarbeidet i\r\nsamarbeid mellom Europarådet og Organisasjonen for økonomisk utvikling og\r\nsamarbeid (OECD), undertegnet i Paris 27. mai 2010.<BR>\r\n</div>\r\n</FONT>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

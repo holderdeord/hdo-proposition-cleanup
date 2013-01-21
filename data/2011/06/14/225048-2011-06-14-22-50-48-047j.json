@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-14 22:50:48.047j",
+  "externalIssueId": "50188",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Forslag nr. 1 på vegne av KrF.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-14 22:50:48 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:50:48 +0200:1986",
+      "description": "Forslag fra Kristelig Folkeparti",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget ber regjeringen gjenoppta forhandlingene\nmed ESA om krav til rettighetshaveres organisasjon og ledelse av petroleumsvirksomheten\npå norsk sokkel og bruk av baser mv.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

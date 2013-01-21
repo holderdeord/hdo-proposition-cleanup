@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-06 18:12:05.347j",
+  "externalIssueId": "48218",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I og II",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-06 18:12:05 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-06 18:12:05 +0100:493",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i lov om rettergangsmåten i \nstraffesaker (straffeprosessloven) <p><b>I</b></p>I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker\n(straffeprosessloven) gjøres følgende endringer:<p><b>§ 55 første ledd nr. 1 skal lyde:</b></p><p>1)\triksadvokaten, den assisterende riksadvokaten <em>og riksadvokatfullmektiger,</em></p><p><b>§ 55 første ledd nr. 4 skal lyde:</b></p><p>4)\tlensmennene <em>og politistasjonssjefene.</em></p><p><b>§ 56 nytt fjerde ledd skal lyde:</b></p><p><em>Departementet kan ansette riksadvokatfullmektiger.\nDe må ha juridisk embetseksamen eller mastergrad i rettsvitenskap.\nRiksadvokatfullmektigene behandler de saker som overlates dem av\nriksadvokaten.</em></p><p><b>§ 57 tredje ledd skal lyde:</b></p><p>Departementet kan ansette statsadvokatfullmektiger. De\nmå ha juridisk embetseksamen <em>eller mastergrad i rettsvitenskap.</em> Statsadvokatfullmektigene\nbehandler de saker som overlates dem av statsadvokatene.</p><p><b>§ 67 fjerde ledd siste punktum skal lyde:</b></p><p><em>Politimesteren kan delegere påtalekompetanse til\nlensmenn og politistasjonssjefer til å overføre straffesaker for\novertredelse av straffeloven §§ 147, 257, 258, 260, 291, 391, 391a\nog 228 første ledd til behandling i konfliktrådet, dersom dette\ner nødvendig. </em></p><p><b>§ 471 nr. 1 skal lyde:</b></p><p>1)\triksadvokaten, den assisterende riksadvokaten\nog <em>riksadvokatfullmektiger,</em></p><p><b>§ 472 nytt fjerde ledd skal lyde:</b></p><p><em>Departementet kan ansette krigsadvokatfullmektiger.\nKrigsadvokatfullmektigene må ha de samme kvalifikasjoner som bestemt\nfor statsadvokatfullmektigene (jf. § 57). </em></p><p><b>II</b></p><p>Loven trer i kraft 1. januar 2011.</p><p></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

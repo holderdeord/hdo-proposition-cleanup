@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-14 22:43:31.123j",
+  "externalIssueId": "49357",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-14 22:43:31 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-14 22:43:31 +0200:1931",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i legemiddelloven<p><b>I</b></p>I lov 4. desember 1992 nr. 132 om legemidler m.v.\ngjøres følgende endringer:<p><b>§ 1 nytt annet punktum skal lyde:</b></p><p><em>Uavhengig av § 2 første ledd gjelder denne loven også\nfor de stoffer, droger, planter, sopper og blandinger som Kongen\netter § 22 har fastsatt som narkotika.</em></p><p><b>Kapittel VIII overskriften skal lyde:</b></p><p><b>Kap. VIII. Narkotika</b></p><p><b>§ 22 skal lyde:</b></p><p>Kongen fastsetter hvilke stoffer, droger, <em>planter, sopper\nog blandinger (narkotika) </em>som skal komme inn under bestemmelsene\ni dette kapittel og gir forskrifter om tilvirkning, omsetning (salg,\nkjøp, annen overdragelse og mellommannsvirksomhet), innførsel, utførsel,\ngjennomførsel (transitt), utlevering, forsendelse og oppbevaring\nav disse, samt om dyrking av vekster som skal nyttes til fremstilling\nav <em>narkotika</em>.</p><p>I forskriftene kan inntas forbud mot <em>besittelse, bruk,</em> tilvirkning,\nanskaffelse, omsetning, innførsel, utførsel og gjennomførsel av\nvisse <em>narkotika</em>. Forskriftene skal gjelde også\nfor frihavner, frilager og transittopplag.</p><p><b>§ 23 skal lyde:</b></p><p>Tilvirkning av <em>narkotika </em>må bare foregå\ni den utstrekning det er uttrykkelig fastsatt i tillatelse etter § 12.</p><p><em>Innførsel av og engros- og detaljomsetning med narkotika\nmå bare foregå i den utstrekning dette er tillatt i henhold til\n§§ 13, 14 og 16</em>. Dersom ikke annet er bestemt i forskrifter,\nmå innførsel, utførsel og gjennomførsel av <em>narkotika </em>bare\nskje etter særskilt tillatelse (<em>sertifikat</em>) for\nhver gang og på de vilkår som er fastsatt i tillatelsen eller i\nforskrifter. Tillatelsen utstedes av den myndighet som Kongen bestemmer.</p><p>Omsetning, utlevering og forsendelse av narkotika er bare\ntillatt til medisinsk, vitenskapelig <em>eller industriell </em>bruk\ni samsvar med gjeldende forskrifter.</p><p>Tilvirkere og selgere er pliktige til å gi de meldinger\nog opplysninger som departementet krever.</p><p><b>Ny § 23a skal lyde:</b></p><p><em>Det kan kreves gebyr for behandling av søknader om\nsærskilt tillatelse til innførsel og utførsel av narkotika. Departementet\nkan i forskrift gi nærmere bestemmelser om gebyr, herunder om gebyrets\nstørrelse.</em></p><p><b>§ 24 første ledd skal lyde:</b></p><p>Det er forbudt uten lovlig adkomst å være i besittelse\nav eller å bruke <em>narkotika </em>og å skaffe seg adgang\ntil å få kjøpt slike varer under falske opplysninger, f.eks. om\nnavn, bosted, sykdom eller sykdomstegn.</p><p><b>§ 25 første og annet ledd skal lyde:</b></p><p>Lovbestemt taushetsplikt er ikke til hinder for at opplysninger\nom mulig misbruk av <em>narkotika </em>gis til Statens\nhelsetilsyn.</p><p>Leger, tannleger, veterinærer, apotekere og apotekbestyrere,\npsykologer, edruelighetsnemnder og politiet er pliktig til på anmodning\nå gi Statens helsetilsyn opplysninger om bestemte personers mulige misbruk\nav <em>narkotika</em>, eller om andre bestemt angitte tilfeller\nav misbruk eller overtredelse av bestemmelser i lov eller forskrifter\nom disse varer. I sak om straff eller inndragning p.g.a. overtredelse\nav slike bestemmelser kan retten uten hinder av straffeprosessloven\n§ 119 motta vitneprov om disse forhold.</p><p><b>Kap. VIII a. overskriften skal lyde:</b></p><p><b>Kap. VIII a. Stoffer som kan brukes ved ulovlig fremstilling\nav narkotika</b></p><p><b>§ 25a første ledd skal lyde:</b></p><p>Kongen kan gi forskrifter om at det kreves særskilt godkjenning\nfor import, eksport, transitt, tilvirkning, mottak, besittelse,\nhåndtering og omsetning av stoffer som kan brukes ved illegal fremstilling\nav <em>narkotika</em>, for å hindre spredning av slike\nstoffer.</p><p><b>§ 31 annet ledd skal lyde:</b></p><p>Besittelse og bruk av <em>narkotika</em>, jfr.\n§ 24 første ledd, straffes med bøter eller med fengsel inntil 6\nmåneder, eller begge deler.</p><p><b>§ 32 annet ledd skal lyde:</b></p><p>Departementet bestemmer også hva som skal gjøres med <em>narkotika </em>som\ner å regne som hittegods.</p><p><b>II</b></p><p>Loven trer i kraft fra den tid Kongen bestemmer.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

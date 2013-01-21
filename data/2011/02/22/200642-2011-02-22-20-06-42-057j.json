@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-22 20:06:42.057j",
+  "externalIssueId": "49012",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-22 20:06:42 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-22 20:06:42 +0100:1195",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2011 blir det gjort\nfølgjande endringar:<table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post</p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p>Utgifter</p></td></tr><tr><td class=\"innst-cell\"><p>580</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Bustøtte</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>70</p></td><td class=\"innst-cell\"><p>Bustøtte, <i>overslagsløyving</i>,\nblir auka med \t</p></td><td class=\"innst-cell\"><p>318 500 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 3 830 000 000 til kr 4 148 500 000 </p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>2412</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Husbanken</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter, blir auka med\n\t</p></td><td class=\"innst-cell\"><p>2 000 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kr 320 200 000 til kr 322 200 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

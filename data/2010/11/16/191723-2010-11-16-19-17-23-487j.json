@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-16 19:17:23.487j",
+  "externalIssueId": "46731",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak nr. 7",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-16 19:17:23 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-16 19:17:23 +0100:68",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:134 S (20092010)  representantforslag\nfra stortingsrepresentantene Siv Jensen, Per Sandberg og Per-Willy\nAmundsen om å gjøre «undergraving av asylinstituttet» til en skjerpende\nomstendighet i straffelovgivningen  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

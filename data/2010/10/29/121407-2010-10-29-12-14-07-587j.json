@@ -1,0 +1,32 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-10-29 12:14:07.587j",
+  "externalIssueId": "48018",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Romertall I og II",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-10-29 12:14:07 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-10-29 12:14:07 +0200:28",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i lov 7. mai 2004 nr. 21 om \nRiksrevisjonen.<p><b>I</b></p><p>I lov 7. mai 2004 nr. 21 om Riksrevisjonen gjøres\nfølgende endringer:</p><p><b>§ 6 første ledd skal lyde:</b></p><p>Riksrevisorenes lønn og pensjon fastsettes av Stortingets\npresidentskap. </p><p><b>§ 8 annet ledd første punktum skal lyde:</b></p><p>Riksrevisjonens regnskap fastsettes av Kollegiet og revideres\nav revisor oppnevnt av <i>S</i>tortingets presidentskap<i>.</i></p><p><b>II</b></p><p>Loven trer i kraft straks.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "jari"
+      }
+    }
+  ]
+}

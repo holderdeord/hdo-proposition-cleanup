@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-02-22 20:14:10.633j",
+  "externalIssueId": "48538",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-02-22 20:14:10 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-02-22 20:14:10 +0100:1213",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:43 S (20102011)  representantforslag\nfra stortingsrepresentantene Elisabeth Asp-aker, Svein Harberg,\nHenning Warloe og Ingjerd Schou om tydeligere retningslinjer for\nnasjonale prøver for å sikre sammenlignbare resultater mellom skolene\nog at flest mulig elever deltar  vedlegges protokollen.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

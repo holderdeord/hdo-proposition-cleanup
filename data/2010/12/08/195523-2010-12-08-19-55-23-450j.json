@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-12-08 19:55:23.450j",
+  "externalIssueId": "48441",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering over innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-12-08 19:55:23 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-12-08 19:55:23 +0100:691",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>I statsbudsjettet for 2010 blir det gjort\nfølgjande endringar:<table class=\"innst-table\"><tbody><tr><td class=\"innst-cell\"><p>Kap.</p></td><td class=\"innst-cell\"><p>Post </p></td><td class=\"innst-cell\"><p>Formål</p></td><td class=\"innst-cell\"><p>Kroner</p></td></tr><tr><td class=\"innst-cell\"><p>Utgifter</p></td></tr><tr><td class=\"innst-cell\"><p>1062</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Kystverket</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>1</p></td><td class=\"innst-cell\"><p>Driftsutgifter, blir redusert med \t</p></td><td class=\"innst-cell\"><p>105 900 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kroner 1 382 800 000 til kroner 1 276 900 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>45</p></td><td class=\"innst-cell\"><p>Større utstyrsanskaffingar og vedlikehald, blir\nauka med \t</p></td><td class=\"innst-cell\"><p>105 900 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kroner 118 680 000 til kroner 224 580 000</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p>73 (ny)</p></td><td class=\"innst-cell\"><p>Tilbakebetaling av avgift, blir løyvd med\n\t</p></td><td class=\"innst-cell\"><p>7 375 000</p></td></tr><tr><td class=\"innst-cell\"><p>Inntekter</p></td></tr><tr><td class=\"innst-cell\"><p>5575</p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>Sektoravgifter under Fiskeri- og kystdepartementet</p></td><td class=\"innst-cell\"><p></p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>74</p></td><td class=\"innst-cell\"><p>Sektoravgifter Kystverket, blir auka med\n\t</p></td><td class=\"innst-cell\"><p>11 090 000</p></td></tr><tr><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p></p></td><td class=\"innst-cell\"><p>frå kroner 648 775 000 til kroner 659 865 000</p></td><td class=\"innst-cell\"><p></p></td></tr></tbody></table></p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Eli Foss"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-03-14 17:06:42.140j",
+  "externalIssueId": "48302",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-03-14 17:06:42 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-03-14 17:06:42 +0100:1281",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:34 S (20102011)  representantforslag\nfra stortingsrepresentantene Erna Solberg, Torbjørn Røe Isaksen,\nSylvi Graham, Gunnar Gundersen, Sonja Irene Sjøli og Bent Høie om\nå redusere sykefraværet gjennom en bedre utnyttelse av «Raskere-tilbake»-ordningen\n vedlegges protokollen. </p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-03-10 20:05:14.427j",
+  "externalIssueId": "49576",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstillingens tilråding, romertallene I og II.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-03-10 20:05:14 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-03-10 20:05:14 +0100:1247",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>1.\tI Stortingets forretningsorden gjøres følgende endring:</p><p>§ 60 a annet punktum skal lyde:</p><p>Det samme gjelder vararepresentanter som <i>møter\nfor</i> en innvalgt representant.</p><p>2.\tI Reglement om register for stortingsrepresentantenes verv\nog økonomiske interesser gjøres følgende endringer: </p><p>§ 1 tredje ledd skal lyde:</p><p>Reglementet gjelder for alle innvalgte stortingsrepresentanter\nog vararepresentanter <i>som møter i Stortinget</i>.</p><p>§ 12 skal lyde: </p><p><i>For innvalgte stortingsrepresentanter, og\nvararepresentanter som er fast møtende, gjelder følgende reg-ler:</i></p><p><i>a)\t</i>Opplysninger til registeret skal\nmeldes til Stortingets administrasjon innen én måned etter at nyvalgt\nstorting har trådt sammen. Innen 20 dager etter at registreringsfristen\ner utløpt etter nyvalg, skal registeret være tilgjengelig for allmennheten\nved publisering på Stortingets nettsider.</p><p><i>b)\t</i>Endring av, eller tillegg til tidligere\nregistrerte opplysninger, skal meldes innen én måned etter at de\nnye opplysninger forelå. Vedkommende representants tidligere registrerte\ndata arkiveres og registeret oppdateres med de nye opplysningene\ninnen ti dager etter at representanten har meldt fra om dem.</p><p><i>Andre vararepresentanter enn de som er nevnt\ni første ledd, plikter å melde opplysninger til registeret til Stortingets\nadministrasjon første gang de møter i Stortinget. Endring av, eller\ntillegg til tidligere registrerte opplysninger, skal meldes når\nvararepresentanten møter på ny.</i></p><p>§ 14 skal lyde:</p><p>De registrerte opplysningene skal <i>tas ut</i> av\ndet elektroniske registeret etter at vedkommende representant er\ngått ut av Stortinget, jf. § <i>12</i>.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-03-10 20:05:14 +0100:1248",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p>Endringene trer i kraft 1. april 2011.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

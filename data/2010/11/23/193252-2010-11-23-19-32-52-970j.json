@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-11-23 19:32:52.970j",
+  "externalIssueId": "46952",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-11-23 19:32:52 +0100",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-11-23 19:32:52 +0100:147",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "om endringer i panteloven mv.<p><b>I</b></p>I lov 8. februar 1980 nr. 2 om pant gjøres følgende\nendringer:<p><b>§ 4-4 annet ledd skal lyde:</b></p><p><em>(2) Enkle pengekrav i form av innskudd på konto i\nkredittinstitusjon kan pantsettes til fordel for kredittinstitusjonen.\nI forbrukerforhold må slik panterett etableres ved skriftlig avtale,\nog panteretten kan bare omfatte innskudd som står på særskilt konto\nsom er opprettet i forbindelse med avtalen.</em></p><p><b>Nåværende annet ledd blir nytt tredje ledd.</b></p><p><b>§ 4-5 nytt annet ledd skal lyde:</b></p><p><em>(2) Avtale om panterett etter § 4-4 annet ledd\nmå inngås skriftlig for å få rettsvern. Avtalen må angi hvilket\neller hvilke innskudd panteretten omfatter ved å angi kontonummer\neller kontonumre. Bestemmelsen i § 1-4 gjelder ikke. Pantsettelse\nav slik panterett får rettsvern på samme måte.</em></p><p><b>Nåværende annet ledd blir første ledd nytt annet punktum.</b></p><p><b>II</b></p>I lov 11. juni 1993 nr. 101 om luftfart gjøres følgende\nendringer:<p><b>§ 10-22 første til fjerde ledd skal\nlyde:</b></p><p>Fraktføreren kan ikke fraskrive seg eller begrense ansvar\netter § 10-17 ved befordring av passasjerer, som ikke overstiger\net erstatningsbeløp <em>fastsatt av departementet i forskrift</em> for\nhver enkelt passasjer. For beløp som overstiger <em>beløpet\nfastsatt av departementet i forskrift</em> for hver enkelt\npassasjer, er fraktføreren ikke ansvarlig etter § 10-17 dersom fraktføreren\ngodtgjør at:</p><p>1.\tskaden ikke er forårsaket ved skyld utvist av fraktføreren,\nhans tilsatte eller andre han svarer for, eller</p><p>2.\tskaden utelukkende er forårsaket av tredjemanns skyld.</p><p>Fraktførerens ansvar for tap som følge av forsinkelse ved\nbefordring av passasjer er begrenset til <em>et beløp fastsatt\nav departementet i forskrift</em> for hver passasjer.</p><p>Ved befordring av reisegods er fraktførerens ansvar for\ntap på grunn av at reisegodset forsinkes, skades eller helt eller\ndelvis går tapt, begrenset til <em>et beløp fastsatt av departementet\ni forskrift</em> for hver passasjer. Dersom passasjeren ved\noverlevering av innskrevet reisegods til fraktføreren særskilt angir\nverdien av reisegodset og betaler fastsatte tilleggsavgifter, gjelder\ndet oppgitte beløp som grense for fraktførerens ansvar. Dette gjelder\nlikevel ikke dersom fraktføreren godtgjør at verdien er lavere enn\ndet oppgitte beløp.</p><p>Ved befordring av gods er fraktførerens ansvar for tap\npå grunn av at godset forsinkes, skades eller helt eller delvis\ngår tapt, begrenset til <em>et beløp</em> pr. kg <em>fastsatt\nav departementet i forskrift</em>. Dersom avsenderen ved overlevering\nav godset til fraktføreren særskilt angir verdien av godset og betaler\nfastsatte tilleggsavgifter, gjelder det oppgitte beløp som grense for\nfraktførerens ansvar. Dette gjelder likevel ikke dersom fraktføreren\ngodtgjør at verdien er lavere enn det oppgitte beløp. Dersom bare\nen del av godset forsinkes, skades eller helt eller delvis går tapt,\nregnes bare den sammenlagte vekten av de berørte kolli med når grensen\nfor fraktførerens ansvar skal bestemmes. Dersom verdien av andre\nkolli som omfattes av samme luftfraktbrev, godskvittering eller\nregistrering på annen måte jf. § 10-5 annet ledd påvirkes, skal\ndisse kolliene regnes med.</p><p><b>III</b></p>I lov 13. mai 1988 nr. 26 om inkassovirksomhet og\nannen inndriving av forfalte pengekrav skal § 4 femte ledd nytt\nannet punktum lyde:<p><em>Kongen kan i forskrift\ngi regler om at Finanstilsynet uhindret av taushetsplikten kan eller\nskal gi opplysninger om en inkassator som har norsk inkassobevilling\nog midlertidig utøver inkassovirksomhet i en annen EØS-stat, til\nrelevant myndighet i vedkommende EØS-stat.</em></p><p><b>IV</b></p><p>Loven del I gjelder fra den tid Kongen bestemmer.</p><p>Loven del II og III trer i kraft straks.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

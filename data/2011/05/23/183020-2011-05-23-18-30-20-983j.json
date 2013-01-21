@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-23 18:30:20.983j",
+  "externalIssueId": "49675",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-23 18:30:20 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-23 18:30:20 +0200:1652",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Dokument 8:105 S (20102011)  representantforslag\nfra stortingsrepresentantene Kjell Ingolf Ropstad, Dagrun Eriksen\nog Geir Jørgen Bekkevold om å avholde ekstra eksamen i fagene norsk\nog engelsk for å hindre bortvalg og sikre at flere får studiekompetanse\n vert lagt ved møteboka.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

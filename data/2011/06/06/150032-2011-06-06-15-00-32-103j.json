@@ -1,0 +1,33 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-06-06 15:00:32.103j",
+  "externalIssueId": "49318",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres over innstillingen.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-06-06 15:00:32 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-06 15:00:32 +0200:1740",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p>Stortinget samtykker i godkjenning av EØS-komiteens\nbeslutning nr. 123/2010 av 10. november 2010 om innlemmelse av i\nEØS-avtalen av forordning (EU) nr. 285/2010 om forsikringskrav for\nluftfartsselskap og luftfartsoperatører.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "hanna"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}

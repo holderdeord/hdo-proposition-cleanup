@@ -1,0 +1,44 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2011-05-10 11:53:48.353j",
+  "externalIssueId": "50324",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "romertallene I og II.",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2011-05-10 11:53:48 +0200",
+  "representatives": [
+
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-10 11:53:48 +0200:1619",
+      "description": "Komiteens tilråding romertall I.",
+      "onBehalfOf": "",
+      "body": "<p>I Stortingets forretningsorden gjøres følgende endringer:</p><p>§ 13 annet ledd skal lyde:</p><p>Den utvidete utenriks- og forsvarskomité har\ntil oppgave å drøfte med regjeringen viktige <i>spørsmål\nvedrørende utenrikspolitikk, handelspolitikk, sikkerhetspolitikk\nog beredskap, herunder terrorberedskap</i>. Sådan drøftelse bør finne\nsted før viktige beslutninger fattes. I særlige tilfelle kan den\nutvidete komité avgi innstilling til Stortinget.</p><p>§ 13 femte ledd skal lyde:</p><p>Lederen kaller sammen komiteen når vedkommende\nmener det er nødvendig, når statsministeren, utenriksministeren\neller en tredjedel av komitémedlemmene anmoder om <i>det.\nTilsvarende gjelder</i> når forsvarsministeren anmoder om det\ni viktige beredskapsmessige spørsmål, <i>eller når\njustisministeren anmoder om drøftelse av spørsmål vedrørende terrorberedskap</i>.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-05-10 11:53:48 +0200:1620",
+      "description": "Komiteens tilråding romertall II.",
+      "onBehalfOf": "",
+      "body": "<p>Endringene trer i kraft straks.</p>",
+      "metadata": {
+        "status": "approved",
+        "username": "Tor Halle Rise"
+      }
+    }
+  ],
+  "propositionsMissing": null
+}
