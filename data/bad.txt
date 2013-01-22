@@ -21,24 +21,6 @@
   
 ------------------------------------------------------------------------------------------------------------------
   
-2010-12-03 13:19:04 +0100 -> romertallene I, II, III, IV, V og VI.
-  http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101203
-	["Komiteens tilråding romertall I.", {"status"=>"approved", "username"=>"Eli Foss"}]
-	["Komiteens tilråding romertall II.", {"reason"=>"Manglende forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
-	["Komiteens tilråding romertall III.", {"reason"=>"Manglende forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
-	["Komiteens tilråding romertall IV.", {"status"=>"approved", "username"=>"Eli Foss"}]
-	["Komiteens tilråding romertall V.", {"status"=>"approved", "username"=>"Eli Foss"}]
-	["Komiteens tilråding romertall VI.", {"status"=>"approved", "username"=>"Eli Foss"}]
-2010-12-07 18:14:30 +0100 -> Forslag nr. 29 og 30 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101207
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
-2010-12-07 18:14:57 +0100 -> Forslag nr. 31 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101207
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
-2010-12-07 18:15:23 +0100 -> Forslag nr. 32 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101207
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"Tekst ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
 2010-12-08 19:49:19 +0100 -> Forslag nr. 14 - 43, 45 - 48, 50 - 59, 61, 63 og 64 på vegne av FrP.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101208
 	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Eli Foss"}]
