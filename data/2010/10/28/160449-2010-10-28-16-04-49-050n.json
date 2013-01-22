@@ -4318,12 +4318,7 @@
       "externalId": "2010-10-28 16:04:49 +0200:25",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen sørge for at forskrifter og\nregelverk knyttet til beregning av samfunnsøkonomisk nytte av investering\ni vei og jernbane omgående endres slik:</p>",
-      "metadata": {
-        "reason": "mangler noe tekst",
-        "status": "rejected",
-        "username": "Tor Halle Rise"
-      }
+      "body": "<p>Stortinget ber regjeringen sørge for at forskrifter og\nregelverk knyttet til beregning av samfunnsøkonomisk nytte av investering\ni vei og jernbane omgående endres slik:</p>\n\n<ul>\n  <li>a. Beregnet levetid økes fra 25 til 60 år.</li>\n  <li>b. Verdien av folks tid økes fra 60 kroner til 200 kroner timen.</li>\n  <li>c. Forutsetning om samfunnsøkonomisk tap begrunnet med tap av skatteinntekter ved finansiering av prosjektet, fjernes.</li>\n  <li>d. Avkastningskravet reduseres fra 4,5 pst. til 2,5 pst.</li>\n</ul>",
     }
   ],
   "propositionsMissing": null

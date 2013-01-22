@@ -4391,12 +4391,7 @@
       "externalId": "2010-11-26 01:36:27 +0100:240",
       "description": "Forslag fra Venstre",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen øke grensen for tollfri import\nav varer fra utlandet til 500 kroner, samt etab-lere en ordning\nder beløpet jevnlig justeres med prisveksten.</p>",
-      "metadata": {
-        "reason": "etablere",
-        "status": "rejected",
-        "username": "hanna"
-      }
+      "body": "<p>Stortinget ber regjeringen øke grensen for tollfri import\nav varer fra utlandet til 500 kroner, samt etablere en ordning\nder beløpet jevnlig justeres med prisveksten.</p>",
     },
     {
       "kind": "hdo#proposition",

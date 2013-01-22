@@ -4435,12 +4435,7 @@
       "externalId": "2010-11-26 01:31:53 +0100:171",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen opprette en ny bataljon\npå linje med Telemarksbataljonen. Dette for å avlaste våre soldater\ni skarp utenlandstjeneste, ref. Afghani-stan, og for å styrke vår\ntilstedeværelse på norsk territorium.</p>",
-      "metadata": {
-        "reason": "Afghanistan",
-        "status": "rejected",
-        "username": "Hanna"
-      }
+      "body": "<p>Stortinget ber regjeringen opprette en ny bataljon\npå linje med Telemarksbataljonen. Dette for å avlaste våre soldater\ni skarp utenlandstjeneste, ref. Afghanistan, og for å styrke vår\ntilstedeværelse på norsk territorium.</p>",
     },
     {
       "kind": "hdo#proposition",
@@ -4502,12 +4497,7 @@
       "externalId": "2010-11-26 01:31:53 +0100:177",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen innføre plikt til\nforenk-let kunngjøring ved innkjøp under den nasjonale ters-kelverdien\nfor anbudsplikt og legge til rette for en effektiv, ubyråkratisk\nnasjonal web-basert struktur for dette.</p>",
-      "metadata": {
-        "reason": "forenklet, terskelverdien",
-        "status": "rejected",
-        "username": "Hanna"
-      }
+      "body": "<p>Stortinget ber regjeringen innføre plikt til\nforenklet kunngjøring ved innkjøp under den nasjonale terskelverdien\nfor anbudsplikt og legge til rette for en effektiv, ubyråkratisk\nnasjonal web-basert struktur for dette.</p>",
     },
     {
       "kind": "hdo#proposition",
@@ -5031,12 +5021,7 @@
       "externalId": "2010-11-26 01:31:53 +0100:225",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen:</p>",
-      "metadata": {
-        "reason": "mangler forslagstekst",
-        "status": "rejected",
-        "username": "Hanna"
-      }
+      "body": "<p>Stortinget ber regjeringen:</p>\n<ul>\n  <li>1. Skille ut tidligere Statskonsult som et eget selskap og selge dette.</li>\n  <li>2. Legge frem sak om organisering av Direktoratet for forvaltning og IKT som et statlig selskap eller statsaksjeselskap, og en ordning der selskapet skal kunne prosjektfinansiere store utbyggingsprosjekter ved hjelp av rimelige, statlige lån som tilbakebetales over investeringsobjektets levetid.</li>\n</ul>\n",
     },
     {
       "kind": "hdo#proposition",

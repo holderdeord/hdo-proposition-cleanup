@@ -49,18 +49,24 @@ end
 
 task :bad do
   count = 0
-  
+
+  data = []
+
   coll.find('propositions.metadata' => {:$exists => true}).each do |vote|
     next unless vote['propositions'].any? { |e| e['metadata']['status'] == 'rejected' }
     count += 1
-    
-    puts '%s -> %s' % [vote['time'].localtime, vote['subject']]
-    puts "   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/#{vote['time'].strftime("%y%m%d")} "
+
+    str = ['%s -> %s' % [vote['time'].localtime, vote['subject']]]
+    str << "   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/#{vote['time'].strftime("%y%m%d")} "
     vote['propositions'].each do |prop|
-      puts "\t#{prop.values_at('description', 'metadata').inspect}"
+      str << "\t#{prop.values_at('description', 'metadata').inspect}"
     end
+
+    data << {:time => vote['time'], :str => str}
   end
-  
+
+  data.sort_by { |e| e[:time] }.each { |e| puts e[:str] }
+
   puts "count: #{count}"
 end
 
