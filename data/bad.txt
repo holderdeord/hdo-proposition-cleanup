@@ -5,24 +5,24 @@
 2010-11-18 19:53:29 +0100 -> Lovens overskrift og loven i sin helhet
   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101118
 	["", {"reason"=>"ingen forslagstekst. Bør ikke den her være identisk med forslagsteksten over?", "status"=>"rejected", "username"=>"Hanna"}]
-
-
+  
 2010-11-26 01:51:33 +0100 -> Romertall I, § 1-3, § 3-30 og § 6-22  Stor bokstav L.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126
 	["Komiteens tilråding bokstav L.", {"reason"=>"mangelfull tekst", "status"=>"rejected", "username"=>"Hanna"}]
+  
 2010-11-26 01:52:18 +0100 -> Romertall I, Ny § 6-13 B Romertall I, § 5-14 annet ledd nytt annet punktum Romertall I, Ny § 16-7  Stor bokstav C, J og L.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126
+  http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126
 	["Komiteens tilråding bokstav C.", {"status"=>"approved", "username"=>"hanna"}]
 	["Komiteens tilråding bokstav J.", {"status"=>"approved", "username"=>"hanna"}]
 	["Komiteens tilråding bokstav L.", {"reason"=>"mangelfull tekst", "status"=>"rejected", "username"=>"hanna"}]
 2010-11-26 01:53:19 +0100 -> Lovenes overskrifter og lovene i sin helhet
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126
 	["Komiteens tilråding bokstav L.", {"reason"=>"Feil tekst - bokstav L er allerede koblet til forrige avstemning", "status"=>"rejected", "username"=>nil}]
-2010-12-03 13:15:51 +0100 -> Forslag nr. 17 på vegne av FrP.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101203
-	["Forslag fra Jan Arild Ellingsen på vegne av Fremskrittspartiet", {"reason"=>"Teksten foreløpig ikke tilgjengelig", "status"=>"rejected", "username"=>"Eli Foss"}]
+  
+------------------------------------------------------------------------------------------------------------------
+  
 2010-12-03 13:19:04 +0100 -> romertallene I, II, III, IV, V og VI.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101203
+  http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101203
 	["Komiteens tilråding romertall I.", {"status"=>"approved", "username"=>"Eli Foss"}]
 	["Komiteens tilråding romertall II.", {"reason"=>"Manglende forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
 	["Komiteens tilråding romertall III.", {"reason"=>"Manglende forslagstekst", "status"=>"rejected", "username"=>"Eli Foss"}]
