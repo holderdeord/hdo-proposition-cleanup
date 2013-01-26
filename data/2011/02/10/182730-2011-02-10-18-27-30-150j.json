@@ -4370,12 +4370,7 @@
       "externalId": "2011-02-10 18:27:30 +0100:1177",
       "description": "Komiteens tilråding",
       "onBehalfOf": "",
-      "body": "<p>1.\tStortinget samtykker i at bompengeselskapet får\ntillatelse til å ta opp lån og kreve inn bompenger for utbygging\nog finansiering av E18 på strekningen GulliLangåker etter vilkårene\ni Prop. 56 S (20102011) og Innst. 178 S (20102011). </p><p>2.\tSamferdselsdepartementet får fullmakt til å inngå avtale med\nbompengeselskapet og fastsette nærmere regler for finansieringsordningen.</p>",
-      "metadata": {
-        "status": "rejected",
-        "username": "Daniel",
-        "reason": "Skrivefeil: trenger bindestrek mellom stedsnavn"
-      }
+      "body": "<p>1.\tStortinget samtykker i at bompengeselskapet får\ntillatelse til å ta opp lån og kreve inn bompenger for utbygging\nog finansiering av E18 på strekningen Gulli-Langåker etter vilkårene\ni Prop. 56 S (2010-2011) og Innst. 178 S (2010-2011). </p><p>2.\tSamferdselsdepartementet får fullmakt til å inngå avtale med\nbompengeselskapet og fastsette nærmere regler for finansieringsordningen.</p>"
     }
   ],
   "propositionsMissing": null

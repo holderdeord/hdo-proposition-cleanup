@@ -4414,12 +4414,7 @@
       "externalId": "2011-02-10 18:22:03 +0100:1162",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen legge frem en stortingsmelding\nmed sikte på å forbedre og videreut-vikle helsetilsynets ansvar\nog håndtering av uheldige hendelser i helsevesenet.</p>",
-      "metadata": {
-        "reason": "Skrivefeil: videreut-vikle",
-        "status": "rejected",
-        "username": "Daniel"
-      }
+      "body": "<p>Stortinget ber regjeringen legge frem en stortingsmelding\nmed sikte på å forbedre og videreutvikle helsetilsynets ansvar\nog håndtering av uheldige hendelser i helsevesenet.</p>"
     },
     {
       "kind": "hdo#proposition",

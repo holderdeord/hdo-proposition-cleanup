@@ -48,6 +48,8 @@ task :write do
 end
 
 task :combine do
+  # TODO: check for empty proposition bodies, run spell check
+
   votes = Dir['data/**/*.json'].map { |e| JSON.parse(File.read(e)) }
 
   votes.each do |vote|

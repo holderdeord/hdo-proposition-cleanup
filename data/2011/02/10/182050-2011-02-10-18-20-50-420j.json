@@ -22,24 +22,14 @@
       "externalId": "2011-02-10 18:20:50 +0100:1154",
       "description": "Komiteens tilråding romertall I.",
       "onBehalfOf": "",
-      "body": "<p>I Stortingets forretningsorden skal § 19 tredje ledd\nlyde:</p><p>En komité kan tre sammen også når Stortinget ikke er samlet.\nStortingets administrasjon underrettes om slike komitésamlinger.\nHar et komitémedlem forfall til en slik komitésamling, og komitélederen\nfinner å kunne godta forfallet, kan lederen innkalle vedkommende\nmedlems vararepresentant. <i>Det samme gjelder\nved forfall til komitésamling når Stortinget er samlet, men ikke har\nmøte, og det ikke har vært mulighet til å søke Stortinget om permisjon.\nKomitélederen kan bare innkalle vararepresentant i tilfeller som nevnt\ni § 27 første ledd annet og tredje punktum. § 27 første ledd femte\npunktum gjelder tilsvarende.</i></p>",
-      "metadata": {
-        "reason": "Denne og neste forslag (tilrådning romertall II) er en og samme votering (ikke 2 voteringer som det ser ut her)",
-        "status": "rejected",
-        "username": "Daniel"
-      }
+      "body": "<p>I Stortingets forretningsorden skal § 19 tredje ledd\nlyde:</p><p>En komité kan tre sammen også når Stortinget ikke er samlet.\nStortingets administrasjon underrettes om slike komitésamlinger.\nHar et komitémedlem forfall til en slik komitésamling, og komitélederen\nfinner å kunne godta forfallet, kan lederen innkalle vedkommende\nmedlems vararepresentant. <i>Det samme gjelder\nved forfall til komitésamling når Stortinget er samlet, men ikke har\nmøte, og det ikke har vært mulighet til å søke Stortinget om permisjon.\nKomitélederen kan bare innkalle vararepresentant i tilfeller som nevnt\ni § 27 første ledd annet og tredje punktum. § 27 første ledd femte\npunktum gjelder tilsvarende.</i></p>"
     },
     {
       "kind": "hdo#proposition",
       "externalId": "2011-02-10 18:20:50 +0100:1155",
       "description": "Komiteens tilråding romertall II.",
       "onBehalfOf": "",
-      "body": "<p>Endringene trer i kraft straks. </p>",
-      "metadata": {
-        "reason": "Slås sammen med komiteens tilrådning romertall I",
-        "status": "rejected",
-        "username": "Daniel"
-      }
+      "body": "<p>Endringene trer i kraft straks. </p>"
     }
   ],
   "propositionsMissing": null

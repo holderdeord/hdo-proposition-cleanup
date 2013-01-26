@@ -21,56 +21,6 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-2011-02-03 13:58:45 +0100 -> Romertall I og II
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110203
-	["Komiteens tilråding", {"reason"=>"Mangler et par linjer tekst på tampen", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-03 13:58:57 +0100 -> Lovens overskrift og loven i sin helhet
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110203
-	["Komiteens tilråding", {"reason"=>"Denne teksten skal flyttes under avstemningen før (romertall I og II)", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:20:50 +0100 -> romertallene I og II.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Komiteens tilråding romertall I.", {"reason"=>"Denne og neste forslag (tilrådning romertall II) er en og samme votering (ikke 2 voteringer som det ser ut her)", "status"=>"rejected", "username"=>"Daniel"}]
-	["Komiteens tilråding romertall II.", {"reason"=>"Slås sammen med komiteens tilrådning romertall I", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:20:59 +0100 -> romertallene I og II.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Komiteens tilråding romertall I.", {"reason"=>"Votert felles romertall I og II (slås sammen med neste avstemning)", "status"=>"rejected", "username"=>"Daniel"}]
-	["Komiteens tilråding romertall II.", {"reason"=>"Votert felles romertall I og II (slås sammen med neste avstemning)", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:22:03 +0100 -> Forslag nr. 4 - 9 på vegne av FrP.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
-	["Forslag fra Fremskrittspartiet", {"reason"=>"Skrivefeil: videreut-vikle", "status"=>"rejected", "username"=>"Daniel"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
-2011-02-10 18:25:44 +0100 ->
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Komiteens tilråding", {"reason"=>"Mangler tittel på avstemning", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:26:20 +0100 -> Forslag nr. 3 på vegne av FrP.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Forslag fra Bård Hoksrud på vegne av Fremskrittspartiet", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:26:50 +0100 -> Det voteres alternativt mellom innstillingen  og forslagene 1 og 2 fra FrP
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Komiteens tilråding", {"reason"=>"Skrivefeil: Trenger bindestrek mellom stedsnavnene", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:26:50 +0100 -> Det voteres alternativt mellom innstillingen  og forslagene 1 og 2 fra FrP
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Forslag fra Fremskrittspartiet", {"reason"=>"Trenger bindestrek mellom navn på steder", "status"=>"rejected", "username"=>"Daniel"}]
-	["Forslag fra Bård Hoksrud på vegne av Fremskrittspartiet", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:27:30 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Forslag fra Fremskrittspartiet", {"reason"=>"Skrivefeil: Trenger bindestrek mellom stedsnavn", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-10 18:27:30 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Komiteens tilråding", {"status"=>"rejected", "username"=>"Daniel", "reason"=>"Skrivefeil: trenger bindestrek mellom stedsnavn"}]
-2011-02-10 18:28:31 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 og 2 fra FrP
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
-	["Forslag fra Bård Hoksrud på vegne av Fremskrittspartiet", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Daniel"}]
-2011-02-17 13:27:07 +0100 -> Forslag nr. 4 - 6 på vegne av FrP.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110217
-	["Forslag fra Fremskrittspartiet", {"reason"=>"Skrivefeil: etab-lering", "status"=>"rejected", "username"=>"Daniel"}]
-	["Forslag fra Fremskrittspartiet", {"reason"=>"Etabl-eringen", "status"=>"rejected", "username"=>"Daniel"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Daniel"}]
 2011-02-22 20:17:39 +0100 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110222
 	["Komiteens tilråding", {"reason"=>"Forslagsteksten er ufullstendig (mangler en setning i midten)", "status"=>"rejected", "username"=>"hanna"}]

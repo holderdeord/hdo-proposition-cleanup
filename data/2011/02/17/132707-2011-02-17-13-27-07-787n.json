@@ -4360,24 +4360,14 @@
       "externalId": "2011-02-17 13:27:07 +0100:1189",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen legge til rette for\netab-lering av fire nasjonale videregående skoler innen realfag. </p>",
-      "metadata": {
-        "reason": "Skrivefeil: etab-lering",
-        "status": "rejected",
-        "username": "Daniel"
-      }
+      "body": "<p>Stortinget ber regjeringen legge til rette for etablering av fire nasjonale videregående skoler innen realfag.</p>"
     },
     {
       "kind": "hdo#proposition",
       "externalId": "2011-02-17 13:27:07 +0100:1190",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen legge til rette for\netab-leringen av fire nasjonale realfagslærerutdanninger på masternivå. </p>",
-      "metadata": {
-        "reason": "Etabl-eringen",
-        "status": "rejected",
-        "username": "Daniel"
-      }
+      "body": "<p>Stortinget ber regjeringen legge til rette for etableringen av fire nasjonale realfagslærerutdanninger på masternivå. </p>"
     },
     {
       "kind": "hdo#proposition",
