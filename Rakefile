@@ -47,6 +47,36 @@ task :write do
   end
 end
 
+task :combine do
+  votes = Dir['data/**/*.json'].map { |e| JSON.parse(File.read(e)) }
+
+  votes.each do |vote|
+    if vote.member?('propositionsMissing')
+      if vote['propositionsMissing']
+        raise "missing propositions in #{vote.inspect}"
+      else
+        vote.delete('propositionsMissing')
+      end
+    end
+
+    vote['propositions'].each do |prop|
+      prop['body'].gsub!("", "-").gsub("\r\n", "\n")
+    end
+
+    if prop.member?('metadata')
+      if prop['metadata']['status'] != 'approved'
+        raise "bad vote: #{vote.inspect}"
+      end
+
+      prop.delete('metadata')
+    end
+  end
+
+  File.open('combined.json', 'w') do |io|
+    io << JSON.generate(votes)
+  end
+end
+
 task :bad do
   count = 0
 
