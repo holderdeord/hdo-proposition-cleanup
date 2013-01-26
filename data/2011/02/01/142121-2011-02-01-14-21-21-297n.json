@@ -4390,12 +4390,7 @@
       "externalId": "2011-02-01 14:21:21 +0100:1142",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen fremme sak om en heving\nav skattefradraget for gaver gitt til kulturut-øvere og -institusjoner,\nidrettslag og frivillige, ideelle organisasjoner.</p>",
-      "metadata": {
-        "status": "rejected",
-        "username": "Daniel",
-        "reason": "Ordfeil: kulturut-øvere"
-      }
+      "body": "<p>Stortinget ber regjeringen fremme sak om en heving\nav skattefradraget for gaver gitt til kultur-utøvere og -institusjoner,\nidrettslag og frivillige, ideelle organisasjoner.</p>"
     },
     {
       "kind": "hdo#proposition",
