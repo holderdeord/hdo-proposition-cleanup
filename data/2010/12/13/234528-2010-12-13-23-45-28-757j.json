@@ -9,7 +9,7 @@
   },
   "personal": false,
   "enacted": true,
-  "subject": "",
+  "subject": "Komiteens tilrådning",
   "method": "ikke_spesifisert",
   "resultType": "ikke_spesifisert",
   "time": "2010-12-13 23:45:28 +0100",
@@ -22,12 +22,7 @@
       "externalId": "2010-12-13 23:45:28 +0100:905",
       "description": "Komiteens tilråding",
       "onBehalfOf": "",
-      "body": "<p>Dokument 8:136 S (20092010)  representantforslag\nfra stortingsrepresentantene Laila Dåvøy, Rigmor Andersen Eide,\nØyvind Håbrekke og Hans Olav Syversen om rammevilkårene for ideelle\naktører som driver helse-, omsorgs- og barnevernstjenester  vedlegges\nprotokollen.</p>",
-      "metadata": {
-        "reason": "mangler overskrift, heter bare klokkeslettet",
-        "status": "rejected",
-        "username": "hanna"
-      }
+      "body": "<p>Dokument 8:136 S (2009-2010) - representantforslag\nfra stortingsrepresentantene Laila Dåvøy, Rigmor Andersen Eide,\nØyvind Håbrekke og Hans Olav Syversen om rammevilkårene for ideelle\naktører som driver helse-, omsorgs- og barnevernstjenester - vedlegges\nprotokollen.</p>"
     }
   ],
   "propositionsMissing": null

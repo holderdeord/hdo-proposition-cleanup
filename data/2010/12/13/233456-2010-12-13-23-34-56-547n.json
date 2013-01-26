@@ -4395,12 +4395,7 @@
       "externalId": "2010-12-13 23:34:56 +0100:853",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>I lov 28. februar 1997 nr. 19 om folketrygd (folketrygdlova)\nskal § 11-13 tredje ledd lyde: </p><p>Det kan også gis arbeidsavklaringspenger i inntil ett\når til medlem som ikke har opparbeidet seg ny rett til sykepenger\netter kapittel 8 og som </p>",
-      "metadata": {
-        "reason": "ufullstendig tekst",
-        "status": "rejected",
-        "username": "hanna"
-      }
+      "body": "<p>I lov 28. februar 1997 nr. 19 om folketrygd (folketrygdlova) skal § 11-13 tredje ledd lyde:</p>\n<p>Det kan også gis arbeidsavklaringspenger i inntil ett år til medlem som ikke har opparbeidet seg ny rett til sykepenger etter kapittel 8 og som </p>\n<ul>\n  <li>a) tidligere har mottatt arbeidsavklaringspenger og som innen seks måneder igjen blir arbeidsufør som følge av en annen sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående,</li>\n  <li>b) tidligere har mottatt arbeidsavklaringspenger og som innen ett år igjen blir arbeidsufør som følge av samme sykdom, selv om nedsettelsen av arbeidsevnen antas å være rent forbigående, eller</li>\n  <li>c) tidligere har mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de siste tre årene (§ 8-12), og igjen blir arbeidsufør mens vedkommende er i arbeid.</li>\n</ul>"
     }
   ],
   "propositionsMissing": null
