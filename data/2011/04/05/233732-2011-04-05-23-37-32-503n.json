@@ -4385,12 +4385,7 @@
       "externalId": "2011-04-05 23:37:32 +0200:1371",
       "description": "Forslag fra Framstegspartiet",
       "onBehalfOf": "",
-      "body": "<p>I lov 13. juni 1997 nr. 44 om aksjeselskaper\n(aksjeloven) gjøres følgende endring:</p><p>§ 2-3 første ledd nr. 6 skal lyde:</p>",
-      "metadata": {
-        "reason": "mangler noe tekst: 6. hvem som skal være selskapets revisor dersom selskapets årsregnskap skal revideres.»",
-        "status": "rejected",
-        "username": "Tor Halle Rise"
-      }
+      "body": "<p>I lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven) gjøres følgende endring:</p>\n<p>§ 2-3 første ledd nr. 6 skal lyde:</p>\n<ul>\n  <li>6. hvem som skal være selskapets revisor dersom selskapets årsregnskap skal revideres.</li>\n</ul>\n"
     }
   ],
   "propositionsMissing": null

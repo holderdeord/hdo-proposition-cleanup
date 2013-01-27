@@ -4385,19 +4385,14 @@
       "externalId": "2011-04-05 23:45:12 +0200:1418",
       "description": "Forslag fra Høyre",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen i løpet av vårsesjonen 2011\nlegge frem for Stortinget evaluering av forsøksprosjektet med utvidet\nkommunalt selvstyre i 8 utvalgte kommuner i perioden 20002005.</p>",
-      "metadata": {
-        "reason": "mangler bindestreeeek",
-        "status": "rejected",
-        "username": "Eli Foss"
-      }
+      "body": "<p>Stortinget ber regjeringen i løpet av vårsesjonen 2011\nlegge frem for Stortinget evaluering av forsøksprosjektet med utvidet\nkommunalt selvstyre i 8 utvalgte kommuner i perioden 2000-2005.</p>"
     },
     {
       "kind": "hdo#proposition",
       "externalId": "2011-04-05 23:45:12 +0200:1419",
       "description": "Forslag fra Høyre",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen fremme forslag om endringer\ni lov om motorferdsel i utmark slik at kommunene får økt myndighet\n innenfor nasjonale retningslinjer  og der erfaringene fra forsøksprosjektet\nmed økt lokalt selvstyre legges til grunn.</p>",
+      "body": "<p>Stortinget ber regjeringen fremme forslag om endringer\ni lov om motorferdsel i utmark slik at kommunene får økt myndighet\n- innenfor nasjonale retningslinjer - og der erfaringene fra forsøksprosjektet\nmed økt lokalt selvstyre legges til grunn.</p>",
       "metadata": {
         "status": "approved",
         "username": "Eli Foss"
