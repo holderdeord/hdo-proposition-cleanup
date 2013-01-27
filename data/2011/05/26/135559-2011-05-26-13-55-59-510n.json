@@ -9,7 +9,7 @@
   },
   "personal": true,
   "enacted": false,
-  "subject": "Det voteres alternativt mellom innstillingen  og forslag nr..2 - 8 og 10 fra FrP.",
+  "subject": "Det voteres alternativt mellom innstillingen  og forslag nr. 2 - 8 og 10 fra FrP.",
   "method": "ikke_spesifisert",
   "resultType": "ikke_spesifisert",
   "time": "2011-05-26 13:55:59 +0200",
@@ -4457,12 +4457,7 @@
       "externalId": "2011-05-26 13:55:59 +0200:1686",
       "description": "Forslag fra Åse Michaelsen på vegne av Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Teksten er foreløpig ikke tilgjengelig</p>",
-      "metadata": {
-        "reason": "Mangler forslagstekst",
-        "status": "rejected",
-        "username": "Tor Halle Rise"
-      }
+      "body": "Stortinget ber regjeringen intensivere bruk av stikkontroller ved landets grenseoverganger."
     }
   ],
   "propositionsMissing": null

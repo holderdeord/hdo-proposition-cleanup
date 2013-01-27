@@ -4390,12 +4390,7 @@
       "externalId": "2011-05-03 17:42:31 +0200:1600",
       "description": "Forslag fra Fremskrittspartiet og Høyre",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen styrke mangfoldet, valgfriheten\nog kvaliteten innenfor velferdstjenestene, ved at regjeringen</p>",
-      "metadata": {
-        "reason": "mangler flere punkter i forslaget",
-        "status": "rejected",
-        "username": "Tor Halle Rise"
-      }
+      "body": "<p>Stortinget ber regjeringen styrke mangfoldet, valgfriheten\\nog kvaliteten innenfor velferdstjenestene, ved at regjeringen</p>\n<ul>\n  <li>legger frem forslag om å innføre en offentlig finansiert valgfrihetsordning innenfor velferdssektoren for å sikre brukernes mulighet til å velge fritt blant forhåndsgodkjente leverandører av velferdstjenester</li>\n  <li>legger frem forslag om å utarbeide felles kvalitetsparametere for de ulike tjenesteområdene</li>\n  <li>legger frem forslag om å utarbeide åpne kvalitetsportaler på nett hvor kvaliteten og tilbudet ved de ulike institusjonene synliggjøres og sammenlignes</li>\n  <li>legger frem forslag om en ny innkjøpspolitikk for å sikre mer langsiktighet og forutsigbarhet for aktørene, samt større mangfold i tilbudet.  </li>\n</ul>\n"
     }
   ],
   "propositionsMissing": null

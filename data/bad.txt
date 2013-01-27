@@ -21,39 +21,6 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-2011-05-02 17:30:31 +0200 -> Forslag nr. 6 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110502
-	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-05-02 17:33:09 +0200 -> Forslag nr. 2 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110502
-	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-05-03 17:42:31 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP og H
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110503
-	["Forslag fra Fremskrittspartiet og Høyre", {"reason"=>"mangler flere punkter i forslaget", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-05-19 15:52:17 +0200 -> Romertall I-IV
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110519
-	["Komiteens tilråding", {"reason"=>"mangler punkt IV", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-05-19 15:54:22 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr.1 fra FrP
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110519
-	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler noe tekst.", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-05-23 18:26:26 +0200 -> Forslag nr. 5 - 7 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110523
-	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-05-23 18:29:19 +0200 -> Forslag nr. 4 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110523
-	["Forslag fra Abid Q. Raja på vegne av Venstre", {"reason"=>"Forslagstekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-05-26 13:55:59 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr..2 - 8 og 10 fra FrP.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110526
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Tor Halle Rise"}]
-	["Forslag fra Åse Michaelsen på vegne av Fremskrittspartiet", {"reason"=>"Mangler forslagstekst", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
 2011-05-26 13:56:33 +0200 -> Forslag nr. 1 på vegne av FrP og H.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110526
 	["Forslag fra Fremskrittspartiet og Høyre", {"reason"=>"noe tekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
