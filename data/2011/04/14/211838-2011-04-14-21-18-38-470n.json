@@ -4293,12 +4293,7 @@
       "externalId": "2011-04-14 21:18:38 +0200:1517",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen før sommeren 2011 legge\nfrem en sak med tiltak for å bedre sikkerheten på veinettet, inkludert:</p>",
-      "metadata": {
-        "reason": "mangler noe tekst",
-        "status": "rejected",
-        "username": "Tor Halle Rise"
-      }
+      "body": "<p>Stortinget ber regjeringen før sommeren 2011 legge\nfrem en sak med tiltak for å bedre sikkerheten på veinettet, inkludert:</p>\n<ul>\n  <li>– en komplett oversikt over de mest ulykkesutsatte strekningene på riks- og fylkesveier</li>\n  <li>– forslag til tiltak på de ulykkesutsatte strekningene, spesielt midtdelere og forhold knyttet til veivedlikehold og veidrift</li>\n  <li>– en plan for finansiering av trafikksikkerhetstiltak</li>\n  <li>– forslag om ansvarliggjøring av veiholder og veietat for manglende trafikksikkerhet</li>\n</ul>"
     },
     {
       "kind": "hdo#proposition",
