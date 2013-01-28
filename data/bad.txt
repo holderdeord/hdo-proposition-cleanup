@@ -1,28 +1,7 @@
-2010-11-18 19:52:14 +0100 -> Lovens overskrift og loven i sin helhet
-  http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101118
-	["", {"reason"=>"ingen forslagstekst", "status"=>"rejected", "username"=>"Hanna"}]
-
-2010-11-18 19:53:29 +0100 -> Lovens overskrift og loven i sin helhet
-  http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101118
-	["", {"reason"=>"ingen forslagstekst. Bør ikke den her være identisk med forslagsteksten over?", "status"=>"rejected", "username"=>"Hanna"}]
-
-2010-11-26 01:51:33 +0100 -> Romertall I, § 1-3, § 3-30 og § 6-22  Stor bokstav L.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126
-	["Komiteens tilråding bokstav L.", {"reason"=>"mangelfull tekst", "status"=>"rejected", "username"=>"Hanna"}]
-
-2010-11-26 01:52:18 +0100 -> Romertall I, Ny § 6-13 B Romertall I, § 5-14 annet ledd nytt annet punktum Romertall I, Ny § 16-7  Stor bokstav C, J og L.
-  http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126
-	["Komiteens tilråding bokstav C.", {"status"=>"approved", "username"=>"hanna"}]
-	["Komiteens tilråding bokstav J.", {"status"=>"approved", "username"=>"hanna"}]
-	["Komiteens tilråding bokstav L.", {"reason"=>"mangelfull tekst", "status"=>"rejected", "username"=>"hanna"}]
-2010-11-26 01:53:19 +0100 -> Lovenes overskrifter og lovene i sin helhet
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/101126
-	["Komiteens tilråding bokstav L.", {"reason"=>"Feil tekst - bokstav L er allerede koblet til forrige avstemning", "status"=>"rejected", "username"=>nil}]
-
 ------------------------------------------------------------------------------------------------------------------
 
 2011-06-14 22:45:53 +0200 -> Forslag nr. 22 - 37 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614
+  http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614
 	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
 	["Forslag fra Venstre", {"status"=>"rejected", "username"=>"Vegard", "reason"=>"mangler fullstendig forslagstekst:«I\nI lov 26. mars 1999 nr. 14 om skatt av formue og inntekt gjøres følgende endringer:\n§ 16-40 annet ledd ny bokstav c skal lyde:\nc. Skattyters kostnader til egenutført forsknings- og utviklingsprosjekt vedrørende klima, miljø eller energieffektivisering begrenset til 10 mill. kroner, eller 14 mill. kroner for tilsvarende prosjekt utført av forskningsinstitusjon godkjent av Norges forskningsråd. Prosjektet må være godkjent av Norges forskningsråd. Samlet fradragsgrunnlag etter denne bestemmelse skal ikke overstige 14 mill. kroner i inntektsåret.\nII\nEndringene under I trer i kraft straks og med virkning fra og med inntektsåret 2011.»"}]
 	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Vegard"}]
@@ -107,16 +86,6 @@
 2011-06-17 00:48:54 +0200 -> Forslag nr. 13 på vegne av V.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
 	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 00:49:10 +0200 -> Forslag nr. 4 - 10 og 12 på vegne av FrP.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"rejected", "username"=>"Kristofer", "reason"=>"*kommunalt barnevern"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Fremskrittspartiet", {"status"=>"approved", "username"=>"Kristofer"}]
 2011-06-17 00:55:58 +0200 -> Forslag nr. 20 - 24 på vegne av V.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
 	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
