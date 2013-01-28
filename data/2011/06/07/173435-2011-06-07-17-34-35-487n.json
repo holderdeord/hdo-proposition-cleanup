@@ -4370,12 +4370,14 @@
       "externalId": "2011-06-07 17:34:35 +0200:1761",
       "description": "Forslag fra Fremskrittspartiet",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen opprette en overgangsbolig\ni tilknytning til Ila fengsel og forvaringsanstalt som utvikles\ntil et nasjonalt kompetansesenter for tilbakevenning av forvaringsdømte.</p>",
-      "metadata": {
-        "reason": "Mangler forslagstekst fra nr. 3",
-        "status": "rejected",
-        "username": "Vegard"
-      }
+      "body": "<p>Stortinget ber regjeringen opprette en overgangsbolig\ni tilknytning til Ila fengsel og forvaringsanstalt som utvikles\ntil et nasjonalt kompetansesenter for tilbakevenning av forvaringsdømte.</p>"
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-06-07 17:34:35 +0200:1761.5",
+      "description": "Forslag fra Fremskrittspartiet",
+      "onBehalfOf": "",
+      "body": "Stortinget ber regjeringen avvikle praksis med bosetting av forvaringsdømte i ordinære boliger."
     }
   ],
   "propositionsMissing": null
