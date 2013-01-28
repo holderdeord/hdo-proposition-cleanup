@@ -21,30 +21,9 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-2011-05-26 13:56:33 +0200 -> Forslag nr. 1 på vegne av FrP og H.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110526
-	["Forslag fra Fremskrittspartiet og Høyre", {"reason"=>"noe tekst mangler", "status"=>"rejected", "username"=>"Tor Halle Rise"}]
-2011-06-06 14:59:57 +0200 -> Det voteres alternativt mellom innstillingen  og forslag nr..1 fra FrP, H og KrF
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110606
-	["Komiteens tilråding", {"status"=>"rejected", "username"=>"hanna", "reason"=>nil}]
-2011-06-06 15:01:40 +0200 -> Det voteres alternativt mellom innstillingen Romertall I  og forslag nr..1 fra FrP
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110606
-	["Forslag fra Fremskrittspartiet", {"reason"=>"mangler mellomrom mellom stedsnavnene", "status"=>"rejected", "username"=>"hanna"}]
 2011-06-07 17:30:39 +0200 -> Romertall I, II og III er opptatt.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607
 	["Komiteens tilråding", {"reason"=>"mangler forslagstekst. samme som over.", "status"=>"rejected", "username"=>"Vegard"}]
-2011-06-07 17:31:01 +0200 -> Romertall II
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607
-	["Komiteens tilråding", {"reason"=>"Mangler dette øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
-2011-06-07 17:32:34 +0200 -> Romertall I til og med III er opptatt.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607
-	["Komiteens tilråding", {"reason"=>"mangelfull forslagstekst. Fyll inn øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
-2011-06-07 17:33:02 +0200 -> Innstillingens tilråding
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607
-	["Komiteens tilråding", {"reason"=>"Mangelfull forslagstekst. Fyll inn øverst: \"Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov\"", "status"=>"rejected", "username"=>"Vegard"}]
-2011-06-07 17:33:26 +0200 -> Romertall I til og med IV er opptatt.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607
-	["Komiteens tilråding", {"reason"=>"Jeg har hittil avist alle med lignende mangler i forslagsteksten, men jeg er usikker på om det egentlgi er nødvendig. Likevel, det som mangler er: Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov ", "status"=>"rejected", "username"=>"Vegard"}]
 2011-06-07 17:34:35 +0200 -> Det voteres alternativt mellom innstillingen og forslag nr.2 og 3 fra FrP
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110607
 	["Forslag fra Fremskrittspartiet", {"reason"=>"Mangler forslagstekst fra nr. 3", "status"=>"rejected", "username"=>"Vegard"}]
@@ -179,39 +158,9 @@
 2011-06-17 00:56:18 +0200 -> Forslag nr. 19 på vegne av V .
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
 	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 00:57:17 +0200 -> Forslag nr. 15 og 16 på vegne av H.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Høyre", {"reason"=>"area-ler", "status"=>"rejected", "username"=>"Kristofer"}]
 2011-06-17 01:00:43 +0200 -> Forslag nr. 1 på vegne av V.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
 	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 15:13:23 +0200 -> Forslag nr. 55 - 78 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"reason"=>"eva-lue-ring", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
 2011-06-17 15:13:40 +0200 -> Forslag nr. 45 - 54 på vegne av KrF.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
 	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
@@ -244,4 +193,3 @@
 2011-06-17 15:14:29 +0200 -> Forslag nr. 31 på vegne av H og V.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
 	["Forslag fra Høyre og Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-count: 150

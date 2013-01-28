@@ -4604,12 +4604,7 @@
       "externalId": "2011-06-17 15:13:23 +0200:2153",
       "description": "Forslag fra Venstre",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen etablere ekstern\neva-lue-ring og tilsyn av turnussystemet for medisinstudenter, samt\nsørge for at turnussystemet sikrer forutsigbarhet og kontinuitet\ni deres utdanningsløp.</p>",
-      "metadata": {
-        "reason": "eva-lue-ring",
-        "status": "rejected",
-        "username": "Kristofer"
-      }
+      "body": "<p>Stortinget ber regjeringen etablere ekstern\nevaluering og tilsyn av turnussystemet for medisinstudenter, samt\nsørge for at turnussystemet sikrer forutsigbarhet og kontinuitet\ni deres utdanningsløp.</p>"
     },
     {
       "kind": "hdo#proposition",
