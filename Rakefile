@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'open-uri'
 require 'mongo'
 require 'json'
@@ -47,6 +49,19 @@ task :write do
   end
 end
 
+task :clean do
+  Dir['data/**/*.json'].each do |path|
+    p path
+    vote = JSON.parse(File.read(path))
+    vote['propositions'].each do |prop|
+      raise "bad vote: #{vote.inspect}" if prop['body'].nil?
+      prop['body'] = prop['body'].gsub("", "-").gsub("\r\n", "\n")
+    end
+    
+    File.open(path, "w") { |file| file << JSON.pretty_generate(vote) }
+  end
+end
+
 task :combine do
   # TODO: check for empty proposition bodies, run spell check
 
@@ -59,10 +74,6 @@ task :combine do
       else
         vote.delete('propositionsMissing')
       end
-    end
-
-    vote['propositions'].each do |prop|
-      prop['body'].gsub!("", "-").gsub("\r\n", "\n")
     end
 
     if prop.member?('metadata')
