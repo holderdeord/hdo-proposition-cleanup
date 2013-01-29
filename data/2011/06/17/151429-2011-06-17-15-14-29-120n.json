@@ -4395,12 +4395,7 @@
       "externalId": "2011-06-17 15:14:29 +0200:2181",
       "description": "Forslag fra Høyre og Venstre",
       "onBehalfOf": "",
-      "body": "<p>Fra 1. juli 2011 gjøres følgende endringer i Stortingets\nvedtak 25. november 2010 om veibruksavgift på autodiesel for budsjetterminen 2011:</p><p>§ 1 første ledd bokstav b skal lyde:</p><p>§ 6 skal lyde:</p><p>Det gis fritak eller ytes tiskudd for avgift\nfor andel biodiesel i mineraloljen, dersom andelen biodiesel utgjør\n70 prosent eller mer.</p><p>Någjeldende §§ 6 og 7 blir §§ 7 og 8.</p>",
-      "metadata": {
-        "reason": "mangler tekst",
-        "status": "rejected",
-        "username": "Kristofer"
-      }
+      "body": "<p>Fra 1. juli 2011 gjøres følgende endringer i Stortingets vedtak 25. november 2010 om veibruksavgift på autodiesel for budsjetterminen 2011:</p>\n<p>§ 1 første ledd bokstav b skal lyde:</p>\n<ul>\n<li>b) Olje til framdrift av motorvogn (autodiesel):</li>\n<li>1. svovelfri mineralolje (under 10 ppm svovel): kr 3,62,</li>\n<li>2. lavsvovlet mineralolje (under 50 ppm svovel): kr 3,67,</li>\n<li>3. annen mineralolje: kr 3,67,</li>\n</ul>\n<p>§ 6 skal lyde:</p>\n<p>Det gis fritak eller ytes tiskudd for avgift for andel biodiesel i mineraloljen, dersom andelen biodiesel utgjør 70 prosent eller mer.</p>\n<p>Någjeldende §§ 6 og 7 blir §§ 7 og 8.</p>\n"
     }
   ],
   "propositionsMissing": null
