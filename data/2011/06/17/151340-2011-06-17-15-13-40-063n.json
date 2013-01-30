@@ -4472,12 +4472,7 @@
       "externalId": "2011-06-17 15:13:40 +0200:2165",
       "description": "Forslag fra Kristelig Folkeparti",
       "onBehalfOf": "",
-      "body": "<p>Fra 1. juli 2011 gjøres følgende endringer i Stortingets\nvedtak 25. november 2010 om veibruksavgift på autodiesel for budsjetterminen 2011:</p><p>§ 1 første ledd bokstav b skal lyde:</p>",
-      "metadata": {
-        "status": "rejected",
-        "username": "Kristofer",
-        "reason": "mangler tekst"
-      }
+      "body": "<p>Fra 1. juli 2011 gjøres følgende endringer i Stortingets vedtak 25. november 2010 om veibruksavgift på autodiesel for budsjetterminen 2011:</p>\n<p>§ 1 første ledd bokstav b skal lyde:</p>\n<ul>\n  <li>b) Olje til framdrift av motorvogn (autodiesel):</li>\n  <li>1. svovelfri mineralolje (under 10 ppm svovel): kr 0,48</li>\n  <li>2. lavsvovlet mineralolje (under 50 ppm svovel): kr 0,53</li>\n  <li>3. annen mineralolje: kr 0,53</li>\n  <li>4. biodiesel; kr 0,24.</li>\n</ul>\n"
     },
     {
       "kind": "hdo#proposition",
@@ -4495,12 +4490,7 @@
       "externalId": "2011-06-17 15:13:40 +0200:2167",
       "description": "Forslag fra Kristelig Folkeparti",
       "onBehalfOf": "",
-      "body": "<p>Fra 1. juli 2011 gjøres følgende endringer i Stortingets\nvedtak 25. november 2010 om miljøavgifter på mineralske produkter\nmv. A. CO2-avgift på mineralske produkter for budsjetterminen 2011:</p><p>§ 1 første ledd bokstav a skal lyde:</p><p>Fra 1. juli 2011 skal det i henhold til lov\n19. mai 1933 nr. 11 om særavgifter betales CO2-avgift til statskassen\nved innførsel og innenlandsk produksjon av følgende mineralske produkter med\nfølgende beløp:</p>",
-      "metadata": {
-        "reason": "mangler tekst",
-        "status": "rejected",
-        "username": "Kristofer"
-      }
+      "body": "<p>Fra 1. juli 2011 gjøres følgende endringer i Stortingets vedtak 25. november 2010 om miljøavgifter på mineralske produkter mv. A. CO2-avgift på mineralske produkter for budsjetterminen 2011:</p>\n<p>§ 1 første ledd bokstav a skal lyde:</p>\n<ul><li>a) Mineralolje: kr 0,59 per liter. For mineralolje som omfattes av Stortingets vedtak om veibruksavgift på drivstoff er avgiften kr 3,73 per liter. For mineralolje til innenriks luftfart skal det betales avgift med kr 1,49 per liter. For mineralolje til treforedlingsindustrien, sildemel- og fiskemelindustrien skal det betales avgift med kr 0,31 per liter.</li></ul>\n<p>Fra 1. juli 2011 skal det i henhold til lov 19. mai 1933 nr. 11 om særavgifter betales CO2-avgift til statskassen ved innførsel og innenlandsk produksjon av følgende mineralske følgende beløp:</p>\n"
     }
   ],
   "propositionsMissing": null

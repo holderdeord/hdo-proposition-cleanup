@@ -41,32 +41,3 @@
 2011-06-17 01:00:43 +0200 -> Forslag nr. 1 på vegne av V.
    http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
 	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 15:13:40 +0200 -> Forslag nr. 45 - 54 på vegne av KrF.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"rejected", "username"=>"Kristofer", "reason"=>"mangler tekst"}]
-	["Forslag fra Kristelig Folkeparti", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 15:13:55 +0200 -> Forslag nr. 39 - 44 på vegne av KrF og V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Kristelig Folkeparti og Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti og Venstre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Kristelig Folkeparti og Venstre", {"status"=>"approved", "username"=>"Kristofer"}]
-2011-06-17 15:14:15 +0200 -> Forslag nr. 32 - 38 på vegne av H.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Høyre", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]
-	["Forslag fra Høyre", {"status"=>"approved", "username"=>"Kristofer"}]

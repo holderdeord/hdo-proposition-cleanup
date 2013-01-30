@@ -4395,12 +4395,7 @@
       "externalId": "2011-06-17 15:13:55 +0200:2168",
       "description": "Forslag fra Kristelig Folkeparti og Venstre",
       "onBehalfOf": "",
-      "body": "<p>Stortinget ber regjeringen</p>",
-      "metadata": {
-        "reason": "mangler tekst",
-        "status": "rejected",
-        "username": "Kristofer"
-      }
+      "body": "<p>Stortinget ber regjeringen</p>\n<ul>\n<li>styrke Skattefunn-ordningen ved at regelen om maksimal timesats på 500 kroner fjernes,</li>\n<li>styrke Skattefunn-ordningen ved å fjerne regelen om at ved personal- og indirekte kostnader, begrenses antall timer for egne ansatte til maksimalt 1 850 timer per år.</li>\n</ul>\n"
     },
     {
       "kind": "hdo#proposition",
@@ -4429,12 +4424,7 @@
       "externalId": "2011-06-17 15:13:55 +0200:2171",
       "description": "Forslag fra Kristelig Folkeparti og Venstre",
       "onBehalfOf": "",
-      "body": "<p>Stortingsvedtak om avgift på plastposer</p><p>§ 1 Fra 1. juli 2011 skal det i henhold til\nlov 19. mai 1933 nr. 11 om særavgifter betales avgift til statskassen\nved innførsel og innenlandsk produksjon av plastposer med kr 1 pr.\npose.</p><p>Departementet kan gi forskrift om hva som omfattes\nav avgiftsplikten og om grunnlaget for avgiften.</p><p>§ 2 Det gis fritak, refusjon eller ytes tilskudd\nfor avgift på plastposer som</p><p>Departementet kan gi forskrift om gjennomføring,\navgrensing av og vilkår for fritak.</p><p>§ 3 Oppstår det tvil om omfanget av avgiftsplikten,\navgjøres spørsmålet av departementet.</p><p>§ 4 Departementet kan frita for eller sette\nned avgiften når det oppstår enkelttilfeller eller situasjoner som\nikke var overveid da avgiftsvedtaket ble truffet og når avgiften\ni det spesielle enkelttilfellet får en utilsiktet virkning.</p>",
-      "metadata": {
-        "reason": "mangler tekst",
-        "status": "rejected",
-        "username": "Kristofer"
-      }
+      "body": "<p>Stortingsvedtak om avgift på plastposer</p>\n<p>§ 1 Fra 1. juli 2011 skal det i henhold til lov 19. mai 1933 nr. 11 om særavgifter betales avgift til statskassen\nved innførsel og innenlandsk produksjon av plastposer med kr 1 pr. pose.</p>\n<p>Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften.</p>\n<p>§ 2 Det gis fritak, refusjon eller ytes tilskudd for avgift på plastposer som</p>\n<ul>\n  <li>a) fra produsents eller importørs lager</li>\n  <li>1. utføres til utlandet,</li>\n  <li>2. legges inn på tollager når varene er bestemt til utførsel,</li>\n  <li>b) innføres</li>\n  <li>1. som reisegods etter tolloven § 5-1,</li>\n  <li>2. etter tolloven § 5-9 og er av mindre verdi,</li>\n  <li>c) etter tolloven § 5-3 fra registrert virksomhets eller importørs lager leveres til eller innføres av</li>\n  <li>1. diplomater,</li>\n  <li>2. Nato og styrker fra land som deltar i Partnerskap for fred,</li>\n  <li>3. Den nordiske investeringsbank,</li>\n  <li>4. kommer i retur til produsents eller importørs lager</li>\n</ul>\n<p>Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.</p>\n<p>§ 3 Oppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet.</p>\n<p>§ 4 Departementet kan frita for eller sette ned avgiften når det oppstår enkelttilfeller eller situasjoner som ikke var overveid da avgiftsvedtaket ble truffet og når avgiften i det spesielle enkelttilfellet får en utilsiktet virkning.</p>\n"
     },
     {
       "kind": "hdo#proposition",
