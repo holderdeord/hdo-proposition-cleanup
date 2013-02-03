@@ -18,26 +18,3 @@
 	["Komiteens tilråding bokstav E.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
 	["Komiteens tilråding bokstav F.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
 	["Komiteens tilråding bokstav G.", {"reason"=>"Dette er de samme voteringene som ovenfor (22:48:10 Stor bokstav A, B, C, D, E, F og G.)", "status"=>"rejected", "username"=>"Vegard"}]
-2011-06-14 22:53:33 +0200 -> Forslag nr. 1 på vegne av FrP.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110614
-	["Forslag fra Fremskrittspartiet", {"reason"=>"Mangelfull forslagstekst: Stortinget ber regjeringen etablere et eget utvalg med deltagelse fra berørte departement som skal legge frem ny strategi om bruk av salt på norske veier med sikte på kraftig reduksjon i bruk av salt med effekt fra vintersesongen 2012/2013.\nStortinget forutsetter at:\nmiljøskader på vann og natur samt skader på infrastruktur/følgekostnader ved saltbruk vektlegges,\nvirkning av veisalting på trafikksikkerhet gis en spesielt grundig vurdering. Stortinget peker spesielt på at det bør vurderes innført særskilte vintertiltak innenfor veitrafikken som kan sikre trafikksikkerheten ved bruk av mindre veisalt slik det er gjort i andre land som har redusert bruk av salt på vei,\ni arbeidet innhentes innspill fra kompetansemiljøer utenfor Statens vegvesen og Vegdirektoratet og andre berørte departement. Arbeidet bør være avsluttet våren 2012 slik at ny saltstrategi kan få effekt vinteren 2012/2013,\ndet legger til grunn at Stortinget på egnet måte blir informert om saltstrategien og om de konkrete mål for saltbruk og for trafikksikkerheten på vinterveiene.»", "status"=>"rejected", "username"=>"Vegard"}]
-2011-06-15 16:18:42 +0200 -> Forslag nr. 2 og 3 på vegne av KrF.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110615
-	["Forslag fra Line Henriette Hjemdal på vegne av Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Line Henriette Hjemdal på vegne av Kristelig Folkeparti", {"reason"=>"mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 00:48:54 +0200 -> Forslag nr. 13 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"Mangler tekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 00:55:58 +0200 -> Forslag nr. 20 - 24 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 00:56:18 +0200 -> Forslag nr. 19 på vegne av V .
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Borghild Tenden på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
-2011-06-17 01:00:43 +0200 -> Forslag nr. 1 på vegne av V.
-   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110617
-	["Forslag fra Trine Skei Grande på vegne av Venstre", {"reason"=>"mangler forslagstekst", "status"=>"rejected", "username"=>"Kristofer"}]
