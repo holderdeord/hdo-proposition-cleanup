@@ -5,6 +5,7 @@ require 'mongo'
 require 'json'
 require 'time'
 require 'logger'
+require 'nokogiri'
 
 def coll
   @coll ||= Mongo::MongoClient.new.db('proposition-cleanup').collection('votes')
@@ -57,7 +58,7 @@ task :clean do
       raise "bad vote: #{vote.inspect}" if prop['body'].nil?
       prop['body'] = prop['body'].gsub("", "-").gsub("\r\n", "\n")
     end
-    
+
     File.open(path, "w") { |file| file << JSON.pretty_generate(vote) }
   end
 end
@@ -74,6 +75,11 @@ task :combine do
       else
         vote.delete('propositionsMissing')
       end
+    end
+
+    body = prop['body']
+    if body.nil? || body.strip.empty? || Nokogiri::HTML.parse(body).text.strip.empty?
+      raise "empty proposition body: #{vote.inspect}"
     end
 
     if prop.member?('metadata')
