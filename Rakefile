@@ -63,32 +63,50 @@ task :clean do
   end
 end
 
+task :missing do
+  files = Dir['data/**/*.json']
+  puts files.select { |e| vote = JSON.parse(File.read(e)); vote['propositionsMissing'] }
+end
+
 task :combine do
-  # TODO: check for empty proposition bodies, run spell check
+  # TODO: run spell check
+  $stdout.sync = true
 
-  votes = Dir['data/**/*.json'].map { |e| JSON.parse(File.read(e)) }
+  files = Dir['data/**/*.json']
+  votes = []
 
-  votes.each do |vote|
+  files.each do |file|
+    vote = JSON.parse(File.read(file))
+
     if vote.member?('propositionsMissing')
       if vote['propositionsMissing']
-        raise "missing propositions in #{vote.inspect}"
+        raise "missing propositions in #{file}: #{JSON.pretty_generate vote}"
       else
         vote.delete('propositionsMissing')
       end
     end
 
-    body = prop['body']
-    if body.nil? || body.strip.empty? || Nokogiri::HTML.parse(body).text.strip.empty?
-      raise "empty proposition body: #{vote.inspect}"
-    end
+    props = vote['propositions']
+    if props.empty?
+    raise "no propositions in #{file}: #{JSON.pretty_generate vote}"
 
-    if prop.member?('metadata')
-      if prop['metadata']['status'] != 'approved'
-        raise "bad vote: #{vote.inspect}"
+    props.each do |prop|
+      body = prop['body']
+      if body.nil? || body.strip.empty? || Nokogiri::HTML.parse(body).text.strip.empty?
+        raise "empty proposition body: #{file}: #{JSON.pretty_generate vote}"
       end
 
-      prop.delete('metadata')
+      if prop.member?('metadata')
+        if prop['metadata']['status'] != 'approved'
+          raise "bad vote: #{vote.inspect}"
+        end
+
+        prop.delete('metadata')
+      end
     end
+
+    print "."
+    votes << vote
   end
 
   File.open('combined.json', 'w') do |io|

@@ -4354,7 +4354,12 @@
     }
   ],
   "propositions": [
-
-  ],
-  "propositionsMissing": true
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2011-04-04 21:48:19.123:1",
+      "description": "Forslag nr. 1 fra Trine Skei Grande på vegne av Venstre",
+      "onBehalfOf": "",
+      "body": "<p>Vedtak til lov</p>\n<p>om endringer i lov av 4. juli 2003 nr. 83 om elektronisk kommunikasjon</p>\n<p>I</p>\n<p>I lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon gjøres følgende endringer:</p>\n<p>§2–9 tredje ledd nytt fjerde punktum skal lyde:</p>\n<p>Taushetsplikten er heller ikke til hinder for at det gis opplysninger til påtalemyndigheten eller politiet om hvilke kommunikasjonsanlegg som i et bestemt tidsrom har vært satt i forbindelse med hverandre, og andre data tilknyttet kommunikasjon, dersom det foreligger beslutning om utleveringspålegg.</p>\n<p>§2-9 fjerde ledd skal lyde:</p>\n<p>Anmodning fra påtalemyndigheten eller politiet om opplysninger som omhandlet i tredje ledd første til tredje punktum skal etterkommes med mindre særlige forhold gjør det utilrådelig.</p>\n<p>II</p>\n<p>Endringene trer i kraft umiddelbart.</p>"
+    }
+  ]
 }
