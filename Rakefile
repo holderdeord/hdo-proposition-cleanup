@@ -68,8 +68,36 @@ task :missing do
   puts files.select { |e| vote = JSON.parse(File.read(e)); vote['propositionsMissing'] }
 end
 
+task :spellcheck do
+  require 'ffi-icu'
+  require 'ffi/aspell'
+
+  iterator = ICU::BreakIterator.new :word, 'nb'
+  nb_speller = FFI::Aspell::Speller.new('nb')
+  nn_speller = FFI::Aspell::Speller.new('nn')
+
+  Dir['data/**/*.json'].each do |path|
+    vote = JSON.parse(File.read(path))
+
+    vote['propositions'].each do |prop|
+      strs = []
+      Nokogiri::HTML.parse(prop['body']).traverse { |e| strs << e.text if e.text? }
+      iterator.text = strs.join(' ')
+
+      invalid_words = []
+      iterator.each_substring do |word|
+        next if word =~ /^[\d\.,]+$|^M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/
+        invalid_words << word unless nb_speller.correct?(word) || nn_speller.correct?(word)
+      end
+
+      if invalid_words.any?
+        puts "#{path}: #{invalid_words.uniq.inspect}"
+      end
+    end
+  end
+end
+
 task :combine do
-  # TODO: run spell check
   $stdout.sync = true
 
   files = Dir['data/**/*.json']
@@ -88,7 +116,8 @@ task :combine do
 
     props = vote['propositions']
     if props.empty?
-    raise "no propositions in #{file}: #{JSON.pretty_generate vote}"
+      raise "no propositions in #{file}: #{JSON.pretty_generate vote}"
+    end
 
     props.each do |prop|
       body = prop['body']
