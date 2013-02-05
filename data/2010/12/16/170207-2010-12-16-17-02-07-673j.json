@@ -4395,12 +4395,7 @@
       "externalId": "2010-12-16 17:02:07 +0100:1078",
       "description": "Komiteens tilråding",
       "onBehalfOf": "",
-      "body": "<p>Dokument 8:166 S (2009-2010) - representantforslag\nfra stortingsrepresentantene Ketil Solvik-Olsen, Henning Skumsvoll\nog Oskar Jarle Grimstad om en helhetlig plan for CO2-håndtering\n- bifalles ikke.</p>",
-      "metadata": {
-        "reason": "mangler bindestrek mellom årstall i parantesen",
-        "status": "rejected",
-        "username": "Eli Foss"
-      }
+      "body": "<p>Dokument 8:166 S (2009-2010) - representantforslag\nfra stortingsrepresentantene Ketil Solvik-Olsen, Henning Skumsvoll\nog Oskar Jarle Grimstad om en helhetlig plan for CO2-håndtering - bifalles ikke.</p>"
     }
   ],
   "propositionsMissing": null
