@@ -6,6 +6,8 @@ require 'json'
 require 'time'
 require 'logger'
 require 'nokogiri'
+require 'digest/md5'
+require 'pp'
 
 def coll
   @coll ||= Mongo::MongoClient.new.db('proposition-cleanup').collection('votes')
@@ -69,6 +71,8 @@ namespace :disk do
     files.each do |file|
       vote = JSON.parse(File.read(file))
 
+      vote['subject'].gsub!(/nr\.(\.)?(\d)/, 'nr. \2')
+
       if vote.member?('propositionsMissing')
         if vote['propositionsMissing']
           raise "missing propositions in #{file}: #{JSON.pretty_generate vote}"
@@ -88,6 +92,8 @@ namespace :disk do
           raise "empty proposition body: #{file}: #{JSON.pretty_generate vote}"
         end
 
+        prop['externalId'] = Digest::MD5.hexdigest(Time.parse(vote['time']).strftime("%Y-%m-%d") + body)
+
         if prop.member?('metadata')
           if prop['metadata']['status'] != 'approved'
             raise "rejected: #{file}"
@@ -105,12 +111,12 @@ namespace :disk do
       io << JSON.generate(votes)
     end
   end
-  
+
   task :rejected do
     Dir['data/**/*.json'].each do |file|
       vote = JSON.parse(File.read(file))
       if vote['propositions'].any? { |prop| prop['metadata'] && prop['metadata']['status'] != 'approved' }
-        puts file 
+        puts file
       end
     end
   end
@@ -158,7 +164,7 @@ namespace :db do
 
     pp counts.sort_by { |n, d| d['total'] }
   end
-  
+
   task :import do
     coll.remove
 
