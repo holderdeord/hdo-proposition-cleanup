@@ -48,7 +48,7 @@
         </dl>
 
         <label>
-          Mangler forslag:
+          Feil antall forslag:
           <input type="checkbox" name="missing-propositions" ng-model="vote.propositionsMissing" ng-change="saveVotes()">
         </label>
       </div>
@@ -70,11 +70,15 @@
 
               <input type="button" class="btn btn-small btn-success" ng-click="approve()" value="Godkjenn">
               <input type="button" class="btn btn-small btn-danger" ng-click="reject()" value="Avvis">
-              <input type="button" class="btn btn-small btn-info" ng-click="clear()" value="Nullstill">
+
+              <input ng-hide="prop.editing" type="button" class="btn btn-small" ng-click="toggleEdit()" value="Rediger">
             </form>
           </div>
 
-          <div class="row-fluid" ng-bind-html-unsafe="prop.body"></div>
+          <div class="row-fluid">
+            <textarea ng-show="prop.editing" class="span12" rows="10" ng-model="prop.body"></textarea>
+            <div ng-hide="prop.editing" class="span12" ng-bind-html-unsafe="prop.body"></div>
+          </div>
         </div>
       </div>
     </div>

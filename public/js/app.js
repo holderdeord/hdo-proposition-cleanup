@@ -118,24 +118,28 @@ function SidebarController ($scope, $http, $filter) {
 
 function PropositionController ($scope) {
   $scope.approve = function() {
-    $scope.prop.metadata = $scope.prop.metadata || {};
-    $scope.prop.metadata.status = 'approved';
+    $scope.prop.editing = false;
+
+    $scope.prop.metadata          = $scope.prop.metadata || {};
+    $scope.prop.metadata.status   = 'approved';
+    $scope.prop.metadata.username = window.cleanerUsername;
 
     $scope.saveVotes();
   };
 
   $scope.reject = function() {
-    $scope.prop.metadata = $scope.prop.metadata || {};
-    $scope.prop.metadata.reason = window.prompt('Hva er galt?')
-    $scope.prop.metadata.status = 'rejected';
+    $scope.prop.editing = false;
+
+    $scope.prop.metadata          = $scope.prop.metadata || {};
+    $scope.prop.metadata.reason   = window.prompt('Hva er galt?')
+    $scope.prop.metadata.status   = 'rejected';
+    $scope.prop.metadata.username = window.cleanerUsername;
 
     $scope.saveVotes();
   };
 
-  $scope.clear = function() {
-    $scope.prop.metadata = {};
-
-    $scope.saveVotes();
+  $scope.toggleEdit = function() {
+    $scope.prop.editing = !$scope.prop.editing;
   };
 
   $scope.statusText = function(status) {
