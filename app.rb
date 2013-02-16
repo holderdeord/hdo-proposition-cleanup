@@ -67,22 +67,13 @@ class Database
     @votes.insert vote.merge('time' => Time.parse(vote['time']))
   end
 
-  def save_votes(votes, username)
+  def save_votes(votes)
     votes.each do |vote|
       xvote = @votes.find_one(:externalId => vote['externalId'])
+
       xvote['propositionsMissing'] = vote['propositionsMissing']
-
-      Array(vote['propositions']).each do |prop|
-        next unless prop['metadata']
-
-        if prop['metadata']['status']
-          prop['metadata']['username'] = username
-        elsif prop['metadata'].empty?
-          prop.delete('metadata')
-        end
-      end
-
       xvote['propositions'] = vote['propositions']
+
       @votes.save(xvote)
     end
 
@@ -158,7 +149,7 @@ end
 
 post '/votes/' do
   votes = JSON.parse(request.body.read)
-  DB.save_votes(votes, session[:username] || params[:username]).to_json
+  DB.save_votes(votes).to_json
 end
 
 post '/import' do
