@@ -16,7 +16,7 @@ function SidebarController ($scope, $http, $filter) {
     if ($scope.selectedDate) {
       var dateString = $filter('date')($scope.parseDate($scope.selectedDate), 'yyMMdd');
       $scope.links = [
-        {href: 'http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/' + dateString, title: 'Referat'}
+        {href: 'http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/' + dateString, title: 'Referat'}
       ]
       $scope.fetchVoteList($scope.selectedDate);
     }

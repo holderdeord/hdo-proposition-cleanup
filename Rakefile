@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # encoding: utf-8
 
 require 'open-uri'
@@ -132,7 +133,7 @@ namespace :db do
       count += 1
 
       str = ['%s -> %s' % [vote['time'].localtime, vote['subject']]]
-      str << "   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/#{vote['time'].strftime("%y%m%d")} "
+      str << "   http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/#{vote['time'].strftime("%y%m%d")} "
       vote['propositions'].each do |prop|
         str << "\t#{prop.values_at('description', 'metadata').inspect}"
       end
@@ -167,7 +168,7 @@ namespace :db do
   task :import do
     coll.remove
 
-    JSON.parse(File.read(File.expand_path('../votes-2010-2011.min.json', __FILE__))).each do |data|
+    JSON.parse(File.read(File.expand_path('../votes-2009-2010.json', __FILE__))).each do |data|
       case data['kind']
       when 'hdo#representative'
         # do nothing
