@@ -1,5 +1,6 @@
 angular.module('SidebarController', ['ngHttp', 'ngFilter']);
 angular.module('ProgressController', ['ngHttp']);
+angular.module('VoteController', ['ngFilter']);
 
 function SidebarController ($scope, $http, $filter) {
   var issueCache, spinner;
@@ -18,7 +19,7 @@ function SidebarController ($scope, $http, $filter) {
       $scope.links = [
         {href: 'http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/' + dateString, title: 'Referat'}
       ]
-      $scope.fetchVoteList($scope.selectedDate);
+      $scope.fetchVoteList(true);
     }
   });
 
@@ -32,10 +33,14 @@ function SidebarController ($scope, $http, $filter) {
       });
   };
 
-  $scope.fetchVoteList = function(date) {
-    $scope.voteList = [];
+  $scope.fetchVoteList = function(clear) {
+    var date = $scope.parseDate($scope.selectedDate)
+    var str = $filter('date')(date, 'yyyy-MM-dd H:mm:ss');
 
-    var str = $filter('date')($scope.parseDate(date), 'yyyy-MM-dd H:mm:ss');
+    if(clear) {
+      $scope.voteList = [];
+    }
+
     $http({method: 'GET', url: '/votelist/' + str}).
       success(function(data, status, headers, config) {
         $scope.voteList = data;
@@ -91,10 +96,23 @@ function SidebarController ($scope, $http, $filter) {
     $http({method: 'POST', url: '/votes/?username=' + window.cleanerUsername, data: $scope.votes}).
       success(function(data, status, headers, config) {
         $scope.votes = data;
+        $scope.fetchVoteList();
       }).
       error(function(data, status, headers, config) {
         alert('' + status + data);
       });
+  };
+
+  $scope.deleteProposition = function(prop) {
+    if (!window.confirm("Er du sikker på at du vil slette forslaget?")) {
+      return;
+    }
+
+    _.each($scope.votes, function(v) {
+      v.propositions = _.reject(v.propositions, function(p) { return _.isEqual(p, prop); });
+    });
+
+    $scope.saveVotes();
   };
 
   $scope.textFor = function(bool) {
@@ -138,7 +156,14 @@ function PropositionController ($scope) {
     $scope.saveVotes();
   };
 
+  $scope.cancel = function() {
+    $scope.prop.editing = false;
+    _.extend($scope.prop, $scope.propBeforeToggle);
+    $scope.saveVotes();
+  };
+
   $scope.toggleEdit = function() {
+    $scope.propBeforeToggle = angular.copy($scope.prop);
     $scope.prop.editing = !$scope.prop.editing;
   };
 
@@ -179,6 +204,46 @@ ProgressController.prototype.update = function() {
 };
 
 
-function VoteController ($scope) {
+function VoteController ($scope, $filter) {
+  $scope.timeString = $filter('date')($scope.parseDate($scope.vote.time), 'HH:mm:ss');
+
+  $scope.addProposition = function() {
+    $scope.addingProposition = true;
+    $scope.newProposition = {
+      kind: "hdo#propositions",
+      body: "",
+      description: "",
+      externalId: "",
+      onBehalfOf: "",
+      metadata: {
+        status: 'approved',
+        username: window.cleanerUsername
+      }
+    };
+  };
+
+  $scope.saveNewProposition = function() {
+    $scope.newProposition.externalId = md5($scope.vote.time + $scope.newProposition.body);
+    $scope.vote.propositions.push($scope.newProposition);
+
+    $scope.addingProposition = false;
+    $scope.newProposition = null;
+
+    $scope.saveVotes();
+  };
+
+  $scope.editVote = function() {
+    $scope.vote.editing = true;
+  };
+
+  $scope.saveVote = function() {
+    $scope.vote.editing = false;
+
+    var str = $filter('date')($scope.parseDate($scope.vote.time), 'yyyy/MM/dd');
+    $scope.vote.time = str + ' ' + $scope.timeString;
+
+    $scope.saveVotes();
+  };
+
 }
 

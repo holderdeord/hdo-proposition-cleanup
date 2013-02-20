@@ -12,6 +12,8 @@
           <a href="{{link.href}}" target="_blank">{{link.title}}</a>
         </li>
 
+        <li class="divider"></li>
+
         <li ng-repeat='voteGroup in voteList'>
           <strong>{{$index + 1}}</strong>
           <ul class="nav nav-list">
@@ -26,17 +28,31 @@
 
   <div class="span9">
     <p align="center"><img id="spinner" style="display: none;" src="img/spinner.gif"></p>
+
     <div ng-repeat='vote in votes' ng-controller="VoteController">
       <div class="row-fluid">
-        <p class="muted">Votering {{$index + 1}}/{{votes.length}}</p>
+        <div class="muted">Votering {{$index + 1}}/{{votes.length}}
+          <input ng-hide="vote.editing" class="btn btn-small" type="button" value="Rediger" ng-click="editVote()">
+          <input ng-show="vote.editing" class="btn btn-small btn-primary" type="button" value="Lagre" ng-click="saveVote()">
+
+          <span ng-hide="vote.editing">{{parseDate(vote.time) | date:'yyyy/MM/dd HH:mm:ss'}}</span>
+          <span ng-show="vote.editing">
+            {{parseDate(vote.time) | date:'yyyy/MM/dd'}}
+            <input type="text" ng-model="timeString">
+          </span>
+        </div>
+
         <h3>
           <small class="pull-right">{{vote.externalId}} | {{vote.externalIssueId}}</small>
-          {{vote.subject}}
+          <span ng-hide="vote.editing">{{vote.subject}}</span>
+          <input ng-show="vote.editing" type="text" ng-model="vote.subject">
         </h3>
 
         <dl>
           <dt>Vedtatt:</dt>
           <dd><span class="enacted-{{vote.enacted}}">{{textFor(vote.enacted)}}</span></dd>
+          <dt>Personlig:</dt>
+          <dd><span>{{textFor(vote.personal)}}</span></dd>
           <dt>Stemmer:</dt>
           <dd>{{vote.counts.for}} for, {{vote.counts.against}} mot, {{vote.counts.absent}} ikke tilstede</dd>
           <dt>Saker:</dt>
@@ -47,10 +63,17 @@
           </ul></dd>
         </dl>
 
-        <label>
-          Feil antall forslag:
-          <input type="checkbox" name="missing-propositions" ng-model="vote.propositionsMissing" ng-change="saveVotes()">
-        </label>
+        <button class="btn btn-small" ng-click="addProposition()">Legg til forslag</button>
+
+        <form class="form form-horizontal" class="row-fluid" ng-show="addingProposition">
+          <label>Beskrivelse</label>
+          <input type="text" ng-model="newProposition.description">
+
+          <label>Tekst</label>
+          <textarea ng-model="newProposition.body" rows="10"></textarea>
+
+          <button class="btn btn-primary" ng-click="saveNewProposition()">Lagre</button>
+        </form>
       </div>
 
       <hr>
@@ -58,7 +81,10 @@
       <div class="row-fluid">
         <div ng-repeat="prop in vote.propositions" class="well proposition-{{prop.approved}}" ng-controller="PropositionController">
           <div class="row-fluid">
-            <h4><small>Forslag {{$index + 1}}/{{vote.propositions.length}}</small> {{prop.description}}</h4>
+            <h4><small>Forslag {{$index + 1}}/{{vote.propositions.length}}</small>
+              <span ng-hide="prop.editing">{{prop.description}}</span>
+              <input ng-show="prop.editing" type="text" ng-model="prop.description">
+            </h4>
             <form class="pull-right">
               <dl>
                 <dt>Status:</dt>
@@ -68,10 +94,18 @@
                 <dd>{{prop.metadata.reason}}</dd>
               </p>
 
-              <input type="button" class="btn btn-small btn-success" ng-click="approve()" value="Godkjenn">
-              <input type="button" class="btn btn-small btn-danger" ng-click="reject()" value="Avvis">
+              <div class="row-fluid">
+                <input type="button" class="btn btn-small btn-success" ng-click="approve()" value="Godkjenn">
+                <input type="button" class="btn btn-small btn-warning" ng-click="reject()" value="Avvis">
+              </div>
 
-              <input ng-hide="prop.editing" type="button" class="btn btn-small" ng-click="toggleEdit()" value="Rediger">
+              <hr>
+
+              <div class="row-fluid">
+                <input ng-hide="prop.editing" type="button" class="btn btn-small" ng-click="toggleEdit()" value="Rediger">
+                <input ng-show="prop.editing" type="button" class="btn btn-small" ng-click="cancel()" value="Avbryt">
+                <input type="button" class="btn btn-small btn-danger" ng-click="deleteProposition(prop)" value="Slett">
+              </div>
             </form>
           </div>
 

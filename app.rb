@@ -71,7 +71,8 @@ class Database
     votes.each do |vote|
       xvote = @votes.find_one(:externalId => vote['externalId'])
 
-      xvote['propositionsMissing'] = vote['propositionsMissing']
+      xvote['subject']      = vote['subject']
+      xvote['time']         = Time.parse(vote['time'])
       xvote['propositions'] = vote['propositions']
 
       @votes.save(xvote)
