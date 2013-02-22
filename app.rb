@@ -191,6 +191,9 @@ post '/split/' do
   end
 
   vote['splitBy'] = params[:username]
+  vote['representatives'].each do |rep|
+    rep['voteResult'] = rep['voteResult'] == 'for' ? 'against' : 'for'
+  end
 
   DB.insert_vote(vote)
 

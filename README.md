@@ -19,6 +19,7 @@ Etter vasking:
 - vote.time kan ha endret seg
 - rekalkuler externalId
 - rekalkuler proposition's externalId md5(vote.time + body)
+- sjekk at telling for/mot stemmer med representantene
 
 2010-2011:
 ==========
