@@ -22,7 +22,13 @@
       <div class="navbar-inner">
         <div class="container-fluid">
           <a class="brand" href="/">Forslagsvask <img src="img/logo.png" width="25"></a>
-            <p class="navbar-text pull-right"><%= session[:username] %></p>
+
+          <ul class="nav nav-right">
+            <li class="divider-vertical"></li>
+            <li><a target="_blank" href="https://chrome.google.com/webstore/detail/hdo-intern/iobncifibgggahhknopdbekfkgikpmgb">Chrome Extension</a></li>
+          </ul>
+
+          <p class="navbar-text pull-right"><%= session[:username] %></p>
         </div>
       </div>
     </div>
