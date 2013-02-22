@@ -7,11 +7,38 @@
         </select>
       </label>
 
+      <button ng-show="selectedDate && !addingVote" ng-click="addVote()" class="btn btn-small pull-right">Legg til votering</button>
+
+      <div ng-show="addingVote">
+        <label>Beskrivelse:
+          <input type="text" ng-model="newVote.subject">
+        </label>
+
+        <label>Saks-IDer (kommaseparert liste)
+          <input type="text" ng-model="newVote.externalIssueId">
+        </label>
+
+        <label>Tid
+          <div datepicker class="input-append">
+             <input disabled data-format="hh:mm:ss" type="text">
+             <span class="add-on">
+               <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+             </span>
+           </div>
+        </label>
+
+        <button ng-click="saveNewVote()" class="btn btn-primary">Lagre</button>
+        <button ng-click="cancelNewVote()" class="btn">Avbryt</button>
+      </div>
+
       <ul class="nav nav-list">
+        <li class="divider"></li>
         <li ng-repeat="link in links">
           <a href="{{link.href}}" target="_blank">{{link.title}}</a>
         </li>
+      </ul>
 
+      <ul class="nav nav-list">
         <li class="divider"></li>
 
         <li ng-repeat='voteGroup in voteList'>
@@ -31,10 +58,12 @@
 
     <div ng-repeat='vote in votes' ng-controller="VoteController">
       <div class="row-fluid">
-        <div class="muted">Votering {{$index + 1}}/{{votes.length}}
+        <div class="muted">
           <input ng-hide="vote.editing" class="btn btn-small" type="button" value="Rediger" ng-click="editVote()">
           <input ng-show="vote.editing" class="btn btn-small btn-primary" type="button" value="Lagre" ng-click="saveVote()">
+          <input class="btn btn-small btn-danger" type="button" value="Slett" ng-click="deleteVote(vote)">
 
+          <span>Votering {{$index + 1}}/{{votes.length}}</span>
           <span>{{parseDate(vote.time) | date:'yyyy/MM/dd HH:mm:ss'}}</span>
 
           <div ng-show="vote.editing">
@@ -50,7 +79,7 @@
         <h3>
           <small class="pull-right">{{vote.externalId}} | {{vote.externalIssueId}}</small>
           <span ng-hide="vote.editing">{{vote.subject}}</span>
-          <input ng-show="vote.editing" type="text" ng-model="vote.subject">
+          <textarea ng-show="vote.editing" ng-model="vote.subject"></textarea>
         </h3>
 
         <dl>

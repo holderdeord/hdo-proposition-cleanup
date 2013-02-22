@@ -67,21 +67,36 @@ class Database
   end
 
   def insert_vote(vote)
+    @timestamps = nil
+    @proposition_count = nil
+
     @votes.insert vote.merge('time' => Time.parse(vote['time']))
+  end
+
+  def find_by_external_id(xid)
+    @votes.find_one(:externalId => xid)
   end
 
   def save_votes(votes)
     votes.each do |vote|
-      xvote = @votes.find_one(:externalId => vote['externalId'])
+      if vote['delete']
+        @votes.remove(:externalId => vote['externalId'])
+        @timestamps = nil
+      else
+        xvote = find_by_external_id(vote['externalId'])
 
-      xvote['subject']      = vote['subject']
-      xvote['time']         = Time.parse(vote['time'])
-      xvote['propositions'] = vote['propositions']
+        xvote['subject']      = vote['subject']
+        xvote['time']         = Time.parse(vote['time'])
+        xvote['propositions'] = vote['propositions']
 
-      @votes.save(xvote)
+        @votes.save(xvote)
+      end
     end
 
-    votes
+    # clear cache
+    @proposition_count = nil
+
+    votes.reject { |e| e['delete'] }
   end
 
   def stats
@@ -156,8 +171,14 @@ post '/votes/' do
   DB.save_votes(votes).to_json
 end
 
-post '/import' do
-  DB.insert_vote(JSON.parse(request.body.read))
+post '/insert/' do
+  vote = JSON.parse(request.body.read)
+
+  if DB.find_by_external_id(vote['externalId'])
+    halt 422, ' externalId (timestamp + enacted) er ikke unik'
+  else
+    DB.insert_vote(vote)
+  end
 end
 
 get '/env' do

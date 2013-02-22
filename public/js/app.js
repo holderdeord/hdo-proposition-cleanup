@@ -17,6 +17,23 @@ app.directive('timepicker', function() {
   }
 });
 
+app.directive('datepicker', function() {
+  return function(scope, element, attrs) {
+    var e = $(element)
+    e.datetimepicker({ pickDate: false });
+
+    scope.$watch('selectedDate', function() {
+      e.data('datetimepicker').setLocalDate(scope.parseDate(scope.selectedDate));
+    });
+
+    e.on('changeDate', function(e) {
+      console.log(e.date.toString());
+      console.log(e.localDate.toString());
+      scope.newVote.time = scope.formatDate(e.localDate);
+    });
+  }
+});
+
 
 function SidebarController ($scope, $http, $filter) {
   var issueCache, spinner;
@@ -120,6 +137,68 @@ function SidebarController ($scope, $http, $filter) {
       });
   };
 
+  $scope.insertVote = function(vote) {
+    $http({method: 'POST', url: '/insert/?username=' + window.cleanerUsername, data: vote}).
+      success(function(data, status, headers, config) {
+        $scope.fetchVoteList();
+      }).
+      error(function(data, status, headers, config) {
+        alert('' + status + data);
+      });
+  };
+
+  $scope.deleteVote = function(vote) {
+    if (!window.confirm("Sikker på at du vil slette avstemningen?")) {
+      return;
+    }
+
+    var idx = _.indexOf($scope.votes, vote);
+    $scope.votes[idx].delete = true;
+
+    $scope.saveVotes();
+  };
+
+  $scope.addVote = function() {
+    $scope.addingVote = true;
+    $scope.newVote = {
+      "kind": "hdo#vote",
+      "externalId": "",
+      "externalIssueId": [],
+      "counts": {
+        "for": 0,
+        "against": 0,
+        "absent": 0
+      },
+      "personal": false,
+      "enacted": true,
+      "subject": "",
+      "method": "ikke_spesifisert",
+      "resultType": "ikke_spesifisert",
+      "time": $scope.selectedDate,
+      "propositions": [],
+      "metadata": {
+        "addedBy": window.cleanerUsername
+      }
+    }
+  };
+
+  $scope.saveNewVote = function() {
+    $scope.addingVote = false;
+
+    var date = $scope.parseDate($scope.newVote.time);
+
+    $scope.newVote.externalId = (date.getTime() / 1000).toString() + ($scope.newVote.enacted ? 'e' : 'ne');
+    $scope.newVote.time = $scope.formatDate(date);
+
+    $scope.insertVote($scope.newVote);
+  };
+
+  $scope.cancelNewVote = function() {
+    $scope.addingVote = false;
+    $scope.newVote = null;
+  };
+
+
   $scope.deleteProposition = function(prop) {
     if (!window.confirm("Er du sikker på at du vil slette forslaget?")) {
       return;
@@ -138,6 +217,14 @@ function SidebarController ($scope, $http, $filter) {
 
   $scope.parseDate = function(str) {
     return new Date(str);
+  };
+
+  $scope.formatDate = function(date, format) {
+    if (!format) {
+      format = 'yyyy-MM-dd H:mm:ss';
+    }
+
+    return $filter('date')(date, format);
   };
 
   $scope.activeVote = null;
@@ -261,7 +348,7 @@ function VoteController ($scope, $filter) {
     var date = $("#timepicker-" + $scope.timePickerId).data('datetimepicker').getLocalDate();
     console.log(date);
 
-    $scope.vote.time = $filter('date')(date, 'yyyy-MM-dd H:mm:ss')
+    $scope.vote.time = $scope.formatDate(date)
     console.log($scope.vote.time);
 
     $scope.saveVotes();
