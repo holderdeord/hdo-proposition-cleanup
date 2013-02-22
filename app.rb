@@ -60,7 +60,10 @@ class Database
   end
 
   def votes_at(timestamp)
-    @votes.find(:time => Time.parse(timestamp)).to_a
+    votes = @votes.find(:time => Time.parse(timestamp)).to_a
+    votes.each { |e| e['time'] = e['time'].localtime }
+
+    votes
   end
 
   def insert_vote(vote)

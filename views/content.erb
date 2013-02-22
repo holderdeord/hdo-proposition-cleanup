@@ -35,11 +35,16 @@
           <input ng-hide="vote.editing" class="btn btn-small" type="button" value="Rediger" ng-click="editVote()">
           <input ng-show="vote.editing" class="btn btn-small btn-primary" type="button" value="Lagre" ng-click="saveVote()">
 
-          <span ng-hide="vote.editing">{{parseDate(vote.time) | date:'yyyy/MM/dd HH:mm:ss'}}</span>
-          <span ng-show="vote.editing">
-            {{parseDate(vote.time) | date:'yyyy/MM/dd'}}
-            <input type="text" ng-model="timeString">
-          </span>
+          <span>{{parseDate(vote.time) | date:'yyyy/MM/dd HH:mm:ss'}}</span>
+
+          <div ng-show="vote.editing">
+            <div timepicker class="input-append">
+               <input disabled data-format="hh:mm:ss" type="text"></input>
+               <span class="add-on">
+                 <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+               </span>
+             </div>
+           </div>
         </div>
 
         <h3>
@@ -73,6 +78,7 @@
           <textarea ng-model="newProposition.body" rows="10"></textarea>
 
           <button class="btn btn-primary" ng-click="saveNewProposition()">Lagre</button>
+          <button class="btn" ng-click="cancelNewProposition()">Avbryt</button>
         </form>
       </div>
 

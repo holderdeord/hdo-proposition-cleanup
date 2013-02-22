@@ -166,14 +166,19 @@ namespace :db do
   end
 
   task :import do
-    coll.remove
+    p coll.remove
 
-    JSON.parse(File.read(File.expand_path('../votes-2009-2010.json', __FILE__))).each do |data|
+    str = File.read(File.expand_path('../votes-2009-2010.json', __FILE__))
+
+    JSON.parse(str).each do |data|
       case data['kind']
       when 'hdo#representative'
         # do nothing
       when 'hdo#vote'
-        coll.insert data.merge('time' => Time.parse(data['time']))
+        data['time'] = Time.parse(data['time'])
+        data['propositions'].each { |e| e['body'] = e['body'].gsub("", "-").gsub("\r\n", "\n") }
+
+        coll.insert data
       else
         puts "unknown kind: #{data['kind']}"
       end

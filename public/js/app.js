@@ -2,6 +2,22 @@ angular.module('SidebarController', ['ngHttp', 'ngFilter']);
 angular.module('ProgressController', ['ngHttp']);
 angular.module('VoteController', ['ngFilter']);
 
+var app = angular.module('hdo-proposition-cleanup', []);
+
+app.directive('timepicker', function() {
+  var id = 0;
+
+  return function(scope, element, attrs) {
+    scope.timePickerId = ++id;
+    var e = $(element)
+
+    e.attr("id", "timepicker-" + scope.timePickerId);
+    e.datetimepicker({ pickDate: false });
+    e.data('datetimepicker').setLocalDate(scope.parseDate(scope.vote.time))
+  }
+});
+
+
 function SidebarController ($scope, $http, $filter) {
   var issueCache, spinner;
 
@@ -81,13 +97,14 @@ function SidebarController ($scope, $http, $filter) {
          return;
      }
 
-     $http({method: 'GET', url: 'http://next.holderdeord.no/parliament-issues/' + id + '.json'}).
+     var issueUrl = 'http://next.holderdeord.no/parliament-issues/' + id + '.json'
+     $http({method: 'GET', url: issueUrl}).
        success(function(data, status, headers, config) {
          issueCache[id] = data;
          addIssue(data)
        }).
        error(function(data, status, headers, config) {
-         console && console.log(status + ': ' + data);
+         console && console.log(issueUrl + " " + status + ': ' + data);
        });
     });
   };
@@ -205,8 +222,6 @@ ProgressController.prototype.update = function() {
 
 
 function VoteController ($scope, $filter) {
-  $scope.timeString = $filter('date')($scope.parseDate($scope.vote.time), 'HH:mm:ss');
-
   $scope.addProposition = function() {
     $scope.addingProposition = true;
     $scope.newProposition = {
@@ -216,10 +231,15 @@ function VoteController ($scope, $filter) {
       externalId: "",
       onBehalfOf: "",
       metadata: {
-        status: 'approved',
-        username: window.cleanerUsername
+        username: window.cleanerUsername,
+        createdBy: window.cleanerUsername
       }
     };
+  };
+
+  $scope.cancelNewProposition = function() {
+    $scope.addingProposition = false;
+    $scope.newProposition = null;
   };
 
   $scope.saveNewProposition = function() {
@@ -238,9 +258,11 @@ function VoteController ($scope, $filter) {
 
   $scope.saveVote = function() {
     $scope.vote.editing = false;
+    var date = $("#timepicker-" + $scope.timePickerId).data('datetimepicker').getLocalDate();
+    console.log(date);
 
-    var str = $filter('date')($scope.parseDate($scope.vote.time), 'yyyy/MM/dd');
-    $scope.vote.time = str + ' ' + $scope.timeString;
+    $scope.vote.time = $filter('date')(date, 'yyyy-MM-dd H:mm:ss')
+    console.log($scope.vote.time);
 
     $scope.saveVotes();
   };
