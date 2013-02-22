@@ -4,6 +4,7 @@
 - Kan mangle forslag
 - Mulighet til å redigere / lage / slette forslag
   - Eksempel: 2009-12-07 15:58:44
+  - Eksempel på manglende forslagstekst / kopiering fra referat: 2009-12-10 12:28:01
   - Eksempel på forslagstekst i tittel: 2010-03-23 21:34
 - Enstemmige voteringer er skrapt fra referatene:
   * Har ofte tittel: "Kart: 7, Sak: 1" - kan redigeres
