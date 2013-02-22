@@ -86,12 +86,12 @@ function SidebarController ($scope, $http, $filter) {
   $scope.fetchVotes = function(timestamp) {
     var str = $filter('date')($scope.parseDate(timestamp), 'yyyy-MM-dd H:mm:ss');
 
-    spinner.style.display = 'block';
+    $(spinner).show();
 
     $http({method: 'GET', url: '/votes/' + str}).
       success(function(votes, status, headers, config) {
         $scope.votes = votes;
-        spinner.style.display = 'none';
+        $(spinner).hide();
         _.each(votes, function(vote) {
           $scope.fetchIssuesFor(vote);
         });
@@ -127,22 +127,29 @@ function SidebarController ($scope, $http, $filter) {
   };
 
   $scope.saveVotes = function() {
+    $(spinner).show();
     $http({method: 'POST', url: '/votes/?username=' + window.cleanerUsername, data: $scope.votes}).
       success(function(data, status, headers, config) {
+        $(spinner).hide();
         $scope.votes = data;
         $scope.fetchVoteList();
       }).
       error(function(data, status, headers, config) {
+        $(spinner).hide();
         alert('' + status + data);
       });
   };
 
   $scope.insertVote = function(vote) {
+    $(spinner).show();
+
     $http({method: 'POST', url: '/insert/?username=' + window.cleanerUsername, data: vote}).
       success(function(data, status, headers, config) {
+        $(spinner).hide();
         $scope.fetchVoteList();
       }).
       error(function(data, status, headers, config) {
+        $(spinner).hide();
         alert('' + status + data);
       });
   };
