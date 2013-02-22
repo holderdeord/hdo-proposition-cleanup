@@ -83,7 +83,7 @@ class Database
         @votes.remove(:externalId => vote['externalId'])
         @timestamps = nil
       else
-        xvote = find_by_external_id(vote['externalId'])
+        xvote = find_by_external_id(vote['externalId']) or next
 
         xvote['subject']      = vote['subject']
         xvote['time']         = Time.parse(vote['time'])

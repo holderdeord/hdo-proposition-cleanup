@@ -20,7 +20,6 @@ Etter vasking:
 - rekalkuler externalId
 - rekalkuler proposition's externalId md5(vote.time + body)
 
-
 2010-2011:
 ==========
 

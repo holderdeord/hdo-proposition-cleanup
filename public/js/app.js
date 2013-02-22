@@ -161,7 +161,6 @@ function SidebarController ($scope, $http, $filter) {
 
     var idx = _.indexOf($scope.votes, vote);
     $scope.votes[idx].delete = true;
-
     $scope.saveVotes();
   };
 
