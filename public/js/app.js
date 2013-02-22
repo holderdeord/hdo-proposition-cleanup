@@ -27,8 +27,6 @@ app.directive('datepicker', function() {
     });
 
     e.on('changeDate', function(e) {
-      console.log(e.date.toString());
-      console.log(e.localDate.toString());
       scope.newVote.time = scope.formatDate(e.localDate);
     });
   }
@@ -77,9 +75,8 @@ function SidebarController ($scope, $http, $filter) {
     $http({method: 'GET', url: '/votelist/' + str}).
       success(function(data, status, headers, config) {
         $scope.voteList = data;
-
         if (typeof callback == 'function') {
-          callback()
+          callback();
         }
       }).
       error(function(data, status, headers, config) {
@@ -132,6 +129,7 @@ function SidebarController ($scope, $http, $filter) {
 
   $scope.saveVotes = function() {
     $(spinner).show();
+
     $http({method: 'POST', url: '/votes/?username=' + window.cleanerUsername, data: $scope.votes}).
       success(function(data, status, headers, config) {
         $(spinner).hide();
@@ -163,7 +161,7 @@ function SidebarController ($scope, $http, $filter) {
       success(function(data, status, headers, config) {
         $(spinner).hide();
         $scope.fetchVoteList(true, function() {
-          $scope.openVote(data);
+          $scope.openVote(vote);
         });
       }).
       error(function(data, status, headers, config) {
