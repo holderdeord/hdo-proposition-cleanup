@@ -60,6 +60,7 @@
       <div class="row-fluid">
         <div class="muted">
           <input ng-hide="vote.editing" class="btn btn-small" type="button" value="Rediger" ng-click="editVote()">
+          <input ng-hide="vote.editing" class="btn btn-small" type="button" value="Splitt alternativ votering" ng-click="splitAlternateVote(vote)">
           <input ng-show="vote.editing" class="btn btn-small btn-primary" type="button" value="Lagre" ng-click="saveVote()">
           <input class="btn btn-small btn-danger" type="button" value="Slett" ng-click="deleteVote(vote)">
 

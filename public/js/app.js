@@ -66,7 +66,7 @@ function SidebarController ($scope, $http, $filter) {
       });
   };
 
-  $scope.fetchVoteList = function(clear) {
+  $scope.fetchVoteList = function(clear, callback) {
     var date = $scope.parseDate($scope.selectedDate)
     var str = $filter('date')(date, 'yyyy-MM-dd H:mm:ss');
 
@@ -77,6 +77,10 @@ function SidebarController ($scope, $http, $filter) {
     $http({method: 'GET', url: '/votelist/' + str}).
       success(function(data, status, headers, config) {
         $scope.voteList = data;
+
+        if (typeof callback == 'function') {
+          callback()
+        }
       }).
       error(function(data, status, headers, config) {
         alert('' + status + data);
@@ -152,6 +156,21 @@ function SidebarController ($scope, $http, $filter) {
         $(spinner).hide();
         alert('' + status + data);
       });
+  };
+
+  $scope.splitAlternateVote = function(vote) {
+    $http({method: 'POST', url: '/split/?username=' + window.cleanerUsername, data: vote}).
+      success(function(data, status, headers, config) {
+        $(spinner).hide();
+        $scope.fetchVoteList(true, function() {
+          $scope.openVote(data);
+        });
+      }).
+      error(function(data, status, headers, config) {
+        $(spinner).hide();
+        alert('' + status + data);
+      });
+
   };
 
   $scope.deleteVote = function(vote) {

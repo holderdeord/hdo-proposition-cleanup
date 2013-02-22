@@ -70,7 +70,9 @@ class Database
     @timestamps = nil
     @proposition_count = nil
 
-    @votes.insert vote.merge('time' => Time.parse(vote['time']))
+    vote['time'] = Time.parse(vote['time']) unless vote['time'].kind_of?(Time)
+
+    @votes.insert vote
   end
 
   def find_by_external_id(xid)
@@ -169,6 +171,30 @@ end
 post '/votes/' do
   votes = JSON.parse(request.body.read)
   DB.save_votes(votes).to_json
+end
+
+post '/split/' do
+  data = JSON.parse(request.body.read)
+  vote = DB.find_by_external_id(data['externalId'])
+  vote || halt(404, 'ikke funnet')
+
+  vote.delete('_id')
+
+  vote['counts']['for']     = data['counts']['against']
+  vote['counts']['against'] = data['counts']['for']
+  vote['enacted']           = !data['enacted']
+
+  if data['externalId'] =~ /^(.+?)(n?e)?$/
+    vote['externalId'] = "#{$1}#{(vote['enacted'] ? 'e' : 'ne')}"
+  else
+    vote['externalId'] << (vote['enacted'] ? 'e' : 'ne')
+  end
+
+  vote['splitBy'] = params[:username]
+
+  DB.insert_vote(vote)
+
+  vote.to_json
 end
 
 post '/insert/' do
