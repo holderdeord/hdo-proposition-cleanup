@@ -1,16 +1,16 @@
 2009-2010:
 ==========
 
-- Kan mangle forslag
 - Mulighet til å redigere / lage / slette forslag
   - Eksempel: 2009-12-07 15:58:44
   - Eksempel på manglende forslagstekst / kopiering fra referat: 2009-12-10 12:28:01
-  - Eksempel på forslagstekst i tittel: 2010-03-23 21:34
+  - Eksempel på manglende forslagstekst m/ forslagstekst i tittel: 2010-03-23 21:34
 - Enstemmige voteringer er skrapt fra referatene:
   * Har ofte tittel: "Kart: 7, Sak: 1" - kan redigeres
-  * Er fordelt på tilfeldige tidspunkt utover dagen. Fiks det om det er mulig å finne ut av fra referatet, men må være på sekundet.
-  * Eksempel: 2010-04-17
-  * Inkluderer andregangsvotering - skal eksluderes. (finn eksempel)
+  * Tidspunkt er feil, siden vi ikke kan vite (fremgår ofte heller ikke nøyaktig referatet). Er fordelt utover dagen basert på kartnr/saknr fra 1200, f.eks. 12:07:01. Bør fikses om det er mulig å finne ut av fra referatet, men må være unikt på sekundet.
+    * Eksempel: 2010-04-17
+   * Datasettet inkluderer andregangsvotering, og det skal egentlig eksluderes. (finn eksempel?)
+- Kan mangle forslag
 - Kan være duplikate forslag - bruk slettknappen.
 
 Etter vasking:
