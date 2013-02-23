@@ -187,6 +187,18 @@ namespace :db do
     end
   end
 
+  task :remove_dups do
+    p "before: #{coll.count}"
+
+    grouped = coll.find.group_by { |e| e['externalId'] }.select { |xid, votes| votes.size > 1}
+    grouped.each do |xid, votes|
+      p votes.shift # keep 1
+      votes.each { |v| coll.remove(v) }
+    end
+
+    p "after: #{coll.count}"
+  end
+
   task :load do
     sh "ssh jaribakken.com 'mongoexport -d proposition-cleanup -c votes' | mongoimport --drop -d proposition-cleanup -c votes"
   end
