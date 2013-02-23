@@ -115,7 +115,7 @@ function SidebarController ($scope, $http, $filter) {
          return;
      }
 
-     var issueUrl = 'http://next.holderdeord.no/parliament-issues/' + id + '.json'
+     var issueUrl = 'http://next.holderdeord.no:8080/parliament-issues/' + id + '.json'
      $http({method: 'GET', url: issueUrl}).
        success(function(data, status, headers, config) {
          issueCache[id] = data;
