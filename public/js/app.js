@@ -138,7 +138,7 @@ function SidebarController ($scope, $http, $filter) {
       }).
       error(function(data, status, headers, config) {
         $(spinner).hide();
-        alert('' + status + data);
+        alert('could not save votes (no network connection?): ' + status + data);
       });
   };
 
