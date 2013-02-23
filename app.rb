@@ -30,7 +30,7 @@ class Database
   end
 
   def timestamps
-    @timestamps ||= @votes.distinct('time').to_a.map { |e| Time.parse(e) }.sort.uniq.map { |e| e.localtime }
+    @timestamps ||= @votes.distinct('time').to_a.sort.uniq.map { |e| e.localtime }
   end
 
   def dates
