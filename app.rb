@@ -30,7 +30,7 @@ class Database
   end
 
   def timestamps
-    @timestamps ||= @votes.distinct('time').to_a.sort.uniq.map { |e| e.localtime }
+    @timestamps ||= @votes.distinct('time').to_a.map { |e| Time.parse(e) }.sort.uniq.map { |e| e.localtime }
   end
 
   def dates
@@ -67,11 +67,9 @@ class Database
   end
 
   def insert_vote(vote)
-    @timestamps = nil
-    @proposition_count = nil
-
     vote['time'] = Time.parse(vote['time']) unless vote['time'].kind_of?(Time)
 
+    clear_caches
     @votes.insert vote
   end
 
@@ -79,11 +77,17 @@ class Database
     @votes.find_one(:externalId => xid)
   end
 
+  def clear_caches
+    @timestamps = nil
+    @proposition_count = nil
+    @dates = nil
+  end
+
   def save_votes(votes)
     votes.each do |vote|
       if vote['delete']
         @votes.remove(:externalId => vote['externalId'])
-        @timestamps = nil
+        clear_caches
       else
         xvote = find_by_external_id(vote['externalId']) or next
 
@@ -212,4 +216,8 @@ end
 
 get '/env' do
   ENV.to_hash.to_json
+end
+
+delete '/caches' do
+  DB.clear_caches
 end
