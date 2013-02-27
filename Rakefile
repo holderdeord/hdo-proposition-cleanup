@@ -165,6 +165,23 @@ namespace :db do
     pp counts.sort_by { |n, d| d['total'] }
   end
 
+  task :remaining do
+    votes = []
+
+    coll.find.to_a.each do |vote|
+      ok = true
+      vote['propositions'].each do |prop|
+        if prop['metadata'].nil? || !%w[approved rejected].include?(prop['metadata']['status'])
+          ok = false
+        end
+      end
+
+      votes << vote if not ok
+    end
+
+    puts votes.map { |e| e['time'].localtime }.sort
+  end
+
   task :import do
     p coll.remove
 
