@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1271761683e",
+  "externalIssueId": "45638,45814",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding romertall I.",
+  "time": "2010-04-20 14:07:10 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Samferdselsministerens redegjørelse 9. mars 2010 om hvilke tiltak som vil\nbli iverksatt på kort og lang sikt for å løse de gjentatte problemene på\njernbanenettet, vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "68:3:237",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

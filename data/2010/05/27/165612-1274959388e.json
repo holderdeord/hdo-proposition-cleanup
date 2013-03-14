@@ -1,0 +1,29 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1274959388e",
+  "externalIssueId": "45499",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet.",
+  "time": "2010-05-27 16:56:12 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "",
+      "description": "Lovens overskrift og loven i sin helhet.",
+      "externalId": "8b0ce229fa8c46b2e0119410dc12c034",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Vegard",
+        "createdBy": "Vegard",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

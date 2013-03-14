@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1269259204e",
+  "externalIssueId": "44404",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens innstilling",
+  "time": "2010-03-22 13:00:04 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-03-22:1771",
+      "description": "Lovens overskrifter og loven i sin helhet",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\n<p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om endringer i helseregisterloven og helsepersonelloven (nasjonalt register over hjerte- og karlidelser, adgang til å gi dispensasjon fra taushetsplikt for kvalitetssikring, administrasjon, planlegging og styring av helsetjenesten)\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger gjøres følgende endringer:\n</p><h3>§ 8 tredje ledd første punktum nytt nr. 10 skal lyde:\n</h3><p class=\"ref-uinnrykk\">Nasjonalt register over hjerte- og karlidelser\n</p>Votering:<span class=\"ref-merknad\">Komiteens innstilling ble enstemmig bifalt.</span><span class=\"ref-merknad\">Videre var innstilt:</span><span class=\"ref-merknad\">Ny § 15 a skal lyde:</span><span class=\"ref-merknad\"><span class=\"ref-italic\">Opplysninger til kvalitetssikring, administrasjon, planlegging eller styring av helsetjenesten</span></span><span class=\"ref-merknad\">Helsepersonelloven § 29 b gjelder tilsvarende for behandling av helseopplysninger etter loven her.</span><span class=\"ref-merknad\">II</span><span class=\"ref-merknad\">I lov 2. juli 1999 nr. 64 om helsepersonell m.v. gjøres følgende endringer:</span><span class=\"ref-merknad\">Ny § 29 b skal lyde:</span><span class=\"ref-merknad\"><span class=\"ref-italic\">Opplysninger til kvalitetssikring, administrasjon, planlegging eller styring av helsetjenesten</span></span><span class=\"ref-merknad\">Departementet kan bestemme at helseopplysninger kan eller skal gis til bruk ved kvalitetssikring, administrasjon, planlegging eller styring av helsetjenesten, og at det kan skje uten hensyn til taushetsplikt. Dette kan bare skje dersom behandlingen av opplysningene er av vesentlig interesse for samfunnet og hensynet til pasientens integritet og velferd er ivaretatt. Graden av personidentifikasjon skal ikke være større enn nødvendig for det aktuelle formålet. Kun i særskilte tilfeller kan det gis tillatelse til bruk av direkte personidentifiserbare opplysninger som for eksempel navn eller fødselsnummer. Reglene om taushetsplikt gjelder tilsvarende for den som mottar opplysningene.</span><span class=\"ref-merknad\">Departementet kan sette vilkår for bruken av opplysninger etter paragrafen her.</span>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

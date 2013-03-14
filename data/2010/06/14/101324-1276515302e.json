@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276515302e",
+  "externalIssueId": "45566",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra utenriks- og forsvarskomiteen om samarbeidet i Organisasjonen for sikkerhet og samarbeid i Europa (OSSE) i 2009",
+  "time": "2010-06-14 10:13:24 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Meld. St. 15 (2009-2010) - om samarbeidet i Organisasjonen for sikkerhet\nog samarbeid i Europa (OSSE) i 2009 - vedlegges protokollen. <o:p></o:p></span><BR>\n</div>\n</FONT>",
+      "externalId": "95:2:335",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

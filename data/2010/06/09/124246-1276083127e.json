@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276083127e",
+  "externalIssueId": "45802",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra helse- og omsorgskomiteen om representantforslag fra stortingsrepresentantene Jon Jæger Gåsvatn, Per Arne Olsen og Kari Kjønaas Kjos om innføring av samfunnskontrakt for å bedre samspill mellom offentlig sektor og ideell sektor",
+  "time": "2010-06-09 12:42:46 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:68 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Jon Jæger Gåsvatn, Per Arne Olsen og Kari <span\nclass=SpellE>Kjønaas</span> Kjos om innføring av samfunnskontrakt for å bedre\nsamspill mellom offentlig sektor og ideell sektor - vedlegges protokollen<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "92:7:315",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Eli"
+      }
+    }
+  ]
+}

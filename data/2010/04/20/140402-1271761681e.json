@@ -1,0 +1,29 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1271761681e",
+  "externalIssueId": "44364",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra familie- og kulturkomiteen om endringer i adopsjonsloven og barnevernloven",
+  "time": "2010-04-20 14:04:02 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "<p class=\"ref-uinnrykk\">om endringer i adopsjonsloven og barnevernloven\n</p>I\n<p class=\"ref-uinnrykk\">I lov 28. februar 1986 nr. 8 om adopsjon gjøres følgende endringer:\n</p><h3>Ny § 14 a skal lyde:\n</h3><h3><span class=\"ref-italic\">§ 14 a Besøkskontakt etter gjennomført adopsjon</span></h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">For adopsjoner som er gjennomført som følge av vedtak etter barnevernloven § 4-20, gjelder virkningene av adopsjonen som følger av § 13 i loven her, med de begrensninger som det eventuelt er truffet vedtak om i medhold av barnevernloven § 4-20 a om besøkskontakt mellom barnet og dets biologiske foreldre.</span></p><p class=\"ref-uinnrykk\">§ 19 første ledd første punktum skal lyde:\n</p><p class=\"ref-uinnrykk\">En adopsjon som er gitt og er gyldig i fremmed stat (utenlandsk adopsjon), gjelder her i riket, såframt adoptanten(e) da adopsjonen ble gitt hadde sin bopel <span class=\"ref-italic\">i den</span> fremmede stat hvor adopsjonen er gitt.\n</p><h3>II\n</h3><p class=\"ref-uinnrykk\">I lov 17. juli 1992 nr. 100 om barnverntjenester mv. gjøres følgende endring:\n</p><h3>Ny § 4-20 a skal lyde:\n</h3><h3><span class=\"ref-italic\">§ 4-20 a Besøkskontakt mellom barnet og de biologiske foreldre etter adopsjon</span></h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Når fylkesnemnda treffer vedtak om adopsjon etter § 4-20, skal den, dersom noen av partene har krevd det, samtidig vurdere om det skal være besøkskontakt mellom barnet og biologiske foreldre etter at adopsjonen er gjennomført. Dersom en begrenset besøkskontakt etter adopsjonen er til barnets beste, og adoptivsøkernes samtykke til slik kontakt foreligger, skal fylkesnemnda treffe vedtak om det. Fylkesnemnda må i et slikt tilfelle samtidig fastsette omfanget av kontakten.\n</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Barneverntjenesten i den kommune som har reist saken skal bistå med gjennomføringen av besøkskontakten. Ved avtale mellom barneverntjenesten i de berørte kommuner kan ansvaret overføres til en annen kommune som barnet har tilknytning til.\n</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Et vedtak om besøkskontakt kan kun prøves på nytt dersom særlige grunner tilsier det. Særlige grunner kan blant annet være at barnet motsetter seg kontakt, eller at de biologiske foreldrene ikke følger opp vedtaket om kontakt.\n</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Barneverntjenesten kan av eget tiltak bringe et vedtak om besøkskontakt inn for fylkesnemnda for ny prøving etter tredje ledd. Adoptivforeldrene og barnet selv, dersom det har partsrettigheter, kan kreve at barneverntjenesten bringer saken inn for nemnda på nytt.\n</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Fylkesnemndas vedtak om besøkskontakt etter første ledd kan bringes inn for tingretten, jf. § 7-24, av kommunen, de biologiske foreldrene og barnet selv, dersom det har partsrettigheter. Et nytt vedtak etter tredje ledd kan bringes inn for tingretten av kommunen, de biologiske foreldrene, adoptivforeldrene og barnet selv, dersom det har partsrettigheter.</span></p><h3>III\n</h3><p class=\"ref-uinnrykk\">Loven gjelder fra den tid Kongen bestemmer. Kongen kan gi nærmere overgangsregler i forskrift.</p>",
+      "description": "Komiteens tilråding",
+      "externalId": "6d1f49ae15f03f962a9ca1bf54665eaa",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Vegard",
+        "createdBy": "Vegard",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

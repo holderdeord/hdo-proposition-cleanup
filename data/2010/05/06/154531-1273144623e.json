@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1273144623e",
+  "externalIssueId": "45669",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-05-06 15:45:31 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:58 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Svein Flåtten, Anne Karin <span class=SpellE>Olli</span>,\nElisabeth <span class=SpellE>Røbekk</span> <span class=SpellE>Nørve</span> og\nArve <span class=SpellE>Kambe</span> om samfiske for kystflåten - vedlegges\nprotokollen.<o:p></o:p></span><BR>\n</div>\n</FONT>",
+      "externalId": "77:3:252",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Eli"
+      }
+    }
+  ]
+}

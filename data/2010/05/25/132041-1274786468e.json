@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1274786468e",
+  "externalIssueId": "45559",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-05-25 13:20:41 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker i godkjennelse av beslutning i EØS-komiteen nr.\n157/2009 av 4.&nbsp;desember 2009 om innlemmelse i EØS-avtalen av direktiv\n2009/49/EF av 18.&nbsp;juni 2009 om visse opplysningskrav for mellomstore\nselskap og plikten til å sette opp konsernregnskap.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "81:8:270",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

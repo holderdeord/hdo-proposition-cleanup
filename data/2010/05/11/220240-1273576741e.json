@@ -1,0 +1,29 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1273576741e",
+  "externalIssueId": "45507",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens innstilling",
+  "time": "2010-05-11 22:02:40 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "<p class=\"ref-uinnrykk\">lov \n</p><p class=\"ref-uinnrykk\">om endringer i folketrygdloven, kontantstøtteloven og barnetrygdloven (rett til fedrekvote uavhengig av mors stillingsandel mv.)\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 28. februar 1997 nr. 19 om folketrygd skal § 14-12 første ledd lyde:\n</p><p class=\"ref-uinnrykk\">Dersom <span class=\"ref-italic\">begge foreldre fyller vilkårene for rett til foreldrepenger</span>, er 50 stønadsdager (10 uker) av stønadsperioden forbeholdt faren (fedrekvote).\n</p><h3>II\n</h3><p class=\"ref-uinnrykk\">I lov 8. mars 2002 nr. 4 om barnetrygd skal § 2 tredje ledd lyde:\n</p><p class=\"ref-uinnrykk\">Hvis foreldrene ikke bor sammen og skriftlig har avtalt <span class=\"ref-italic\">at barnet skal bo fast hos begge eller det foreligger rettskraftig avgjørelse om at barnet skal bo fast hos begge, jf. barneloven § 36, </span> kan hver av foreldrene få rett til 50 prosent barnetrygd, hvis de fremsetter krav om dette.\n</p><h3>III\n</h3><p class=\"ref-uinnrykk\">Lovens del I trer i kraft 1. juli 2010. Endringene gjelder for tilfeller der fødselen eller omsorgsovertakelsen skjer 1. juli 2010 eller senere.\n</p><p class=\"ref-uinnrykk\">Lovens del II gjelder fra den tid Kongen bestemmer.\n</p><p class=\"ref-uinnrykk\"></p>\n\n<p class=\"ref-uinnrykk\">.\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-presidenten\">Presidenten:</span> Før vi voterer over komiteens tilråding, vil presidenten minne om at saksordføreren under debatten har påpekt at komiteens tilråding ikke inneholder forslag til endringer i kontantstøtteloven, men at denne ved en inkurie har sneket seg inn i lovens overskrift. Riktig ordlyd i innstillingen skal være:\n</p><blockquote><p class=\"ref-uinnrykk\">«vedtak til lov om endringer i folketrygdloven og barnetrygdloven (rett til fedrekvote uavhengig av mors stillingsandel mv.)»\n</p></blockquote>",
+      "description": "Komiteens innstilling",
+      "externalId": "fc8f159f34f1b1c696e7bb4b73d5ccd9",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Vegard",
+        "createdBy": "Vegard",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

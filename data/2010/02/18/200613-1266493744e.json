@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1266493744e",
+  "externalIssueId": "44959",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Det voteres alternativt mellom forslag fra KrF og komiteens tilråding",
+  "time": "2010-02-18 20:06:13 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:26 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Line Henriette <span class=SpellE>Hjemdal</span>, Knut\nArild Hareide, Øyvind <span class=SpellE>Håbrekke</span> og Rigmor Andersen\nEide om utarbeidelse av en handlingsplan for CO</span><span class=subscript><span\nstyle='font-size:10.5pt'>2</span></span><span style='mso-font-width:100%'>-fangst\nog -lagring fra store punktutslipp i industrien - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "49:4:169",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1256119562e",
+  "externalIssueId": "44507",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Votering i sak nr. 2",
+  "time": "2009-10-21 12:54:07 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Som medlemmer og <span class=SpellE>varamedlemmer</span> av Stortingets\ndelegasjon til EFTA-parlamentarikerkomiteene og Den felles\nEØS-parlamentarikerkomiteen velges for stortingsperioden 2009-2013:<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;margin-right:0cm;margin-bottom:\n4.0pt;margin-left:0cm;text-indent:0cm'><span class=kursiv><span\nstyle='mso-font-width:100%'>Medlemmer<o:p></o:p></span></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>1.<span\nstyle='mso-tab-count:1'>   </span>Svein Roald Hansen<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>2.<span\nstyle='mso-tab-count:1'>   </span>Laila Gustavsen<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>3.<span\nstyle='mso-tab-count:1'>   </span>Harald T. Nesvik<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>4.<span\nstyle='mso-tab-count:1'>   </span>Laila Marie <span class=SpellE>Reiertsen</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>5.<span\nstyle='mso-tab-count:1'>   </span>Jan Tore Sanner<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>6.<span\nstyle='mso-tab-count:1'>   </span>Gina <span class=SpellE>Knutson</span> <span\nclass=SpellE>Barstad</span><o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;margin-right:0cm;margin-bottom:\n4.0pt;margin-left:0cm;text-indent:0cm'><span class=SpellE><span class=kursiv><span\nstyle='mso-font-width:100%'>Varamedlemmer</span></span></span><span\nclass=kursiv><span style='mso-font-width:100%'><o:p></o:p></span></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>1.<span style='mso-tab-count:1'> </span>Steinar\nGullvåg<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>2.<span style='mso-tab-count:1'> </span>Irene\nJohansen<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>3.<span style='mso-tab-count:1'> </span>Kåre <span\nclass=SpellE>Simensen</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>4.<span style='mso-tab-count:1'> </span>Torgeir <span\nclass=SpellE>Trældal</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>5.<span style='mso-tab-count:1'> </span>Jørund <span\nclass=SpellE>Rytman</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>6.<span style='mso-tab-count:1'> </span>Nikolai\nAstrup<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>7.<span style='mso-tab-count:1'> </span>Siri A.\nMeling<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>8.<span style='mso-tab-count:1'> </span>Geir\nPollestad<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste style='text-indent:-12.0pt'><span\nstyle='mso-font-width:100%'>9.<span style='mso-tab-count:1'> </span>Laila <span\nclass=SpellE>Dåvøy</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>10.<span\nstyle='mso-tab-count:1'> </span>Borghild <span class=SpellE>Tenden</span><o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "6:2:1",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

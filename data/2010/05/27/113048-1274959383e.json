@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1274959383e",
+  "externalIssueId": "41047",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-05-27 11:30:48 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<p class=\"ref-uinnrykk\">Dokument nr. 12:15 (2007–2008) – grunnlovsforslag fra Aanund Hylland og Finn-Erik Vinje, vedtatt til fremsettelse av Carl I. Hagen, Inge Lønning, Berit Brørby, Ola T. Lånke og Olav Gunnar Ballo, om endringer i Grunnloven §§ 30, 61, 100 og 106 (retting av språklige feil) – bifalles. </p><p class=\"ref-uinnrykk\">Grunnlovsforslaget var sålydende: </p><p class=\"ref-uinnrykk\">«Forslag A: </p><h3>§ 30 tredje ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Finder noget Medlem af Statsraadet, at Kongens Beslutning er stridende mod Statsformen eller Rigets Love, er det Pligt at gjøre kraftige Forestillinger derimod samt at tilføie sin Mening i Protokollen. </p><p class=\"ref-uinnrykk\">Forslag B: </p><h3>§ 61 skal lyde: </h3><p class=\"ref-uinnrykk\">Ingen kan vælges til Repræsentant uden at være stemmeberettiget. </p><p class=\"ref-uinnrykk\">Forslag C: </p><h3>§ 100 tredje ledd andre punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Der kan kun sættes slige klarlig definerede Grænser for denne Ret, hvor særlig tungtveiende Hensyn gjøre det forsvarligt holdt op imod Ytringsfrihedens Begrundelser. </p><p class=\"ref-uinnrykk\">Forslag D: </p><h3>§ 106 første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Saavel Kjøbesummer som Indtægter af det Geistligheden beneficerede Gods skulle blot anvendes til Geistlighedens Bedste og Oplysningens Fremme.» </p><p class=\"ref-uinnrykk\"></p>",
+      "externalId": "83:3:279",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1263296165e",
+  "externalIssueId": "44884",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra finanskomiteen om samtykke til å sette i kraft en protokoll undertegnet i Brussel 7. juli 2009 til endring av skatteavtalen mellom Norge og Luxembourg",
+  "time": "2010-01-12 10:15:54 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker i å sette i kraft en protokoll undertegnet i Brussel\n7.&nbsp;juli 2009 til endring av skatteavtalen mellom Norge og Luxembourg.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "36:5:151",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

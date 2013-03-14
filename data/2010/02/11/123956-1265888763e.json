@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1265888763e",
+  "externalIssueId": "44658",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "forslag nr. 1, fra Arbeiderpartiet, Sosialistisk Venstreparti og Senterpartiet",
+  "time": "2010-02-11 12:39:56 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Forslag fra Arbeiderpartiet, Sosialistisk Venstreparti og Senterpartiet",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm;mso-line-height-alt:10.0pt'><span\nclass=kniping0><span style='font-size:10.5pt;letter-spacing:-.05pt'>Dokument\n8:13&nbsp;S (2009-2010) - representantforslag fra stortingsrepresentantene Bård\n<span class=SpellE>Hoksrud</span>, Jan-Henrik Fredriksen, Ingebjørg <span\nclass=SpellE>Godskesen</span>, Arne Sortevik og Harald T. Nesvik om\nhandlingsplan for forsterket oljevernberedskap - vedlegges protokollen.<o:p></o:p></span></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "46:3:159",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276601775e",
+  "externalIssueId": "46239",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens innstilling II",
+  "time": "2010-06-15 23:03:54 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall II.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:103 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Per Arne Olsen, Kari <span class=SpellE>Kjønaas</span>\nKjos, Jon Jæger Gåsvatn, Harald T. Nesvik og Robert <span class=SpellE>Eriksson</span>\nom en egen <span class=SpellE>ombudsordning</span> for mennesker med\nutviklingshemning, II - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "96:15:363",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

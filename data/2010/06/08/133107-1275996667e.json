@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1275996667e",
+  "externalIssueId": "45543",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-06-08 13:31:07 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-06-08:1987",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\n<p class=\"ref-uinnrykk\">lov \n</p><p class=\"ref-uinnrykk\">om endringer i barnehageloven\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) gjøres følgende endringer:\n</p><h3>§ 1a skal lyde:\n</h3><h3>§ 1a Særlig formål\n</h3><p class=\"ref-uinnrykk\">Eiere av private barnehager kan i vedtektene bestemme at verdiene i loven § 1 ikke skal forankres i den kristne og humanistiske arv og tradisjon.\n</p><p class=\"ref-uinnrykk\">Private barnehager og barnehager eiet eller drevet av menigheter innen Den norske kirke kan i vedtektene fastsette særlige bestemmelser om tros- eller livssynsformål.\n</p><h3>§ 2 skal lyde:\n</h3><h3>§ 2 Barnehagens innhold\n</h3><p class=\"ref-uinnrykk\">Barnehagen skal være en pedagogisk virksomhet.\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Barnehagen</span> skal gi barn muligheter for lek, livsutfoldelse og meningsfylte opplevelser og aktiviteter.\n</p><p class=\"ref-uinnrykk\">Barnehagen skal ta hensyn til barnas alder, funksjonsnivå, kjønn, sosiale, etniske og kulturelle bakgrunn, herunder samiske barns språk og kultur.\n</p><p class=\"ref-uinnrykk\">Barnehagen skal formidle verdier og kultur, gi rom for barns egen kulturskaping og bidra til at alle barn får oppleve glede og mestring i et sosialt og kulturelt <span class=\"ref-italic\">fellesskap.</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Barnehagen</span> skal støtte barns nysgjerrighet, kreativitet og vitebegjær og gi utfordringer med utgangspunkt i barnets interesser, kunnskaper og ferdigheter.\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Barnehagen skal ha en helsefremmende og en forebyggende funksjon og bidra til å utjevne sosiale forskjeller.</span></p><p class=\"ref-uinnrykk\">Departementet fastsetter en rammeplan for barnehagen. Rammeplanen skal gi retningslinjer for barnehagens innhold og oppgaver.\n</p><p class=\"ref-uinnrykk\">Barnehagens eier kan tilpasse rammeplanen til lokale forhold.\n</p><p class=\"ref-uinnrykk\">Med utgangspunkt i rammeplan for barnehagen skal samarbeidsutvalget for hver barnehage fastsette en årsplan for den pedagogiske virksomheten.\n</p><h3>§ 7 fjerde ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\">Barnehageeieren skal fastsette barnehagens vedtekter. Vedtektene skal gi opplysninger som er av betydning for foreldrenes/de foresattes forhold til barnehagen, herunder\n</p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">a) eierforhold,\n</p></li><li><p class=\"ref-uinnrykk\">b) formål, jf. <span class=\"ref-italic\">§§ 1 og 1a</span></p></li><li><p class=\"ref-uinnrykk\">c) opptakskriterier,\n</p></li><li><p class=\"ref-uinnrykk\">d) antall medlemmer i samarbeidsutvalget,\n</p></li><li><p class=\"ref-uinnrykk\">e) barnehagens åpningstid.\n</p></li></ul><h3>§ 10 første ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\">Kommunen avgjør søknad om godkjenning etter en vurdering av barnehagens egnethet i forhold til formål og innhold, jf. §§ 1<span class=\"ref-italic\">, 1a</span> og 2.\n</p><h3>II\n</h3><p class=\"ref-uinnrykk\">Loven gjelder fra den tid Kongen bestemmer.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1267530602e",
+  "externalIssueId": "44597",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens rapport om revisjon av Arbeids- og velferdsetaten for budsjettåret 2008",
+  "time": "2010-03-02 12:50:02 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 1 Tillegg 2 (2009-2010) - om Riksrevisjonens rapport om\nrevisjonen av Arbeids- og velferdsetaten for budsjettåret 2008 - vedlegges\nprotokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "50:2:172",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

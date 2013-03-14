@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1267703523e",
+  "externalIssueId": "44960",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding om forslag fra André Oktay Dahl, Anders B. Werp, Linda C. Hofstad Helleland og Elisabeth Aspaker om umiddelbar lovendring for å sikre skjerpet straffenivå i volds-, overgreps- og voldtektssaker",
+  "time": "2010-03-04 12:52:03 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "Dokument 8:27 S (2009–2010) – representantforslag fra stortingsrepresentantene André Oktay Dahl, Anders B. Werp, Linda C. Hofstad Helleland og Elisabeth Aspaker om umiddelbar lovendring for å sikre skjerpet straffenivå i volds-, overgreps- og voldtektssaker – vedlegges protokollen.",
+      "externalId": "52:3:180",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

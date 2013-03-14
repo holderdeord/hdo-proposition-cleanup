@@ -1,0 +1,40 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1275996674e",
+  "externalIssueId": "46409",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling frå justiskomiteen om årsrapport for 2009 fra Stortingets utvalg for rettferdsvederlag",
+  "time": "2010-06-08 13:31:14 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 19 S (2009-2010) - årsrapport for 2009 fra Stortingets utvalg\nfor rettferdsvederlag - vert å <span class=SpellE>leggje</span> ved møteboka.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "91:14:307",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall II.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget ber regjeringa i forbindelse med statsbudsjettet for 2011\nvurdere å auke fullmaktsgrensa i den ordinære rettferdsvederlagsordninga frå kr\n200&nbsp;000 til kr&nbsp;250&nbsp;000.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "91:14:308",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1258456501e",
+  "externalIssueId": "44788",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra Stortingets presidentskap om regulering av lønnen for Høyesteretts medlemmer",
+  "time": "2009-11-17 10:04:36 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Med virkning fra 1. oktober 2009 fastsettes lønnen for Høyesteretts\nmedlemmer slik:<o:p></o:p></span><BR>\n</FONT><TABLE class=MsoNormalTable BORDER=1 cellspacing=0 cellpadding=0\n style='border-collapse:collapse;mso-table-layout-alt:fixed;mso-padding-alt:\n 2.0pt&nbsp;0cm 1.5pt&nbsp;0cm'>\n <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:16.0pt'>\n  <td width=513 valign=top style='width:385.0pt;padding:4.0pt&nbsp;0cm 1.5pt&nbsp;0cm;\n  height:16.0pt'>\n  <p class=brodtekstuinnr style='tab-stops:dotted 368.0pt'><span\n  style='mso-font-width:100%'>Høyesterettsjustitiarius <span style='mso-tab-count:\n  1 dotted'>...................................................................................... </span></span><BR>\n  </td>\n  <td width=129 valign=top style='width:97.0pt;padding:4.0pt&nbsp;0cm 1.5pt&nbsp;0cm;\n  height:16.0pt'>\n  <p class=brodtekstuinnr align=right style='text-align:right'><span\n  style='mso-font-width:100%'>kr&nbsp;1&nbsp;578&nbsp;500 pr. år</span><BR>\n  </td>\n </tr>\n <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.0pt'>\n  <td width=513 valign=top style='width:385.0pt;padding:2.0pt&nbsp;0cm 1.5pt&nbsp;0cm;\n  height:14.0pt'>\n  <p class=brodtekstuinnr style='tab-stops:dotted 368.0pt'><span\n  style='mso-font-width:100%'>Høyesterettsdommere <span style='mso-tab-count:\n  1 dotted'>....................................................................................... </span></span><BR>\n  </td>\n  <td width=129 valign=top style='width:97.0pt;padding:2.0pt&nbsp;0cm 1.5pt&nbsp;0cm;\n  height:14.0pt'>\n  <p class=brodtekstuinnr align=right style='text-align:right'><span\n  style='mso-font-width:100%'>kr&nbsp;1&nbsp;361&nbsp;200 pr. år</span><BR>\n  </td>\n </tr>\n</TABLE><FONT SIZE=2>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "15:1:20",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

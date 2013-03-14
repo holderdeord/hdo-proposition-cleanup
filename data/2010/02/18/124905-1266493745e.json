@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1266493745e",
+  "externalIssueId": "45035",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens innstilling",
+  "time": "2010-02-18 12:49:05 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:30 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Nikolai Astrup, Lars <span class=SpellE>Myraune</span>,\nSvein <span class=SpellE>Harberg</span> og Janne Fardal Kristoffersen om tiltak\nfor energieffektivisering av bygninger - avvises.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "49:5:170",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

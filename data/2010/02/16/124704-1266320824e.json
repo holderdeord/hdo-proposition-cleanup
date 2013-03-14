@@ -1,0 +1,40 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1266320824e",
+  "externalIssueId": "44420",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Samtykke til godtagelse av Europaparlaments- og rådsvedtak 574/2007 om opprettelse av Yttergrensefondet samt tilhørende Kommisjonsvedtak (videreutvikling av Schengen-regelverket), samt inngåelse av avtale mellom EF, Island, Norge, Sveits og Liechtenstein om Yttergrensefondet 2007-2013",
+  "time": "2010-02-16 12:47:04 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker i godtagelse av Europaparlaments- og <span\nclass=SpellE>rådsvedtak</span> 574/2007 om opprettelse av <span class=SpellE>Yttergrensefondet</span>\nog tilhørende Kommisjonsvedtak (videreutvikling av Schengen-regelverket).<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "47:4:163",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall II.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker i inngåelse av avtale mellom EF, Island, Norge,\nSveits og Liechtenstein om <span class=SpellE>Yttergrensefondet</span>\n2007-2013.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "47:4:164",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

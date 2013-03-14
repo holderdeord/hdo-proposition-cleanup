@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260271563e",
+  "externalIssueId": "43984",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra helse- og omsorgskomiteen om samtykke til godkjennelse av EØS-komiteens beslutning nr. 61/2009 av 29. mai 2009 om innlemmelse i EØS-avtalen av direktiv 2004/24/EF, direktiv 2004/27/EF, direktiv 2004/28/EF og forordning (EF) nr. 726/2004, om legemidler til mennesker og dyr (legemiddelpakken), samt tilhørende rettsakter",
+  "time": "2009-12-08 14:07:34 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker i godkjennelse av EØS-komiteens beslutning nr.\n61/2009 av 29.&nbsp;mai 2009 om innlemmelse i EØS-avtalen av direktiv\n2004/24/EF, direktiv 2004/27/EF, direktiv 2004/28/EF og forordning (EF) nr.\n726/2004, om legemidler til mennesker og dyr (legemiddelpakken), samt\ntilhørende rettsakter. <o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "26:3:70",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

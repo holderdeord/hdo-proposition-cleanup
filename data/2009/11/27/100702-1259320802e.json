@@ -1,0 +1,41 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1259320802e",
+  "externalIssueId": "44712",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra helse- og omsorgskomiteen om endringer i lov 19. november 1982 nr. 66 om helsetjenesten i kommunene (retting av inkurie)",
+  "time": "2009-11-27 10:07:02 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-11-27:161",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til <p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om endringer i lov 19. november 1982 nr. 66 om helsetjenesten i kommunene (retting av\ninkurie) </p><p class=\"ref-uinnrykk\">I </p><p class=\"ref-uinnrykk\">I lov 19. november 1982 nr. 66 om helsetjenesten i kommunene skal § 4a-4 lyde: </p><h3>§ 4a-4 <span class=\"ref-italic\">(Meldingsplikt og godkjenning)</span></h3><p class=\"ref-uinnrykk\">I forskrifter etter § 4a-1 annet ledd kan det gis nærmere bestemmelser om meldingsplikt\ntil kommunestyret for den som planlegger eller iverksetter virksomhet som etter sin art\nkan ha innvirkning på helsen, eller endring i slik virksomhet. </p><p class=\"ref-uinnrykk\">I forskriftene kan det videre fastsettes at virksomheter som det etter første ledd kan\nkreves melding om, skal være godkjent av kommunestyret. Nærmere bestemmelser om slik\ngodkjenning kan gis i forskriftene, herunder om saksbehandlingsregler til utfylling av\ntjenesteloven. Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er\nbegrunnet ut fra tvingende allmenne hensyn. I forskriftene kan bestemmes at fylkesmannen\ngir godkjenning dersom slik virksomhet berører flere kommuner. Berører virksomheten\nflere fylker, kan <span class=\"ref-italic\">det</span> bestemmes at departementet gir\ngodkjenning. Det kan videre gis bestemmelser om klageordning i tilfelle hvor\nfylkesmannen eller departementet gir godkjenning. I forskriftene kan det bestemmes at\nMattilsynet gir godkjenning av drikkevann og vannforsyningsanlegg, og regler om klage\nover slike vedtak. </p><p class=\"ref-uinnrykk\">Kommunestyret kan ved godkjenning sette vilkår for å ivareta hensynet til folks helse,\njfr. § 1-2 og § 4a-1. </p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">I forskriftene kan det fastsettes en ordning hvor virksomheter\nunderlagt krav om melding eller godkjenning etter første eller annet ledd, i tillegg\nskal fremlegge for kommunestyret en vurdering fra et akkreditert inspeksjonsorgan.\nSlik vurdering kan kreves innhentet ved nærmere bestemte tidsintervaller. Omkostninger\nforbundet med vurdering fra akkreditert inspeksjonsorgan betales av den ansvarlige for\nvirksomheten.</span></p><p class=\"ref-uinnrykk\">Dersom nødvendig godkjenning <span class=\"ref-italic\">fra kommunestyret eller vurdering fra\nakkreditert inspeksjonsorgan</span> ikke foreligger, eller vilkår ikke oppfylles, kan\nkommunestyret kreve virksomheten stanset. Stansning kan bare kreves dersom ulempene\nstansningen vil medføre, står i rimelig forhold til den helsefare som unngås. Stansning\nkan om nødvendig gjennomføres med bistand fra politiet. </p><h3>II </h3><p class=\"ref-uinnrykk\">Loven trer i kraft 28. desember 2009.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#propositions",
+      "body": "Lovens overskrift og loven i sin helhet.",
+      "description": "Lovens overskrift og loven i sin helhet",
+      "externalId": "5235dd77e04e11befb5dda6eadb1aac0",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260271567e",
+  "externalIssueId": "44574",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling frå helse- og omsorgskomiteen om endringar i patentlova (unntak frå patentvernet for utprøvingar av legemiddel) (Innst. 50 L (2009–2010), jf. Prop. 27 L (2009–2010))",
+  "time": "2009-12-08 14:15:22 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-12-08:1300",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre et slikt vedtak til <p class=\"ref-uinnrykk\">lov  </p><p class=\"ref-uinnrykk\">om endringar i lov 15. desember 1967 nr. 9 om </p><p class=\"ref-uinnrykk\">patenter (unntak frå patentvernet for </p><p class=\"ref-uinnrykk\">utprøvingar av legemiddel) </p><p class=\"ref-uinnrykk\">I </p><p class=\"ref-uinnrykk\">I lov 15. desember 1967 nr. 9 om patenter blir det gjort desse endringane: </p><h3>Tittelen på lova skal lyde: </h3><p class=\"ref-uinnrykk\">Lov 15. desember 1967 nr. 9 om patenter <span class=\"ref-italic\">(patentloven)</span></p><h3>§ 3 tredje ledd nr. 4 og ny nr. 5 skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">4. Tilberedning på apotek av et legemiddel etter resept i enkelttilfelle eller\nforføyning over et legemiddel tilberedt på denne måte<span class=\"ref-italic\">.</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">5. Utprøvinger, forsøk og lignende av et patentert legemiddel\nsom er nødvendige for å oppnå markedsføringstillatelse for et legemiddel i en\nstat som er tilsluttet avtale 15. april 1994 om opprettelse av Verdens\nhandelsorganisasjon (WTO-avtalen).</span></p></li></ul><h3>II </h3><p class=\"ref-uinnrykk\">Lova gjeld frå den tid Kongen fastset.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#propositions",
+      "body": "Det voteres over lovens overskrift og loven i sin helhet.",
+      "description": "Lovens overskrift og loven i sin helhet",
+      "externalId": "b7c412759bc6c14503733d7325862527",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

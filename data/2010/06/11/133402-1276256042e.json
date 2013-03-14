@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276256042e",
+  "externalIssueId": "46274",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra energi- og miljøkomiteen om endringer i lov 29. november 1996 nr. 72 om petroleumsvirksomhet",
+  "time": "2010-06-11 13:34:02 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-06-11:2040",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\n<p class=\"ref-uinnrykk\">lov \n</p><p class=\"ref-uinnrykk\">om endringer i lov 29. november 1996 nr. 72 om petroleumsvirksomhet\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 29. november 1996 nr. 72 om petroleumsvirksomhet gjøres følgende endringer:\n</p><h3>§ 10-18 første ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\">Kongen kan gi forskrifter til utfylling og gjennomføring av denne lov, herunder bl.a. bestemmelser om arbeidsforhold, taushetsplikt, og om rettighetshavers plikt til å gjøre opplysninger om virksomhet etter loven offentlig <span class=\"ref-italic\">tilgjengelig</span>.\n</p><h3>§ 10-18 andre ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Kongen kan i forskrift pålegge rettighetshaver og forvaltningsorganer å gi opplysninger om betalinger. Forvaltningsorganer kan pålegges å gi slike opplysninger uten hinder av taushetsplikt. Opplysningene kan offentliggjøres både av avgiver og mottaker av opplysningene.</span></p><h3>§ 10-18 tredje ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Kongen kan gi forskrifter om opplysningsplikt for ivaretakelse av Norges plikter etter EØS-avtalen.</span></p><h3>Nåværende andre og tredje ledd blir hhv. nytt fjerde og femte ledd.\n</h3><h3>II\n</h3><p class=\"ref-uinnrykk\">Loven trer i kraft fra den tid Kongen bestemmer.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

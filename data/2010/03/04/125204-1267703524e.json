@@ -1,0 +1,52 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1267703524e",
+  "externalIssueId": "45005",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding om representantforslag fra stortingsrepresentantene Sonja Irene Sjøli, Elisabeth Aspaker, Bent Høie, André Oktay Dahl og Anders B. Werp om innføring av obligatorisk dødsstedsundersøkelse ved alle tilfeller av plutselig og uventet spedbarnsdød",
+  "time": "2010-03-04 12:52:04 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget ber regjeringen komme tilbake med forslag til endring av\nstraffeprosessloven hvor det innføres en ubetinget etterforskningsplikt\nuavhengig av mistanke hos politiet og påtalemyndigheten når barn dør plutselig\nog uventet. Stortinget forutsetter at regjeringen i forbindelse med\nlovendringen foretar endringer i påtaleinstruksen, slik at Riksadvokaten kan gi\nnærmere retningslinjer om gjennomføringen av etterforskningsplikten.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "52:4:181",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall II.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget ber regjeringen undersøke hvordan ordningen med <span\nclass=SpellE>dødsstedsundersøkelser</span> organiseres i andre land, herunder\nom og hvordan forholdet til Den europeiske menneskerettskonvensjonen er vurdert\n- og orientere Stortinget i egnet form om dette.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "52:4:182",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall III.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:28 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Sonja Irene Sjøli, Elisabeth <span class=SpellE>Aspaker</span>,\nBent Høie, André <span class=SpellE>Oktay</span> Dahl og Anders B. <span\nclass=SpellE>Werp</span> om innføring av obligatorisk <span class=SpellE>dødsstedsundersøkelse</span>\nved alle tilfeller av plutselig og uventet spedbarnsdød - vedlegges\nprotokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "52:4:183",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1275996669e",
+  "externalIssueId": "46139",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra kommunal- og forvaltningskomiteen om norsk flyktning- og migrasjonspolitikk i et europeisk perspektiv",
+  "time": "2010-06-08 13:31:09 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Meld. St. 9 (2009-2010) - om norsk flyktning- og migrasjonspolitikk i et\neuropeisk perspektiv - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "91:9:306",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

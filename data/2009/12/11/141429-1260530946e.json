@@ -1,0 +1,41 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260530946e",
+  "externalIssueId": "44367",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lov om pensjonsordning for oppdragstaker i statlig beredskaps- eller familiehjem",
+  "time": "2009-12-11 14:14:29 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-12-11:1498",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\n<p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om pensjonsordning for oppdragstaker i statlig beredskaps- eller familiehjem\n</p><h3>§ 1 <span class=\"ref-italic\">Hvem loven gjelder for</span></h3><p class=\"ref-uinnrykk\">Loven gjelder for oppdragstaker i beredskaps- eller familiehjem som har inngått oppdragskontrakt med staten som oppdragsgiver.\n</p><p class=\"ref-uinnrykk\">Loven gjelder bare for oppdragstaker som mottar godtgjørelse som utgjør 35 prosent eller mer av godtgjørelse for et heltidsoppdrag.\n\n</p><h3>§ 2 <span class=\"ref-italic\">Pensjonsordning</span></h3><p class=\"ref-uinnrykk\">Med mindre annet er bestemt med hjemmel i loven her, har oppdragstakeren samme rettigheter og plikter som et medlem i Statens Pensjonskasse, og oppdragsgiver har samme rettigheter og plikter som arbeidsgiver i lov 28. juli 1949 nr. 26 om Statens Pensjonskasse.\n</p><p class=\"ref-uinnrykk\">Departementet kan i forskrift gi nærmere regler om hvilke bestemmelser etter lov om Statens Pensjonskasse som ikke skal gjelde for oppdragsgiver og oppdragstaker.\n\n</p><h3>§ 3 <span class=\"ref-italic\">Vilkår for pensjon. Annet arbeid</span></h3><p class=\"ref-uinnrykk\">Skal oppdragstakeren ha rett til medlemskap i pensjonsordningen, må oppdragstakeren i kontrakt forplikte seg til ikke å utføre annet arbeid i oppdragsperioden.\n</p><p class=\"ref-uinnrykk\">Annet arbeid kan likevel avtales skriftlig med oppdragsgiveren dersom det ikke er til hinder for at oppdraget kan ivaretas på en god måte. En oppdragstaker som utfører annet arbeid som tilsvarer 20 prosent eller mer av en heltidsstilling, mister uansett retten til pensjonsordning etter loven her.\n</p><p class=\"ref-uinnrykk\">Departementet kan i forskrift fastsette nærmere regler om vilkår for pensjon og hva som skal anses som arbeid etter denne bestemmelsen.\n\n</p><h3>§ 4 <span class=\"ref-italic\">Pensjonsgrunnlag</span></h3><p class=\"ref-uinnrykk\">Oppdragstakers pensjonsgrunnlag er den faste godtgjørelse for det oppdragsforholdet som gir rett til medlemskap i pensjonsordningen.\n</p><p class=\"ref-uinnrykk\">Departementet kan i forskrift fastsette hvilke andre tillegg som skal inngå i pensjonsgrunnlaget.\n\n</p><h3>§ 5 <span class=\"ref-italic\">Aldersgrense</span></h3><p class=\"ref-uinnrykk\">Aldersgrensen for oppdragstakere etter loven her er lik den alminnelige aldersgrensen som til enhver tid følger av lov av 21. desember 1956 nr. 1 om aldersgrenser for offentlige tjenestemenn m.fl. Denne loven gjelder så langt den passer.\n\n</p><h3>§ 6 <span class=\"ref-italic\">Tidligpensjon</span></h3><p class=\"ref-uinnrykk\">Med mindre annet er bestemt med hjemmel i loven her, har oppdragstaker rett til tidligpensjon tilsvarende avtalefestet pensjon i det statlige tariffområdet.\n</p><p class=\"ref-uinnrykk\">Departementet kan i forskrift fastsette egne vilkår om tidligpensjon for oppdragstakere etter loven her.\n\n</p><h3>§ 7 <span class=\"ref-italic\">Administrasjon</span></h3><p class=\"ref-uinnrykk\">Pensjonsordningen skal administreres av Statens Pensjonskasse.\n</p><p class=\"ref-uinnrykk\">Departementet kan i forskrift fastsette regler for administrasjon av ordningen og regler om innsyn i kontraktene til hver enkelt oppdragstaker.\n\n</p><h3>§ 8 <span class=\"ref-italic\">Ikrafttredelse</span></h3><p class=\"ref-uinnrykk\">Loven gjelder fra den tid Kongen bestemmer.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#propositions",
+      "body": "Det voteres over lovens overskrift og loven i sin helhet.",
+      "description": "Lovens overskrift og loven i sin helhet",
+      "externalId": "139add6eef4f2e8da512d45747a18e26",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

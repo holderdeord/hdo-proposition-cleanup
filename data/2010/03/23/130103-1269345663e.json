@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1269345663e",
+  "externalIssueId": "45076",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-03-23 13:01:03 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:31 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Nikolai Astrup og Arve <span class=SpellE>Kambe</span>\nom en gjennomgang av avgiftene på drivstoff - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "61:3:213",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

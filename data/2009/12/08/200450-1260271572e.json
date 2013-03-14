@@ -1,0 +1,41 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260271572e",
+  "externalIssueId": "44571",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra finanskomiteen om endringer i lov om Statens pensjonsfond",
+  "time": "2009-12-08 20:04:50 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-12-08:1343",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til <p class=\"ref-uinnrykk\">lov  </p><p class=\"ref-uinnrykk\">om endringar i lov om Statens pensjonsfond </p><p class=\"ref-uinnrykk\">I </p><p class=\"ref-uinnrykk\">I lov 21. desember 2005 nr. 123 om Statens pensjonsfond blir det gjort følgjande\nendringar: </p><h3>§ 2 skal lyde: </h3><p class=\"ref-uinnrykk\">§ 2. Statens pensjonsfond forvaltes av Finansdepartementet. Fondet består av <span class=\"ref-italic\">Statens pensjonsfond utland (SPU)og Statens pensjonsfond Norge\n(SPN).</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Statens pensjonsfond utland plasseres</span> som innskudd på konto\ni Norges Bank. Motverdien forvaltes etter nærmere regler fastsatt av departementet,\njf. § 7. </p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Statens pensjonsfond Norge plasseres</span> som et kapitalinnskudd\ni Folketrygdfondet. Motverdien forvaltes etter nærmere regler fastsatt av\ndepartementet, jf. § 7. </p><p class=\"ref-uinnrykk\">§ 3 skal lyde: </p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">§ 3. Inntekter i Statens pensjonsfond utland er netto\nkontantstrømmen fra petroleumsvirksomheten som blir overført fra statsbudsjettet,\nnetto finanstransaksjoner knyttet til petroleumsvirksomheten og avkastningen fra\nfondets plasseringer. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Netto kontantstrømmen fra petroleumsvirksomheten utgjør\nbruttoinntektene i tredje ledd fratrukket utgiftene i fjerde ledd. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Følgende bruttoinntekter inngår i kontantstrømmen fra\npetroleumsvirksomheten:</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">1. de samlede skatte- og avgiftsinntekter som innkreves ifølge\nlov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster\nm.v. og lov 29. november 1996 nr. 72 om petroleumsvirksomhet</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">2. avgifter som innkreves etter lov 21. desember 1990 nr. 72 om\navgift på utslipp av CO</span><sub>2</sub><span class=\"ref-italic\"> i petroleumsvirksomhet på kontinentalsokkelen </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">3. avgiftsinntekter ved utslipp av NO</span><sub>x</sub><span class=\"ref-italic\"> i petroleumsvirksomhet på kontinentalsokkelen </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">4. driftsinntekter og andre inntekter fra statens direkte\nøkonomiske engasjement i petroleumsvirksomheten </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">5. statlige inntekter på nettooverskuddsavtaler i enkelte\nutvinningstillatelser </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">6. utbytte fra Statoil ASA </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">7. overføringer fra Petroleumsforsikringsfondet </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">8. statens inntekter i forbindelse med fjerning eller annen\ndisponering av innretninger på kontinentalsokkelen </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">9. inntekter fra salg av andeler som ledd i Statens direkte\nøkonomiske engasjement i petroleumsvirksomheten. </span></p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Følgende utgifter skal trekkes fra bruttoinntektene i tredje ledd:\n</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">1. direkte investeringer i statens direkte økonomiske\nengasjement i petroleumsvirksomheten </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">2. driftsutgifter og andre direkte utgifter i statens direkte\nøkonomiske engasjement i petroleumsvirksomheten </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">3. statens utgifter til Petroleumsforsikringsfondet </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">4. statens utgifter i forbindelse med fjerning eller annen\ndisponering av innretninger på kontinentalsokkelen </span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">5. kjøp av andeler som ledd i Statens direkte økonomiske\nengasjement i petroleumsvirksomheten.</span></p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Netto finanstransaksjoner knyttet til petroleumsvirksomheten utgjør\nsummen av brutto inntekter ved statlig salg av aksjer i Statoil ASA, fratrukket\nstatlig kjøp av aksjer i Statoil ASA definert som markedsprisen staten betaler for\naksjene og fratrukket statlig kapitalinnskudd i Statoil ASA og selskap som ivaretar\nstatens interesser i petroleumsvirksomheten, samt finanstransaksjoner knyttet til\nselskaper i petroleumsvirksomheten hvor staten har eierinteresser.</span></p><p class=\"ref-uinnrykk\">§ 4 skal lyde: </p><p class=\"ref-uinnrykk\">Inntekter i <span class=\"ref-italic\">Statens pensjonsfond Norge</span> er avkastningen av de\nforvaltede midlene. </p><p class=\"ref-uinnrykk\">§ 8 andre ledd blir oppheva. </p><h3>II </h3><p class=\"ref-uinnrykk\">Lova tek til å gjelde straks.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#propositions",
+      "body": "Det voteres over lovens overskrift og loven i sin helhet.",
+      "description": "Lovens overskrift og loven i sin helhet",
+      "externalId": "b8f14f98e4e8a18cfd8c06170839715d",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

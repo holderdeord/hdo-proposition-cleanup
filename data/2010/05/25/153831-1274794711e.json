@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1274794711e",
+  "externalIssueId": "45511",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens innstilling til resten av I",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-05-25 15:38:31 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "<p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om endringer i finansieringsvirksomhetsloven og enkelte andre lover\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. gjøres følgende endringer:\n</p><h3>§ 1 første ledd nr. 18 skal lyde:\n</h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">18. Betalingsforetak og andre som har rett til å yte betalingstjenester som nevnt i finansieringsvirksomhetsloven § 4b-1.</span></p></li></ul><p class=\"ref-uinnrykk\">Nåværende nr. 18 og 19 blir nye nr. 19 og 20.\n</p><h3>§ 7 første ledd tredje punktum skal lyde:\n</h3><p class=\"ref-uinnrykk\">Taushetsplikten etter denne bestemmelse og forvaltningslovens bestemmelser gjelder ikke overfor Norges Bank, andre EØS-staters sentralbanker eller tilsynsmyndigheter som fører tilsyn som nevnt i § 1 første ledd nr. 1-6, nr. 9, 10, 14 eller <span class=\"ref-italic\">nr. 18</span>, eller tilsyn med forvaltningsselskap for verdipapirfond.\n</p><h3>§ 9 første ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\">Utgiftene ved tilsynet skal utliknes på de institusjoner som i henhold til § 1 eller annen særskilt lovhjemmel er under tilsyn i budsjettåret. Utgiftene fordeles på de ulike grupper av institusjoner etter omfanget av tilsynsarbeidet. Utgiftene ved tilsynet med overholdelsen av de alminnelige bestemmelser om verdipapirhandel, og utgifter ved tilsynet med overholdelsen av lov 17. november 1999 nr. 95 om betalingssystemer mv., utliknes etter størrelsen på beløpene etter fordelingen etter foregående punktum. Slike utgifter skal allikevel ikke utliknes på eiendomsmeglerforetak og inkassoforetak og revisorer eller revisjonsselskap og regnskapsførere, regnskapsførerselskap eller regnskapslag. Finanstilsynets utgifter til kontroll etter <span class=\"ref-italic\">lov 29. juni 2007 nr. 75</span> om verdipapirhandel <span class=\"ref-italic\">§ 15-1</span> tredje ledd og til klagenemnd etter samme lov <span class=\"ref-italic\">§ 15-8</span> tredje ledd skal utliknes på <span class=\"ref-italic\">utstedere av omsettelige verdipapirer som er notert på regulert marked i EØS med Norge som hjemstat.</span> Finanstilsynets utgifter til klagenemnd etter revisorloven § 9-2a tredje ledd skal utlignes på revisorer og revisjonsselskaper. Finanstilsynets utgifter til håndheving av lov om obligatorisk tjenestepensjon utlignes på de institusjoner som etter foretakspensjonsloven og innskuddspensjonsloven kan tilby obligatoriske tjenestepensjonsordninger. <span class=\"ref-italic\">Finanstilsynets utgifter til kontroll med prospekter etter verdipapirhandelloven kapittel 7 utlignes på utstedere av omsettelige verdipapirer som er notert på regulert marked i EØS med Norge som hjemstat. Inntekter fra gebyrer knyttet til Finanstilsynets virksomhetsutøvelse kommer til fratrekk i utligningen til den utligningsgruppen gebyrene refererer seg til.</span></p><h3>§ 9 annet ledd femte og sjette punktum skal lyde:\n</h3><p class=\"ref-uinnrykk\">Fordelingen innen de grupper som omfattes av § 1 første ledd nr. 5, 7, 9, 10, 11, 13, 14, 17 og <span class=\"ref-italic\">19</span> skjer etter regler som fastsettes av departementet. Når tilsynet følger av § 1 annet ledd eller annen særskilt lovhjemmel, jf § 1 første ledd nr. <span class=\"ref-italic\">20</span>, skjer fordelingen innen den enkelte gruppe etter regler som fastsettes av departementet.\n</p><h3></h3>",
+      "description": "Komiteens innstilling",
+      "externalId": "a5bfd960fbff713aec0da245aa9bf078",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Vegard",
+        "createdBy": "Vegard",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ],
+  "metadata": {
+    "addedBy": "Vegard"
+  }
+}

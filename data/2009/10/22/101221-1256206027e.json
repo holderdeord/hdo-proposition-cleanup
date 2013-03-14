@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1256206027e",
+  "externalIssueId": "44512",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Stortingets delegasjon til Den vesteuropeiske unions (VEUs) parlamentariske forsamling",
+  "time": "2009-10-22 10:12:21 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Som medlemmer og <span class=SpellE>varamedlemmer</span> av Stortingets\ndelegasjon til Den vesteuropeiske unions (<span class=SpellE>VEUs</span>)\nparlamentariske forsamling velges for stortingsperioden 2009-2013:<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;margin-right:0cm;margin-bottom:\n4.0pt;margin-left:0cm;text-indent:0cm'><span class=kursiv><span\nstyle='mso-font-width:100%'>Medlemmer<o:p></o:p></span></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>1.<span\nstyle='mso-tab-count:1'>   </span>Gunvor Eldegard<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>2.<span\nstyle='mso-tab-count:1'>   </span>Freddy de <span class=SpellE>Ruiter</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>3.<span\nstyle='mso-tab-count:1'>   </span>Christian <span class=SpellE>Tybring-Gjedde</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>4.<span\nstyle='mso-tab-count:1'>   </span>Lars <span class=SpellE>Myraune</span><o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>5.<span\nstyle='mso-tab-count:1'>   </span>Hallgeir H. Langeland<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;margin-right:0cm;margin-bottom:\n4.0pt;margin-left:0cm;text-indent:0cm'><span class=SpellE><span class=kursiv><span\nstyle='mso-font-width:100%'>Varamedlemmer</span></span></span><span\nclass=kursiv><span style='mso-font-width:100%'><o:p></o:p></span></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Eldegard: Else-May <span class=SpellE>Botten</span><o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For de <span class=SpellE>Ruiter</span>: Thor Erik Forsberg<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For <span class=SpellE>Tybring-Gjedde</span>: Arne Sortevik<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For <span class=SpellE>Myraune</span>: Anders B. <span class=SpellE>Werp</span><o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Langeland: Christina Nilsson <span class=SpellE>Ramsøy</span><o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "7:7:11",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

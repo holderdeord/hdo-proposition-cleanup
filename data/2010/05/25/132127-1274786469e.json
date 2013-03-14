@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1274786469e",
+  "externalIssueId": "46273",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-05-25 13:21:27 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-05-25:1923",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p class=\"ref-uinnrykk\">lov \n</p><p class=\"ref-uinnrykk\">om endringar i sentralbanklova\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 24. mai 1985 nr. 28 om Norges Bank og pengevesenet mv. (sentralbankloven) blir det gjort følgjande endringar:\n</p><h3>§ 7 sjuande ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\">Medlemmenes godtgjørelse fastsettes av <span class=\"ref-italic\">Stortinget.</span></p><p class=\"ref-uinnrykk\">§ 30 skal lyde:\n</p><h3>§ 30. <span class=\"ref-italic\">Beretning, regnskap og representantskapets uttalelse</span></h3><p class=\"ref-uinnrykk\">Hovedstyret skal hvert år utarbeide årsberetning og årsregnskap. Årsregnskapet fastsettes av representantskapet.\n</p><p class=\"ref-uinnrykk\">Norges Bank er regnskapspliktig etter regnskapsloven og bokføringspliktig etter bokføringsloven. Kongen kan i forskrift fastsette særskilte regler om årsregnskap, årsberetning og bokføring for banken som utfyller eller fraviker bestemmelsene i eller i medhold av regnskapsloven og bokføringsloven.\n</p><p class=\"ref-uinnrykk\">Årsberetningen, det reviderte årsregnskapet, <span class=\"ref-italic\">revisjonsberetningen</span> og <span class=\"ref-italic\">representantskapets vedtak om fastsettelse av årsregnskapet</span> sendes departementet for å forelegges Kongen og meddeles Stortinget. Meddelelse fra departementet til Stortinget om virksomheten i Norges Bank skal finne sted minst én gang hver stortingsperiode, og oftere dersom særlige forhold tilsier det.\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Representantskapet skal minst én gang årlig legge fram for Stortinget sin uttalelse om hovedstyrets protokoller og tilsynet med banken, jf. § 5 fjerde ledd femte punktum. Gjenpart av uttalelsen sendes departementet. Uttalelsen om tilsynet med banken skal minst inneholde:</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">1. en redegjørelse for hvordan tilsynet med banken har vært organisert,</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">2. en redegjørelse for gjennomførte tilsynsaktiviteter og representantskapets prioriteringer i det videre tilsynsarbeidet,\n</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">3. en redegjørelse for tilsynet med bankens kapitalforvaltning,\n</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">4. representantskapets vurdering av hovedstyrets styring og kontroll med bankens administrasjon og virksomhet, jf. § 5 tredje ledd annet punktum,\n</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">5. en redegjørelse for representantskapets arbeid med vedtakelse av bankens budsjett og fastsettelse av regnskap, jf. § 5 fjerde ledd annet punktum,\n</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">6. eventuelle særlige merknader som tilsynet måtte gi grunnlag for.</span></p></li></ul><p class=\"ref-uinnrykk\">Kongen gir retningslinjer for avsetninger og disponering av bankens overskudd. Vedtak om overføring fra Norges Bank til staten må godkjennes av Stortinget.\n</p><h3>II\n</h3><p class=\"ref-uinnrykk\">Lova gjeld frå den tid Kongen fastset.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

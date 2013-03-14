@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1275996671e",
+  "externalIssueId": "45531",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra justiskomiteen om endring i lov 16. juli 1999 nr. 66 om Schengen informasjonssystem (SIS)",
+  "time": "2010-06-08 13:31:11 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-06-08:1992",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\nlov \nom endring i lov 16. juli 1999 nr. 66 om Schengen informasjonssystem (SIS)\nI\nI lov 16. juli 1999 nr. 66 om Schengen informasjonssystem (SIS) skal § 12 første ledd bokstav a lyde:\na) politi- og tollmyndighet når de utøver grensekontroll og annen kontroll\nII\nLoven gjelder fra den tid Kongen bestemmer.",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

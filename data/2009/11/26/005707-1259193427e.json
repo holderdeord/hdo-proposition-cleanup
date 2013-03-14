@@ -1,0 +1,34 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1259193427e",
+  "externalIssueId": "44357",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra finanskomiteen, stor bokstav L (øvrige romertall)",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2009-11-26 00:57:07 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "<h3> L. </h3><p class=\"ref-uinnrykk\">Lov</p><p class=\"ref-uinnrykk\">om endringer i lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og\navgiftskrav (skattebetalingsloven) </p><p class=\"ref-uinnrykk\">I </p><p class=\"ref-uinnrykk\">I lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav\n(skattebetalingsloven) gjøres følgende endringer: </p><h3>§ 4-7 skal lyde: </h3><h3>§ 4-7 Tilleggsforskudd </h3><p class=\"ref-uinnrykk\">Forskudd på skatt kan innbetales med høyere beløp enn det som er utskrevet når det\nutskrevne forskudd må antas å bli utilstrekkelig til dekning av den skatt som vil bli\nfastsatt ved ligningen. Slik innbetaling kan foretas også etter utløpet av inntektsåret,\n<span class=\"ref-italic\">men ikke senere enn 31. mai i ligningsåret</span>. </p><h3>II </h3><p class=\"ref-uinnrykk\">Endringene av § 4-7 og § 19-2 trer i kraft straks. Endringen av § 16-41 trer i kraft\nmed virkning fra 1. januar 2010. Endringen av § 16-50 trer i kraft med virkning fra 1.\njanuar 2011.</p>",
+      "description": "Innstilling fra finanskomiteen",
+      "externalId": "5909cbc787cb559468b5313a268acac1",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ],
+  "metadata": {
+    "addedBy": "Daniel"
+  }
+}

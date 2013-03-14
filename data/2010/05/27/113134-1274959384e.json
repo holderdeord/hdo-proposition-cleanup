@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1274959384e",
+  "externalIssueId": "41053",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-05-27 11:31:34 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "Dokument nr. 12:21 (2007–2008) – grunnlovsforslag fra Berit Brørby, Carl I. Hagen, Steinar Gullvåg, Sonja Mandt-Bartholsen, Marianne Aasen, Tore Hagebakken, Eirin Faldet, Arne L. Haugen, Anne Marit Bjørnflaten, Sigrun Eng, Bendiks H. Arnesen, Inger Løite og Eirin Kristin Sund om endring av § 71 i Grunnloven om rett til å nedlegge sitt verv som stortingsrepresentant på visse vilkår, samtlige alternativer – bifalles ikke.",
+      "externalId": "83:4:280",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

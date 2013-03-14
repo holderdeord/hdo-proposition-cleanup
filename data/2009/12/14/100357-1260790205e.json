@@ -1,0 +1,52 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260790205e",
+  "externalIssueId": "45120",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Norges Banks representantskap",
+  "time": "2009-12-14 10:03:57 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Som medlemmer og <span class=SpellE>varamedlemmer</span> til Norges Banks\nrepresentantskap velges for tidsrommet 1.&nbsp;januar 2010-31.&nbsp;desember\n2013:<o:p></o:p></span><BR>\n<p class=brodtekstmidt align=center style='text-align:center'><span\nclass=kursiv><span style='mso-font-width:100%'>Medlemmer:<o:p></o:p></span></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>1.<span\nstyle='mso-tab-count:1'>   </span>Reidar Sandal, Flora<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>2.<span\nstyle='mso-tab-count:1'>   </span>Synnøve Søndergård, Harstad<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>3.<span\nstyle='mso-tab-count:1'>   </span>Reidar Åsgård, Engerdal<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>4.<span\nstyle='mso-tab-count:1'>   </span>Frank Sve, Stranda<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>5.<span\nstyle='mso-tab-count:1'>   </span>Erland <span class=SpellE>Vestli</span>, Nittedal<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>6.<span\nstyle='mso-tab-count:1'>   </span>Marianne Lie, Bærum<o:p></o:p></span><BR>\n<p class=nummerbrodtekstliste><span style='mso-font-width:100%'>7.<span\nstyle='mso-tab-count:1'>   </span>Monica Salthella, Bergen<o:p></o:p></span><BR>\n<p class=brodtekstmidt align=center style='text-align:center'><span\nclass=SpellE><span class=kursiv><span style='mso-font-width:100%'>Varamedlemmer</span></span></span><span\nclass=kursiv><span style='mso-font-width:100%'>:<o:p></o:p></span></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Sandal: Ola <span class=SpellE>Røtvei</span>, Oppdal<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Søndergård: Britt <span class=SpellE>Hildeng</span>, Oslo<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Åsgård: Kari-Anne <span class=SpellE>Opsal</span>, Harstad<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Sve: Tone T. Johansen, Nittedal<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For <span class=SpellE>Vestli</span>: Jan <span class=SpellE>Blomseth</span>,\nTromsø<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Lie: Lars <span class=SpellE>Gjeldebo</span>, Trondheim<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>For Salthella: Frode <span class=SpellE>Klemp</span>, Rygge.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "30:5:111",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall II.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Som leder og nestleder til Norges Banks representantskap velges for\ntidsrommet 1.&nbsp;januar 2010-31.&nbsp;desember 2011:<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;text-indent:0cm'><span\nstyle='mso-font-width:100%'>Reidar Sandal, leder<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Frank Sve, nestleder.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "30:5:112",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall III.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Som <span class=SpellE>varamedlem</span> til Norges Banks\nrepresentantskap med funksjonstid til 31.&nbsp;desember 2011 velges:<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;text-indent:0cm'><span\nstyle='mso-font-width:100%'>André Støylen, istedenfor <span class=SpellE>varamedlem</span>\nBjørn <span class=SpellE>Lødemel</span>.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "30:5:113",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

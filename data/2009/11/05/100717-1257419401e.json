@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1257419401e",
+  "externalIssueId": "44573",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra transport- og kommunikasjonskomiteen om endring i statsbudsjettet for 2009 under Fiskeri- og kystdepartementet (slepeberedskap Sørlandet)",
+  "time": "2009-11-05 10:07:17 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<h3>I\n</h3><p class=\"ref-uinnrykk\">I statsbudsjettet for 2009 gjøres følgende endring:\n</p><table class=\"ref-table\"><tbody><tr><td class=\"ref-cell\">Kap.</td><td class=\"ref-cell\">Post</td><td class=\"ref-cell\">Formål</td><td class=\"ref-cell\">Kroner</td></tr><tr><td class=\"ref-cell\">Utgifter</td><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td></tr><tr><td class=\"ref-cell\">1062</td><td class=\"ref-cell\"></td><td class=\"ref-cell\">Kystverket:</td><td class=\"ref-cell\"></td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\">1</td><td class=\"ref-cell\">Driftsutgifter, forhøyes med</td><td class=\"ref-cell\">2 500 000</td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\">fra kr 1 215 120 000 til kr 1 217 620 000</td><td class=\"ref-cell\"></td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td></tr></tbody></table><h3>II\n</h3><p class=\"ref-uinnrykk\">Stortinget samtykker i at Fiskeri- og kystdepartementet i 2009 kan forplikte staten innenfor en kostnadsramme på 60 mill. kroner for å inngå en fireårig kontrakt om slepeberedskap på Sørlandet.</p>",
+      "externalId": "10:1:15",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

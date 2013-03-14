@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1258629426e",
+  "externalIssueId": "44080",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra finanskomiteen om samtykke til en skatteavtale med tilhørende protokoll mellom Norge og Qatar, undertegnet i Oslo 29. juni 2009",
+  "time": "2009-11-19 13:10:46 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=Body style='text-indent:0cm'><span style='font-size:10.5pt;mso-font-width:\n100%'>Stortinget samtykker i å sette i kraft en skatteavtale med tilhørende\nprotokoll mellom Norge og Qatar, undertegnet i Oslo 29.&nbsp;juni 2009.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "17:6:33",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

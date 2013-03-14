@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1275478022e",
+  "externalIssueId": "46248",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra kontroll- og konstitusjonskomiteen om årsmelding fra Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget) for 2009",
+  "time": "2010-06-02 13:27:02 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 18 (2009-2010) - årsmelding fra Stortingets kontrollutvalg for\netterretnings-, overvåkings- og sikkerhetstjeneste (<span class=SpellE>EOS-utvalget</span>)\nfor 2009 - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "87:2:288",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Simen Andreas Jensen"
+      }
+    }
+  ]
+}

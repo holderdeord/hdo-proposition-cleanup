@@ -1,0 +1,47 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1258461273e",
+  "externalIssueId": "44298",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens innstilling",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2009-11-17 13:34:33 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "<p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om lønnsnemndbehandling av arbeidstvisten </p><p class=\"ref-uinnrykk\">i Norsk Luftambulanse i forbindelse </p><p class=\"ref-uinnrykk\">med tariffoppgjøret 2009 </p><h3>§ 1 </h3><p class=\"ref-uinnrykk\">Tvisten mellom Norsk Flygerforbund på den ene side og NHO Luftfart på den annen side i\nforbindelse med tariffoppgjøret 2009 vedrørende overenskomst for Norsk Luftambulanse\nskal avgjøres av Rikslønnsnemnda. </p><p class=\"ref-uinnrykk\">Reglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende\nanvendelse. </p><h3>§ 2 </h3><p class=\"ref-uinnrykk\">Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade for å løse\ntvisten. </p><h3>§ 3 </h3><p class=\"ref-uinnrykk\">Loven trer i kraft straks. </p><p class=\"ref-uinnrykk\">Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.</p>",
+      "description": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til",
+      "externalId": "ee823d392b336afe12e745b5cc657e84",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    },
+    {
+      "kind": "hdo#propositions",
+      "body": "Det voteres over lovens overskrift og loven i sin helhet.",
+      "description": "Lovens overskrift og loven i sin helhet",
+      "externalId": "c63d77f0afc5bc42d9a0d3a0ea1d977e",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ],
+  "metadata": {
+    "addedBy": "Daniel"
+  }
+}

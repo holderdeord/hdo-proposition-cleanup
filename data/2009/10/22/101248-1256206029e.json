@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1256206029e",
+  "externalIssueId": "44514",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra valgkomiteen om opprettelse av og valg av medlemmer og varamedlemmer til en fast delegasjon for arktisk parlamentarisk samarbeid",
+  "time": "2009-10-22 10:12:48 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<h3>I\n</h3><p class=\"ref-uinnrykk\">Det opprettes en fast delegasjon for arktisk parlamentarisk samarbeid med seks medlemmer og seks varamedlemmer.\n</p><h3>II\n</h3><p class=\"ref-uinnrykk\">Til medlemmer og varamedlemmer av Stortingets delegasjon for arktisk parlamentarisk samarbeid velges for stortingsperioden 2009–2013:\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Medlemmer</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">1. Ingalill Olsen\n</p></li><li><p class=\"ref-uinnrykk\">2. Eirik Sivertsen\n</p></li><li><p class=\"ref-uinnrykk\">3. Morten Høglund\n</p></li><li><p class=\"ref-uinnrykk\">4. Henning Skumsvoll\n</p></li><li><p class=\"ref-uinnrykk\">5. Ivar Kristiansen\n</p></li><li><p class=\"ref-uinnrykk\">6. Inga Marte Thorkildsen\n</p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Varamedlemmer</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">1. Anne Marit Bjørnflaten\n</p></li><li><p class=\"ref-uinnrykk\">2. Arne L. Haugen\n</p></li><li><p class=\"ref-uinnrykk\">3. Øyvind Korsberg\n</p></li><li><p class=\"ref-uinnrykk\">4. Frank Bakke Jensen\n</p></li><li><p class=\"ref-uinnrykk\">5. Irene Lange Nordahl\n</p></li><li><p class=\"ref-uinnrykk\">6. Line Henriette Hjemdal\n</p></li></ul>",
+      "externalId": "7:9:13",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

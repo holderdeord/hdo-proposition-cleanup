@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276083122e",
+  "externalIssueId": "46385",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøking av arbeidet til styresmaktene med å førebyggje flaum- og skredfare",
+  "time": "2010-06-09 13:32:02 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 3:4 (2009-2010) - om Riksrevisjonens undersøking av arbeidet til\nstyresmaktene med å <span class=SpellE>førebyggje</span> <span class=SpellE>flaum-</span>\nog skredfare - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "92:2:311",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Eli"
+      }
+    }
+  ]
+}

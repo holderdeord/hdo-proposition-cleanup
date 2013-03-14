@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1259925841e",
+  "externalIssueId": "44974",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra Stortingets presidentskap om endringer i Stortingets forretningsorden mv.",
+  "time": "2009-12-04 10:05:21 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<p class=\"ref-uinnrykk\">Presidentskapet hadde innstilt: </p><h3>I </h3><p class=\"ref-uinnrykk\">I Stortingets forretningsorden gjøres følgende endringer: </p><h3>§ 12 annet ledd nr. 4 siste punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Om behandlingen av statsbudsjettet og nasjonalbudsjettet vises til <span class=\"ref-italic\">§ 21</span>. </p><h3>§ 12 annet ledd nr. 6 skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">6. Justiskomiteen: Saker om rettsvesen, kriminalomsorg, politiet, sivile\nvernepliktige, andre justisformål, sivil beredskap, <span class=\"ref-italic\">rettferdsvederlag</span>, alminnelig forvaltningslovgivning, straffelovgivning,\nprosesslovgivning og alminnelig sivillovgivning. </p></li></ul><h3>§ 12 annet ledd nr. 9 sjuende ledd skal lyde: </h3><p class=\"ref-uinnrykk\">En tredjedel av komiteens medlemmer kan kreve at det avholdes komitéhøring i\nkontrollsaker etter <span class=\"ref-italic\">§ 18</span>. </p><h3>§ 13 femte ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Lederen kaller sammen komiteen når vedkommende mener det er <span class=\"ref-italic\">nødvendig, når</span> statsministeren, utenriksministeren eller en tredjedel av\nkomitémedlemmene anmoder om det, <span class=\"ref-italic\">eller når forsvarsministeren\nanmoder om det i viktige beredskapsmessige spørsmål.</span></p><h3>II </h3><p class=\"ref-uinnrykk\">I Reglement for åpne kontrollhøringer gjøres følgende endring: </p><h3>§ 2 første ledd annet punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Etter forretningsordenen § 12 nr. 9 <span class=\"ref-italic\">sjuende</span> ledd kan likevel\nen tredjedel av medlemmene i kontroll- og konstitusjonskomiteen kreve at det avholdes\nkomitéhøring i kontrollsaker. </p><h3>III </h3><p class=\"ref-uinnrykk\">Endringene trer i kraft straks.</p>",
+      "externalId": "24:1:53",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

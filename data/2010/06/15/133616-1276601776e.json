@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276601776e",
+  "externalIssueId": "45528",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra helse- og omsorgskomiteen om endringer i statsbudsjettet for 2010 under Helse- og omsorgsdepartementet (takstoppgjørene for leger, psykologer og fysioterapeuter)",
+  "time": "2010-06-15 13:36:16 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker i at Helse- og omsorgsdepartementet og Kommunal- og\nregionaldepartementet får fullmakt til å gjøre endringer i bevilgningen til\nkommunene og trygderefusjonene for legehjelp, psykologhjelp og fysioterapi fra\n1.&nbsp;juli 2010 på grunnlag av eventuelle avtaler med Den norske\nlegeforening, Norsk Psykologiforening og Norsk fysioterapeutforbund fra samme\ndato.<o:p></o:p></span><BR>\n</div>\n</FONT>",
+      "externalId": "96:16:364",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

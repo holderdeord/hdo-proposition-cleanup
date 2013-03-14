@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1265715841e",
+  "externalIssueId": "45609",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra valgkomiteen om valg av medlem til Norges Banks representantskap",
+  "time": "2010-02-09 10:04:54 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Som medlem av Norges Banks representantskap i stedet for Ivar B. <span\nclass=SpellE>Prestbakmo</span> velges Morten Lund, Oslo, med funksjonstid til\n31.&nbsp;desember 2011.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "44:1:158",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

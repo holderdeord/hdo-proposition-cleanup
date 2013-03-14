@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260790209e",
+  "externalIssueId": "44390",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra næringskomiteen om representantforslag fra stortingsrepresentantene Trine Skei Grande og Abid Q. Raja om omorganisering og fristilling av Innovasjon Norge",
+  "time": "2009-12-14 17:28:24 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:3 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Trine Skei Grande og Abid Q. Raja om omorganisering og\nfristilling av Innovasjon Norge - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "30:9:123",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

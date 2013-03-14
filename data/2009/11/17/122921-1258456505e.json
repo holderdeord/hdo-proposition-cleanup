@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1258456505e",
+  "externalIssueId": "44532",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra næringskomiteen om DnB NOR ASA – Statlig deltakelse i kapitalforhøyelse",
+  "time": "2009-11-17 12:29:21 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<h3>I </h3><p class=\"ref-uinnrykk\">Stortinget samtykker i at Nærings- og handelsdepartementet kan delta proratarisk i en\nkapitalforhøyelse i DnB NOR ASA i 2009 innenfor en ramme på 5 mrd. kroner på de vilkår\nsom er redegjort for i Prop. 22 S (2009–2010) DnB NOR ASA – Statlig deltakelse i\nkapitalforhøyelse, og slik at statens eierandel på 34 prosent i selskapet forblir\nuendret. </p><h3>II </h3><p class=\"ref-uinnrykk\">I statsbudsjettet for 2009 gjøres følgende endring: </p><table class=\"ref-table\"><tbody><tr><td class=\"ref-cell\">Kap.</td><td class=\"ref-cell\">Post</td><td class=\"ref-cell\">Formål</td><td class=\"ref-cell\">Kroner</td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\"><span class=\"ref-italic\">Utgifter</span></td><td class=\"ref-cell\"></td></tr><tr><td class=\"ref-cell\">950</td><td class=\"ref-cell\"></td><td class=\"ref-cell\">Forvaltning av statlig eierskap</td><td class=\"ref-cell\"></td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\">96</td><td class=\"ref-cell\">Aksjer, økes med</td><td class=\"ref-cell\">5 000 000 000</td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\">fra kr 709 800 000 til kr 5 709 800 000</td><td class=\"ref-cell\"></td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td></tr></tbody></table>",
+      "externalId": "15:5:22",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

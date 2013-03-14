@@ -1,0 +1,29 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276861201e",
+  "externalIssueId": "45510,45517,46719,46721",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Forslag nr. 105, fra Fremskrittspartiet, Høyre, Kristelig Folkeparti og Venstre (mistillitsforslag)",
+  "time": "2010-06-18 09:06:11 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "Statsråd Terje Riis-Johansen har ikke oppfylt opplysningsplikten overfor Stortinget i saken om bygging av testsenter og fullskala CO2-rensing på Mongstad.\nStatsråd Terje Riis-Johansen har ikke Stortingets tillit.",
+      "description": "Forslag nr. 105, fra Fremskrittspartiet, Høyre, Kristelig Folkeparti og Venstre",
+      "externalId": "010135d782141e65b0fd29c9dd5bd1b8",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

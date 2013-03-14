@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1259839391e",
+  "externalIssueId": "44360",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra kommunal- og forvaltningskomiteen om endringer i utlendingslovgivningen (beslag, meldeplikt og bestemt oppholdssted)",
+  "time": "2009-12-03 16:08:21 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-12-03:1245",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til <p class=\"ref-uinnrykk\">lov </p><p class=\"ref-uinnrykk\">om endringer i utlendingslovgivningen (beslag, meldeplikt og bestemt oppholdssted) </p><p class=\"ref-uinnrykk\">I </p><p class=\"ref-uinnrykk\">I lov 24. juni 1988 nr. 6 om utlendingers adgang til riket og deres opphold her skal ny\n§ 37 h lyde: </p><h3>§ 37 <span class=\"ref-italic\">h Beslag, meldeplikt og bestemt oppholdssted for utlending\nsom ikke kan sendes tilbake til hjemlandet.</span></h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Det kan foretas beslag av reisedokumenter til utlending hvis eneste\ngrunnlag for opphold i riket er vernet mot utsendelse etter § 15 eller etter\ninternasjonale regler som Norge er bundet av. Tilsvarende gjelder utlending som er\nfunnet å utgjøre en trussel mot rikets sikkerhet, og som av andre grunner enn nevnt i\nførste punktum ikke har innrettet seg etter vedtak om at vedkommende må forlate riket,\neller dersom tvangsretur for øvrig ikke lar seg gjennomføre. Reglene i § 37 a gjelder\ntilsvarende.</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">En utlending kan pålegges meldeplikt eller bestemt oppholdssted når\ndet eneste grunnlag for opphold i riket er vernet mot utsendelse etter § 15 eller\netter internasjonale regler som Norge er bundet av. Tilsvarende gjelder utlending som\ner funnet å utgjøre en trussel mot rikets sikkerhet, og som av andre grunner enn nevnt\ni første punktum ikke har innrettet seg etter vedtak om at vedkommende må forlate\nriket, eller dersom tvangsretur for øvrig ikke lar seg gjennomføre. Reglene i § 37 c\ngjelder tilsvarende.</span></p><h3>II </h3><p class=\"ref-uinnrykk\">I lov 15. mai 2008 nr. 25 om utlendingers adgang til riket og deres opphold her gjøres\nfølgende endringer: </p><h3>§ 104 tredje ledd nytt annet punktum skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Tilsvarende gjelder utlending som er funnet å utgjøre en trussel\nmot grunnleggende nasjonale interesser, og som av andre grunner enn nevnt i første\npunktum ikke har innrettet seg etter vedtak om at vedkommende må forlate riket,\neller dersom tvangsretur for øvrig ikke lar seg gjennomføre.</span></p><h3>§ 105 første ledd bokstav c og ny bokstav d skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">c) det eneste grunnlag for opphold i riket er vernet mot utsendelse etter §\n73<span class=\"ref-italic\">,</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">d) utlendingen er funnet å utgjøre en trussel mot grunnleggende\nnasjonale interesser og av andre grunner enn nevnt i bokstav c ikke har\ninnrettet seg etter vedtak om at vedkommende må forlate riket, eller dersom\ntvangsretur for øvrig ikke lar seg gjennomføre. </span></p></li></ul><h3>III </h3><p class=\"ref-uinnrykk\">Loven trer i kraft fra den tid Kongen bestemmer. </p><p class=\"ref-uinnrykk\"><span class=\"ref-presidenten\">Presidenten:</span> Presidenten vil vise til sakens ordfører som gjorde Stortinget oppmerksom på at det i\noverskriften til I er en feil. Det skal hete: «I lov 24. juni 1988 nr. 64», og ikke\n«nr. 6». I II skal det hete: «I lov 15. mai 2008 nr. 35», og ikke «nr. 25».</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

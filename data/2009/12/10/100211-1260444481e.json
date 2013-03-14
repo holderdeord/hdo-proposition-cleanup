@@ -1,0 +1,29 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260444481e",
+  "externalIssueId": "43833",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra Stortingets presidentskap om ny pensjonsordning for stortingsrepresentantene, regjeringens medlemmer, høyesterettsdommere, Stortingets ombudsmann for forvaltningen og riksrevisor",
+  "time": "2009-12-10 10:02:11 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "<p class=\"ref-uinnrykk\">Presidentskapet hadde innstilt:\n</p><h3>I\n</h3><p class=\"ref-uinnrykk\">Nye pensjonsordninger for stortingsrepresentanter, regjeringens medlemmer, høyesterettsdommere, sivilombudsmannen og riksrevisor skal bygge på den såkalte «byggeklossmodellen» slik flertallet i Pensjonsutvalget går inn for i Dokument nr. 19 (2008–2009).\n</p><h3>II\n</h3><p class=\"ref-uinnrykk\">Stortinget ber Regjeringen fremme forslag til ny lovgivning om pensjonsordninger for stortingsrepresentanter, regjeringens medlemmer, høyesterettsdommere, sivilombudsmannen og riksrevisor basert på de retningslinjer som er trukket opp i Innst. 83 S (2009–2010), jf. Dokument nr. 19 (2008–2009).</p>",
+      "description": "Innstilling fra presidentskapet",
+      "externalId": "a86674d8d0c194a815509c24acc17bc4",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 .DS_Store
-*.json
+/*.json
 .bundle
 tmp
 vendor

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1272366602e",
+  "externalIssueId": "45667",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra helse- og omsorgskomiteen om representantforslag fra stortingsrepresentantene Trine Skei Grande og Borghild Tenden om en bedre rusbehandling",
+  "time": "2010-04-27 20:33:30 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:56 S (2009-2010) - representantforslag fra\nstortingsrepresentantene </span><span style='color:#333333;mso-font-width:100%'>Trine\nSkei Grande og Borghild <span class=SpellE>Tenden</span> om en bedre\nrusbehandling - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "70:2:240",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

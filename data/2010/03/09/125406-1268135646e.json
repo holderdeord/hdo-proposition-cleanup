@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1268135646e",
+  "externalIssueId": "44210",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøking av drift og vedlikehald av vegnettet",
+  "time": "2010-03-09 12:54:06 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument nr. 3:16 (2008-2009) - om Riksrevisjonens undersøking av drift\nog <span class=SpellE>vedlikehald</span> av vegnettet - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "54:6:195",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

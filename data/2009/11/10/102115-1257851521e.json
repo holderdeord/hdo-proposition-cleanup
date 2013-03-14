@@ -1,0 +1,40 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1257851521e",
+  "externalIssueId": "44696",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Endringer i reglene om rett til innsyn i Stortingets dokumenter",
+  "time": "2009-11-10 10:21:15 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>I regler om rett til innsyn i Stortingets dokumenter, vedtatt av\nStortinget 16. mars 2009, gjøres følgende endringer:<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;margin-right:0cm;margin-bottom:\n4.0pt;margin-left:0cm;text-indent:0cm'><span style='mso-font-width:100%'>§&nbsp;2\nførste ledd skal lyde:<o:p></o:p></span><BR>\n<p class=brodtekstminnr><span style='mso-font-width:100%'>Disse regler gjelder\nikke for stortingsrepresentantene, stortingsgruppene og gruppesekretariatene, <span\nclass=kursiv>og heller ikke for dokumenter som utveksles mellom disse og\nStortingets utredningsseksjon</span>.<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;margin-right:0cm;margin-bottom:\n4.0pt;margin-left:0cm;text-indent:0cm'><span style='mso-font-width:100%'>§&nbsp;9\ntredje punktum skal lyde:<o:p></o:p></span><BR>\n<p class=brodtekstminnr><span style='mso-font-width:100%'>Avgjørelser truffet\nav direktøren <span class=kursiv>som første instans</span> kan påklages til\nPresidentskapet.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "12:1:17",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall II.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Endringene under I trer i kraft straks.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "12:1:18",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

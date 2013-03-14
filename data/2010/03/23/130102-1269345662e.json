@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1269345662e",
+  "externalIssueId": "45726",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-03-23 13:01:02 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-03-23:1772",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "<p class=\"ref-uinnrykk\">Komiteens hadde innstilt til Stortinget å gjøre slikt vedtak til\n</p><p class=\"ref-uinnrykk\">lov \n</p><p class=\"ref-uinnrykk\">om endringer i lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven)\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) gjøres følgende endringer:\n</p><h3>§ 11-1 annet skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">(2) Ved omsetning av klimakvoter til næringsdrivende eller offentlig virksomhet skal mottakeren av tjenestene beregne og betale merverdiavgift. Mottakere som er næringsdrivende eller offentlig virksomhet, men ikke avgiftssubjekt, skal beregne og betale merverdiavgift først når de samlede kjøp for en termin overstiger 2000 kroner, merverdiavgift ikke medregnet.</span></p><p class=\"ref-uinnrykk\">Nåværende annet og tredje ledd blir tredje og nytt fjerde ledd.\n</p><h3>§ 11-4 første ledd nytt tredje punktum skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dette gjelder også merverdiavgift oppgitt når mottakeren plikter å beregne og betale merverdiavgift etter § 11-1 annet ledd.</span></p><h3>Overskriften til § 15-6 skal lyde:\n</h3><p class=\"ref-uinnrykk\">§ 15-6 Særskilt omsetningsoppgave mv. for mottakere av fjernleverbare tjenester <span class=\"ref-italic\">og mottakere av klimakvoter</span></p><h3>§ 15-6 annet ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">(2) Mottakere av klimakvoter som plikter å beregne merverdiavgift etter § 11-1 annet ledd annet punktum, skal levere særskilt omsetningsoppgave som viser vederlaget for tjenesten, omregnet til norske kroner, og beregnet merverdiavgift. Beløpene avrundes nedover til nærmeste hele krone.</span></p><p class=\"ref-uinnrykk\">Nåværende § 15-6 annet og tredje ledd blir tredje og nytt fjerde ledd.\n</p><h3>II\n</h3><p class=\"ref-uinnrykk\">Endringsloven trer i kraft straks.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

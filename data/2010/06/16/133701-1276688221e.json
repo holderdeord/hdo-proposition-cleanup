@@ -1,0 +1,40 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276688221e",
+  "externalIssueId": "47019",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra Stortingets presidentskap om endringer i Stortingets forretningsorden",
+  "time": "2010-06-16 13:37:01 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall I.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>I Stortingets forretningsorden gjøres følgende endringer:<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt'><span style='mso-font-width:\n100%'>I §&nbsp;12 annet ledd nr. 8 skal «statlig personalpolitikk - herunder\nlønns- og pensjonsforhold» endres til «statlig personalpolitikk - <span\nclass=kursiv>herunder lønnsforhold</span>».<o:p></o:p></span><BR>\n<p class=brodtekstminnr style='margin-top:12.0pt;margin-right:0cm;margin-bottom:\n4.0pt;margin-left:0cm;text-indent:0cm'><span style='mso-font-width:100%'>§&nbsp;15\ntredje ledd skal lyde:<o:p></o:p></span><BR>\n<p class=brodtekstminnr><span style='mso-font-width:100%'>Stortinget kan vedta\nat en sak først skal behandles av en komité og at denne komités utkast til\ninnstilling deretter forelegges en annen komité til uttalelse før innstilling <i>avgis</i>.\nStortinget kan også vedta at en sak først skal behandles av en komité og at\ndenne komités utkast til innstilling sendes til en annen komité, som deretter\navgir innstilling. <span class=kursiv>Etter at en sak er oversendt til en\nkomité, kan vedtak etter første eller annet punktum gjøres av presidentskapet.<o:p></o:p></span></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "97:1:365",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding romertall II.",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Endringene trer i kraft straks.<o:p></o:p></span><BR>\n</div>\n</FONT>",
+      "externalId": "97:1:366",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

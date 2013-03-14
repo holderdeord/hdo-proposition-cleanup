@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1268999947e",
+  "externalIssueId": "45725",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-03-19 12:59:07 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-03-19:1755",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\n<p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om lønnsnemndbehandling av arbeidstvisten mellom Norsk Sykepleierforbund og NHO Service vedrørende opprettelse av tariffavtale i virksomheter innenfor helse og omsorg, attføring og bedriftshelsetjeneste\n</p><h3>§ 1\n</h3><p class=\"ref-uinnrykk\">Tvisten mellom Norsk Sykepleierforbund og NHO Service vedrørende opprettelse av tariffavtale i virksomheter innenfor helse og omsorg, attføring og bedriftshelsetjeneste skal avgjøres av Rikslønnsnemnda.\n</p><p class=\"ref-uinnrykk\">Reglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.\n</p><h3>§ 2\n</h3><p class=\"ref-uinnrykk\">Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade for å løse tvisten.\n</p><h3>§ 3\n</h3><p class=\"ref-uinnrykk\">Loven trer i kraft straks.\n</p><p class=\"ref-uinnrykk\">Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

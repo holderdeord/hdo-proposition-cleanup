@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1254909722e",
+  "externalIssueId": "44297",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra fullmaktskomiteen om fullmaktene",
+  "time": "2009-10-07 13:05:36 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-10-07:0",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Fullmaktene for representantene og vararepresentantene for Østfold fylke, Akershus fylke, Oslo, Hedmark fylke, Oppland fylke, Buskerud fylke, Vestfold fylke, Telemark fylke, Aust-Agder fylke, Vest-Agder fylke, Rogaland fylke, Hordaland fylke, Sogn og Fjordane fylke, Møre og Romsdal fylke, Sør-Trøndelag fylke, Nord-Trøndelag fylke, Nordland fylke, Troms fylke og Finnmark fylke godkjennes.",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

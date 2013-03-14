@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1271675227e",
+  "externalIssueId": "45635",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Dokument 8:51 S (2009–2010) – representantforslag fra stortingsrepresentantene Per Arne Olsen, Jon Jæger Gåsvatn, Kari Kjønaas Kjos og Harald T. Nesvik om omdannelse av Radiumhospitalet til et nasjonalt kompetansesenter – vert å leggje ved møteboka.",
+  "time": "2010-04-19 20:02:06 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:51 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Per Arne Olsen, Jon Jæger Gåsvatn, Kari <span\nclass=SpellE>Kjønaas</span> Kjos og Harald T. Nesvik om omdannelse av\nRadiumhospitalet til et nasjonalt kompetansesenter - vert å <span class=SpellE>leggje</span>\nved møteboka.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "67:7:234",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

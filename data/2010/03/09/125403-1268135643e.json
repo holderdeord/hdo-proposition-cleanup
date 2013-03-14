@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1268135643e",
+  "externalIssueId": "44560",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra arbeids- og sosialkomiteen om representantforslag fra stortingsrepresentantene Laila Dåvøy, Line Henriette Hjemdal og Kjell Ingolf Ropstad om tiltak for barn som har nedsatt funksjonsevne, og deres familier",
+  "time": "2010-03-09 12:54:03 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:10 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Laila <span class=SpellE>Dåvøy</span>, Line Henriette <span\nclass=SpellE>Hjemdal</span> og Kjell Ingolf <span class=SpellE>Ropstad</span>\nom tiltak for barn som har nedsatt funksjonsevne og deres familier - vedlegges\nprotokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "54:3:192",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

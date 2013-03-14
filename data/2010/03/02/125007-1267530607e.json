@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1267530607e",
+  "externalIssueId": "44601",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Koiteens tilråding om representantforslag fra stortingsrepresentantene Erna Solberg, Sonja Irene Sjøli, Ingjerd Schou og Bent Høie om endring i lov om spesialisthelsetjenesten m.m. for å gjøre det mulig å godkjenne institusjoner som gir tverrfaglig spesialisert behandling som sykehus og dermed omfattes av retten til fritt sykehusvalg",
+  "time": "2010-03-02 12:50:07 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=WordSection1>\n<p class=MsoNormal>Dokument 8:12 L (2009-2010) - representantforslag fra\nstortingsrepresentantene Erna Solberg, Sonja Irene Sjøli, Ingjerd Schou og Bent\nHøie om endring i lov om spesialisthelsetjenesten m.m. for å gjøre det mulig å\ngodkjenne institusjoner som gir tverrfaglig spesialisert behandling som sykehus\nog dermed omfattes av retten til fritt sykehusvalg - vedlegges protokollen.<BR>\n</div>\n</FONT>",
+      "externalId": "50:7:176",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

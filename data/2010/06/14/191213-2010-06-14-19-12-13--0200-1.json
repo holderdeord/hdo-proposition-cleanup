@@ -1,0 +1,3288 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-06-14 19:12:13 +0200:1",
+  "externalIssueId": "45504",
+  "counts": {
+    "for": 76,
+    "against": 22,
+    "absent": 71
+  },
+  "personal": true,
+  "enacted": true,
+  "subject": "Det voteres alternativt mellom forslag nr. 2 fra FrP og komiteens innstilling",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-06-14 19:12:13 +0200",
+  "representatives": [
+    {
+      "kind": "hdo#representative",
+      "externalId": "KJR",
+      "firstName": "Kjell Ingolf",
+      "lastName": "Ropstad",
+      "dateOfBirth": "1985-05-31T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": "2012-09-30"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2012-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JTS",
+      "firstName": "Jan Tore",
+      "lastName": "Sanner",
+      "dateOfBirth": "1965-05-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ADA",
+      "firstName": "André Oktay",
+      "lastName": "Dahl",
+      "dateOfBirth": "1975-07-06T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "FBJ",
+      "firstName": "Frank",
+      "lastName": "Bakke-Jensen",
+      "dateOfBirth": "1965-03-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Finnmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "GAG",
+      "firstName": "Gunnar",
+      "lastName": "Gundersen",
+      "dateOfBirth": "1956-05-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "DOT",
+      "firstName": "Dag Ole",
+      "lastName": "Teigen",
+      "dateOfBirth": "1982-08-09T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TLB",
+      "firstName": "Tove Linnea",
+      "lastName": "Brandvik",
+      "dateOfBirth": "1968-11-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JSN",
+      "firstName": "Janne Sjelmo",
+      "lastName": "Nordås",
+      "dateOfBirth": "1964-05-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "STRH",
+      "firstName": "Stine Renate",
+      "lastName": "Håheim",
+      "dateOfBirth": "1984-05-12T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "MN",
+      "firstName": "Marit",
+      "lastName": "Nybakk",
+      "dateOfBirth": "1947-02-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "AC",
+      "firstName": "Akhtar",
+      "lastName": "Chaudhry",
+      "dateOfBirth": "1961-07-22T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "DH",
+      "firstName": "Dagfinn",
+      "lastName": "Høybråten",
+      "dateOfBirth": "1957-12-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "HHL",
+      "firstName": "Hallgeir H.",
+      "lastName": "Langeland",
+      "dateOfBirth": "1955-11-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TELA",
+      "firstName": "Terje",
+      "lastName": "Aasland",
+      "dateOfBirth": "1965-02-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "GJB",
+      "firstName": "Geir Jørgen",
+      "lastName": "Bekkevold",
+      "dateOfBirth": "1963-11-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "IRLN",
+      "firstName": "Irene Lange",
+      "lastName": "Nordahl",
+      "dateOfBirth": "1968-02-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "GKG",
+      "firstName": "Gunn Karin",
+      "lastName": "Gjul",
+      "dateOfBirth": "1967-07-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SNV",
+      "firstName": "Snorre Serigstad",
+      "lastName": "Valen",
+      "dateOfBirth": "1984-09-15T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SRH",
+      "firstName": "Svein Roald",
+      "lastName": "Hansen",
+      "dateOfBirth": "1949-08-19T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "HAFA",
+      "firstName": "Hans Frode Kielland",
+      "lastName": "Asmyhr",
+      "dateOfBirth": "1970-02-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "KSW",
+      "firstName": "Karin S.",
+      "lastName": "Woldseth",
+      "dateOfBirth": "1954-08-08T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "KES",
+      "firstName": "Kenneth",
+      "lastName": "Svendsen",
+      "dateOfBirth": "1954-08-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "PEMY",
+      "firstName": "Peter N.",
+      "lastName": "Myhre",
+      "dateOfBirth": "1954-11-28T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "RE",
+      "firstName": "Robert",
+      "lastName": "Eriksson",
+      "dateOfBirth": "1974-04-22T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SHAR",
+      "firstName": "Svein",
+      "lastName": "Harberg",
+      "dateOfBirth": "1958-07-29T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ALEH",
+      "firstName": "Alf Egil",
+      "lastName": "Holmelid",
+      "dateOfBirth": "1947-12-12T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "BT",
+      "firstName": "Borghild",
+      "lastName": "Tenden",
+      "dateOfBirth": "1951-06-22T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "V",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "V",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "POL",
+      "firstName": "Per Olaf",
+      "lastName": "Lundteigen",
+      "dateOfBirth": "1953-04-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": "2012-09-30"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2012-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TMV",
+      "firstName": "Trygve Slagsvold",
+      "lastName": "Vedum",
+      "dateOfBirth": "1978-11-30T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ØYVH",
+      "firstName": "Øyvind",
+      "lastName": "Halleraker",
+      "dateOfBirth": "1951-10-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "EINH",
+      "firstName": "Einar",
+      "lastName": "Horvei",
+      "dateOfBirth": "1955-01-02T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": "2011-09-30"
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ALJ",
+      "firstName": "Anna",
+      "lastName": "Ljunggren",
+      "dateOfBirth": "1984-06-12T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TOHA",
+      "firstName": "Tore",
+      "lastName": "Hagebakken",
+      "dateOfBirth": "1961-01-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "AKSH",
+      "firstName": "Aksel",
+      "lastName": "Hagen",
+      "dateOfBirth": "1953-10-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "HTA",
+      "firstName": "Hadia",
+      "lastName": "Tajik",
+      "dateOfBirth": "1983-07-17T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": "2012-10-05"
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TON",
+      "firstName": "Tore",
+      "lastName": "Nordtun",
+      "dateOfBirth": "1949-09-29T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ARK",
+      "firstName": "Arve",
+      "lastName": "Kambe",
+      "dateOfBirth": "1974-11-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "BLO",
+      "firstName": "Bjørn",
+      "lastName": "Lødemel",
+      "dateOfBirth": "1958-08-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SOH",
+      "firstName": "Sigvald Oppebøen",
+      "lastName": "Hansen",
+      "dateOfBirth": "1950-09-20T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TKK",
+      "firstName": "Tove Karoline",
+      "lastName": "Knutsen",
+      "dateOfBirth": "1951-01-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "LMY",
+      "firstName": "Lars",
+      "lastName": "Myraune",
+      "dateOfBirth": "1944-08-04T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ARLH",
+      "firstName": "Arne L.",
+      "lastName": "Haugen",
+      "dateOfBirth": "1939-07-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "STEG",
+      "firstName": "Steinar",
+      "lastName": "Gullvåg",
+      "dateOfBirth": "1946-10-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "KKK",
+      "firstName": "Kari Kjønaas",
+      "lastName": "Kjos",
+      "dateOfBirth": "1962-01-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "AESO",
+      "firstName": "Arne",
+      "lastName": "Sortevik",
+      "dateOfBirth": "1947-03-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "METH",
+      "firstName": "Mette",
+      "lastName": "Hanekamhaug",
+      "dateOfBirth": "1987-06-03T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "MOJ",
+      "firstName": "Morten Ørsal",
+      "lastName": "Johansen",
+      "dateOfBirth": "1964-09-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KOMMFORV",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "BTH",
+      "firstName": "Bente",
+      "lastName": "Thorsen",
+      "dateOfBirth": "1958-10-30T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "VKG",
+      "firstName": "Vigdis",
+      "lastName": "Giltun",
+      "dateOfBirth": "1952-03-10T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "KARH",
+      "firstName": "Kari",
+      "lastName": "Henriksen",
+      "dateOfBirth": "1955-08-09T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "GOK",
+      "firstName": "Gorm",
+      "lastName": "Kjernli",
+      "dateOfBirth": "1981-12-30T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "MAKO",
+      "firstName": "Martin",
+      "lastName": "Kolberg",
+      "dateOfBirth": "1949-02-23T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "THB",
+      "firstName": "Thomas",
+      "lastName": "Breen",
+      "dateOfBirth": "1972-09-12T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "KAAN",
+      "firstName": "Karin",
+      "lastName": "Andersen",
+      "dateOfBirth": "1952-12-15T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "SV",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "MAGR",
+      "firstName": "Magne",
+      "lastName": "Rommetveit",
+      "dateOfBirth": "1956-04-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ELN",
+      "firstName": "Elisabeth Røbekk",
+      "lastName": "Nørve",
+      "dateOfBirth": "1951-03-28T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "LILH",
+      "firstName": "Lillian",
+      "lastName": "Hansen",
+      "dateOfBirth": "1957-05-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ATW",
+      "firstName": "Anne Tingelstad",
+      "lastName": "Wøien",
+      "dateOfBirth": "1965-06-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JBO",
+      "firstName": "Jan",
+      "lastName": "Bøhler",
+      "dateOfBirth": "1952-02-29T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TRUW",
+      "firstName": "Truls",
+      "lastName": "Wickholm",
+      "dateOfBirth": "1978-10-14T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SME",
+      "firstName": "Siri A.",
+      "lastName": "Meling",
+      "dateOfBirth": "1963-02-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "IHE",
+      "firstName": "Ingrid",
+      "lastName": "Heggø",
+      "dateOfBirth": "1961-08-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "GUO",
+      "firstName": "Gunn",
+      "lastName": "Olsen",
+      "dateOfBirth": "1952-09-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "BEHA",
+      "firstName": "Bendiks H.",
+      "lastName": "Arnesen",
+      "dateOfBirth": "1951-06-08T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "GJK",
+      "firstName": "Gerd Janne",
+      "lastName": "Kristoffersen",
+      "dateOfBirth": "1952-11-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JASP",
+      "firstName": "Jorodd",
+      "lastName": "Asphjell",
+      "dateOfBirth": "1960-07-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "DTA",
+      "firstName": "Dag Terje",
+      "lastName": "Andersen",
+      "dateOfBirth": "1957-05-26T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "LHH",
+      "firstName": "Line Henriette",
+      "lastName": "Hjemdal",
+      "dateOfBirth": "1971-10-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": "2012-09-30"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2012-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "IBTH",
+      "firstName": "Ib",
+      "lastName": "Thomsen",
+      "dateOfBirth": "1961-10-05T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "LRE",
+      "firstName": "Laila Marie",
+      "lastName": "Reiertsen",
+      "dateOfBirth": "1960-10-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JAE",
+      "firstName": "Jan Arild",
+      "lastName": "Ellingsen",
+      "dateOfBirth": "1958-10-08T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SHK",
+      "firstName": "Solveig",
+      "lastName": "Horne",
+      "dateOfBirth": "1969-01-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ANA",
+      "firstName": "Anders",
+      "lastName": "Anundsen",
+      "dateOfBirth": "1975-11-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "FR",
+      "firstName": "Freddy",
+      "lastName": "de Ruiter",
+      "dateOfBirth": "1969-04-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "DE",
+      "firstName": "Dagrun",
+      "lastName": "Eriksen",
+      "dateOfBirth": "1971-06-27T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vest-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SYG",
+      "firstName": "Sylvi",
+      "lastName": "Graham",
+      "dateOfBirth": "1951-12-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Akershus",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "LAG",
+      "firstName": "Laila",
+      "lastName": "Gustavsen",
+      "dateOfBirth": "1973-10-23T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TMS",
+      "firstName": "Tone Merete",
+      "lastName": "Sønsterud",
+      "dateOfBirth": "1959-05-16T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hedmark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "PRH",
+      "firstName": "Per Rune",
+      "lastName": "Henriksen",
+      "dateOfBirth": "1960-03-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2011-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "HEW",
+      "firstName": "Henning",
+      "lastName": "Warloe",
+      "dateOfBirth": "1961-03-23T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Hordaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JKL",
+      "firstName": "Jenny",
+      "lastName": "Klinge",
+      "dateOfBirth": "1975-11-27T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "JUSTIS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TR",
+      "firstName": "Torstein",
+      "lastName": "Rudihagen",
+      "dateOfBirth": "1951-08-13T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "OLET",
+      "firstName": "Olemic",
+      "lastName": "Thommessen",
+      "dateOfBirth": "1956-04-17T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oppland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FAMKULT",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "MAM",
+      "firstName": "Marianne",
+      "lastName": "Marthinsen",
+      "dateOfBirth": "1980-08-24T22:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": "2012-10-26"
+        },
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2012-10-27",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "HOSY",
+      "firstName": "Hans Olav",
+      "lastName": "Syversen",
+      "dateOfBirth": "1966-11-24T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Oslo",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "KrF",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TO",
+      "firstName": "Torfinn",
+      "lastName": "Opheim",
+      "dateOfBirth": "1961-04-11T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "ESAN",
+      "firstName": "Erling",
+      "lastName": "Sande",
+      "dateOfBirth": "1978-11-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sogn og Fjordane",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "Sp",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TRI",
+      "firstName": "Torbjørn Røe",
+      "lastName": "Isaksen",
+      "dateOfBirth": "1978-07-27T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Telemark",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ARBSOS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "EAS",
+      "firstName": "Elisabeth",
+      "lastName": "Aspaker",
+      "dateOfBirth": "1962-10-15T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Troms",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "H",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KIRKE",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SUB",
+      "firstName": "Susanne",
+      "lastName": "Bratli",
+      "dateOfBirth": "1966-06-09T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nord-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "EVH",
+      "firstName": "Eva Kristin",
+      "lastName": "Hansen",
+      "dateOfBirth": "1973-03-04T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Sør-Trøndelag",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "UFK",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "SOM",
+      "firstName": "Sonja",
+      "lastName": "Mandt",
+      "dateOfBirth": "1960-03-28T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Vestfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "A",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "for"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "IAG",
+      "firstName": "Ingebjørg",
+      "lastName": "Godskesen",
+      "dateOfBirth": "1957-05-25T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Aust-Agder",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "TRANSKOM",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JHR",
+      "firstName": "Jørund",
+      "lastName": "Rytman",
+      "dateOfBirth": "1977-05-03T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Buskerud",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "FINANS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "OG",
+      "firstName": "Oskar J.",
+      "lastName": "Grimstad",
+      "dateOfBirth": "1954-11-07T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Møre og Romsdal",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "ENERGI",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "TOT",
+      "firstName": "Torgeir",
+      "lastName": "Trældal",
+      "dateOfBirth": "1965-01-01T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Nordland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "NÆRING",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "OVA",
+      "firstName": "Øyvind",
+      "lastName": "Vaksdal",
+      "dateOfBirth": "1955-10-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Rogaland",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "KONTROLL",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    },
+    {
+      "kind": "hdo#representative",
+      "externalId": "JONG",
+      "firstName": "Jon Jæger",
+      "lastName": "Gåsvatn",
+      "dateOfBirth": "1954-06-18T23:00:00Z",
+      "dateOfDeath": null,
+      "district": "Østfold",
+      "parties": [
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2010-10-01",
+          "endDate": null
+        },
+        {
+          "kind": "hdo#partyMembership",
+          "externalId": "FrP",
+          "startDate": "2009-10-1",
+          "endDate": "2010-9-30"
+        }
+      ],
+      "committees": [
+        {
+          "kind": "hdo#committeeMembership",
+          "externalId": "HELSEOMS",
+          "startDate": "2011-10-01",
+          "endDate": null
+        }
+      ],
+      "touched": true,
+      "voteResult": "against"
+    }
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-06-14:2097",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slike vedtak til <h3>lover  </h3><h3>A. </h3><h3>Lov</h3><h3></h3><p class=\"ref-uinnrykk\">om avtalefestet pensjon for medlemmer av Statens pensjonskasse </p><h3>§ 1 <span class=\"ref-italic\">Omfang</span></h3><p class=\"ref-uinnrykk\">Loven gjelder avtalefestet pensjon (AFP) til arbeidstakere i stilling som gir rett til medlemskap i Statens pensjonskasse, og som ytes i et bestemt tidsrom fram til arbeidstakeren ved fylte 65 år kan få alderspensjon etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 21 fjerde ledd. </p><h3>§ 2 <span class=\"ref-italic\">Vilkår for rett til avtalefestet pensjon</span></h3><p class=\"ref-uinnrykk\">Arbeidstaker som fratrer sin stilling etter fylte 62 år, har rett til avtalefestet pensjon etter denne loven når dette er bestemt i tariffavtale hvor staten er part eller i tariffavtale godkjent av departementet, og arbeidstakeren </p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">a) er i lønnet arbeid på uttakstidspunktet, </p></li><li><p class=\"ref-uinnrykk\">b) har en pensjonsgivende inntekt på uttakstidspunktet som omregnet til årsinntekt overstiger gjeldende grunnbeløp i folketrygden, og hadde en pensjonsgivende inntekt over gjennomsnittlig grunnbeløp i året før uttaksåret, </p></li><li><p class=\"ref-uinnrykk\">c) er godskrevet pensjonspoeng i folketrygden for minst 10 år i perioden fra og med det år vedkommende fylte 50 år til og med året før uttaksåret, eller har minst 10 års medlemskap i Statens pensjonskasse etter fylte 50 år. Det kan bestemmes i tariffavtale at medlemskap i annen offentlig tjenestepensjonsordning er likestilt med medlemskap i Statens pensjonskasse, og </p></li><li><p class=\"ref-uinnrykk\">d) har hatt en gjennomsnittlig pensjonsgivende inntekt på minst to ganger grunnbeløpet i folketrygden i de 10 beste inntektsårene etter 1966. Det gjennomsnittlige grunnbeløpet i det enkelte inntektsår legges til grunn. </p></li></ul><h3>§ 3 <span class=\"ref-italic\">Utforming av avtalefestet pensjon</span></h3><p class=\"ref-uinnrykk\">Pensjonen beregnes i samsvar med tariffavtale hvor staten er part eller tariffavtale godkjent av departementet. For øvrig gjelder følgende: </p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">a) Pensjonen består av grunnpensjon, tilleggspensjon og/eller særtillegg. </p></li><li><p class=\"ref-uinnrykk\">b) Full pensjon tilsvarer ugradert uførepensjon beregnet etter reglene i folketrygdloven kapittel 3, men uten poengtillegg etter § 7-3 nr. 3 i tidligere lov 17. juni 1966 nr. 12 om folketrygd. Det skal heller ikke tas hensyn til en avdød ektefelles poengopptjening eller trygdetid. Forsørgingstillegg ytes etter reglene for alderspensjon i folketrygdloven § 3-24, men slik at det bare ytes tillegg for forsørging av ektefelle som er 60 år eller eldre. Det gis et særskilt AFP-tillegg dersom dette følger av tariffavtale. </p></li><li><p class=\"ref-uinnrykk\">c) Pensjon etter bokstavene a og b skal ikke overstige 70 prosent av tidligere inntekt. </p></li><li><p class=\"ref-uinnrykk\">d) Dersom pensjonisten har arbeidsinntekt, skal pensjonen, med eventuelt AFP-tillegg, reduseres med samme prosent som arbeidsinntekten utgjør av tidligere inntekt. Dersom pensjonisten har fått utbetalt for lite eller for mye, skal det foretas et etteroppgjør. </p></li><li><p class=\"ref-uinnrykk\">e) Det ytes ikke avtalefestet pensjon etter loven her for tidsrom hvor det ytes arbeidsavklaringspenger, foreløpig uførepensjon, uførepensjon eller pensjon til gjenlevende ektefelle fra folketrygden. Det kan heller ikke tas ut avtalefestet pensjon samtidig med alderspensjon fra folketrygden. Er det tatt ut alderspensjon fra folketrygden, må den stanses før det gis avtalefestet pensjon. Det kan heller ikke ytes avtalefestet pensjon etter loven her til en person som mottar eller har mottatt avtalefestet pensjon etter AFP-tilskottsloven. </p></li><li><p class=\"ref-uinnrykk\">f) Avtalefestet pensjon etter loven her utbetales i utlandet etter reglene i folketrygdloven § 19-3. </p></li><li><p class=\"ref-uinnrykk\">g) Folketrygdloven § 22-15 om tilbakekreving etter feilaktig utbetaling gjelder tilsvarende. </p></li></ul><h3>§ 4 <span class=\"ref-italic\">Regulering av pensjonen</span></h3><p class=\"ref-uinnrykk\">Pensjonen reguleres i samsvar med tariffavtale hvor staten er part eller tariffavtale godkjent av departementet. Reguleringen skjer årlig med virkning fra 1. mai. Pensjonen, unntatt forsørgingstillegg og AFP-tillegg, reguleres i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Reguleringsfaktoren etter folketrygdloven § 19-14 andre ledd legges til grunn. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i denne perioden pensjonen ble tatt ut. Ved regulering av forsørgingstillegg legges reguleringsfaktoren etter folketrygdloven § 19-14 tredje ledd til grunn. </p><h3>§ 5 <span class=\"ref-italic\">Administrasjon og avgjørelsesmyndighet</span></h3><p class=\"ref-uinnrykk\">Pensjonsordningen administreres av Arbeids- og velferdsetaten for så vidt gjelder tilståelse og utbetaling av pensjoner. For øvrig administreres pensjonsordningen av Statens pensjonskasse. Spørsmålet om en arbeidstaker er omfattet av tariffavtalen avgjøres av departementet. </p><p class=\"ref-uinnrykk\">Vedtak fattet av Arbeids- og velferdsetaten eller Statens pensjonskasse etter loven her kan ankes inn for Trygderetten etter lov 16. desember 1966 nr. 9 om anke til Trygderetten. </p><h3>§ 6 <span class=\"ref-italic\">Statsgaranti</span></h3><p class=\"ref-uinnrykk\">Ytelser etter denne loven er garantert av staten. </p><h3>§ 7 <span class=\"ref-italic\">Forskrifter</span></h3><p class=\"ref-uinnrykk\">Departementet kan gi forskrifter om utfylling av vilkårene i §§ 1 til 5, herunder fastsetting av tidligere inntekt, nedre inntektsgrense for avkorting av pensjonen, omregning av pensjon ved endring i sivilstand mv. og om etteroppgjør ved inntektsendringer. </p><h3>§ 8 <span class=\"ref-italic\">Ikrafttredelse og overgangsbestemmelser</span></h3><p class=\"ref-uinnrykk\">Loven trer i kraft 1. januar 2011. </p><p class=\"ref-uinnrykk\">Lov 11. juni 1993 nr. 64 om avtalefestet pensjon for offentlige tjenestemenn m.fl. oppheves 1. januar 2011. </p><p class=\"ref-uinnrykk\">Bestemmelsene i loven her gjelder også for avtalefestet pensjon som er tatt ut eller tas ut med virkningstidspunkt før 1. januar 2011 i medhold av lov 11. juni 1993 nr. 64 om avtalefestet pensjon for offentlige tjenestemenn m.fl. </p><h3>B. </h3><h3>Lov</h3><h3></h3><p class=\"ref-uinnrykk\">endringer i lov om Statens Pensjonskasse, lov om samordning av pensjons- og trygdeytelser og i enkelte andre lover (oppfølging av avtale om tjenestepensjon og AFP i offentlig sektor i tariffoppgjøret 2009) </p><p class=\"ref-uinnrykk\">I </p><p class=\"ref-uinnrykk\">I lov 13. desember 1946 nr. 21 om krigspensjonering for militærpersoner gjøres følgende endringer: </p><h3>§ 18 nr. 1 annet ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Bestemmelsene i første ledd får tilsvarende anvendelse hvis invaliden har rett til alderspensjon, enkepensjon eller enkemannspensjon etter lov om folketrygd, eller har tatt ut avtalefestet pensjon som omfattes av <span class=\"ref-italic\">samordningsloven</span> § 1 nr. 1 første ledd bokstav d. <span class=\"ref-italic\">For øvrig gjelder samordningsloven § 24.</span></p><h3>§ 18 nr. 1 fjerde ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Hvis noen som har rett til enkepensjon etter denne lov, også har rett til pensjon etter lov om folketrygd eller til avtalefestet pensjon som omfattes av <span class=\"ref-italic\">samordningsloven</span> § 1 nr. 1 første ledd bokstav d, skal tilleggspensjon fra folketrygden og avtalefestet pensjon gå til fradrag i enkepensjonen etter nærværende lov. Er pensjonen fra krigspensjoneringen ikke beregnet på grunnlag av full uførhet, skal fradragsbeløpet avkortes forholdsmessig. Bestemmelsene i første ledd, annet punktum gjelder tilsvarende. <span class=\"ref-italic\">For øvrig gjelder samordningsloven § 24.</span></p><h3>II </h3><p class=\"ref-uinnrykk\">I lov 13. desember 1946 nr. 22 om krigspensjonering for hjemmestyrkepersonell og sivilpersoner gjøres følgende endringer: </p><h3>§ 23 nr. 1 annet ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Bestemmelsene i første ledd får tilsvarende anvendelse hvis invaliden har rett til alderspensjon, enkepensjon eller enkemannspensjon etter lov om folketrygd, eller har tatt ut avtalefestet pensjon som omfattes av <span class=\"ref-italic\">samordningsloven</span> § 1 nr. 1 første ledd bokstav d. <span class=\"ref-italic\">For øvrig gjelder samordningsloven § 24.</span></p><h3>§ 23 nr. 1 fjerde ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Hvis noen som har rett til enkepensjon etter denne lov, også har rett til pensjon etter lov om folketrygd eller til avtalefestet pensjon som omfattes av <span class=\"ref-italic\">samordningsloven</span> § 1 nr. 1 første ledd bokstav d, skal tilleggspensjonen fra folketrygden og avtalefestet pensjon gå til fradrag i enkepensjonen etter nærværende lov. Er pensjonen fra krigspensjoneringen ikke beregnet på grunnlag av full uførhet, skal fradragsbeløpet avkortes forholdsmessig. Bestemmelsene i første ledd annet punktum gjelder tilsvarende. <span class=\"ref-italic\">For øvrig gjelder samordningsloven § 24.</span></p><h3>III </h3><p class=\"ref-uinnrykk\">I lov 28. juli 1949 nr. 26 om Statens Pensjonskasse gjøres følgende endringer: </p><h3>Lovens tittel skal lyde: </h3><p class=\"ref-uinnrykk\">Lov om Statens pensjonskasse. </p><h3>§ 15 fjerde ledd oppheves. </h3><p class=\"ref-uinnrykk\">I § 20 første ledd bokstav f endres henvisningen til «§ 24 tredje ledd» til «§ 23 fjerde ledd». </p><h3>§ 21 første ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Et medlem får alderspensjon når han <span class=\"ref-italic\">helt eller delvis</span> fratrer sin stilling ved eller etter den aldersgrense som gjelder for stillingen. </p><h3>§ 21 tredje, fjerde og nytt femte ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Rett til alderspensjon har også arbeidstaker <span class=\"ref-italic\">som fratrer</span> etter fylte 65 år, når dette er bestemt i tariffavtale hvor staten er part, eller i tariffavtale godkjent av departementet. </p><p class=\"ref-uinnrykk\">Rett til alderspensjon etter fylte 65 år har også arbeidstaker som har fratrådt med pensjon etter <span class=\"ref-italic\">lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon etter tredje og fjerde ledd kan ikke tas ut samtidig med alderspensjon fra folketrygden. Er det tatt ut alderspensjon fra folketrygden, må den stanses før det gis pensjon etter tredje og fjerde ledd. Det kan heller ikke ytes alderspensjon etter tredje og fjerde ledd til en person som mottar eller har mottatt avtalefestet pensjon etter AFP-tilskottsloven.</span></p><h3>§ 22 skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Pensjonen beregnes av medlemmets pensjonsgrunnlag når han fratrer stillingen, jf. likevel § 15. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Den årlige alderspensjonen beregnes slik:</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">a)</span><span class=\"ref-italic\">Har medlemmet 30 års tjenestetid eller mer, får han full alderspensjon. Denne skal utgjøre 66 prosent av pensjonsgrunnlaget.</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">b) Har medlemmet en tjenestetid mindre enn 30 år, skal han ha en avkortet alderspensjon, som utgjør så mange trettideler av full pensjon som han har tjenesteår.</span></p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjonen skal levealdersjusteres etter bestemmelsene i § 24. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Forsørger medlemmet barn under 18 år, skal det for hvert barn ytes et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full tjenestetid. Er pensjonen beregnet etter redusert tjenestetid, skal det foretas en forholdsmessig avkortning. Barnetillegg betales ut den måned barnet fyller 18 år eller i tilfelle måneden etter barnets død. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">For alderspensjon kommer bestemmelsen i § 28 fjerde ledd om reduksjon for sykepenger til anvendelse dersom sykepengene er beregnet av inntekter som også har vært pensjonsgivende i Pensjonskassen.</span></p><h3>Nåværende § 24 blir § 23 med følgende endringer: </h3><p class=\"ref-uinnrykk\">I første ledd annet punktum endres henvisningen til «§ 23» til «§ 22». </p><p class=\"ref-uinnrykk\">I første ledd fjerde punktum endres henvisningen til folketrygdloven «§ 19-6» til «§ 19-10». </p><p class=\"ref-uinnrykk\">I annet ledd skal navnet «Statens Pensjonskasse» endres til «Statens pensjonskasse». </p><h3>Nytt tredje ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Oppsatt alderspensjon skal levealdersjusteres etter bestemmelsene i § 24.</span></p><h3>Nåværende tredje ledd blir nytt fjerde ledd. </h3><h3>§ 24 skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon skal levealdersjusteres, det vil si at den enkeltes pensjon justeres for endringer i befolkningens levealder. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Levealdersjustering gjennomføres ved hjelp av forholdstall som fastsettes av Arbeids- og velferdsdirektoratet for årskull fra og med 1943-kullet, jf. folketrygdloven § 19-7. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon skal levealdersjusteres tidligst fra 67 år. Dette gjelder også dersom det er utbetalt alderspensjon fra et tidligere tidspunkt. Pensjonen divideres med forholdstallet som gjelder ved 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom medlemmet fratrer stillingen etter 67 år, skal forholdstallet på fratredelsestidspunktet benyttes. Det skal likevel ikke benyttes lavere forholdstall enn 1,000, slik at pensjonen ved full tjenestetid ikke blir høyere enn 66 prosent av pensjonsgrunnlaget. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ved overgang fra uførepensjon til alderspensjon for medlemmer med aldersgrense høyere enn 67 år, skal alderspensjonen ved aldersgrensen levealdersjusteres med forholdstallet som gjelder ved 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Når et medlem fratrer stillingen delvis, skal forholdstallet på dette tidspunktet legges til grunn for alderspensjonen for den fratrådte stillingsdelen. Når medlemmet fratrer stillingen helt, skal forholdstallet på dette tidspunktet legges til grunn for alderspensjonen for den resterende stillingsdelen. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Departementet gir forskrifter med nærmere regler om anvendelse av forholdstall.</span></p><h3>Ny § 24 a skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Medlemmer som 1. januar 2011 har 15 år eller mindre igjen til fylte 67 år, skal ha et garantert pensjonsnivå etter reglene i paragrafen her. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Garantien gjelder tidligst fra 67 år og anvendes på summen av</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">a)</span><span class=\"ref-italic\">alderspensjonen etter loven her samordnet med alderspensjon fra folketrygden etter lov om samordning av pensjons- og trygdeytelser, og</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">b) alderspensjon fra folketrygden.</span></p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">For medlemmer som har 30 års tjenestetid eller mer utgjør det garanterte pensjonsnivået 66 prosent av pensjonsgrunnlaget. For medlemmer som har mindre enn 30 års tjenestetid, jf. § 22 første ledd bokstav b, utgjør det garanterte pensjonsnivået et forholdsmessig beløp. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom summen av pensjoner etter annet ledd er lavere enn det garanterte pensjonsnivået etter tredje ledd, skal det utbetales et garantitillegg som svarer til differansen mellom det garanterte nivået etter tredje ledd og summen av pensjoner etter annet ledd. Eventuelle forsørgingstillegg holdes utenfor ved beregningen av garantitillegget. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom alderspensjon etter loven her er tatt ut før eller ved 67 år, skal alderspensjon fra folketrygden som inngår i garantiberegningen etter annet ledd bokstav b, beregnes som basispensjon, jf. folketrygdloven § 19-5 første ledd, dividert med forholdstallet ved 67 år. Eventuelt basispensjonstillegg etter folketrygdloven § 19-9 tredje ledd og tillegg etter folketrygdloven § 19-14 femte ledd regnes med. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom alderspensjon etter loven her er tatt ut etter 67 år, skal alderspensjon fra folketrygden som inngår i garantiberegningen etter annet ledd bokstav b, beregnes som basispensjon dividert med forholdstallet på det tidspunktet medlemmet fratrer med alderspensjon etter loven her. Eventuelt basispensjonstillegg etter folketrygdloven § 19-9 tredje ledd og tillegg etter folketrygdloven § 19-14 femte ledd regnes med. For medlemmer som går over fra uførepensjon til alderspensjon etter loven her senere enn 67 år, benyttes den faktiske alderspensjon fra folketrygden i garantiberegningen. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Bestemmelsene i paragrafen her gjelder tilsvarende for oppsatt alderspensjon, likevel slik at tjenestetiden etter tredje ledd fastsettes etter bestemmelsene i § 23 første og annet ledd.</span></p><h3>§ 26 første ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Alderspensjon etter § 21 løper fra den første dag i måneden etter at medlemmet ikke oppebærer lønn, og etter § <span class=\"ref-italic\">23</span> første ledd fra <span class=\"ref-italic\">den første dag i måneden etter fylte 67 år hvor det blir utbetalt alderspensjon fra folketrygden</span> eller fra den første dag i måneden etter at medlemmet når aldersgrensen, dog tidligst fra den første dag i måneden etter fylte 65 år. </p><h3>§ 26 tredje ledd sjuende punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Pensjonen beregnes etter reglene i <span class=\"ref-italic\">§ 22 første ledd.</span></p><h3>I § 27 annet ledd tredje punktum endres henvisningen til «§ 24 tredje ledd» til «§ 23 fjerde ledd». </h3><h3>§ 28 første ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Uførepensjon beregnes og utbetales i samsvar med reglene i kapittel 3, 4 og 5, unntatt bestemmelsene i § 15 om beregning av gjennomsnittsgrunnlag, <span class=\"ref-italic\">§ 24 om levealdersjustering og § 24 a om garantert pensjonsnivå.</span></p><h3>I § 28 a første punktum endres henvisningen til «§ 24 annet ledd» til «§ 23 annet ledd». </h3><h3>§ 29 første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Finner pensjonskassens styre det godtgjort at uførheten skyldes skade eller sykdom som er en umiddelbar følge av usedvanlig påkjenning eller ulykkestilfelle i tjenesten, skal pensjonen uansett tjenestetiden være lik full alderspensjon etter <span class=\"ref-italic\">§ 22 annet ledd bokstav a.</span></p><h3>I § 33 annet ledd fjerde punktum endres henvisningen til «§ 24 annet ledd» til «§ 23 annet ledd». </h3><p class=\"ref-uinnrykk\">I § 38 tredje ledd fjerde punktum endres henvisningen til «§ 24 annet ledd» til «§ 23 annet ledd». </p><h3>§ 42 skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Regulering av alderspensjon under utbetaling foretas ved at pensjonsgrunnlaget reguleres årlig fra 1. mai i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Regulering av uførepensjon og enke- og enkemannspensjon under utbetaling foretas ved at pensjonsgrunnlaget reguleres årlig fra 1. mai i samsvar med lønnsveksten fram til fylte 67 år. Deretter reguleres pensjonsgrunnlaget i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Bestemmelsen i første ledd annet punktum gjelder tilsvarende ved første regulering etter 67 år. Barnepensjon reguleres etter første punktum i leddet her. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Pensjonsgrunnlaget for medlemmer som fratrer sin stilling med alderspensjon eller avtalefestet pensjon før 67 år, skal omregnes fra måneden etter fylte 67 år ved at det oppreguleres med lønnsveksten fra fratredelsestidspunktet og fram til omregningstidspunktet. Pensjonsgrunnlaget for medlemmer som etter § 21 fjerde ledd får alderspensjon fra fylte 65 år, skal omregnes på tilsvarende måte. Bestemmelsen i første ledd annet punktum gjelder tilsvarende ved første regulering etter at pensjonsgrunnlaget er omregnet. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Pensjonsgrunnlaget for medlemmer som fratrer sin stilling uten rett til straks å få pensjon etter loven her eller lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse, jf. § 23, reguleres med lønnsveksten fram til tidspunktet det ytes pensjon etter loven her. Når en arbeidstaker har gått over fra et høyere til et lavere samlet pensjonsgrunnlag, jf. § 15 annet ledd, skal det tidligere grunnlag som har betydning for pensjonsberegningen reguleres tilsvarende. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ved regulering av pensjoner og pensjonsgrunnlag etter første til tredje ledd benyttes de reguleringsfaktorer Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd.</span></p><h3>I følgende bestemmelser skal navnet «Statens Pensjonskasse» endres til «Statens pensjonskasse»: </h3><p class=\"ref-uinnrykk\">§ 1, § 5 annet ledd første punktum og femte ledd, § 21 A første ledd, § 41 annet ledd, § 43 første ledd og § 48 nr. 1 første ledd første og annet punktum og annet ledd og nr. 2 annet ledd første punktum. </p><h3>I følgende bestemmelser skal ordet «pensjonskassen» og «pensjonskassens» endres henholdsvis til «Pensjonskassen» og «Pensjonskassens»: </h3><p class=\"ref-uinnrykk\">§ 27 første ledd første punktum og fjerde ledd annet punktum, § 28 tredje ledd annet punktum, § 29 første punktum, § 31 første ledd første punktum og tredje ledd første og annet punktum, § 41 første ledd, § 43 annet ledd, § 45 første ledd og annet ledd første punktum og § 46 første ledd første punktum. </p><h3>IV </h3><p class=\"ref-uinnrykk\">I midlertidig lov 29. juni 1951 nr. 34 om tillegg til lover av 13. desember 1946 om 1) Krigspensjonering for hjemmestyrkepersonell og sivilpersoner og 2) Krigspensjonering for militærpersoner gjøres følgende endring: </p><h3>Del III nytt nr. 4 skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">4.</span><span class=\"ref-italic\">Fra 1. januar 2011 reguleres krigspensjon under utbetaling i samsvar med lønnsveksten fram til fylte 67 år. Fra fylte 67 år reguleres krigspensjon under utbetaling i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. Ved reguleringen benyttes de reguleringsfaktorer Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd. Reguleringen skjer årlig med virkning fra 1. mai.</span></p></li></ul><h3>V </h3><p class=\"ref-uinnrykk\">I lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. gjøres følgende endringer: </p><h3>§ 7 nr. 1 første ledd første til tredje punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Et medlem får alderspensjon når han <span class=\"ref-italic\">helt eller delvis</span> fratrer sin stilling ved eller etter nådd aldersgrense. Fratrer medlemmet tidligst tre år før aldersgrensen, ytes alderspensjon såframt summen av tjenestetid og alder er minst 85 år, eller han ved fratreden har fylt 67 år. Rett til alderspensjon har også arbeidstaker <span class=\"ref-italic\">som fratrer</span> etter fylte 65 år, når dette er bestemt i tariffavtale godkjent av departementet. </p><h3>§ 7 nr. 1 nytt annet ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon etter første ledd tredje og fjerde punktum kan ikke tas ut samtidig med alderspensjon fra folketrygden. Er det tatt ut alderspensjon fra folketrygden, må den stanses før det gis pensjon etter første ledd tredje og fjerde punktum. Det kan heller ikke ytes alderspensjon etter første ledd tredje og fjerde punktum til en person som mottar eller har mottatt avtalefestet pensjon etter AFP-tilskottsloven.</span></p><h3>§ 7 nr. 2 første ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Medlem som fratrer sin stilling etter minst tre års tjenestetid uten rett til straks å få pensjon etter denne loven eller etter lov av 1. juli 1994 nr. 49 om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjonsordning for apotekvirksomhet mv., har rett til oppsatt alderspensjon fra aldersgrensen, eller fra det tidspunkt han <span class=\"ref-italic\">ved fylte 67 år</span> blir tilstått alderspensjon fra folketrygden. </p><h3>§ 7 nr. 2 nytt annet ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Oppsatt alderspensjon skal levealdersjusteres etter bestemmelsene i § 8 a.</span></p><h3>§ 8 nr. 1 nytt tredje ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjonen skal levealdersjusteres etter bestemmelsene i § 8 a.</span></p><h3>Nåværende tredje ledd blir nytt fjerde ledd. </h3><h3>§ 8 nr. 3 første og annet punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Forsørger medlemmet barn under 18 år, skal det for hvert barn ytes et barnetillegg på 10 prosent av alderspensjonen <span class=\"ref-italic\">etter levealdersjustering</span>. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget <span class=\"ref-italic\">etter levealdersjustering</span> når pensjonen er beregnet etter full tjenestetid. </p><h3>Ny § 8 a skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon skal levealdersjusteres, det vil si at den enkeltes pensjon justeres for endringer i befolkningens levealder. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Levealdersjustering gjennomføres ved hjelp av forholdstall som fastsettes av Arbeids- og velferdsdirektoratet for årskull fra og med 1943-kullet, jf. folketrygdloven § 19-7. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon skal levealdersjusteres tidligst fra 67 år. Dette gjelder også dersom det er utbetalt alderspensjon fra et tidligere tidspunkt. Pensjonen divideres med forholdstallet som gjelder ved 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom medlemmet fratrer stillingen etter 67 år, skal forholdstallet på fratredelsestidspunktet benyttes. Det skal likevel ikke benyttes lavere forholdstall enn 1,000, slik at pensjonen ved full tjenestetid ikke blir høyere enn 66 prosent av pensjonsgrunnlaget. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ved overgang fra uførepensjon til alderspensjon for medlemmer med aldersgrense høyere enn 67 år, skal alderspensjonen ved aldersgrensen levealdersjusteres med forholdstallet som gjelder ved 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Når et medlem fratrer stillingen delvis, skal forholdstallet på dette tidspunktet legges til grunn for alderspensjonen for den fratrådte stillingsdelen. Når medlemmet fratrer stillingen helt, skal forholdstallet på dette tidspunktet legges til grunn for alderspensjonen for den resterende stillingsdelen. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Departementet gir forskrifter med nærmere regler om anvendelse av forholdstall.</span></p><h3>Ny § 8 b skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Medlemmer som 1. januar 2011 har 15 år eller mindre igjen til fylte 67 år, skal ha et garantert pensjonsnivå etter reglene i paragrafen her. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Garantien gjelder tidligst fra 67 år og anvendes på summen av</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">a)</span><span class=\"ref-italic\">alderspensjonen etter loven her samordnet med alderspensjon fra folketrygden etter lov om samordning av pensjons- og trygdeytelser, og</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">b) alderspensjon fra folketrygden.</span></p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">For medlemmer som har 30 års tjenestetid eller mer utgjør det garanterte pensjonsnivået 66 prosent av pensjonsgrunnlaget. For medlemmer som har mindre enn 30 års tjenestetid, jf. § 8 nr. 1 andre ledd andre punktum, utgjør det garanterte pensjonsnivået et forholdsmessig beløp. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom summen av pensjoner etter andre ledd er lavere enn det garanterte pensjonsnivået etter tredje ledd, skal det utbetales et garantitillegg som svarer til differansen mellom det garanterte nivået etter tredje ledd og summen av pensjoner etter andre ledd. Eventuelle forsørgingstillegg holdes utenfor ved beregningen av garantitillegget. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom alderspensjon etter loven her er tatt ut før eller ved 67 år, skal alderspensjon fra folketrygden som inngår i garantiberegningen etter andre ledd bokstav b, beregnes som basispensjon, jf. folketrygdloven § 19-5 første ledd, dividert med forholdstallet ved 67 år. Eventuelt basispensjonstillegg etter folketrygdloven § 19-9 tredje ledd og tillegg etter folketrygdloven § 19-14 femte ledd regnes med. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom alderspensjon etter loven her er tatt ut etter 67 år, skal alderspensjon fra folketrygden som inngår i garantiberegningen etter andre ledd bokstav b, beregnes som basispensjon dividert med forholdstallet på det tidspunktet medlemmet fratrer med alderspensjon etter loven her. Eventuelt basispensjonstillegg etter folketrygdloven § 19-9 tredje ledd og tillegg etter folketrygdloven § 19-14 femte ledd regnes med. For medlemmer som går over fra uførepensjon til alderspensjon etter loven her senere enn 67 år, benyttes den faktiske alderspensjon fra folketrygden i garantiberegningen. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Bestemmelsene i paragrafen her gjelder tilsvarende for oppsatt alderspensjon, likevel slik at tjenestetiden etter tredje ledd fastsettes etter bestemmelsene i § 7 nr. 2 første ledd.</span></p><h3>§ 11 første ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Uførepensjon beregnes og utbetales i samsvar med reglene i kapittel II og III unntatt bestemmelsene i § 8 nr. 2 om gjennomsnittsgrunnlag, <span class=\"ref-italic\">§ 8 a om levealdersjustering og § 8 b om garantert pensjonsnivå.</span></p><h3>§ 34 tredje ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Hvis arbeidstakernes tariffmessige lønninger eller folketrygdens <span class=\"ref-italic\">pensjoner</span> endres, kan pensjonsordningens styre – i den utstrekning pensjonsordningens økonomi tillater det – treffe bestemmelse om at pensjonene skal reguleres tilsvarende. </p><h3>I § 30 første ledd, annet ledd første punktum og tredje ledd skal navnet «Statens Pensjonskasse» endres til «Statens pensjonskasse». </h3><h3>VI </h3><p class=\"ref-uinnrykk\">I lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser gjøres følgende endringer: </p><h3>§ 1 nr. 1 første ledd skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">1. Denne lov gjelder samordning av ytelser som en person kan få samtidig fra to eller flere av følgende pensjonsordninger og trygder: </p></li></ul><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">a. Tjenestepensjonsordning som er fastsatt ved lov eller vedtak av Stortinget, eller som er fastsatt av kommuner og fylkeskommuner for kommunale og fylkeskommunale tillitsmenn, tjenestemenn og arbeidere, <span class=\"ref-italic\">herunder pensjonsordning som yter avtalefestet pensjon som tas ut mellom 65 og 67 år.</span></p></li><li><p class=\"ref-uinnrykk\">b. Personskadetrygd fastsatt ved lov. </p></li><li><p class=\"ref-uinnrykk\">c. Ytelser fra folketrygden. </p></li><li><p class=\"ref-uinnrykk\">d. <span class=\"ref-italic\">Offentlig</span> pensjonsordning som yter avtalefestet pensjon før fylte 65 år som det kan godskrives pensjonspoeng for etter folketrygdloven § 3-19. <span class=\"ref-italic\">Det samme gjelder pensjonsordning som yter avtalefestet pensjon i privat sektor mellom 62 og 67 år etter overgangsordningen i AFP-tilskottsloven kapittel 4.</span></p></li><li><p class=\"ref-uinnrykk\">e. <span class=\"ref-italic\">Pensjonsordning som yter avtalefestet pensjon i privat sektor etter AFP-tilskottsloven kapittel 2, jf. kapittel 3.</span></p></li></ul><h3>§ 3 første ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Forsørgingstillegg skal regnes som en del av pensjonen ved samordning etter kapitlene II og III og §§ 16 og 17.</span></p><h3>§ 19 første ledd innledningen skal lyde: </h3><p class=\"ref-uinnrykk\">Tjenestepensjon samordnes med alderspensjon fra folketrygden etter følgende regler<span class=\"ref-italic\">, jf. også § 24:</span></p><h3>§ 19 første ledd nr. 2 skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">2. Er <span class=\"ref-italic\">alderspensjonen fra folketrygden eller tjenestepensjonen gradert,</span> skal fradraget settes ned forholdsmessig. <span class=\"ref-italic\">Hvis begge ytelsene er graderte, benyttes den laveste graden.</span></p></li></ul><h3>§ 19 annet ledd annet og nytt tredje punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Er ytelsen fra folketrygden <span class=\"ref-italic\">eller tjenestepensjonen gradert,</span> skal fradraget settes ned forholdsmessig. <span class=\"ref-italic\">Hvis begge ytelsene er graderte, benyttes den laveste graden.</span></p><h3>§ 20 fjerde ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Er alderspensjonen fra folketrygden gradert, </span>skal fradragsbeløpet i personskadetrygden etter bestemmelsene i første ledd settes ned forholdsmessig. </p><h3>§ 23 nr. 1 innledningen skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">1.</span><span class=\"ref-italic\">Tjenestepensjon samordnes med tilleggspensjon fra folketrygden etter følgende regler, jf. også § 24:</span></p></li></ul><h3>I § 23 nr. 2 annet ledd første punktum endres henvisningen til folketrygdloven «§ 19-7» til «§ 19-16». </h3><h3>Nytt kapittel VII skal lyde: </h3><h2>Kapittel VII. Samordning med pensjon fra folketrygden og avtalefestet pensjon i privat sektor fra 1. januar 2011 </h2><h3><span class=\"ref-italic\">§ 24 Supplerende bestemmelser om samordning av tjenestepensjon og personskadetrygd med pensjon fra folketrygden.</span></h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">1.</span><span class=\"ref-italic\">Alderspensjon fra tjenestepensjonsordning samordnes med alderspensjon etter folketrygdloven kapittel 19 ved at det tas utgangspunkt i basispensjonen. Samordningsfradrag for grunnpensjon, tilleggspensjon, særtillegg og ventetillegg beregnes etter reglene i §§ 19 og 23. Basispensjonstillegg etter folketrygdloven § 19-9 tredje ledd og tillegg etter folketrygdloven § 19-14 femte ledd samordnes som særtillegg, jf. § 23. Samordningsfradragene divideres med det aktuelle forholdstallet som er fastsatt etter folketrygdloven § 19-7.</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Samordningen foretas tidligst fra måneden etter pensjonisten fyller 67 år. Dersom tjenestepensjonen tas ut før eller ved 67 år, legges forholdstallet ved 67 år til grunn. Dette gjelder også dersom det er tatt ut hel eller delvis alderspensjon fra folketrygden før 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom tjenestepensjonen tas ut etter fylte 67 år, benyttes forholdstallet på uttakstidspunktet. Dette gjelder også dersom det er tatt ut hel eller delvis alderspensjon fra folketrygden på et tidligere tidspunkt. </span></p></li></ul><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">2.</span><span class=\"ref-italic\">Uførepensjon fra tjenestepensjonsordning samordnes med alderspensjon etter folketrygdloven kapittel 19 fra 67 år etter bestemmelsene i nr. 1.</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">3.</span><span class=\"ref-italic\">Enke- og enkemannspensjon fra tjenestepensjonsordning samordnes med alderspensjon etter folketrygdloven kapittel 19 fra 67 år. Samordningsfradragene divideres ikke med forholdstall. Dersom det er tatt ut alderspensjon fra folketrygden før 67 år, samordnes enke- og enkemannspensjonen med den pensjon eller overgangsstønad etter folketrygdloven kapittel 17 som enken eller enkemannen ville hatt rett til dersom vedkommende ikke hadde tatt ut alderspensjon. Bestemmelsen her gjelder tilsvarende for fraskilte, selv om den fraskilte ikke har rett til pensjon etter avdød tidligere ektefelle.</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">4.</span><span class=\"ref-italic\">Ved samordning av pensjon fra personskadetrygd med alderspensjon etter folketrygdloven kapittel 19 beregnes samordningsfradrag for grunnpensjonen etter reglene i § 20, mens samordningsfradrag for tilleggspensjon, særtillegg og ventetillegg beregnes etter særlovgivningen om yrkesskadetrygd og krigspensjonering. For øvrig gjelder bestemmelsene i paragrafen her så langt de passer.</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">5.</span><span class=\"ref-italic\">Samordningsfradrag for alderspensjon fra folketrygden reguleres etter folketrygdloven § 19-14 annet, tredje og sjuende ledd.</span></p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">§ 25 Samordning med avtalefestet pensjon i privat sektor</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ytes det samtidig alderspensjon fra tjenestepensjonsordning og avtalefestet pensjon etter AFP-tilskottsloven kapittel 2, skal den avtalefestede pensjonen gå til fradrag i tjenestepensjonen fra og med måneden etter pensjonisten fyller 67 år. Det samme gjelder kompensasjonstillegg etter AFP-tilskottsloven kapittel 3. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Fradragene etter første ledd begrenses forholdsmessig hvis pensjonisten ikke har full tjenestetid i tjenestepensjonsordningen. Dersom det er tatt ut avtalefestet pensjon før fylte 67 år, foretas samordningen som om det var tatt ut avtalefestet pensjon ved 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Personer som er født i 1953 eller tidligere skal gis overgangstillegg som tilsvarer 85 prosent av fradragene etter første og annet ledd. Tilleggene reduseres med 1/10&gt; for hvert årskull fra og med 1954, slik at personer i dette kullet får 9/10&gt; av tillegget, 1955-kullet får 8/10&gt; av tillegget, osv. til 1962-kullet som får 1/10&gt; av tillegget. Personer født i 1963 eller senere får ikke tillegg. Overgangstilleggene skal begrense fradragene etter første og annet ledd. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Samordningsfradrag for avtalefestet pensjon etter AFP-tilskottsloven kapittel 2 reguleres etter folketrygdloven § 19-14 annet og sjuende ledd. Samordningsfradrag for kompensasjonstillegg etter AFP-tilskottsloven § 3 reguleres ikke.</span></p><h3>Nåværende kapittel VII blir nytt kapittel VIII. Nåværende §§ 24 til 26 blir nye §§ 26 til 28 og nåværende §§ 26 a til 29 blir nye §§ 29 til 32. </h3><p class=\"ref-uinnrykk\">I § 3 tredje ledd første punktum, § 7 nr. 1 annet ledd annet punktum og nr. 2 første punktum skal navnet «Statens Pensjonskasse» endres til «Statens pensjonskasse». </p><h3>VII </h3><p class=\"ref-uinnrykk\">I lov 12. desember 1958 nr. 10 om yrkesskadetrygd gjøres følgende endringer: </p><h3>§ 12 nr. 3 tredje ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Bestemmelsene i annet ledd får tilsvarende anvendelse dersom den skadede har rett til alderspensjon, enkepensjon eller enkemannspensjon etter lov om folketrygd, eller har tatt ut avtalefestet pensjon som omfattes av <span class=\"ref-italic\">samordningsloven</span> § 1 nr. 1 første ledd bokstav d. <span class=\"ref-italic\">For øvrig gjelder samordningsloven § 24.</span></p><h3>§ 19 nr. 1 annet ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Dersom enken har rett til pensjon etter lov om folketrygd eller avtalefestet pensjon som omfattes av <span class=\"ref-italic\">samordningsloven</span> § 1 nr. 1 første ledd bokstav d, skal tilleggspensjonen fra folketrygden og avtalefestet pensjon gå til fradrag i enkepensjonen etter nærværende lov. <span class=\"ref-italic\">For øvrig gjelder samordningsloven § 24.</span> Er pensjonsgivende inntekt i folketrygden større enn trygdet arbeidsinntekt, skal fradragsbeløpet svare til tilleggspensjon beregnet på grunnlag av trygdet arbeidsinntekt. </p><h3>§ 57 nr. 1 skal lyde: </h3><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">1.</span><span class=\"ref-italic\">Fra 1. januar 2011 reguleres følgende satser med lønnsveksten fram til fylte 67 år:</span></p></li><li><p class=\"ref-uinnrykk\">a) satsene for uførepensjoner, enkepensjoner og barnepensjoner til første barn når begge foreldrene er døde, forutsatt at skadetilfellet enten er inntruffet i tidsrommet 1. januar 1960 – 31. desember 1970, eller går inn under loven her ved omregning etter § 53 punkt 1 eller etter kapittel II i endringsloven 9. juni 1961 nr. 19. </p></li><li><p class=\"ref-uinnrykk\">b) satsene for invaliderenter med forsørgingstillegg og hjelpeløshetstillegg til en skadd som var fylt 70 år før 1. januar 1960, forutsatt at skadetilfellet går inn under en av lovene nevnt i § 53 punkt 1 bokstavene a-c, og arbeidsevnen er nedsatt med minst 30 prosent. </p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Fra 67 år reguleres de nevnte satsene i samsvar med lønnsveksten og fratrekkes deretter 0,75 prosent. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ved reguleringen benyttes de reguleringsfaktorer Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd. Reguleringen skjer årlig med virkning fra 1. mai.</span></p><h3>VIII </h3><p class=\"ref-uinnrykk\">I lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere gjøres følgende endringer: </p><h3>§ 7 første ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Et medlem får alderspensjon når det <span class=\"ref-italic\">helt eller delvis</span> fratrer sin stilling ved eller etter den aldersgrensen som gjelder for stillingen. </p><h3>§ 7 nytt åttende ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon etter tredje ledd kan ikke tas ut samtidig med alderspensjon fra folketrygden. Er det tatt ut alderspensjon fra folketrygden, må den stanses før det gis pensjon etter tredje ledd. Det kan heller ikke ytes alderspensjon etter tredje ledd til en person som mottar eller har mottatt avtalefestet pensjon etter AFP-tilskottsloven.</span></p><h3>§ 8 første ledd tredje punktum oppheves. </h3><h3>§ 9 nytt annet ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjonen skal levealdersjusteres etter bestemmelsene i § 10 a.</span></p><h3>§ 9 nytt tredje ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Forsørger medlemmet barn under 18 år, skal det for hvert barn ytes et barnetillegg på 10 pst. av alderspensjonen <span class=\"ref-italic\">etter levealdersjustering</span>. Alderspensjonen med barnetillegg må likevel ikke overstige 90 pst. av pensjonsgrunnlaget <span class=\"ref-italic\">etter levealdersjustering</span>. Barnetillegg betales ut den måned hvori barnet fyller 18 år, eller i tilfelle ut måneden etter barnets død. </p><p class=\"ref-uinnrykk\">Nåværende tredje og fjerde ledd blir nye fjerde og femte ledd. </p><h3>I § 10 tredje ledd annet punktum endres henvisningen til folketrygdloven «§ 19-6» til «§ 19-10». </h3><h3>§ 10 nytt fjerde ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Oppsatt alderspensjon skal levealdersjusteres etter bestemmelsene i § 10 a.</span></p><h3>Ny § 10 a skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon skal levealdersjusteres, det vil si at den enkeltes pensjon justeres for endringer i befolkningens levealder. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Levealdersjustering gjennomføres ved hjelp av forholdstall som fastsettes av Arbeids- og velferdsdirektoratet for årskull fra og med 1943-kullet, jf. folketrygdloven § 19-7. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Alderspensjon skal levealdersjusteres tidligst fra 67 år. Dette gjelder også dersom det er utbetalt alderspensjon fra et tidligere tidspunkt. Pensjonen divideres med forholdstallet som gjelder ved 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom medlemmet fratrer stillingen etter 67 år, skal forholdstallet på fratredelsestidspunktet benyttes. Det skal likevel ikke benyttes lavere forholdstall enn 1,000, slik at pensjonen ved full tjenestetid ikke blir høyere enn 66 pst. av pensjonsgrunnlaget. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ved overgang fra uførepensjon til alderspensjon for medlemmer med aldersgrense høyere enn 67 år, skal alderspensjonen ved aldersgrensen levealdersjusteres med forholdstallet som gjelder ved 67 år. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Når et medlem fratrer stillingen delvis, skal forholdstallet på dette tidspunktet legges til grunn for alderspensjonen for den fratrådte stillingsdelen. Når medlemmet fratrer stillingen helt, skal forholdstallet på dette tidspunktet legges til grunn for alderspensjonen for den resterende stillingsdelen. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Departementet gir forskrifter med nærmere regler om anvendelse av forholdstall.</span></p><h3>Ny § 10 b skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Medlemmer som 1. januar 2011 har 15 år eller mindre igjen til fylte 67 år, skal ha et garantert pensjonsnivå etter reglene i paragrafen her</span>. </p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Garantien gjelder tidligst fra 67 år og anvendes på summen av</span></p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">a)</span><span class=\"ref-italic\">alderspensjonen etter loven her samordnet med alderspensjon fra folketrygden etter lov om samordning av pensjons- og trygdeytelser, og</span></p></li><li><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">b) alderspensjon fra folketrygden.</span></p></li></ul><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">For medlemmer som har 30 års tjenestetid eller mer utgjør det garanterte pensjonsnivået 66 pst. av pensjonsgrunnlaget. For medlemmer som har mindre enn 30 års tjenestetid, jf. § 9 første ledd bokstav b, utgjør det garanterte pensjonsnivået et forholdsmessig beløp.</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom summen av pensjoner etter andre ledd er lavere enn det garanterte pensjonsnivået etter tredje ledd, skal det utbetales et garantitillegg som svarer til differansen mellom det garanterte nivået etter tredje ledd og summen av pensjoner etter andre ledd. Eventuelle forsørgingstillegg holdes utenfor ved beregningen av garantitillegget.</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom alderspensjon etter loven her er tatt ut før eller ved 67 år, skal alderspensjon fra folketrygden som inngår i garantiberegningen etter andre ledd bokstav b, beregnes som basispensjon, jf. folketrygdloven § 19-5 første ledd, dividert med forholdstallet ved 67 år. Eventuelt basispensjonstillegg etter folketrygdloven § 19-9 tredje ledd og tillegg etter folketrygdloven § 19-14 femte ledd regnes med.</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dersom alderspensjon etter loven her er tatt ut etter 67 år, skal alderspensjon fra folketrygden som inngår i garantiberegningen etter andre ledd bokstav b, beregnes som basispensjon dividert med forholdstallet på det tidspunktet medlemmet fratrer med alderspensjon etter loven her. Eventuelt basispensjonstillegg etter folketrygdloven § 19-9 tredje ledd og tillegg etter folketrygdloven § 19-14 femte ledd regnes med. For medlemmer som går over fra uførepensjon til alderspensjon etter loven her senere enn 67 år, benyttes den faktiske alderspensjon fra folketrygden i garantiberegningen.</span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Bestemmelsene i paragrafen her gjelder tilsvarende for oppsatt alderspensjon, likevel slik at tjenestetiden etter tredje ledd fastsettes etter bestemmelsene i § 10.</span></p><h3>§ 15 første ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Uførepensjonen beregnes og utbetales i samsvar med reglene i kapittel IV<span class=\"ref-italic\">, unntatt bestemmelsene i § 10 a om levealdersjustering og § 10 b om garantert pensjonsnivå</span>. </p><h3>§ 39 skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Regulering av alderspensjon under utbetaling foretas ved at pensjonsgrunnlaget reguleres årlig fra 1. mai i samsvar med lønnsveksten og fratrekkes deretter 0,75 pst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Regulering av uførepensjon og enke- og enkemannspensjon under utbetaling foretas ved at pensjonsgrunnlaget reguleres årlig fra 1. mai i samsvar med lønnsveksten fram til fylte 67 år. Deretter reguleres pensjonsgrunnlaget i samsvar med lønnsveksten og fratrekkes deretter 0,75 pst. Bestemmelsen i første ledd andre punktum gjelder tilsvarende ved første regulering etter 67 år. Barnepensjon reguleres etter første punktum i leddet her. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Pensjonsgrunnlaget for medlemmer som fratrer sin stilling med alderspensjon eller avtalefestet pensjon før 67 år, skal omregnes fra måneden etter fylte 67 år ved at det oppreguleres med lønnsveksten fra fratredelsestidspunktet og fram til omregningstidspunktet. Pensjonsgrunnlaget for medlemmer som etter § 7 tredje ledd andre punktum får alderspensjon fra fylte 65 år, skal omregnes på tilsvarende måte. Bestemmelsen i første ledd annet punktum gjelder tilsvarende ved første regulering etter at pensjonsgrunnlaget er omregnet. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Pensjonsgrunnlaget for medlemmer som fratrer sin stilling uten rett til straks å få pensjon etter denne lov eller avtalefestet pensjon fra arbeidsgiver, jf. § 10, reguleres med lønnsveksten fram til tidspunktet det ytes pensjon etter loven her. Når en arbeidstaker har gått over fra et høyere til et lavere samlet pensjonsgrunnlag, jf. § 8 tredje ledd, skal det tidligere grunnlag som har betydning for pensjonsberegningen reguleres tilsvarende. </span></p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ved regulering av pensjoner og pensjonsgrunnlag etter første til tredje ledd benyttes de reguleringsfaktorer Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd.</span></p><h3>I § 20 tredje ledd og § 21 tredje ledd første punktum skal navnet «Statens Pensjonskasse» endres til «Statens pensjonskasse». </h3><h3>IX </h3><p class=\"ref-uinnrykk\">I lov 1. juli 1994 nr. 49 om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjonsordning for apotekvirksomhet mv. skal § 3 første punktum lyde: </p><p class=\"ref-uinnrykk\">Pensjonen beregnes etter tariffavtale som styret i pensjonsordningen har akseptert, og i samsvar med bestemmelsene i lov <span class=\"ref-italic\">om avtalefestet pensjon for medlemmer av Statens pensjonskasse.</span></p><h3>X </h3><p class=\"ref-uinnrykk\">I lov 19. februar 2010 nr. 5 om statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat sektor (AFP-tilskottsloven) § 32 nr. 2 skal endringen i folketrygdloven § 3-19 sjette ledd lyde: </p><p class=\"ref-uinnrykk\">Bestemmelsene i paragrafen her gjelder også for den som mottar <span class=\"ref-italic\">avtalefestet pensjon fra offentlig pensjonsordning før fylte 65 år</span> og avtalefestet pensjon som omfattes av AFP-tilskottsloven § 12. </p><h3>XI </h3><p class=\"ref-uinnrykk\">I følgende bestemmelser skal navnet «Statens Pensjonskasse» endres til «Statens pensjonskasse»: </p><ul class=\"ref-list-strek\"><li><p class=\"ref-uinnrykk\">a. lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder § 9 </p></li><li><p class=\"ref-uinnrykk\">b. lov 9. november 1956 nr. 1 om tillegg til lov om Statens Pensjonskasse av 28. juli 1949 § 1 første ledd </p></li><li><p class=\"ref-uinnrykk\">c. lov 21. desember 1956 nr. 1 om aldersgrenser for offentlige tjenestemenn m.fl. § 1 første og annet ledd og § 5 første ledd første punktum og annet ledd første punktum </p></li><li><p class=\"ref-uinnrykk\">d. lov 3. mai 1957 om pensjonering av fastlønt befal som etter søknad gis avskjed med redusert lønn og tjenesteplikt § 1 første punktum og § 3 </p></li><li><p class=\"ref-uinnrykk\">e. lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter § 6 første ledd og § 10 første og fjerde ledd </p></li><li><p class=\"ref-uinnrykk\">f. lov 21. mai 1982 nr. 25 om tillegg til lov 28. juli 1949 om Statens Pensjonskasse § 1 første ledd </p></li><li><p class=\"ref-uinnrykk\">g. lov 21. mai 1982 nr. 29 om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte del II første og annet ledd </p></li><li><p class=\"ref-uinnrykk\">h. lov 28. februar 1997 nr. 19 om folketrygd § 4-26 bokstav d, § 8-49 første ledd annet punktum og annet ledd og § 14-6 fjerde ledd bokstav c </p></li><li><p class=\"ref-uinnrykk\">i. lov 21. august 1998 nr. 65 om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den Norske Opera § 2 første ledd, § 4 første ledd og § 5 annet ledd </p></li><li><p class=\"ref-uinnrykk\">j. lov 15. januar 1999 nr. 1 om pensjonsordning for ledsagere i utenrikstjenesten § 4 første ledd </p></li><li><p class=\"ref-uinnrykk\">k. lov 12. februar 2010 nr. 4 om pensjonsordning for oppdragstaker i statlig beredskaps- eller familiehjem § 2 første og annet ledd og § 7 første ledd </p></li></ul><h3>XII </h3><p class=\"ref-uinnrykk\">Loven trer i kraft 1. januar 2011.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

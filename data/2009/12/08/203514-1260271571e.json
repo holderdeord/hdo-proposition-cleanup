@@ -1,0 +1,40 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260271571e",
+  "externalIssueId": "44882",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra arbeids- og sosialkomiteen om endringer i folketrygdloven mv. (oppheving av reglene om inntektsprøving for 69-åringer mv.) (Innst. 88 L (2009–2010), jf. Prop. 54 L (2009–2010))",
+  "time": "2009-12-08 20:35:14 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-12-08:1341",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til <p class=\"ref-uinnrykk\">lov  </p><p class=\"ref-uinnrykk\">om endringer i folketrygdloven mv. (oppheving av reglene om inntektsprøving for\n69-åringer mv.) </p><p class=\"ref-uinnrykk\"><h3>I</h3> </p><p class=\"ref-uinnrykk\">I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer: </p><h3>§ 8-12 fjerde ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Til et <span class=\"ref-italic\">medlem mellom</span> 67 og <span class=\"ref-italic\">70</span> år som\n<span class=\"ref-italic\">mottar alderspensjon,</span> ytes sykepenger i 60 sykepengedager, se\n§ 8-51. </p><h3>§ 8-33 tredje ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Feriepengene utgjør 10,2 prosent av de sykepengene som gir rett til feriepenger. For\narbeidstakere som har fylt 59 <span class=\"ref-italic\">år i opptjeningsåret,</span> forhøyes\nprosentsatsen til 12,5. </p><h3>§ 8-51 skal lyde: </h3><p class=\"ref-uinnrykk\">§ 8-51 Medlem med alderspensjon </p><p class=\"ref-uinnrykk\">Det ytes ikke sykepenger til et medlem som <span class=\"ref-italic\">mottar\nalderspensjon</span> etter kapittel 19. Til et medlem mellom 67 og <span class=\"ref-italic\">70</span> år som <span class=\"ref-italic\">mottar alderspensjon,</span> ytes det likevel\nsykepenger etter bestemmelsene i kapitlet her dersom inntektsgrunnlaget overstiger to\nganger grunnbeløpet. </p><p class=\"ref-uinnrykk\">Når trygden yter sykepenger, fastsettes sykepengegrunnlaget ut fra den arbeidsinntekten\nsom medlemmet har i tillegg til pensjonen. </p><p class=\"ref-uinnrykk\">Sykepenger fra trygden ytes i opptil 60 <span class=\"ref-italic\">sykepengedager.</span></p><h3>§ 9-6 femte ledd første punktum skal lyde: </h3><p class=\"ref-uinnrykk\">Selv om den ene av foreldrene er alene om den daglige omsorgen, kan <span class=\"ref-italic\">stønadsdagene fordeles</span> mellom foreldrene i forhold til omfanget av avtalt\nsamvær. </p><h3>§ 15-7 første ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Årlig overgangsstønad utgjør <span class=\"ref-italic\">to</span> ganger grunnbeløpet. </p><h3>§ 19-4 andre og tredje ledd oppheves. </h3><p class=\"ref-uinnrykk\">§ 19-6 andre, tredje og fjerde ledd oppheves. </p><h3>§ 21-4 c femte ledd skal lyde: </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Reglene om bevisfritak i tvisteloven §§ 22-8 og 22-9</span> gjelder\ntilsvarende ved anvendelsen av bestemmelsene i § 21-4 og § 21-4 a første ledd. </p><h3>§ 21-12 nytt femte og sjette ledd skal lyde: </h3><p class=\"ref-uinnrykk\">Fristen for klage og anke er seks uker, også i saker som nevnt i fjerde ledd. </p><p class=\"ref-uinnrykk\">Et vedtak etter folketrygdloven kan ikke bringes inn for de alminnelige domstolene før\nmulighetene til å klage og anke er nyttet fullt ut. </p><h3>III </h3><p class=\"ref-uinnrykk\">I lov 19. desember 2008 nr. 106 om endringer i folketrygdloven og i enkelte andre lover\n(arbeidsavklaringspenger, arbeidsevnevurderinger og aktivitetsplaner) avsnitt I skal\nandre ledd i endringen av folketrygdloven § 11-16 lyde: </p><p class=\"ref-uinnrykk\">Minste årlige ytelse er <span class=\"ref-italic\">to</span> ganger grunnbeløpet. </p><h3>IV </h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ikrafttredelse</span></p><p class=\"ref-uinnrykk\">Endringene i folketrygdloven §§ 9-6, 21-4 c og 21-12 trer i kraft straks. Endringene i\nfolketrygdloven § 15-7 og i lov 19. desember 2008 nr. 106 om endringer i folketrygdloven\nmv. § 11-16 trer i kraft 1. mai 2010. De øvrige endringene trer i kraft 1. januar 2010.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-12-08:1342",
+      "description": "Lovens overskrift og loven i sin helhet",
+      "onBehalfOf": "",
+      "body": "Det voteres over lovens overskrift og loven i sin helhet.",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

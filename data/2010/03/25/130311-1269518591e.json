@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1269518591e",
+  "externalIssueId": "45556",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-03-25 13:03:11 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker til godkjennelse av EØS-komiteens beslutning nr.\n160/2009 av 4.&nbsp;desember 2009 om innlemmelse i EØS-avtalen av <span\nclass=SpellE>rådsforordning</span> nr. 2062/94 om opprettelse av et europeisk\nkontor for sikkerhet og helse på arbeidsplassen (Bilbao-kontoret).<o:p></o:p></span><BR>\n</div>\n</FONT>",
+      "externalId": "63:11:225",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

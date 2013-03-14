@@ -1,0 +1,41 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260530944e",
+  "externalIssueId": "44710",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra kommunal- og forvaltningskomiteen om endringer i lov om Statens Pensjonskasse, lov om pensjonsordning for apotekvirksomhet mv. og lov om pensjonsordning for sykepleiere (tidsbegrenset unntak fra avkortingsregler) (Innst. 79 L (2009–2010), jf. Prop. 34 L (2009–2010))",
+  "time": "2009-12-11 14:13:02 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2009-12-11:1497",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\n<p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om endringer i lov om Statens Pensjonskasse, lov om pensjonsordning for apotekvirksomhet mv. og lov om pensjonsordning for sykepleiere (tidsbegrenset unntak fra avkortingsregler)\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 28. juli 1949 nr. 26 om Statens Pensjonskasse skal § 26 nytt sjette ledd lyde:\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Løpende alderspensjon faller likevel ikke bort eller reduseres etter tredje ledd ved beordret tjeneste i forbindelse med influensa A (H1N1), jf. lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap § 1-3 bokstav a til c. Frivillig tjeneste i offentlig helsetjeneste som er nødvendig for å møte et ekstraordinært personellbehov i forbindelse med influensa A (H1N1), likestilles med beordret tjeneste.</span></p><h3>II\n</h3><p class=\"ref-uinnrykk\">I lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. skal § 7 nr. 1 nytt femte og sjette punktum lyde:\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Løpende alderspensjon faller likevel ikke bort eller reduseres ved beordret tjeneste i forbindelse med influensa A (H1N1), jf. lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap § 1-3 bokstav a til c. Frivillig tjeneste i offentlig helsetjeneste som er nødvendig for å møte et ekstraordinært personellbehov i forbindelse med influensa A (H1N1), likestilles med beordret tjeneste.</span></p><h3>III\n</h3><p class=\"ref-uinnrykk\">I lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere skal § 11 tredje ledd nytt andre og tredje punktum lyde:\n</p><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Dette gjelder likevel ikke ved beordret tjeneste i forbindelse med influensa A (H1N1), jf. lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap § 1-3 bokstav a til c. Frivillig tjeneste i offentlig helsetjeneste som er nødvendig for å møte et ekstraordinært personellbehov i forbindelse med influensa A (H1N1), likestilles med beordret tjeneste.</span></p><h3>IV\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Ikraftsetting og opphevelse</span></p><p class=\"ref-uinnrykk\">Loven her trer i kraft straks, med virkning fra og med 1. oktober 2009. Lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 26 nytt sjette ledd, lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. § 7 nr. 1 nytt femte og sjette punktum og lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere § 11 tredje ledd nytt andre og tredje punktum opphører å gjelde 1. juli 2010.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    },
+    {
+      "kind": "hdo#propositions",
+      "body": "Det voteres over lovens overskrift og loven i sin helhet.",
+      "description": "Lovens overskrift og loven i sin helhet",
+      "externalId": "4e252ffb7c354f4b41f792d58b7fbe37",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Daniel",
+        "createdBy": "Daniel",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

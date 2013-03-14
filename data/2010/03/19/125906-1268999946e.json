@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1268999946e",
+  "externalIssueId": "44394",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Lovens overskrift og loven i sin helhet",
+  "time": "2010-03-19 12:59:06 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "externalId": "2010-03-19:1753",
+      "description": "Komiteens tilråding",
+      "onBehalfOf": "",
+      "body": "Komiteen hadde innstilt til Stortinget å gjøre slikt vedtak til\n<p class=\"ref-uinnrykk\">lov</p><p class=\"ref-uinnrykk\">om endringer i arbeidsmiljøloven og folketrygdloven (bedre muligheter for å kombinere arbeid med pleie- og omsorgsoppgaver)\n</p><p class=\"ref-uinnrykk\">I\n</p><p class=\"ref-uinnrykk\">I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. gjøres følgende endringer:\n</p><h3>Overskriften i § 12-10 skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Omsorg for og pleie av nære pårørende</span></p><h3>§ 12-10 første ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\">Arbeidstaker som pleier nære pårørende i hjemmet i livets sluttfase har rett til permisjon i <span class=\"ref-italic\">60 </span>dager for pleie av den enkelte pårørende.\n</p><h3>§ 12-10 nytt andre ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Arbeidstaker har rett til permisjon i inntil 10 dager hvert kalenderår for å gi nødvendig omsorg til foreldre, ektefelle, samboer eller registrert partner. Det samme gjelder ved nødvendig omsorg for funksjonshemmet eller kronisk sykt barn fra og med kalenderåret etter at barnet fylte 18 år når arbeidstakeren har hatt slik omsorg for barnet som nevnt i § 12-9 tredje ledd. Departementet kan gi forskrift om dokumentasjon av nødvendig omsorg.</span></p><h3>II\n</h3><p class=\"ref-uinnrykk\">I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:\n</p><h3>§ 6-5 nytt fjerde ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Foreldre med ansvar for tilsyn og pleie av barn som har mottatt forhøyet hjelpestønad i minst tre år gis rett til stønad med samme sats i tre måneder etter at behovet for tilsyn og pleie har opphørt fordi barnet dør.</span></p><h3>§ 9-11 nytt fjerde ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\"><span class=\"ref-italic\">Den som har mottatt fulle pleiepenger i minst tre år har rett til fortsatt ytelse i inntil tre måneder etter at pleieforholdet har opphørt fordi barnet dør. Ved eventuell arbeidsinntekt i denne perioden ytes graderte pleiepenger etter reglene i § 9-11a.</span></p><h3>§ 9-12 første ledd skal lyde:\n</h3><p class=\"ref-uinnrykk\">Til medlem som i hjemmet pleier en nær pårørende i livets sluttfase, ytes det pleiepenger i opptil <span class=\"ref-italic\">60</span> dager for hver pasient.\n</p><h3>III\n</h3><p class=\"ref-uinnrykk\">Loven gjelder fra den tid Kongen bestemmer.</p>",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1274786467e",
+  "externalIssueId": "46052",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-05-25 13:20:16 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker til å sette i kraft en endringsprotokoll til\nskatteavtalen mellom Norge og Nederland for så vidt angår De nederlandske <span\nclass=SpellE>Antiller</span>, undertegnet i Paris 10.&nbsp;september 2009.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "81:7:269",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Vegard"
+      }
+    }
+  ]
+}

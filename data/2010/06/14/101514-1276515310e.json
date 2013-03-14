@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1276515310e",
+  "externalIssueId": "45569",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling frå utenriks- og forsvarskomiteen om Noregs deltaking i den 64. ordinære generalforsamlinga i Dei sameinte nasjonane (FN) og vidareførte sesjonar av den 63. generalforsamlinga i FN",
+  "time": "2010-06-14 10:15:14 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Meld. St. 16 (2009-2010) - om Noregs deltaking i den 64. ordinære\ngeneralforsamlinga i <span class=SpellE>Dei</span> sameinte <span class=SpellE>nasjonane</span>\n(FN) og <span class=SpellE>vidareførte</span> <span class=SpellE>sesjonar</span>\nav den 63.&nbsp;generalforsamlinga i FN - vedlegges protokollen.<o:p></o:p></span><BR>\n</div>\n</FONT>",
+      "externalId": "95:10:343",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

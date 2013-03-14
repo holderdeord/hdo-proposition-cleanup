@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1259839387e",
+  "externalIssueId": "44078",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra justiskomiteen om samtykke til godtakelse av rammebeslutning 2008/977/JIS om personvern i forbindelse med politi- og strafferettssamarbeid (videreutvikling av Schengen-regelverket)",
+  "time": "2009-12-03 16:23:21 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Stortinget samtykker i godtakelse av rammebeslutning 2008/977/JIS om\npersonvern i forbindelse med politi- og strafferettssamarbeid (videreutvikling\nav Schengen-regelverket).<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "23:7:50",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}

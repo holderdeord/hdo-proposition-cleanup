@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1269345664e",
+  "externalIssueId": "45267",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens tilråding",
+  "time": "2010-03-23 13:01:04 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr align=left style='text-align:left;text-indent:0cm'><span\nstyle='mso-font-width:100%'>Dokument 8:41 S (2009-2010) - representantforslag\nfra stortingsrepresentantene Per Arne Olsen, Harald T. Nesvik og Christian <span\nclass=SpellE>Tybring-Gjedde</span> vedrørende skattefritak for\narbeidsgiverbetalte behandlingsforsikringer og treningskort - vedlegges\nprotokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "61:4:214",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

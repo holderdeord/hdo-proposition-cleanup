@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1267530606e",
+  "externalIssueId": "44561",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Komiteens innstilling om representantforslag fra stortingsrepresentantene Laila Dåvøy, Dagfinn Høybråten og Hans Olav Syversen om plan for livshjelp",
+  "time": "2010-03-02 12:50:06 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>Dokument 8:11 S (2009-2010) - representantforslag fra\nstortingsrepresentantene Laila <span class=SpellE>Dåvøy</span>, Dagfinn\nHøybråten og Hans Olav Syversen om plan for <span class=SpellE>livshjelp</span>\n- vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "50:6:175",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Hanna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1260876669e",
+  "externalIssueId": "42488",
+  "counts": {
+    "for": 0,
+    "against": 0,
+    "absent": 0
+  },
+  "personal": false,
+  "enacted": true,
+  "subject": "Innstilling fra næringskomiteen om klimautfordringene – landbruket en del av løsningen",
+  "time": "2009-12-15 12:31:09 +0100",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Komiteens tilråding",
+      "body": "<FONT SIZE=2>\n<div class=Section1>\n<p class=brodtekstminnr style='text-indent:0cm'><span style='mso-font-width:\n100%'>St.meld. nr. 39 (2008-2009) - om klimautfordringene - landbruket en del\nav løsningen - vedlegges protokollen.<o:p></o:p></span><BR>\n<p class=MsoNormal><o:p>&nbsp;</o:p><BR>\n</div>\n</FONT>",
+      "externalId": "31:9:137",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Daniel"
+      }
+    }
+  ]
+}
