@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-05-10 19:43:58 +0200:1",
+  "externalIssueId": "45158",
+  "counts": {},
+  "personal": true,
+  "enacted": true,
+  "subject": "Det voteres alternativt mellom forlsaget fra Fremskrittspartiet, Høyre og Kristelig Folkeparti og komiteens innstilling",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-05-10 19:43:58 +0200",
+  "representatives": [],
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "Dokument 8:37 S (2009–2010) – representantforslag fra stortingsrepresentantene Gunnar Gundersen, Anders B. Werp, Frank Bakke Jensen, Svein Harberg, Lars Myraune og Torbjørn Røe Isaksen om inngrepsfrie naturområder – vedlegges protokollen.",
+      "description": "Komiteens innstilling",
+      "externalId": "db8bc3f194c2e94392acb15a68368eb5",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Jari",
+        "createdBy": "Jari",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

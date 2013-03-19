@@ -1,0 +1,24 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "1275478022e",
+  "externalIssueId": "45520",
+  "counts": {},
+  "personal": true,
+  "enacted": true,
+  "subject": "Forslag fra Magne Rommetveit på vegne av Arbeiderpartiet, Sosialistisk Venstreparti og Senterpartiet.",
+  "time": "2010-06-01 12:37:27 +0200",
+  "propositions": [
+    {
+      "kind": "hdo#proposition",
+      "description": "Forslag fra Magne Rommetveit på vegne av Arbeiderpartiet, Sosialistisk Venstreparti og Senterpartiet.",
+      "body": "<p class=\"ref-uinnrykk\">I\n</p><blockquote><p class=\"ref-uinnrykk\">Stortingets vedtak 31. mai 2010 ved behandlingen av Innst. 275 S (2009–2010) fra transport- og kommunikasjonskomiteen om håndteringen av ubåten U-864 – oppheves.\n</p><p class=\"ref-uinnrykk\">II\n</p><p class=\"ref-uinnrykk\">I statsbudsjettet for 2010 gjøres følgende endring:\n</p></blockquote><table class=\"ref-table\"><tbody><tr><td class=\"ref-cell\">Kap.</td><td class=\"ref-cell\">Post</td><td class=\"ref-cell\">Formål</td><td class=\"ref-cell\">Kroner</td></tr><tr><td class=\"ref-cell\">1062</td><td class=\"ref-cell\"></td><td class=\"ref-cell\">Kystverket:</td><td class=\"ref-cell\"></td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\">21</td><td class=\"ref-cell\">Spesielle driftsutgifter, <span class=\"ref-italic\">nedsettes</span> med</td><td class=\"ref-cell\">620 000 000</td></tr><tr><td class=\"ref-cell\"></td><td class=\"ref-cell\"></td><td class=\"ref-cell\">fra kr 740 700 000 kroner til kr 120 700 000»</td><td class=\"ref-cell\"></td></tr></tbody></table>",
+      "externalId": "32aa61ed33b0ede942ad4683af099e9f",
+      "onBehalfOf": "",
+      "editing": false,
+      "metadata": {
+        "status": "approved",
+        "username": "Jari"
+      }
+    }
+  ]
+}

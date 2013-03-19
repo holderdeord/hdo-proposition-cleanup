@@ -1,0 +1,29 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-06-15 22:48:02 +0200:1",
+  "externalIssueId": "46987",
+  "counts": {},
+  "personal": true,
+  "enacted": false,
+  "subject": "Forslag fra stortingsrepresentant Arne Sortevik på vegne av Fremskrittspartiet fremsatt i Stortingets møte  10. juni 2010",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-06-15 22:48:02 +0200",
+  "representatives": [
+  ],
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "«Stortinget ber regjeringen komme tilbake til Stortinget med forslag til implementering av forordning (EF) nr. 1370/2007 av 23. oktober 2007 i lovs form, dvs. ikke gjennom forskriftshjemler som i Prop. 113 L (2009-2010). Stortinget ber regjeringen i lovforslaget legge til grunn et positivt syn på konkurranse der forordningen også gjøres gjeldende for sjøtransport og skinnebasert transport»",
+      "description": "Forslag fra stortingsrepresentant Arne Sortevik på vegne av Fremskrittspartiet",
+      "externalId": "83ff25f3c572aba12bed7f393cb88417",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Jari",
+        "createdBy": "Jari",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

@@ -25,19 +25,24 @@ def reverse_positions(results)
   end
 end
 
-all_votes = votes.map do |time, votes|
+all_votes = votes.flat_map do |time, votes|
+  votes.each do |v|
+    if Array(v['propositions']).empty?
+      raise "missing props: #{v['time']} @ #{v['url']}"
+    end
+  end
+
   case votes.size
   when 2
     reps = results.delete(time)
 
-    if bad = votes.find { |e| not e['personal'] }
-      print 'X'
-      next
-      # raise "non-personal alternate vote! #{bad['url']}"
-    end
-    $stderr.print 'A'
-
     enacted, not_enacted = votes.partition { |e| e['enacted'] }.map(&:first)
+
+    if !enacted['personal'] || !not_enacted['personal']
+      $stderr.puts "non-personal alternate vote, fixing"
+      enacted['personal'] = true
+      not_enacted['personal'] = true
+    end
 
     counts = count_votes(reps)
     if counts['for'] > counts['against']

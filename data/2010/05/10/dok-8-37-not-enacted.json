@@ -1,0 +1,28 @@
+{
+  "kind": "hdo#vote",
+  "externalId": "2010-05-10 19:43:58 +0200:2",
+  "externalIssueId": "45158",
+  "counts": {},
+  "personal": true,
+  "enacted": false,
+  "subject": "Det voteres alternativt mellom forslaget fra Fremskrittspartiet, Høyre og Kristelig Folkeparti og komiteens innstilling",
+  "method": "ikke_spesifisert",
+  "resultType": "ikke_spesifisert",
+  "time": "2010-05-10 19:43:58 +0200",
+  "representatives": [],
+  "propositions": [
+    {
+      "kind": "hdo#propositions",
+      "body": "Stortinget ber regjeringen fremme en sak for Stortinget, som både drøfter og fremmer forslag til konklusjoner, knyttet til blant annet hvordan inngrepsfrie naturområder – INON – bør defineres i Norge basert på norsk natur og kulturhistorie, hvilke tekniske tiltak som skal definere INON, hvilke kategorier INON bør ha, hvilken vekt INON med eventuelle kategorier skal ha i forhold til andre samfunnshensyn og på hvilken måte forvaltningen skal tillegge INON relevans og vekt ved avgjørelse av enkeltsaker.",
+      "description": "Forslag fra Oskar Jarle Grimstad satt fram et forslag på vegne av Fremskrittspartiet, Høyre og Kristelig Folkeparti",
+      "externalId": "fcc525359c89016da0049c5ffa77db1c",
+      "onBehalfOf": "",
+      "metadata": {
+        "username": "Jari",
+        "createdBy": "Jari",
+        "status": "approved"
+      },
+      "editing": false
+    }
+  ]
+}

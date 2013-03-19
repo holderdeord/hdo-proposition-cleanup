@@ -3172,7 +3172,20 @@
     }
   ],
   "propositions": [
-
+    {
+       "kind": "hdo#propositions",
+       "body": "Stortinget ber Regjeringen foreta en helhetlig gjennomgang av avfallspolitikken, og fremme denne for Stortinget på en egnet måte i løpet av 2010.",
+       "description": "Forslag nr 1 på vegne av Fremskrittspartiet, Høyre og Kristelig Folkeparti",
+       "externalId": "19732d7ab241660ebbb57bfa0176c85e",
+       "onBehalfOf": ""
+    },
+    {
+       "kind": "hdo#propositions",
+       "body": "Stortinget ber Regjeringen, i forbindelse med Revidert nasjonalbudsjett for 2010, fremme forslag om å fjerne sluttbehandlingsavgiften på avfall for avfall som forbrennes.",
+       "description": "Forslag nr 2 på vegne av Fremskrittspartiet, Høyre og Kristelig Folkeparti",
+       "externalId": "ca8325a71f7e70be0ccca122bd126c60",
+       "onBehalfOf": ""
+    }
   ],
   "splitBy": "Vegard"
 }
