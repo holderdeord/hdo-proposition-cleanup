@@ -30,6 +30,10 @@ all_votes = votes.flat_map do |time, votes|
     if Array(v['propositions']).empty?
       raise "missing props: #{v['time']} @ #{v['url']}"
     end
+
+    if v['subject'].size > 255
+      raise "subject is too long @ #{v['url']}"
+    end
   end
 
   case votes.size
