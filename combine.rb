@@ -27,9 +27,18 @@ end
 
 all_votes = votes.flat_map do |time, votes|
   votes.each do |v|
-    if Array(v['propositions']).empty?
+    props = Array(v['propositions'])
+
+    if props.empty?
       raise "missing props: #{v['time']} @ #{v['url']}"
     end
+
+    props.each do |prop|
+      if prop['metadata'] && prop['metadata']['status'] != 'approved'
+        raise "not approved #{v['url']}: #{prop['metadata'].inspect}"
+      end
+    end
+
 
     if v['subject'].size > 255
       raise "subject is too long @ #{v['url']}"
