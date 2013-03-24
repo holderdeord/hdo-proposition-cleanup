@@ -37,6 +37,10 @@ all_votes.each do |time, votes|
       if prop['metadata'] && prop['metadata']['status'] != 'approved'
         raise "not approved #{v['url']}: #{prop['metadata'].inspect}"
       end
+
+      if prop['body'].nil? || prop['body'].strip.empty?
+        raise "no proposition body: #{v['url']}"
+      end
     end
 
 
