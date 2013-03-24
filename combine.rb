@@ -7,7 +7,7 @@ $stderr.puts "Reading results"
 results = JSON.parse(File.read("vote-results.2009-2010.json"))
 
 $stderr.puts "Reading votes"
-votes = Dir['data/**/*.json'].map { |file| JSON.parse(File.read(file)).merge('url' => file) }.group_by { |v| v['time'] }
+all_votes = Dir['data/**/*.json'].map { |file| JSON.parse(File.read(file)).merge('url' => file) }.group_by { |v| v['time'] }
 
 def count_votes(results)
   Hash.new(0).tap do |counts|
@@ -25,7 +25,7 @@ def reverse_positions(results)
   end
 end
 
-all_votes = votes.flat_map do |time, votes|
+all_votes.each do |time, votes|
   votes.each do |v|
     props = Array(v['propositions'])
 
@@ -91,15 +91,16 @@ all_votes = votes.flat_map do |time, votes|
   votes
 end
 
+final_votes = all_votes.values.flatten
 
-puts "\ntotal votes: #{all_votes.size}"
+puts "\ntotal votes: #{final_votes.size}"
 
 if results.any?
   raise "found #{results.size} unused votes at #{results.keys.inspect}"
 end
 
 f = File.open("votes.2009-2010.json", "w") do |io|
-  io << all_votes.compact.to_json
+  io << final_votes.to_json
 end
 
 p f
